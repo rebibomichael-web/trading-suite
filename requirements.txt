@@ -1,0 +1,8 @@
+flask
+gunicorn
+yfinance
+pandas
+numpy
+requests
+beautifulsoup4
+lxml

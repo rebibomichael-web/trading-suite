@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trading Suite</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: Arial, sans-serif; background: #1a1a2e; color: #eee; font-size: 13px; }
+  header { background: #16213e; padding: 10px 16px; display: flex; align-items: center; gap: 12px; border-bottom: 2px solid #4A90E2; flex-wrap: wrap; }
+  header h1 { font-size: 16px; color: #4A90E2; }
+  .tabs { display: flex; gap: 4px; }
+  .tab { padding: 6px 16px; border-radius: 6px 6px 0 0; cursor: pointer; background: #2d2d44; color: #aaa; border: none; font-size: 13px; }
+  .tab.active { background: #4A90E2; color: white; font-weight: bold; }
+  .status { margin-left: auto; font-size: 11px; color: #888; }
+  .alert-bar { background: #2C3E50; padding: 8px 16px; font-size: 12px; color: white; min-height: 32px; }
+  .alert-bar .s3 { color: #ff6b6b; font-weight: bold; }
+  .alert-bar .s2 { color: #ffd93d; font-weight: bold; }
+  .legend { background: #1a1a2e; border-top: 1px solid #333; padding: 7px 16px; font-size: 11px; color: #A0C4FF; }
+  .panel { display: none; }
+  .panel.active { display: block; }
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; white-space: nowrap; }
+  th { background: #4A90E2; color: white; padding: 8px 10px; text-align: center; position: sticky; top: 0; font-size: 12px; }
+  td { padding: 7px 10px; text-align: center; border-bottom: 1px solid #2a2a3e; font-size: 12px; }
+  tr.even { background: #1e1e30; }
+  tr.odd  { background: #22223a; }
+  tr.s3-alert { background: #3d1a1a !important; }
+  tr.s2-alert { background: #3d3010 !important; }
+  tr.strong   { background: #1a3d1a !important; }
+  .arrow { color: #ffd93d; font-weight: bold; }
+  .sig-s3 { color: #ff6b6b; font-weight: bold; }
+  .sig-s2 { color: #ffd93d; font-weight: bold; }
+  .sig-strong { color: #00cc66; font-weight: bold; }
+  .sig-monitor { color: #aaa; }
+  .detail-box { background: #16213e; border-top: 2px solid #4A90E2; padding: 12px 16px; font-family: monospace; font-size: 12px; color: #ccc; white-space: pre-wrap; min-height: 60px; }
+  .refresh-btn { background: #4A90E2; color: white; border: none; padding: 6px 14px; border-radius: 4px; cursor: pointer; font-size: 12px; margin: 8px 16px; }
+  .refresh-btn:hover { background: #357abd; }
+  .loading { text-align: center; padding: 40px; color: #888; font-size: 14px; }
+  .placeholder { margin: 40px auto; max-width: 640px; background: #16213e; border: 1px dashed #4A90E2; border-radius: 10px; padding: 28px 32px; color: #cfe3ff; line-height: 1.6; }
+  .placeholder h2 { color: #4A90E2; margin-bottom: 10px; font-size: 18px; }
+  .placeholder code { background: #0f1626; padding: 2px 6px; border-radius: 4px; color: #ffd93d; font-family: monospace; }
+  @media (max-width: 600px) { td, th { font-size: 11px; padding: 5px 6px; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>📊 Trading Suite</h1>
+  <div class="tabs">
+    <button class="tab active" onclick="showTab('leap')">🎯 LEAP</button>
+    <button class="tab" onclick="showTab('swing')">🌊 Swing</button>
+    <button class="tab" onclick="showTab('journal')">📓 Journal</button>
+  </div>
+  <span class="status" id="status">Loading…</span>
+</header>
+
+<!-- LEAP PANEL -->
+<div class="panel active" id="panel-leap">
+  <div class="alert-bar" id="leap-alerts">⚡ Loading LEAP data…</div>
+  <div class="legend">
+    📊 <b>Prem Effcncy</b> = cents paid per $1 of stock (lower is better) &nbsp;&nbsp;
+    ⚡ <b>Leverage</b> = dollars of stock controlled per $1 spent (higher is better)
+  </div>
+  <button class="refresh-btn" onclick="refreshLeap()">🔄 Refresh LEAP Data</button>
+  <div class="table-wrap">
+    <table id="leap-table">
+      <thead><tr>
+        <th>Ticker</th><th>Price</th><th>52W High</th><th>% from 52W</th>
+        <th>Prem Effcncy</th><th>Leverage</th>
+        <th>Weekly S2</th><th>Weekly S3</th><th>vs S2</th><th>vs S3</th>
+        <th>Furthest Exp</th><th>Furthest Prem</th>
+        <th>LEAP Score /15</th><th>Signal</th>
+      </tr></thead>
+      <tbody id="leap-body"><tr><td colspan="14" class="loading">Loading LEAP data (may take 1-2 min)…</td></tr></tbody>
+    </table>
+  </div>
+  <div class="detail-box" id="leap-detail">Click any row to see the LEAP breakdown.</div>
+</div>
+
+<!-- SWING PANEL -->
+<div class="panel" id="panel-swing">
+  <div id="swing-content"><div class="loading">Loading…</div></div>
+</div>
+
+<!-- JOURNAL PANEL -->
+<div class="panel" id="panel-journal">
+  <div id="journal-content"><div class="loading">Loading…</div></div>
+</div>
+
+<script>
+let leapData = [];
+
+function showTab(tab) {
+  document.querySelectorAll('.panel').forEach(p => p.classList.remove('active'));
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.getElementById('panel-' + tab).classList.add('active');
+  event.target.classList.add('active');
+}
+
+function signalClass(sig) {
+  if (sig.includes('S3')) return 'sig-s3';
+  if (sig.includes('S2')) return 'sig-s2';
+  if (sig.includes('STRONG')) return 'sig-strong';
+  if (sig.includes('MONITOR')) return 'sig-monitor';
+  return '';
+}
+function rowClass(sig, score) {
+  if (sig.includes('S3')) return 's3-alert';
+  if (sig.includes('S2')) return 's2-alert';
+  if (score >= 12) return 'strong';
+  return '';
+}
+
+function loadLeap() {
+  fetch('/api/leap').then(r => r.json()).then(d => {
+    leapData = d.data || [];
+    const body = document.getElementById('leap-body');
+    if (d.loading || !leapData.length) {
+      body.innerHTML = '<tr><td colspan="14" class="loading">⏳ Scanning options data… (1-2 min)</td></tr>';
+      setTimeout(loadLeap, 5000);
+      return;
+    }
+    const alerts = leapData.filter(r => r.signal.includes('S3') || r.signal.includes('S2'));
+    document.getElementById('leap-alerts').innerHTML = alerts.length
+      ? '⚡ ALERTS: ' + alerts.map(r => `<span class="${r.signal.includes('S3') ? 's3' : 's2'}">${r.signal.includes('S3') ? '🔴' : '🟡'} ${r.signal}: ${r.ticker}</span>`).join(' &nbsp;|&nbsp; ')
+      : '⚡ No S2/S3 alerts at this time';
+    body.innerHTML = leapData.map((r, i) => {
+      const cls = rowClass(r.signal, r.score);
+      const rowCls = cls || (i % 2 === 0 ? 'even' : 'odd');
+      const vs2 = r.vs_s2 != null ? (r.vs_s2 > 0 ? '+' : '') + r.vs_s2 + (r.closest === 's2' ? ' <span class="arrow">◄</span>' : '') : 'N/A';
+      const vs3 = r.vs_s3 != null ? (r.vs_s3 > 0 ? '+' : '') + r.vs_s3 + (r.closest === 's3' ? ' <span class="arrow">◄</span>' : '') : 'N/A';
+      const fl = r.furthest;
+      return `<tr class="${rowCls}" onclick="showLeapDetail(${i})" style="cursor:pointer">
+        <td><b>${r.ticker}</b></td><td>$${r.price}</td>
+        <td>${r.w52h ? '$'+r.w52h : 'N/A'}</td><td>${r.pct_52w != null ? r.pct_52w : 'N/A'}</td>
+        <td>${r.prem_pct != null ? r.prem_pct : 'N/A'}</td><td>${r.leverage != null ? r.leverage : 'N/A'}</td>
+        <td>${r.ws2 ? '$'+r.ws2 : 'N/A'}</td><td>${r.ws3 ? '$'+r.ws3 : 'N/A'}</td>
+        <td>${vs2}</td><td>${vs3}</td>
+        <td>${fl ? fl.exp : 'N/A'}</td><td>${fl ? '$'+fl.premium : 'N/A'}</td>
+        <td><b>${r.score} / 15</b></td>
+        <td class="${signalClass(r.signal)}">${r.signal}</td>
+      </tr>`;
+    }).join('');
+    document.getElementById('status').textContent = 'LEAP updated: ' + (d.updated || '—');
+  }).catch(() => setTimeout(loadLeap, 8000));
+}
+
+function showLeapDetail(idx) {
+  const r = leapData[idx];
+  if (!r) return;
+  const leap = r.leap, fl = r.furthest, bd = r.breakdown || {};
+  const line = '─'.repeat(55);
+  let txt = line + '\n';
+  txt += `  ${r.ticker}   |   Price: $${r.price}   |   52W High: $${r.w52h}   |   From 52W: ${r.pct_52w}\n`;
+  txt += line + '\n';
+  if (leap) {
+    txt += `  Best LEAP:   $${leap.strike} Call  |  Expiry: ${leap.exp}  |  DTE: ${leap.dte} days\n`;
+    txt += `  Premium:     $${leap.premium}  |  Prem/Price: ${r.prem_pct}  |  Leverage: ${r.leverage}x\n`;
+    txt += `  IV:          ${leap.iv ? leap.iv + '%' : 'N/A'}\n`;
+  }
+  if (fl) {
+    txt += line + '\n';
+    txt += `  Furthest LEAP: $${fl.strike} Call  |  Expiry: ${fl.exp}  |  DTE: ${fl.dte} days\n`;
+    txt += `  Furthest Premium: $${fl.premium}\n`;
+  }
+  txt += line + '\n';
+  txt += `  Weekly S2: $${r.ws2}  (${r.vs_s2 > 0 ? '+' : ''}${r.vs_s2} from price)\n`;
+  txt += `  Weekly S3: $${r.ws3}  (${r.vs_s3 > 0 ? '+' : ''}${r.vs_s3} from price)\n`;
+  txt += line + '\n';
+  txt += `  SCORE BREAKDOWN:\n`;
+  txt += `    ATH Drawdown:    ${bd['ATH Drawdown'] || 0}/3\n`;
+  txt += `    Prem Efficiency: ${bd['Prem Efficiency'] || 0}/3\n`;
+  txt += `    Leverage:        ${bd['Leverage'] || 0}/3\n`;
+  txt += `    Time Horizon:    ${bd['Time Horizon'] || 0}/3\n`;
+  txt += `    S2/S3 Level:     ${bd['S2/S3 Level'] || 0}/3\n`;
+  txt += `    ${'─'.repeat(20)}\n`;
+  txt += `    TOTAL:           ${r.score}/15   ${r.signal}\n`;
+  txt += line;
+  document.getElementById('leap-detail').textContent = txt;
+}
+
+function refreshLeap() {
+  document.getElementById('leap-body').innerHTML = '<tr><td colspan="14" class="loading">⏳ Refreshing…</td></tr>';
+  fetch('/api/refresh/leap', {method: 'POST'}).then(() => setTimeout(loadLeap, 3000));
+}
+
+// Generic renderer for Journal / Swing until real code is wired in.
+function loadGeneric(name) {
+  fetch('/api/' + name).then(r => r.json()).then(d => {
+    const el = document.getElementById(name + '-content');
+    if (d.status === 'not_yet_implemented' || !d.data || !d.data.length) {
+      const title = name.charAt(0).toUpperCase() + name.slice(1);
+      el.innerHTML = `<div class="placeholder">
+        <h2>${title} — not wired up yet</h2>
+        Drop your existing <b>${name}</b> code into the <code>${name}/</code> folder and expose a
+        <code>get_data()</code> function that returns a list of dicts (one per row).
+        This tab renders it automatically — no other changes needed.<br><br>
+        See <code>${name}/README.md</code> for the two-line contract, or ask Claude in the
+        <code>trading-suite</code> session to migrate it for you.
+      </div>`;
+      return;
+    }
+    const cols = Object.keys(d.data[0]);
+    const head = '<tr>' + cols.map(c => `<th>${c}</th>`).join('') + '</tr>';
+    const rows = d.data.map((row, i) => `<tr class="${i % 2 === 0 ? 'even' : 'odd'}">` +
+      cols.map(c => `<td>${row[c] != null ? row[c] : ''}</td>`).join('') + '</tr>').join('');
+    el.innerHTML = `<div class="table-wrap"><table><thead>${head}</thead><tbody>${rows}</tbody></table></div>`;
+  }).catch(() => {
+    document.getElementById(name + '-content').innerHTML = '<div class="loading">Could not load ' + name + '.</div>';
+  });
+}
+
+loadLeap();
+loadGeneric('swing');
+loadGeneric('journal');
+setInterval(() => { loadLeap(); loadGeneric('swing'); loadGeneric('journal'); }, 1800000);
+</script>
+</body>
+</html>
