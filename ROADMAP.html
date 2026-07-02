@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trading Suite — Roadmap</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+            color: #e2e8f0;
+            padding: 40px 20px;
+            min-height: 100vh;
+        }
+        .container { max-width: 1300px; margin: 0 auto; }
+        h1 {
+            text-align: center;
+            margin-bottom: 8px;
+            font-size: 2.3em;
+            background: linear-gradient(135deg, #60a5fa 0%, #a78bfa 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .subtitle { text-align: center; color: #94a3b8; margin-bottom: 28px; }
+
+        /* Overall progress */
+        .progress-wrap {
+            max-width: 600px; margin: 0 auto 40px;
+            background: #1e293b; border: 1px solid #334155;
+            border-radius: 12px; padding: 18px 24px;
+        }
+        .progress-label {
+            display: flex; justify-content: space-between;
+            font-size: 0.9em; color: #94a3b8; margin-bottom: 10px;
+        }
+        .progress-bar {
+            height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
+        }
+        .progress-fill {
+            height: 100%; width: 43%;
+            background: linear-gradient(90deg, #10b981, #60a5fa);
+            border-radius: 5px;
+        }
+
+        /* Board */
+        .board {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            align-items: start;
+        }
+        .column {
+            background: #0f172a;
+            border: 1px solid #334155;
+            border-radius: 12px;
+            padding: 18px;
+        }
+        .column-header {
+            display: flex; align-items: center; justify-content: space-between;
+            padding-bottom: 12px; margin-bottom: 14px;
+            border-bottom: 2px solid #334155;
+        }
+        .column-title { font-size: 1.05em; font-weight: 600; }
+        .col-backlog .column-title { color: #a78bfa; }
+        .col-next .column-title { color: #60a5fa; }
+        .col-progress .column-title { color: #f59e0b; }
+        .col-done .column-title { color: #10b981; }
+        .count {
+            background: #1e293b; border: 1px solid #475569;
+            border-radius: 12px; padding: 2px 10px;
+            font-size: 0.8em; color: #94a3b8;
+        }
+
+        /* Cards */
+        .card {
+            background: #1e293b;
+            border: 1px solid #475569;
+            border-left-width: 4px;
+            border-radius: 8px;
+            padding: 14px;
+            margin-bottom: 12px;
+            transition: border-color 0.2s, box-shadow 0.2s;
+        }
+        .card:hover { border-color: #60a5fa; box-shadow: 0 0 12px rgba(96,165,250,0.15); }
+        .col-done .card { border-left-color: #10b981; opacity: 0.85; }
+        .col-progress .card { border-left-color: #f59e0b; }
+        .col-next .card { border-left-color: #60a5fa; }
+        .col-backlog .card { border-left-color: #a78bfa; }
+        .card h3 { font-size: 0.98em; color: #f1f5f9; margin-bottom: 6px; font-weight: 600; }
+        .col-done .card h3 { text-decoration: line-through; text-decoration-color: #475569; }
+        .card p { font-size: 0.85em; color: #94a3b8; line-height: 1.45; margin-bottom: 10px; }
+        .card-tags { display: flex; gap: 6px; flex-wrap: wrap; }
+        .tag {
+            font-size: 0.72em; font-weight: 600; letter-spacing: 0.03em;
+            padding: 3px 9px; border-radius: 10px;
+        }
+        .tag-leap    { background: rgba(16,185,129,0.15);  color: #34d399; border: 1px solid rgba(16,185,129,0.35); }
+        .tag-swing   { background: rgba(96,165,250,0.15);  color: #60a5fa; border: 1px solid rgba(96,165,250,0.35); }
+        .tag-journal { background: rgba(167,139,250,0.15); color: #a78bfa; border: 1px solid rgba(167,139,250,0.35); }
+        .tag-shared  { background: rgba(148,163,184,0.15); color: #cbd5e1; border: 1px solid rgba(148,163,184,0.35); }
+        .tag-infra   { background: rgba(251,191,36,0.15);  color: #fbbf24; border: 1px solid rgba(251,191,36,0.35); }
+        .tag-priority { background: rgba(239,68,68,0.15);  color: #f87171; border: 1px solid rgba(239,68,68,0.35); }
+        .tag-decision { background: rgba(236,72,153,0.15); color: #f472b6; border: 1px solid rgba(236,72,153,0.35); }
+
+        footer {
+            text-align: center; margin-top: 36px;
+            color: #64748b; font-size: 0.85em;
+        }
+        footer code {
+            background: #1e293b; border: 1px solid #334155;
+            border-radius: 4px; padding: 1px 6px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Trading Suite — Roadmap</h1>
+        <p class="subtitle">LEAP scanner · Swing trader · Trade journal — one Flask app, three tabs</p>
+
+        <div class="progress-wrap">
+            <div class="progress-label">
+                <span>Overall progress</span>
+                <span>6 of 14 items done</span>
+            </div>
+            <div class="progress-bar"><div class="progress-fill"></div></div>
+        </div>
+
+        <div class="board">
+            <!-- BACKLOG -->
+            <div class="column col-backlog">
+                <div class="column-header">
+                    <span class="column-title">Backlog</span>
+                    <span class="count">3</span>
+                </div>
+                <div class="card">
+                    <h3>Barchart opinions in UI</h3>
+                    <p>Surface get_barchart() opinion data in the web UI once its home (Swing tab?) is decided.</p>
+                    <div class="card-tags"><span class="tag tag-shared">shared</span><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>Dashboard live testing</h3>
+                    <p>Exercise all three tabs against live market data on Render; check refresh thread behavior over time.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Retire old stock-tracker</h3>
+                    <p>Shut down the original stock-tracker app once the ported LEAP tab is verified. Final step.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
+                </div>
+            </div>
+
+            <!-- NEXT UP -->
+            <div class="column col-next">
+                <div class="column-header">
+                    <span class="column-title">Next Up</span>
+                    <span class="count">2</span>
+                </div>
+                <div class="card">
+                    <h3>Verify LEAP tab vs live data</h3>
+                    <p>Compare scan_leaps() output in the new app against the original stock-tracker to confirm the port is faithful.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Decide Stock Tracker's home</h3>
+                    <p>Old "Stock Tracker" tab (pivots + Barchart) is preserved in common/market_data.py. Does it become part of Swing, or its own tab?</p>
+                    <div class="card-tags"><span class="tag tag-decision">decision</span><span class="tag tag-swing">swing</span></div>
+                </div>
+            </div>
+
+            <!-- IN PROGRESS -->
+            <div class="column col-progress">
+                <div class="column-header">
+                    <span class="column-title">In Progress</span>
+                    <span class="count">3</span>
+                </div>
+                <div class="card">
+                    <h3>Migrate Swing trader code</h3>
+                    <p>Replace the swing/module.py stub with the real local-only implementation. Contract: get_data() → list[dict].</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Migrate Journal code</h3>
+                    <p>Replace the journal/module.py stub with the real trade journal + P&amp;L logic. Same get_data() contract.</p>
+                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Wire market data into modules</h3>
+                    <p>Connect pivots / ATH / 52-week helpers from common/market_data.py into Swing and Journal as they land.</p>
+                    <div class="card-tags"><span class="tag tag-shared">shared</span></div>
+                </div>
+            </div>
+
+            <!-- DONE -->
+            <div class="column col-done">
+                <div class="column-header">
+                    <span class="column-title">Done</span>
+                    <span class="count">6</span>
+                </div>
+                <div class="card">
+                    <h3>LEAP scanner ported</h3>
+                    <p>scan_leaps() with 0–15 scoring, verbatim from stock-tracker.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span></div>
+                </div>
+                <div class="card">
+                    <h3>Shared market data utils</h3>
+                    <p>Daily/weekly pivots, ATH/52-week, Barchart scraper, TICKERS universe.</p>
+                    <div class="card-tags"><span class="tag tag-shared">shared</span></div>
+                </div>
+                <div class="card">
+                    <h3>Flask app shell</h3>
+                    <p>templates/index.html with 3 tabs; generic table renderer for stub modules.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>JSON API endpoints</h3>
+                    <p>/api/leap, /api/refresh/leap, /api/swing, /api/journal.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Background refresh thread</h3>
+                    <p>30-min refresh for all modules; starts on first request, not at import.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Render deploy config</h3>
+                    <p>gunicorn app:app on Python 3.11 via render.yaml.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            Source of truth for open items: <code>CLAUDE.md</code> — update both when the board changes.
+        </footer>
+    </div>
+</body>
+</html>
