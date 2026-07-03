@@ -11,6 +11,7 @@ marker instead), nonzero = real failure.
 import datetime
 import os
 import re
+import subprocess
 import sys
 import time
 import urllib.request
@@ -74,6 +75,22 @@ def transcribe(mp3_path):
 
 
 def summarize(transcript, title):
+    """Summarize via whichever credential is configured.
+
+    ANTHROPIC_API_KEY        -> Claude API (pay-as-you-go, ~$0.05/episode)
+    CLAUDE_CODE_OAUTH_TOKEN  -> Claude Code CLI using the user's Claude
+                                subscription (no extra cost)
+    """
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        return _summarize_api(transcript, title)
+    if os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"):
+        return _summarize_cli(transcript, title)
+    raise RuntimeError(
+        "Set the ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN repo secret"
+    )
+
+
+def _summarize_api(transcript, title):
     import json
 
     body = json.dumps({
@@ -95,6 +112,20 @@ def summarize(transcript, title):
     )
     resp = json.loads(urllib.request.urlopen(req, timeout=300).read())
     return "".join(block["text"] for block in resp["content"] if block["type"] == "text")
+
+
+def _summarize_cli(transcript, title):
+    result = subprocess.run(
+        ["claude", "-p", f"{SUMMARY_PROMPT}\nEpisode title: {title}\n\n"
+                         "The transcript follows on stdin."],
+        input=transcript,
+        capture_output=True,
+        text=True,
+        timeout=900,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(f"claude CLI failed: {result.stderr[:500]}")
+    return result.stdout.strip()
 
 
 def main():
