@@ -1,0 +1,60 @@
+name: YouTube channel digest
+
+on:
+  schedule:
+    # 04:40 UTC daily = 7:40am Israel time — covers the previous day's
+    # US-hours uploads across all followed channels.
+    - cron: '40 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet youtube-transcript-api
+
+      - name: Install Claude Code CLI (subscription auth)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Run digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: python scripts/youtube_digest.py
+
+      - name: Deliver digest
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$(cat digest.md)" = "NO_VIDEOS" ]; then
+            echo "No new videos — nothing to deliver."
+            exit 0
+          fi
+          DAY=$(date -u +%Y-%m-%d)
+          gh issue create \
+            --title "YouTube digest — $DAY" \
+            --body-file digest.md \
+            --repo "$GITHUB_REPOSITORY"
+          mkdir -p summaries/youtube
+          cp digest.md "summaries/youtube/$DAY.md"
+          git config user.name "halftime-bot"
+          git config user.email "actions@github.com"
+          git add "summaries/youtube/$DAY.md" summaries/youtube/state.json
+          git commit -m "YouTube digest $DAY" || exit 0
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin HEAD:"${GITHUB_REF_NAME}" || echo "archive push failed (digest still delivered via issue)"
