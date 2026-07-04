@@ -16,7 +16,7 @@ import os
 import re
 import urllib.request
 
-from halftime_pipeline import ask_claude
+from halftime_pipeline import ask_claude, preflight_auth
 
 CHANNELS = {
     "Brighter with Herbert": "UC4DBLlq1x0AKmip1QJUcbXg",
@@ -79,6 +79,7 @@ def fetch_transcript(video_id):
 
 
 def main():
+    preflight_auth()
     state = load_state()
     seen = set(state["seen"])
     first_run = not seen

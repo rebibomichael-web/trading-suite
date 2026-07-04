@@ -120,8 +120,17 @@ def _ask_cli(instructions, content):
         timeout=900,
     )
     if result.returncode != 0:
-        raise RuntimeError(f"claude CLI failed: {result.stderr[:500]}")
+        # The CLI prints auth/API errors to stdout, not stderr.
+        raise RuntimeError(
+            f"claude CLI failed: {result.stdout[:500]} {result.stderr[:500]}".strip()
+        )
     return result.stdout.strip()
+
+
+def preflight_auth():
+    """Fail fast on bad credentials before the ~20-min transcription."""
+    reply = ask_claude("Reply with exactly: OK", "ping")
+    print(f"Auth preflight passed ({reply[:20]!r})")
 
 
 def summarize(transcript, title):
@@ -129,6 +138,7 @@ def summarize(transcript, title):
 
 
 def main():
+    preflight_auth()
     # Optional override for back-catalog runs: HALFTIME_DATE=YYYY-MM-DD
     override = os.environ.get("HALFTIME_DATE", "").strip()
     if override:
