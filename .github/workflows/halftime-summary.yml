@@ -1,0 +1,77 @@
+name: Halftime Report daily summary
+
+on:
+  schedule:
+    # 17:20 UTC weekdays = 1:20pm ET in summer (episode posts ~1:10pm ET).
+    # In winter this is 12:20pm ET; the pipeline polls up to 80 min, so it
+    # still catches the ~1:10pm ET post. No episode on market holidays —
+    # the job exits quietly.
+    - cron: '20 17 * * 1-5'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Back-catalog episode date (YYYY-MM-DD), blank = today'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache whisper model
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: whisper-small-int8
+
+      - name: Install dependencies
+        run: pip install --quiet faster-whisper
+
+      - name: Install Claude Code CLI (subscription auth)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          HALFTIME_DATE: ${{ github.event.inputs.date }}
+        run: python scripts/halftime_pipeline.py
+
+      - name: Deliver summary
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$(cat summary.md)" = "NO_EPISODE" ]; then
+            echo "No episode today (market holiday) — nothing to deliver."
+            exit 0
+          fi
+          DAY=$(date -u +%Y-%m-%d)
+          if [ -n "${{ github.event.inputs.date }}" ]; then DAY="${{ github.event.inputs.date }}"; fi
+          # 1) Email delivery: open an issue — GitHub emails it to you.
+          gh issue create \
+            --title "Halftime Report summary — $DAY" \
+            --body-file summary.md \
+            --repo "$GITHUB_REPOSITORY"
+          # 2) Archive: commit the summary to the repo.
+          mkdir -p summaries
+          cp summary.md "summaries/$DAY.md"
+          git config user.name "halftime-bot"
+          git config user.email "actions@github.com"
+          git add "summaries/$DAY.md"
+          git commit -m "Halftime summary $DAY" || exit 0
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin HEAD:"${GITHUB_REF_NAME}" || echo "archive push failed (summary still delivered via issue)"
