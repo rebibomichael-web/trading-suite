@@ -120,6 +120,10 @@ def main():
             date = v["published"].strftime("%b %d")
             try:
                 transcript = fetch_transcript(v["id"])
+                os.makedirs("transcripts/youtube", exist_ok=True)
+                with open(f"transcripts/youtube/{v['id']}.txt", "w") as tf:
+                    tf.write(f"{channel} — {v['title']} ({v['published']:%Y-%m-%d})\n\n")
+                    tf.write(transcript)
                 summary = ask_claude(
                     f"{SUMMARY_INSTRUCTIONS}\nChannel: {channel}\n"
                     f"Video title: {v['title']}",

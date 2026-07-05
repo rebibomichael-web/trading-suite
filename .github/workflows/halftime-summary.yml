@@ -67,11 +67,12 @@ jobs:
             --body-file summary.md \
             --repo "$GITHUB_REPOSITORY"
           # 2) Archive: commit the summary to the repo.
-          mkdir -p summaries
+          mkdir -p summaries transcripts
           cp summary.md "summaries/$DAY.md"
+          cp transcript.txt "transcripts/$DAY.txt" 2>/dev/null || true
           git config user.name "halftime-bot"
           git config user.email "actions@github.com"
-          git add "summaries/$DAY.md"
+          git add summaries/ transcripts/
           git commit -m "Halftime summary $DAY" || exit 0
           git pull --rebase origin "${GITHUB_REF_NAME}" || true
           git push origin HEAD:"${GITHUB_REF_NAME}" || echo "archive push failed (summary still delivered via issue)"

@@ -57,6 +57,7 @@ jobs:
           git config user.name "halftime-bot"
           git config user.email "actions@github.com"
           git add "summaries/youtube/$DAY.md" summaries/youtube/state.json
+          git add transcripts/youtube/ 2>/dev/null || true
           git commit -m "YouTube digest $DAY" || exit 0
           git pull --rebase origin "${GITHUB_REF_NAME}" || true
           git push origin HEAD:"${GITHUB_REF_NAME}" || echo "archive push failed (digest still delivered via issue)"
