@@ -74,32 +74,45 @@ def transcribe(mp3_path):
     return "\n".join(seg.text.strip() for seg in segments)
 
 
-def summarize(transcript, title):
-    """Summarize via whichever credential is configured.
+def _clean_credentials():
+    """Strip whitespace/newlines that sneak into pasted secrets.
 
-    ANTHROPIC_API_KEY        -> Claude API (pay-as-you-go, ~$0.05/episode)
+    A token pasted into GitHub with a line-wrap produces an invalid HTTP
+    header ("Header has invalid value") — seen in the wild on this repo.
+    """
+    for var in ("CLAUDE_CODE_OAUTH_TOKEN", "ANTHROPIC_API_KEY"):
+        value = os.environ.get(var)
+        if value:
+            cleaned = "".join(value.split())
+            if cleaned != value:
+                print(f"Note: removed whitespace from {var}")
+                os.environ[var] = cleaned
+
+
+def ask_claude(instructions, content):
+    """Run a summarization prompt via whichever credential is configured.
+
+    ANTHROPIC_API_KEY        -> Claude API (pay-as-you-go)
     CLAUDE_CODE_OAUTH_TOKEN  -> Claude Code CLI using the user's Claude
                                 subscription (no extra cost)
     """
+    _clean_credentials()
     if os.environ.get("ANTHROPIC_API_KEY"):
-        return _summarize_api(transcript, title)
+        return _ask_api(instructions, content)
     if os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"):
-        return _summarize_cli(transcript, title)
+        return _ask_cli(instructions, content)
     raise RuntimeError(
         "Set the ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN repo secret"
     )
 
 
-def _summarize_api(transcript, title):
+def _ask_api(instructions, content):
     import json
 
     body = json.dumps({
         "model": ANTHROPIC_MODEL,
         "max_tokens": 3000,
-        "messages": [{
-            "role": "user",
-            "content": f"{SUMMARY_PROMPT}\nEpisode title: {title}\n\n{transcript}",
-        }],
+        "messages": [{"role": "user", "content": f"{instructions}\n\n{content}"}],
     }).encode()
     req = urllib.request.Request(
         "https://api.anthropic.com/v1/messages",
@@ -114,21 +127,34 @@ def _summarize_api(transcript, title):
     return "".join(block["text"] for block in resp["content"] if block["type"] == "text")
 
 
-def _summarize_cli(transcript, title):
+def _ask_cli(instructions, content):
     result = subprocess.run(
-        ["claude", "-p", f"{SUMMARY_PROMPT}\nEpisode title: {title}\n\n"
-                         "The transcript follows on stdin."],
-        input=transcript,
+        ["claude", "-p", f"{instructions}\n\nThe transcript follows on stdin."],
+        input=content,
         capture_output=True,
         text=True,
         timeout=900,
     )
     if result.returncode != 0:
-        raise RuntimeError(f"claude CLI failed: {result.stderr[:500]}")
+        # The CLI prints auth/API errors to stdout, not stderr.
+        raise RuntimeError(
+            f"claude CLI failed: {result.stdout[:500]} {result.stderr[:500]}".strip()
+        )
     return result.stdout.strip()
 
 
+def preflight_auth():
+    """Fail fast on bad credentials before the ~20-min transcription."""
+    reply = ask_claude("Reply with exactly: OK", "ping")
+    print(f"Auth preflight passed ({reply[:20]!r})")
+
+
+def summarize(transcript, title):
+    return ask_claude(f"{SUMMARY_PROMPT}\nEpisode title: {title}", transcript)
+
+
 def main():
+    preflight_auth()
     # Optional override for back-catalog runs: HALFTIME_DATE=YYYY-MM-DD
     override = os.environ.get("HALFTIME_DATE", "").strip()
     if override:
