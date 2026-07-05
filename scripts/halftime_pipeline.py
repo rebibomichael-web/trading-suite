@@ -74,6 +74,21 @@ def transcribe(mp3_path):
     return "\n".join(seg.text.strip() for seg in segments)
 
 
+def _clean_credentials():
+    """Strip whitespace/newlines that sneak into pasted secrets.
+
+    A token pasted into GitHub with a line-wrap produces an invalid HTTP
+    header ("Header has invalid value") — seen in the wild on this repo.
+    """
+    for var in ("CLAUDE_CODE_OAUTH_TOKEN", "ANTHROPIC_API_KEY"):
+        value = os.environ.get(var)
+        if value:
+            cleaned = "".join(value.split())
+            if cleaned != value:
+                print(f"Note: removed whitespace from {var}")
+                os.environ[var] = cleaned
+
+
 def ask_claude(instructions, content):
     """Run a summarization prompt via whichever credential is configured.
 
@@ -81,6 +96,7 @@ def ask_claude(instructions, content):
     CLAUDE_CODE_OAUTH_TOKEN  -> Claude Code CLI using the user's Claude
                                 subscription (no extra cost)
     """
+    _clean_credentials()
     if os.environ.get("ANTHROPIC_API_KEY"):
         return _ask_api(instructions, content)
     if os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"):
