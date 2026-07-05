@@ -23,7 +23,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install --quiet youtube-transcript-api
+        run: pip install --quiet youtube-transcript-api yt-dlp
 
       - name: Install Claude Code CLI (subscription auth)
         env:
@@ -35,12 +35,13 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-        run: python scripts/youtube_digest.py
+        run: python scripts/caption_experiment.py   # TEMPORARY experiment on branch
 
       - name: Deliver digest
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          exit 0  # TEMPORARY: experiment run, nothing to deliver
           if [ "$(cat digest.md)" = "NO_VIDEOS" ]; then
             echo "No new videos — nothing to deliver."
             exit 0
