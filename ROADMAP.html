@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 51%;
+            height: 100%; width: 54%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>17 of 33 items done</span>
+                <span>18 of 33 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -215,12 +215,7 @@
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">3</span>
-                </div>
-                <div class="card">
-                    <h3>Migrate Swing trader code</h3>
-                    <p>Replace the swing/module.py stub with the real implementation. The headless scan engine (152/152, 0 errors) is the natural donor. Contract: get_data() → list[dict].</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                    <span class="count">2</span>
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
@@ -238,7 +233,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">17</span>
+                    <span class="count">18</span>
+                </div>
+                <div class="card">
+                    <h3>Swing tab live via the bridge</h3>
+                    <p>07-06: swing/module.py reads the real signal log — local file on the Dell, trading-data on Render (shared common/trading_data.py fetcher, reused by LEAP). Latest signal per symbol, 21-day window, confidence + 7d outcome columns (outcomes fill as the new nightly check runs). Full 152-ticker live-scan view unlocks when Phase 0 D7 syncs headless results to trading-data.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP trading-data bridge live</h3>
