@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 41%;
+            height: 100%; width: 40%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>12 of 29 items done</span>
+                <span>12 of 30 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">6</span>
+                    <span class="count">7</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -193,6 +193,11 @@
                     <h3>LEAP outcome-maturity gate (~Jul 8)</h3>
                     <p>Earliest 30d outcomes on the Jun-8+ stable-model sample mature ~Jul 8 (60d ~Aug). Confirm maturity read-only, set the go-date; then score-band / pillar-power / repeat-trigger analyses unblock. Mid-July: BMNR revisit, downturn rerun, phase3_pnl rerun.</p>
                     <div class="card-tags"><span class="tag tag-leap">leap</span></div>
+                </div>
+                <div class="card">
+                    <h3>Automate outcome checking (headless)</h3>
+                    <p>Root-caused 07-06: the outcome auto-check lived in the GUI's 16:30 clock and silently died when ADR-1 retired the tkinter display (~Jun 22) — outcomes stalled at Jun 10. Fix: outcomes_check.py reusing Tracker.check_outcomes() + nightly cron with a GUI guard. Build spec delivered; apply on the Dell via local Claude Code. Forward-only clock-starter.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Ratify confidence decision: no wiring</h3>
