@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 40%;
+            height: 100%; width: 45%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>12 of 30 items done</span>
+                <span>14 of 31 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">7</span>
+                    <span class="count">6</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -193,11 +193,6 @@
                     <h3>LEAP maturity gate: press Check Outcomes ≥ Jul 8</h3>
                     <p>Gate confirmed read-only 07-06 (log at 1,606 records; Jun-8+ 30d outcomes = 0, as calendar predicts). Catch: LEAP outcomes are manual-check-only and the last check ran ~early June (newest 30d outcome is a May 8 signal). Real go-condition: press Check Outcomes in the LEAP GUI on/after ~Jul 8 — then score-band / pillar-power / repeat-trigger unblock. Same orphaned-automation disease as swing; candidate for the same cron fix.</p>
                     <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-priority">priority</span></div>
-                </div>
-                <div class="card">
-                    <h3>Automate outcome checking (headless)</h3>
-                    <p>Root-caused 07-06: the outcome auto-check lived in the GUI's 16:30 clock and silently died when ADR-1 retired the tkinter display (~Jun 22) — outcomes stalled at Jun 10. Fix: outcomes_check.py reusing Tracker.check_outcomes() + nightly cron with a GUI guard. Build spec delivered; apply on the Dell via local Claude Code. Forward-only clock-starter.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Ratify confidence decision: no wiring</h3>
@@ -223,9 +218,9 @@
                     <span class="count">4</span>
                 </div>
                 <div class="card">
-                    <h3>Swing trader audit</h3>
-                    <p>Full audit of swing_trader.py under way (Michael, separate window, 2026-07-06). This board deliberately doesn't duplicate its scope — fold findings in when it lands.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                    <h3>Trading-system audit (separate window)</h3>
+                    <p>Under way on the Dell, 2026-07-06 (LEAP_AUDIT_20260706.md). First deliverables already shipped: leap_watchdog.py, leap_outcome_reminder.py, the cron notify-send fix, and LEAP GUI flag banners. Fold remaining findings in when the audit closes.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-leap">leap</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Migrate Swing trader code</h3>
@@ -248,7 +243,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">12</span>
+                    <span class="count">14</span>
+                </div>
+                <div class="card">
+                    <h3>Outcome checking automated (both lanes' plumbing)</h3>
+                    <p>07-06: swing outcomes_check.py + 23:45 cron installed (GUI guard, venv python) — outcomes no longer depend on a window being open. Same day, the audit window fixed silent cron desktop alerts (notify-send needs DISPLAY under cron — verified by real cron firings; three _notify() patched) and wired watchdog + outcome-reminder banners into the LEAP GUI.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Confidence hypothesis tested (pre-registered)</h3>
