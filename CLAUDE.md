@@ -53,3 +53,13 @@ the sibling repositories. At the start of a session, add them with the
 If an add fails with an authorization error, tell the owner to grant the
 Claude GitHub App access to that repo at https://github.com/apps/claude
 (Configure → All repositories).
+
+## Report archives (for Q&A)
+Automated daily reports live in this repo — when answering questions about
+"the reports," read these first:
+- `summaries/` — CNBC Halftime Report daily summaries (one .md per trading day)
+- `transcripts/` — full Halftime episode transcripts (same dates, more detail)
+- `summaries/youtube/` — daily YouTube digest across followed channels
+- `transcripts/youtube/` — full video transcripts when captions were available
+Pipelines: `scripts/halftime_pipeline.py`, `scripts/youtube_digest.py`,
+scheduled via `.github/workflows/`.

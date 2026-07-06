@@ -62,19 +62,33 @@ def fetch_feed(channel_id):
         vid = re.search(r"<yt:videoId>([^<]+)</yt:videoId>", entry)
         title = re.search(r"<title>([^<]+)</title>", entry)
         pub = re.search(r"<published>([^<]+)</published>", entry)
+        desc = re.search(r"<media:description>(.*?)</media:description>", entry, re.S)
         if vid and title and pub:
             videos.append({
                 "id": vid.group(1),
                 "title": title.group(1),
                 "published": datetime.datetime.fromisoformat(pub.group(1)),
+                "description": (desc.group(1).strip() if desc else ""),
             })
     return videos
 
 
 def fetch_transcript(video_id):
+    """Fetch captions; uses a Webshare rotating residential proxy when the
+    WEBSHARE_PROXY_USERNAME/PASSWORD secrets are set (YouTube blocks direct
+    requests from cloud IPs like GitHub's runners)."""
     from youtube_transcript_api import YouTubeTranscriptApi
 
-    snippets = YouTubeTranscriptApi().fetch(video_id)
+    user = os.environ.get("WEBSHARE_PROXY_USERNAME")
+    password = os.environ.get("WEBSHARE_PROXY_PASSWORD")
+    if user and password:
+        from youtube_transcript_api.proxies import WebshareProxyConfig
+        api = YouTubeTranscriptApi(
+            proxy_config=WebshareProxyConfig(proxy_username=user,
+                                             proxy_password=password))
+    else:
+        api = YouTubeTranscriptApi()
+    snippets = api.fetch(video_id)
     return " ".join(s.text for s in snippets)
 
 
@@ -106,15 +120,30 @@ def main():
             date = v["published"].strftime("%b %d")
             try:
                 transcript = fetch_transcript(v["id"])
+                os.makedirs("transcripts/youtube", exist_ok=True)
+                with open(f"transcripts/youtube/{v['id']}.txt", "w") as tf:
+                    tf.write(f"{channel} — {v['title']} ({v['published']:%Y-%m-%d})\n\n")
+                    tf.write(transcript)
                 summary = ask_claude(
                     f"{SUMMARY_INSTRUCTIONS}\nChannel: {channel}\n"
                     f"Video title: {v['title']}",
                     transcript,
                 )
             except Exception as e:
-                print(f"{channel} / {v['title']}: {type(e).__name__}: {e}")
-                summary = ("*No captions available (possibly a live stream) — "
-                           "watch directly via the link above.*")
+                print(f"{channel} / {v['title']}: {type(e).__name__}")
+                if v.get("description"):
+                    gist = ask_claude(
+                        "Captions were unavailable for this YouTube video, so "
+                        "summarize what it is about in 1-3 plain sentences "
+                        "using ONLY its title and description below. Do not "
+                        "invent specifics that are not stated.\n"
+                        f"Channel: {channel}\nVideo title: {v['title']}",
+                        v["description"][:4000],
+                    )
+                    summary = f"{gist}\n\n*(based on the video description — captions unavailable)*"
+                else:
+                    summary = ("*No captions or description available — "
+                               "watch via the link above.*")
             sections.append(
                 f"### [{v['title']}]({url})\n"
                 f"**{channel}** · {date}\n\n{summary}\n"
