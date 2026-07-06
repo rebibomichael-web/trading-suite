@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 43%;
+            height: 100%; width: 48%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>13 of 30 items done</span>
+                <span>14 of 29 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -134,7 +134,7 @@
             <div class="column col-backlog">
                 <div class="column-header">
                     <span class="column-title">Backlog</span>
-                    <span class="count">7</span>
+                    <span class="count">6</span>
                 </div>
                 <div class="card">
                     <h3>Velocity exit threshold</h3>
@@ -162,11 +162,6 @@
                     <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
-                    <h3>Barchart opinions in UI</h3>
-                    <p>Surface get_barchart() opinion data in the web UI once its home (Swing tab?) is decided.</p>
-                    <div class="card-tags"><span class="tag tag-shared">shared</span><span class="tag tag-swing">swing</span></div>
-                </div>
-                <div class="card">
                     <h3>Retire old stock-tracker</h3>
                     <p>Blocked on two things now: verify the ported LEAP tab, AND find a new home for the Journal Dashboard that stock-tracker gained on 07-05. Final step.</p>
                     <div class="card-tags"><span class="tag tag-infra">infra</span></div>
@@ -177,7 +172,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">6</span>
+                    <span class="count">5</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -203,11 +198,6 @@
                     <h3>Verify LEAP tab vs live data</h3>
                     <p>Compare scan_leaps() output in the suite against the original stock-tracker to confirm the port is faithful.</p>
                     <div class="card-tags"><span class="tag tag-leap">leap</span></div>
-                </div>
-                <div class="card">
-                    <h3>Decide Stock Tracker's home</h3>
-                    <p>Old "Stock Tracker" tab (pivots + Barchart) is preserved in common/market_data.py. Does it become part of Swing, or its own tab?</p>
-                    <div class="card-tags"><span class="tag tag-decision">decision</span><span class="tag tag-swing">swing</span></div>
                 </div>
             </div>
 
@@ -243,7 +233,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">13</span>
+                    <span class="count">14</span>
+                </div>
+                <div class="card">
+                    <h3>Tracker tab: pivots + Barchart opinions</h3>
+                    <p>07-06: home decision resolved (its own tab, Michael's call) and shipped — tracker/module.py ports the original Stock Tracker view (price, S3–R3 pivots with nearest-level markers, Barchart opinion/strength/direction + snapshots) with partial-row streaming during the ~90s scan. Hermetically tested; live-verify on Render after merge.</p>
+                    <div class="card-tags"><span class="tag tag-shared">shared</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Outcome checking automated (both lanes' plumbing)</h3>

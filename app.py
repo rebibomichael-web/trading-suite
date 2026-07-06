@@ -15,11 +15,13 @@ from flask import Flask, jsonify, render_template
 from leap import scanner as leap_scanner
 from swing import module as swing_module
 from journal import module as journal_module
+from tracker import module as tracker_module
 
 app = Flask(__name__)
 
 cache = {
     'leap': {'data': [], 'updated': None, 'loading': False},
+    'tracker': {'data': [], 'updated': None, 'loading': False},
     'swing': {'data': [], 'updated': None},
     'journal': {'data': [], 'updated': None},
 }
@@ -42,6 +44,23 @@ def refresh_leap():
         cache['leap']['loading'] = False
 
 
+def refresh_tracker():
+    if cache['tracker']['loading']:
+        return
+    cache['tracker']['loading'] = True
+    try:
+        def on_row(rows):
+            # publish partial results — a full pass takes ~60-90s
+            cache['tracker']['data'] = rows
+            cache['tracker']['updated'] = _stamp()
+        cache['tracker']['data'] = tracker_module.get_data(on_row=on_row)
+        cache['tracker']['updated'] = _stamp()
+    except Exception as e:
+        print(f"Tracker refresh error: {e}")
+    finally:
+        cache['tracker']['loading'] = False
+
+
 def refresh_swing():
     try:
         cache['swing']['data'] = swing_module.get_data()
@@ -61,6 +80,7 @@ def refresh_journal():
 def background_refresh():
     while True:
         refresh_leap()
+        refresh_tracker()
         refresh_swing()
         refresh_journal()
         time.sleep(1800)  # every 30 minutes
@@ -96,6 +116,18 @@ def api_leap():
 @app.route('/api/refresh/leap', methods=['POST'])
 def api_refresh_leap():
     threading.Thread(target=refresh_leap, daemon=True).start()
+    return jsonify({'status': 'refreshing'})
+
+
+@app.route('/api/tracker')
+def api_tracker():
+    c = cache['tracker']
+    return jsonify({'data': c['data'], 'updated': c['updated'], 'loading': c['loading']})
+
+
+@app.route('/api/refresh/tracker', methods=['POST'])
+def api_refresh_tracker():
+    threading.Thread(target=refresh_tracker, daemon=True).start()
     return jsonify({'status': 'refreshing'})
 
 

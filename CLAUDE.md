@@ -6,6 +6,10 @@ Read this first in any session on this repo.
 ## Modules
 - `leap/scanner.py` — LEAP option scanner + 0–15 scoring. **Working**; ported
   verbatim from the original `stock-tracker` app. Entry point: `scan_leaps()`.
+- `tracker/module.py` — the original "Stock Tracker" tab: price/day-change,
+  daily S3..R3 pivots with nearest-level markers, Barchart opinion columns.
+  **Working** (added 2026-07-06; home decision resolved: its own tab).
+  `get_data(on_row=None)` — on_row receives rows-so-far for partial display.
 - `swing/module.py` — swing-trader. **Stub**; expose `get_data() -> list[dict]`.
 - `journal/module.py` — trade journal + P&L. **Stub**; same `get_data()` contract.
 - `common/market_data.py` — shared: daily/weekly pivots, ATH/52-week, Barchart
@@ -39,7 +43,8 @@ Read this first in any session on this repo.
 - [ ] Verify the ported LEAP tab against live data, then retire old
       stock-tracker (which now also hosts the Journal Dashboard — that needs a
       new home first).
-- [ ] Decide whether the old "Stock Tracker" tab becomes part of Swing.
+- [x] ~~Decide whether the old "Stock Tracker" tab becomes part of Swing~~ —
+      resolved 2026-07-06: it's its own Tracker tab (`tracker/module.py`).
 - [ ] Watch the first scheduled Halftime run (Mon Jul 6, ~1:20pm ET) and
       verify @claude Q&A on a report issue.
 

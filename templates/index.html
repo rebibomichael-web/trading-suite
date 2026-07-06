@@ -29,6 +29,8 @@
   tr.s2-alert { background: #3d3010 !important; }
   tr.strong   { background: #1a3d1a !important; }
   .arrow { color: #ffd93d; font-weight: bold; }
+  .pos { color: #00cc66; font-weight: bold; }
+  .neg { color: #ff6b6b; font-weight: bold; }
   .sig-s3 { color: #ff6b6b; font-weight: bold; }
   .sig-s2 { color: #ffd93d; font-weight: bold; }
   .sig-strong { color: #00cc66; font-weight: bold; }
@@ -48,6 +50,7 @@
   <h1>📊 Trading Suite</h1>
   <div class="tabs">
     <button class="tab active" onclick="showTab('leap')">🎯 LEAP</button>
+    <button class="tab" onclick="showTab('tracker')">📈 Tracker</button>
     <button class="tab" onclick="showTab('swing')">🌊 Swing</button>
     <button class="tab" onclick="showTab('journal')">📓 Journal</button>
   </div>
@@ -75,6 +78,26 @@
     </table>
   </div>
   <div class="detail-box" id="leap-detail">Click any row to see the LEAP breakdown.</div>
+</div>
+
+<!-- TRACKER PANEL (pivots + Barchart opinions — the original stock-tracker tab) -->
+<div class="panel" id="panel-tracker">
+  <div class="legend">
+    ► marks the nearest pivot level below/above the current price &nbsp;&nbsp;
+    Opinion / Strength / Direction and the snapshot columns come from Barchart's opinion widget
+  </div>
+  <button class="refresh-btn" onclick="refreshTracker()">🔄 Refresh Tracker</button>
+  <div class="table-wrap">
+    <table id="tracker-table">
+      <thead><tr>
+        <th>Ticker</th><th>Price</th><th>Change %</th>
+        <th>S3</th><th>S2</th><th>S1</th><th>R1</th><th>R2</th><th>R3</th>
+        <th>Opinion</th><th>Strength</th><th>Direction</th>
+        <th>Yesterday</th><th>Last Week</th><th>Last Month</th><th>Updated</th>
+      </tr></thead>
+      <tbody id="tracker-body"><tr><td colspan="16" class="loading">Loading stock data…</td></tr></tbody>
+    </table>
+  </div>
 </div>
 
 <!-- SWING PANEL -->
@@ -184,6 +207,42 @@ function refreshLeap() {
   fetch('/api/refresh/leap', {method: 'POST'}).then(() => setTimeout(loadLeap, 3000));
 }
 
+function loadTracker() {
+  fetch('/api/tracker').then(r => r.json()).then(d => {
+    const body = document.getElementById('tracker-body');
+    if (!d.data || !d.data.length) {
+      body.innerHTML = '<tr><td colspan="16" class="loading">⏳ Fetching stock data… (rows appear as each ticker completes)</td></tr>';
+      if (d.loading) setTimeout(loadTracker, 5000);
+      return;
+    }
+    body.innerHTML = d.data.map((r, i) => {
+      const chgClass = r.chg_pct >= 0 ? 'pos' : 'neg';
+      const rowCls = i % 2 === 0 ? 'even' : 'odd';
+      function fmtLvl(val, name) {
+        if (val == null) return 'N/A';
+        const arrow = (name === r.below || name === r.above) ? ' <span class="arrow">►</span>' : '';
+        return val + arrow;
+      }
+      return `<tr class="${rowCls}">
+        <td><b>${r.ticker}</b></td>
+        <td>$${r.price}</td>
+        <td class="${chgClass}">${r.chg_pct > 0 ? '+' : ''}${r.chg_pct}%</td>
+        <td>${fmtLvl(r.s3,'s3')}</td><td>${fmtLvl(r.s2,'s2')}</td><td>${fmtLvl(r.s1,'s1')}</td>
+        <td>${fmtLvl(r.r1,'r1')}</td><td>${fmtLvl(r.r2,'r2')}</td><td>${fmtLvl(r.r3,'r3')}</td>
+        <td>${r.opinion}</td><td>${r.strength}</td><td>${r.direction}</td>
+        <td>${r.yesterday}</td><td>${r.last_week}</td><td>${r.last_month}</td>
+        <td>${r.updated}</td>
+      </tr>`;
+    }).join('');
+    // keep polling while a pass is mid-flight so partial rows fill in live
+    if (d.loading) setTimeout(loadTracker, 5000);
+  }).catch(() => setTimeout(loadTracker, 8000));
+}
+
+function refreshTracker() {
+  fetch('/api/refresh/tracker', {method: 'POST'}).then(() => setTimeout(loadTracker, 2000));
+}
+
 // Generic renderer for Journal / Swing until real code is wired in.
 function loadGeneric(name) {
   fetch('/api/' + name).then(r => r.json()).then(d => {
@@ -211,9 +270,10 @@ function loadGeneric(name) {
 }
 
 loadLeap();
+loadTracker();
 loadGeneric('swing');
 loadGeneric('journal');
-setInterval(() => { loadLeap(); loadGeneric('swing'); loadGeneric('journal'); }, 1800000);
+setInterval(() => { loadLeap(); loadTracker(); loadGeneric('swing'); loadGeneric('journal'); }, 1800000);
 </script>
 </body>
 </html>
