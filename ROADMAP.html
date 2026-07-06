@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 39%;
+            height: 100%; width: 41%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>11 of 28 items done</span>
+                <span>12 of 29 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -134,17 +134,12 @@
             <div class="column col-backlog">
                 <div class="column-header">
                     <span class="column-title">Backlog</span>
-                    <span class="count">8</span>
+                    <span class="count">7</span>
                 </div>
                 <div class="card">
                     <h3>Velocity exit threshold</h3>
                     <p>Derive via standing-analysis M2 at Milestone 2 (~Aug 1): full curve, spike-vs-plateau rule, out-of-sample confirm at the next milestone. If adopted into swing_flag.classify(), the DIAGNOSE readout picks it up with zero code change.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span></div>
-                </div>
-                <div class="card">
-                    <h3>Confidence-weighted scoring decision</h3>
-                    <p>Confidence is captured &amp; displayed, but never enters score_and_assign. Multiplier vs gate vs position-sizing input — needs E0 sink records to test; gates the 90+ band variance work.</p>
-                    <div class="card-tags"><span class="tag tag-decision">decision</span><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Pre-earnings drift factor</h3>
@@ -182,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">5</span>
+                    <span class="count">6</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -198,6 +193,11 @@
                     <h3>LEAP outcome-maturity gate (~Jul 8)</h3>
                     <p>Earliest 30d outcomes on the Jun-8+ stable-model sample mature ~Jul 8 (60d ~Aug). Confirm maturity read-only, set the go-date; then score-band / pillar-power / repeat-trigger analyses unblock. Mid-July: BMNR revisit, downturn rerun, phase3_pnl rerun.</p>
                     <div class="card-tags"><span class="tag tag-leap">leap</span></div>
+                </div>
+                <div class="card">
+                    <h3>Ratify confidence decision: no wiring</h3>
+                    <p>Pre-registered test (07-06) REJECTED "high confidence → better outcomes" — it inverted (LOW beats HIGH on 7d WR, −16 pts pooled). Recommendation: no multiplier/gate/sizing; keep capture+display; inversion + multi_primary lead go to the Hypothesis Ledger for milestone re-test. Also: run Check Outcomes on the Dell to extend the sample.</p>
+                    <div class="card-tags"><span class="tag tag-decision">decision</span><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Verify LEAP tab vs live data</h3>
@@ -243,7 +243,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">11</span>
+                    <span class="count">12</span>
+                </div>
+                <div class="card">
+                    <h3>Confidence hypothesis tested (pre-registered)</h3>
+                    <p>07-06: E0 sinks proved structurally unable to test it (no confidence/score persisted — card premise corrected); signals.json had 303 testable signals. H1 rejected on frozen criteria; inversion logged as Suspected. Spec + findings docs delivered for docs/planning + docs/findings.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Standing analysis — Milestone 1 run</h3>
