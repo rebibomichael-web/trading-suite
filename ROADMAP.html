@@ -210,9 +210,9 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Feed the suite's LEAP tab from trading-data</h3>
-                    <p>Verification found Yahoo blocks OPTION-CHAIN fetches from Render's IP (stock history works — Tracker tab is fine), so premium/leverage/DTE score 0 on Render. Right fix mirrors ADR-1: the nightly Dell scan already pushes premiums+IV to trading-data daily — have the suite read that (GitHub token env var) instead of live-fetching chains. Same bridge the swing/journal migrations need.</p>
-                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span><span class="tag tag-decision">decision</span></div>
+                    <h3>Activate the LEAP trading-data bridge (one token)</h3>
+                    <p>Code shipped + merged 07-06 (PR #12): the LEAP tab now reads the nightly Dell scan's records from trading-data — real 6-pillar scores/signals/premiums, ~104 signal-carrying tickers, scan date shown; legacy fallback until activated. Remaining: create a fine-grained GitHub token (trading-data only, Contents read-only) and add it as TRADING_DATA_TOKEN in the Render service's Environment tab. Same bridge pattern the swing/journal migrations will reuse.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
                 </div>
             </div>
 
