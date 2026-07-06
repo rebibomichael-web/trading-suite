@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 54%;
+            height: 100%; width: 57%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>18 of 33 items done</span>
+                <span>19 of 33 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -206,7 +206,7 @@
                 </div>
                 <div class="card">
                     <h3>Phase 1 — decide if the edge is real (before ~Aug milestone)</h3>
-                    <p>Analysis-only, no live code: benchmark restatement (per-trade excess vs SPY/QQQ — the single decisive analysis), execution-honest backtest rerun (next-day-open entries + costs; PF ≥~1.15 bar), portfolio NAV/beta/drawdown series + M9 concurrency correlation, and status-board downgrades (velocity thesis, sizing instinct, −8 cliff → Suspected).</p>
+                    <p>Session brief delivered 07-06 (PHASE1_EDGE_REALITY_SPEC): benchmark restatement (per-trade excess vs SPY/QQQ — the single decisive analysis), execution-honest rerun (next-day-open + 7.5bp; PF ≥1.15 bar), portfolio risk series + M9 correlation, status-board downgrades. Pre-registered defaults inside; confirm criteria in-session before unblinding. Run before Milestone 2 (~Aug 1).</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
             </div>
@@ -215,17 +215,12 @@
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">2</span>
+                    <span class="count">1</span>
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
                     <p>Replace the journal/module.py stub with the real trade journal + P&amp;L logic. The stock-tracker journal_dashboard connector (build_journal_data.py) is working prior art. Same get_data() contract.</p>
                     <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-priority">priority</span></div>
-                </div>
-                <div class="card">
-                    <h3>Wire market data into modules</h3>
-                    <p>Connect pivots / ATH / 52-week helpers from common/market_data.py into Swing and Journal as they land.</p>
-                    <div class="card-tags"><span class="tag tag-shared">shared</span></div>
                 </div>
             </div>
 
@@ -233,7 +228,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">18</span>
+                    <span class="count">19</span>
+                </div>
+                <div class="card">
+                    <h3>Market-data wiring (absorbed)</h3>
+                    <p>Closed 07-06: the pivots/ATH/52wk helpers found their home in the Tracker tab, and the Swing/LEAP tabs correctly read Dell-produced data instead of recomputing market data on Render. Nothing left for this card to wire.</p>
+                    <div class="card-tags"><span class="tag tag-shared">shared</span></div>
                 </div>
                 <div class="card">
                     <h3>Swing tab live via the bridge</h3>
