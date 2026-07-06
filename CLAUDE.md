@@ -4,8 +4,15 @@ Consolidation of three trading projects into one Flask app with tabbed modules.
 Read this first in any session on this repo.
 
 ## Modules
-- `leap/scanner.py` — LEAP option scanner + 0–15 scoring. **Working**; ported
-  verbatim from the original `stock-tracker` app. Entry point: `scan_leaps()`.
+- `leap/nightly.py` — **primary LEAP data source**: reads the nightly Dell
+  scan's records (real 6-pillar scores, premiums, IV) from the private
+  trading-data repo. Requires `TRADING_DATA_TOKEN` env var (fine-grained
+  GitHub token, read-only Contents on trading-data). Why: Yahoo blocks
+  option-chain fetches from cloud IPs (verified 2026-07-06), so the suite
+  must not fetch chains itself.
+- `leap/scanner.py` — legacy live scanner + old 5-factor scoring; the
+  automatic **fallback when no token is configured** (option-dependent
+  factors will be missing on Render). Entry point: `scan_leaps()`.
 - `tracker/module.py` — the original "Stock Tracker" tab: price/day-change,
   daily S3..R3 pivots with nearest-level markers, Barchart opinion columns.
   **Working** (added 2026-07-06; home decision resolved: its own tab).
