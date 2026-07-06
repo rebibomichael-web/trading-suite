@@ -14,34 +14,17 @@ Config (Render env vars):
                       to the legacy live scan)
   TRADING_DATA_REPO   owner/repo override (default rebibomichael-web/trading-data)
 """
-import os
 from datetime import datetime, timedelta
 
-import requests
+from common import trading_data
+from common.trading_data import NotConfigured  # re-export for app.py  # noqa: F401
 
-DEFAULT_REPO = "rebibomichael-web/trading-data"
 FILE_PATH = "leap/recommendations.json"
 MAX_AGE_DAYS = 14  # hide symbols whose newest signal is older than this
 
 
-class NotConfigured(Exception):
-    """No TRADING_DATA_TOKEN in the environment — caller should fall back."""
-
-
 def _fetch_records():
-    token = os.environ.get("TRADING_DATA_TOKEN")
-    if not token:
-        raise NotConfigured()
-    repo = os.environ.get("TRADING_DATA_REPO", DEFAULT_REPO)
-    url = f"https://api.github.com/repos/{repo}/contents/{FILE_PATH}"
-    r = requests.get(url, timeout=30, headers={
-        "Authorization": f"Bearer {token}",
-        # raw media type streams the file even past the 1 MB base64 limit
-        "Accept": "application/vnd.github.raw+json",
-        "X-GitHub-Api-Version": "2022-11-28",
-    })
-    r.raise_for_status()
-    return r.json()
+    return trading_data.fetch_json(FILE_PATH)
 
 
 def shape_rows(records, now=None):

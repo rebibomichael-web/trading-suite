@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 48%;
+            height: 100%; width: 54%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>16 of 33 items done</span>
+                <span>18 of 33 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -182,7 +182,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">6</span>
+                    <span class="count">5</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -209,23 +209,13 @@
                     <p>Analysis-only, no live code: benchmark restatement (per-trade excess vs SPY/QQQ — the single decisive analysis), execution-honest backtest rerun (next-day-open entries + costs; PF ≥~1.15 bar), portfolio NAV/beta/drawdown series + M9 concurrency correlation, and status-board downgrades (velocity thesis, sizing instinct, −8 cliff → Suspected).</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
-                <div class="card">
-                    <h3>Feed the suite's LEAP tab from trading-data</h3>
-                    <p>Verification found Yahoo blocks OPTION-CHAIN fetches from Render's IP (stock history works — Tracker tab is fine), so premium/leverage/DTE score 0 on Render. Right fix mirrors ADR-1: the nightly Dell scan already pushes premiums+IV to trading-data daily — have the suite read that (GitHub token env var) instead of live-fetching chains. Same bridge the swing/journal migrations need.</p>
-                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span><span class="tag tag-decision">decision</span></div>
-                </div>
             </div>
 
             <!-- IN PROGRESS -->
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">3</span>
-                </div>
-                <div class="card">
-                    <h3>Migrate Swing trader code</h3>
-                    <p>Replace the swing/module.py stub with the real implementation. The headless scan engine (152/152, 0 errors) is the natural donor. Contract: get_data() → list[dict].</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                    <span class="count">2</span>
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
@@ -243,7 +233,17 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">16</span>
+                    <span class="count">18</span>
+                </div>
+                <div class="card">
+                    <h3>Swing tab live via the bridge</h3>
+                    <p>07-06: swing/module.py reads the real signal log — local file on the Dell, trading-data on Render (shared common/trading_data.py fetcher, reused by LEAP). Latest signal per symbol, 21-day window, confidence + 7d outcome columns (outcomes fill as the new nightly check runs). Full 152-ticker live-scan view unlocks when Phase 0 D7 syncs headless results to trading-data.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>LEAP trading-data bridge live</h3>
+                    <p>07-06 (PR #12 + token): the LEAP tab reads the nightly Dell scan from trading-data — verified live: source=nightly, 104 signal-carrying tickers, 104/104 with real premiums, latest scan 07-03, one scoring truth (6-pillar). Legacy live-scan kept as automatic fallback. This bridge pattern is the template for the swing/journal migrations.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Suite deployed to Render + tabs verified</h3>

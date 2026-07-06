@@ -17,7 +17,11 @@ Read this first in any session on this repo.
   daily S3..R3 pivots with nearest-level markers, Barchart opinion columns.
   **Working** (added 2026-07-06; home decision resolved: its own tab).
   `get_data(on_row=None)` — on_row receives rows-so-far for partial display.
-- `swing/module.py` — swing-trader. **Stub**; expose `get_data() -> list[dict]`.
+- `swing/module.py` — swing signal history. **Working** (2026-07-06): local
+  signals file when run on the Dell, else `swing/signals.json` from
+  trading-data via `common/trading_data.py`. Latest signal per symbol,
+  21-day window, 7d outcome where checked. Full 152-ticker live-scan view
+  unlocks once Phase 0 D7 syncs `swing_headless_results.json` to trading-data.
 - `journal/module.py` — trade journal + P&L. **Stub**; same `get_data()` contract.
 - `common/market_data.py` — shared: daily/weekly pivots, ATH/52-week, Barchart
   opinion scraper, and the `TICKERS` universe.
@@ -42,10 +46,11 @@ Read this first in any session on this repo.
   tab if that's what it maps to — confirm with the user before assuming.
 
 ## Open threads
-- [ ] Migrate real Swing code into `swing/module.py` (was local-only; the
-      headless scan engine is the natural donor).
-- [ ] Migrate real Journal code into `journal/module.py` (was local-only;
-      stock-tracker's `journal_dashboard/build_journal_data.py` is prior art).
+- [x] ~~Migrate real Swing code~~ — done 2026-07-06 via the trading-data
+      bridge (signal-history view; live-scan view awaits Phase 0 D7).
+- [ ] Migrate real Journal code into `journal/module.py` — SENSITIVE: journal
+      data is P&L; needs the encrypted-dashboard treatment before it can be
+      served from the public suite. Design decision first.
 - [ ] Wire `common/market_data.py` helpers into Swing/Journal as they land.
 - [ ] Verify the ported LEAP tab against live data, then retire old
       stock-tracker (which now also hosts the Journal Dashboard — that needs a
