@@ -31,10 +31,23 @@ Read this first in any session on this repo.
   tab if that's what it maps to — confirm with the user before assuming.
 
 ## Open threads
-- [ ] Migrate real Swing code into `swing/module.py` (was local-only).
-- [ ] Migrate real Journal code into `journal/module.py` (was local-only).
-- [ ] Verify the ported LEAP tab against live data, then retire old stock-tracker.
+- [ ] Migrate real Swing code into `swing/module.py` (was local-only; the
+      headless scan engine is the natural donor).
+- [ ] Migrate real Journal code into `journal/module.py` (was local-only;
+      stock-tracker's `journal_dashboard/build_journal_data.py` is prior art).
+- [ ] Wire `common/market_data.py` helpers into Swing/Journal as they land.
+- [ ] Verify the ported LEAP tab against live data, then retire old
+      stock-tracker (which now also hosts the Journal Dashboard — that needs a
+      new home first).
 - [ ] Decide whether the old "Stock Tracker" tab becomes part of Swing.
+- [ ] Watch the first scheduled Halftime run (Mon Jul 6, ~1:20pm ET) and
+      verify @claude Q&A on a report issue.
+
+The full-system board (suite + automations + swing/LEAP research threads) is
+`ROADMAP.html`, refreshed 2026-07-06. Deep research/status detail lives in
+`trading-src/docs/planning/` (MASTER_STATUS_BOARD.md, ROADMAP_swing_trader.md,
+LEAP_ROADMAP.md) — trading-src is an hourly-synced mirror of the Dell; edit
+those docs on the machine, not on GitHub.
 
 ## Storage rule
 GitHub is the source of truth; the local machine is a disposable working copy.
