@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 54%;
+            height: 100%; width: 58%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>18 of 33 items done</span>
+                <span>19 of 33 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -173,7 +173,7 @@
                 </div>
                 <div class="card">
                     <h3>Retire old stock-tracker</h3>
-                    <p>Blocked on two things now: verify the ported LEAP tab, AND find a new home for the Journal Dashboard that stock-tracker gained on 07-05. Final step.</p>
+                    <p>Blocked on two things now: verify the ported LEAP tab, AND find a new home for the Journal Dashboard that stock-tracker gained on 07-05. Note 07-06: the dashboard is now served from the Dell over Tailscale (private tailnet, works on 5G), so live serving no longer depends on this repo — the repo copy is source only. Final step.</p>
                     <div class="card-tags"><span class="tag tag-infra">infra</span></div>
                 </div>
             </div>
@@ -182,12 +182,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">5</span>
-                </div>
-                <div class="card">
-                    <h3>Watch today's automations (Jul 6)</h3>
-                    <p>First scheduled Halftime run ~1:20pm ET today; YouTube digest 7:40am Israel with the new description fallback. Also verify @claude Q&amp;A answers on a report issue.</p>
-                    <div class="card-tags"><span class="tag tag-infra">automation</span><span class="tag tag-priority">priority</span></div>
+                    <span class="count">4</span>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
@@ -233,7 +228,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">18</span>
+                    <span class="count">19</span>
+                </div>
+                <div class="card">
+                    <h3>Jul 6 automations watched — all green, emails fixed</h3>
+                    <p>Both scheduled runs fired and delivered on 07-06: YouTube digest (issues #8/#14, description fallback working) and Halftime's first-ever scheduled run (issue #15, 19:22 UTC). Root cause of "no emails" found: the repo was never Watched, so GitHub had no one to notify — fixed (Watch → All Activity) and verified end-to-end on 5G. @claude Q&amp;A was broken (claude.yml passed the raw pasted-newline token to the action — instant auth death); fixed with the same strip-whitespace treatment and verified live on issue #15 (correct Micron answer, Lebenthal-vs-Weiss disagreement).</p>
+                    <div class="card-tags"><span class="tag tag-infra">automation</span></div>
                 </div>
                 <div class="card">
                     <h3>Swing tab live via the bridge</h3>

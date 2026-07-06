@@ -54,11 +54,17 @@ Read this first in any session on this repo.
 - [ ] Wire `common/market_data.py` helpers into Swing/Journal as they land.
 - [ ] Verify the ported LEAP tab against live data, then retire old
       stock-tracker (which now also hosts the Journal Dashboard — that needs a
-      new home first).
+      new home first; note 2026-07-06: the dashboard is served from the Dell
+      over Tailscale, so live serving no longer depends on the repo).
 - [x] ~~Decide whether the old "Stock Tracker" tab becomes part of Swing~~ —
       resolved 2026-07-06: it's its own Tracker tab (`tracker/module.py`).
-- [ ] Watch the first scheduled Halftime run (Mon Jul 6, ~1:20pm ET) and
-      verify @claude Q&A on a report issue.
+- [x] ~~Watch the first scheduled Halftime run (Mon Jul 6, ~1:20pm ET) and
+      verify @claude Q&A on a report issue~~ — done 2026-07-06: both scheduled
+      runs fired and delivered (YouTube #8/#14, Halftime #15). Email root
+      cause fixed: the repo was never Watched on GitHub, so issue emails went
+      to no one; now watching (All Activity), verified end-to-end. @claude
+      Q&A was broken by the pasted-newline token (claude.yml passed it raw);
+      fixed with a strip step and verified live on issue #15.
 
 The full-system board (suite + automations + swing/LEAP research threads) is
 `ROADMAP.html`, refreshed 2026-07-06. Deep research/status detail lives in
