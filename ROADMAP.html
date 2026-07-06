@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>19 of 33 items done</span>
+                <span>20 of 35 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -134,17 +134,12 @@
             <div class="column col-backlog">
                 <div class="column-header">
                     <span class="column-title">Backlog</span>
-                    <span class="count">8</span>
+                    <span class="count">7</span>
                 </div>
                 <div class="card">
                     <h3>Phase 2 — risk controls before any capital increase</h3>
                     <p>Hard catastrophic stop (the −15% STOP flag already shipped to swing_flag + dashboard fallback from the audit window), earnings-hold rule, sleeve-drawdown kill-switch (e.g. −12% from high-water → flat). Pre-register the exit contradiction (time-stop / velocity-take as rules) for the Milestone-2 out-of-sample test.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span></div>
-                </div>
-                <div class="card">
-                    <h3>Phase 3 — refactor behind a golden test</h3>
-                    <p>Golden-file test for the scoring pipeline FIRST (pinned outputs), then: kill the 97%-identical swing_trader_quiet fork, extract GUI-free swing_core.py shared by GUI + headless, de-dupe the scan loop, reconcile the two disagreeing score caps, single-writer discipline on state.json.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Velocity exit threshold</h3>
@@ -182,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">5</span>
+                    <span class="count">7</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -203,6 +198,16 @@
                     <h3>Phase 0 — stop the swing data loss (audit)</h3>
                     <p>IN MOTION — journal P&amp;L bugs fixed 07-06 (branch claude/journal-phase0-pnl-fixes: Fidelity CSV column-shift fix, anchored action classification, REINVEST/TRANSFER/ASSIGNED handling, first journal tests; deployed to the live file 14:13, verified: py_compile clean + 10/10 tests pass). Remaining swing-side items: persist ATR/Close + exit_regime, MFE/MAE wiring, atomic signals.json saves, non-BUY-tier logging, archive sync, UTC−4 → zoneinfo, error unswallowing. Pair with the LEAP logger session.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Fix Item 56 — blank-screen paint race (reproduced 2× tonight)</h3>
+                    <p>07-06 evening: desktop app went data-then-blank twice; py-spy showed idle mainloop — the documented Tk-to-X paint race (CHANGE_LIST Item 56, diagnosed Jun 17–18, never fixed). The Phase-3 rebuild kept the racy _render_scan (fresh Canvas per render — verified). The REAL FIX IS ALREADY DESIGNED in the Item 56 entry with strict acceptance criteria (canvas built once; 10 consecutive clean render cycles incl. _bc_post_scrape; not at a firefight tail). Dedicated session for the refactor window. Meanwhile: web reader covers signals.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Backfill exits for 8 imported trades</h3>
+                    <p>The tracker's 8 journal-imported positions (GM GS NEM ON ORCL PFE T VZ) carry signal joins but empty suggested_exits → no stop/target alerts from the position monitor (swing_flag WATCH/ROT/STOP coverage unaffected). Small backfill: recompute stop/T1/T2 from entry price ± CFG multipliers × entry-date ATR.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Phase 1 — decide if the edge is real (before ~Aug milestone)</h3>
@@ -228,12 +233,17 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">19</span>
+                    <span class="count">20</span>
                 </div>
                 <div class="card">
                     <h3>Market-data wiring (absorbed)</h3>
                     <p>Closed 07-06: the pivots/ATH/52wk helpers found their home in the Tracker tab, and the Swing/LEAP tabs correctly read Dell-produced data instead of recomputing market data on Render. Nothing left for this card to wire.</p>
                     <div class="card-tags"><span class="tag tag-shared">shared</span></div>
+                </div>
+                <div class="card">
+                    <h3>Phase 3 refactor executed + tracker reconciled (Dell window)</h3>
+                    <p>07-06 afternoon: golden scoring test added, GUI-free swing_core.py extracted (993 lines), swing_trader_quiet fork reduced to a wrapper, headless scan rewired onto the core; reconcile_tracker.py built and applied — closed 8 stale tracker positions against the real Fidelity account and joined 8 real buys to their signals. Caveat: the render layer was untouched — Item 56 remains (see Next Up).</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Swing tab live via the bridge</h3>
