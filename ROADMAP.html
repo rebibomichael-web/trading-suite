@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 48%;
+            height: 100%; width: 51%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>16 of 33 items done</span>
+                <span>17 of 33 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -182,7 +182,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">6</span>
+                    <span class="count">5</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -208,11 +208,6 @@
                     <h3>Phase 1 — decide if the edge is real (before ~Aug milestone)</h3>
                     <p>Analysis-only, no live code: benchmark restatement (per-trade excess vs SPY/QQQ — the single decisive analysis), execution-honest backtest rerun (next-day-open entries + costs; PF ≥~1.15 bar), portfolio NAV/beta/drawdown series + M9 concurrency correlation, and status-board downgrades (velocity thesis, sizing instinct, −8 cliff → Suspected).</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
-                </div>
-                <div class="card">
-                    <h3>Activate the LEAP trading-data bridge (one token)</h3>
-                    <p>Code shipped + merged 07-06 (PR #12): the LEAP tab now reads the nightly Dell scan's records from trading-data — real 6-pillar scores/signals/premiums, ~104 signal-carrying tickers, scan date shown; legacy fallback until activated. Remaining: create a fine-grained GitHub token (trading-data only, Contents read-only) and add it as TRADING_DATA_TOKEN in the Render service's Environment tab. Same bridge pattern the swing/journal migrations will reuse.</p>
-                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
                 </div>
             </div>
 
@@ -243,7 +238,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">16</span>
+                    <span class="count">17</span>
+                </div>
+                <div class="card">
+                    <h3>LEAP trading-data bridge live</h3>
+                    <p>07-06 (PR #12 + token): the LEAP tab reads the nightly Dell scan from trading-data — verified live: source=nightly, 104 signal-carrying tickers, 104/104 with real premiums, latest scan 07-03, one scoring truth (6-pillar). Legacy live-scan kept as automatic fallback. This bridge pattern is the template for the swing/journal migrations.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Suite deployed to Render + tabs verified</h3>
