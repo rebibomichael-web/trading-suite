@@ -210,9 +210,9 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Verify LEAP tab vs live data</h3>
-                    <p>Compare scan_leaps() output in the suite against the original stock-tracker to confirm the port is faithful.</p>
-                    <div class="card-tags"><span class="tag tag-leap">leap</span></div>
+                    <h3>Deploy the suite to Render, then verify tabs</h3>
+                    <p>Discovered 07-06: the trading-suite service was never created on Render — render.yaml exists, the service doesn't (only stock-tracker is deployed). Create it (New → Blueprint → trading-suite repo, free tier), then verify the LEAP tab against the nightly-scan baseline and watch the new Tracker tab fill its 16 rows.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
                 </div>
             </div>
 
