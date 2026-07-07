@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">8</span>
+                    <span class="count">7</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -205,13 +205,8 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Blank-screen endgame: remove Barchart, keep Synthetic (v2 brief delivered)</h3>
-                    <p>The blank-after-populate survived both 07-06/07 freeze fixes (live file b8286393 verified fix-present) — the remaining trigger is _bc_post_scrape's post-scrape re-render itself. Close-out analysis said Barchart has no pattern (see Done); Michael's call 07-07: remove the scraper, KEEP SyntheticConsensus as a candidate momentum/timing indicator. v2 brief delivered (CODE_HANDOFF_barchart_removal_keep_synth, supersedes v1): Step 1 strips collector/correlation/_bc_post_scrape/Opinion column/live rows of Consensus tab/health probe — synth display stays, LEAP/Tracker Barchart untouched, freeze fixes left in place; Step 2 installs synth_daily.py nightly logger (swing UNIVERSE + LEAP tickers, 180d retention bound, cron 16:30 ET, backed up to trading-data). The blank trigger dies by deletion. Acceptance: 10 consecutive clean cycles post-removal.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
-                </div>
-                <div class="card">
                     <h3>Synth timing indicator — confirmation pass (~Aug 18)</h3>
-                    <p>Exploration on the archived Apr–Jul panel ran 07-07 (in-sample, all Suspected): synth "turn up" signals ANTI-work — every turn definition underperformed, and turns inside falling knives marked dead-cat bounces (46.0% vs 49.1% WR at 7d), while the one positive cell is steady-Buy persistence (≥67 and holding: 54.9% WR at both 7d and 21d, +4.36% mean at 21d vs +2.44% baseline). Pre-registered confirmation spec filed (SYNTH_TIMING_PREREG_SPEC): C1 knife anti-turn negative rule, C2 steady-Buy persistence, C3 knife-stabilization (the LEAP falling-knife hypothesis) — runs on ≥6 weeks of new synth_daily data, target week of Aug 18; then joins the milestone cadence. Display badges at most until something confirms; no wiring.</p>
+                    <p>Exploration on the archived Apr–Jul panel ran 07-07 (in-sample, all Suspected): synth "turn up" signals ANTI-work — every turn definition underperformed, and turns inside falling knives marked dead-cat bounces (46.0% vs 49.1% WR at 7d), while the one positive cell is steady-Buy persistence (≥67 and holding: 54.9% WR at both 7d and 21d, +4.36% mean at 21d vs +2.44% baseline). Pre-registered confirmation spec filed (SYNTH_TIMING_PREREG_SPEC): C1 knife anti-turn negative rule, C2 steady-Buy persistence, C3 knife-stabilization (the LEAP falling-knife hypothesis) — runs on ≥6 weeks of new synth_daily data, target week of Aug 18; then joins the milestone cadence. Display badges at most until something confirms; no wiring. LOGGER LIVE 07-07: 155 symbols (swing 152 ⊆ LEAP FULL_UNIVERSE 155), bar-date stamping verified, idempotent, cron 16:30 ET, backed up to trading-data — Aug 18 clock is running.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-leap">leap</span></div>
                 </div>
                 <div class="card">
@@ -225,7 +220,12 @@
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">1</span>
+                    <span class="count">2</span>
+                </div>
+                <div class="card">
+                    <h3>Blank-screen endgame: Barchart removed — 10-cycle acceptance running (2/10)</h3>
+                    <p>APPLIED on the Dell 07-07 (local session, MD5 b8286393 → 40c2b853, backup .bak-pre-barchart-removal-20260707): collector/correlation/_bc_post_scrape/Opinion column/health probe/bs4 import removed; SyntheticConsensus + synth-only Consensus tab + all freeze fixes kept. Verified: py_compile clean, residue grep clean, TWO clean GUI scan cycles (populated, never blanked, no Barchart stdout), health shows 5 probes. synth_daily.py logger live same session. Mirror staleness self-healed — trading-src now carries 40c2b853. Remaining: Michael banks 8 more clean cycles in live use; leftover unused `import requests` = a later one-variable cleanup. Blank returns after this = new investigation, not this card.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
