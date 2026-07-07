@@ -200,8 +200,8 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Fix Item 56 — blank-screen paint race (reproduced 2× tonight)</h3>
-                    <p>07-06 evening: desktop app went data-then-blank twice; py-spy showed idle mainloop — the documented Tk-to-X paint race (CHANGE_LIST Item 56, diagnosed Jun 17–18, never fixed). The Phase-3 rebuild kept the racy _render_scan (fresh Canvas per render — verified). The REAL FIX IS ALREADY DESIGNED in the Item 56 entry with strict acceptance criteria (canvas built once; 10 consecutive clean render cycles incl. _bc_post_scrape; not at a firefight tail). Dedicated session for the refactor window. Meanwhile: web reader covers signals.</p>
+                    <h3>Freeze fixes applied — awaiting 10-cycle live verification</h3>
+                    <p>Two root causes found and fixed: (1) Item 56 paint race — persistent Signals canvas shipped 07-06; (2) nested-destroy freeze — py-spy caught the main thread wedged in _ref_tracker's destroy, called inline from _render_scan's tail during the Barchart re-render. Fixed 07-07: background renders skip tab-select + tracker refresh; foreground renders defer _ref_tracker via a coalesced after(). NOT resolved until 10 consecutive clean scan cycles incl. a Barchart second pass (Michael, live GUI). Popup-storm throttling = variable #2, held until #1 proves out.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
