@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 55%;
+            height: 100%; width: 58%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>20 of 36 items done</span>
+                <span>21 of 36 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">8</span>
+                    <span class="count">7</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -198,11 +198,6 @@
                     <h3>Phase 0 — stop the swing data loss (audit)</h3>
                     <p>IN MOTION — journal P&amp;L bugs fixed 07-06 (branch claude/journal-phase0-pnl-fixes: Fidelity CSV column-shift fix, anchored action classification, REINVEST/TRANSFER/ASSIGNED handling, first journal tests; deployed to the live file 14:13, verified: py_compile clean + 10/10 tests pass). Remaining swing-side items: persist ATR/Close + exit_regime, MFE/MAE wiring, atomic signals.json saves, non-BUY-tier logging, archive sync, UTC−4 → zoneinfo, error unswallowing. Pair with the LEAP logger session.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
-                </div>
-                <div class="card">
-                    <h3>Unwedge the trading-data backup push (2-min fix)</h3>
-                    <p>Found 07-07 morning: backup-data.sh pushes without pulling, and the CLAUDE.md PR merged on GitHub (07-06 06:47) made every Dell push since fail non-fast-forward — the script misreports it as a network blip. All data (outcomes press, crons) is safe in local commits. Fix: cd ~/trading-data && git pull --rebase origin main && git push. Then harden ~/backup-data.sh with a pull --rebase before commit. Blocks the June confidence re-test + all remote data verification until done.</p>
-                    <div class="card-tags"><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Fix Item 56 — blank-screen paint race (reproduced 2× tonight)</h3>
@@ -238,12 +233,17 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">20</span>
+                    <span class="count">21</span>
                 </div>
                 <div class="card">
                     <h3>Market-data wiring (absorbed)</h3>
                     <p>Closed 07-06: the pivots/ATH/52wk helpers found their home in the Tracker tab, and the Swing/LEAP tabs correctly read Dell-produced data instead of recomputing market data on Render. Nothing left for this card to wire.</p>
                     <div class="card-tags"><span class="tag tag-shared">shared</span></div>
+                </div>
+                <div class="card">
+                    <h3>Backup pipeline unwedged + root-caused</h3>
+                    <p>07-07: trading-data pushes had failed silently since the 07-06 GitHub-side CLAUDE.md merge (backup-data.sh pushes without pulling → non-fast-forward, misreported as network blip). One rebase+push recovered a full day of queued backups. Remaining hardening: add git pull --rebase INSIDE ~/backup-data.sh (running it once in a terminal does not persist).</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Phase 3 refactor executed + tracker reconciled (Dell window)</h3>
@@ -282,7 +282,7 @@
                 </div>
                 <div class="card">
                     <h3>Confidence hypothesis tested (pre-registered)</h3>
-                    <p>07-06: E0 sinks proved structurally unable to test it (no confidence/score persisted — card premise corrected); signals.json had 303 testable signals. H1 rejected on frozen criteria; inversion logged as Suspected. Spec + findings docs delivered. RATIFIED by Michael same day: no wiring; June out-of-sample re-test scheduled.</p>
+                    <p>07-06: E0 sinks proved structurally unable to test it (no confidence/score persisted — card premise corrected); signals.json had 303 testable signals. H1 rejected on frozen criteria; inversion logged as Suspected. Spec + findings docs delivered. RATIFIED same day: no wiring. OUT-OF-SAMPLE RE-TEST (07-07, n=129): the inversion FLIPPED (+34 pts the other way); every component check flipped sign too — confidence is a regime mirror, not alpha. Ledger entries killed; no-wiring re-affirmed in both directions.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
