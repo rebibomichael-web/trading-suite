@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 57%;
+            height: 100%; width: 55%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>20 of 35 items done</span>
+                <span>20 of 36 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">7</span>
+                    <span class="count">8</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -198,6 +198,11 @@
                     <h3>Phase 0 — stop the swing data loss (audit)</h3>
                     <p>IN MOTION — journal P&amp;L bugs fixed 07-06 (branch claude/journal-phase0-pnl-fixes: Fidelity CSV column-shift fix, anchored action classification, REINVEST/TRANSFER/ASSIGNED handling, first journal tests; deployed to the live file 14:13, verified: py_compile clean + 10/10 tests pass). Remaining swing-side items: persist ATR/Close + exit_regime, MFE/MAE wiring, atomic signals.json saves, non-BUY-tier logging, archive sync, UTC−4 → zoneinfo, error unswallowing. Pair with the LEAP logger session.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Unwedge the trading-data backup push (2-min fix)</h3>
+                    <p>Found 07-07 morning: backup-data.sh pushes without pulling, and the CLAUDE.md PR merged on GitHub (07-06 06:47) made every Dell push since fail non-fast-forward — the script misreports it as a network blip. All data (outcomes press, crons) is safe in local commits. Fix: cd ~/trading-data && git pull --rebase origin main && git push. Then harden ~/backup-data.sh with a pull --rebase before commit. Blocks the June confidence re-test + all remote data verification until done.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Fix Item 56 — blank-screen paint race (reproduced 2× tonight)</h3>
