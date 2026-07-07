@@ -200,8 +200,8 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Item 51 REOPENED — scan slowdown (both triggers hit)</h3>
-                    <p>07-07: Michael reports off-hours slowness (re-open trigger #1) and signals.json sits at 975KB (~trigger #2). Discrimination protocol delivered: (1) pure-network probe — 3 timed raw yfinance fetches (tests Yahoo IP throttling, Story A); (2) timed headless scan vs the 3-min/18-min baselines (tests in-program bloat, Story B). Known B contributors: 975KB signals.json full-rewrite churn, 2.5MB barchart_synth, ~10MB JSON parsed at startup. Also add scan-duration telemetry (one line) so this never needs manual timing again.</p>
+                    <h3>Perf &amp; stability: root cause + canaries (spec delivered)</h3>
+                    <p>Item 51 reopened on both triggers; Yahoo probe came back FAST (0.2–2.2s) → today's slowness is in-program. Root cause named (PERF_STABILITY_ROOTCAUSE_SPEC, 07-07): main-thread work scales with unbounded data (975KB signals rewritten whole, 2.5MB synth, ~10MB startup parse) and nothing measures it. Spec delivers cause-fixes (retention/compaction reusing the in-house archive pattern, incremental saves, bounded renders) + 5 HealthMonitor canaries (Yahoo latency, scan-duration trend, event-loop heartbeat = freeze early-warning, file-size watch, hung-socket count). Still wanted: one timed headless scan to log the current Story-B baseline.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
