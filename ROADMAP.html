@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 58%;
+            height: 100%; width: 59%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>21 of 36 items done</span>
+                <span>22 of 37 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -200,14 +200,14 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Freeze fixes applied — awaiting 10-cycle live verification</h3>
-                    <p>Two root causes found and fixed: (1) Item 56 paint race — persistent Signals canvas shipped 07-06; (2) nested-destroy freeze — py-spy caught the main thread wedged in _ref_tracker's destroy, called inline from _render_scan's tail during the Barchart re-render. Fixed 07-07: background renders skip tab-select + tracker refresh; foreground renders defer _ref_tracker via a coalesced after(). NOT resolved until 10 consecutive clean scan cycles incl. a Barchart second pass (Michael, live GUI). Popup-storm throttling = variable #2, held until #1 proves out.</p>
+                    <h3>Item 51 REOPENED — scan slowdown (both triggers hit)</h3>
+                    <p>07-07: Michael reports off-hours slowness (re-open trigger #1) and signals.json sits at 975KB (~trigger #2). Discrimination protocol delivered: (1) pure-network probe — 3 timed raw yfinance fetches (tests Yahoo IP throttling, Story A); (2) timed headless scan vs the 3-min/18-min baselines (tests in-program bloat, Story B). Known B contributors: 975KB signals.json full-rewrite churn, 2.5MB barchart_synth, ~10MB JSON parsed at startup. Also add scan-duration telemetry (one line) so this never needs manual timing again.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Backfill exits for 8 imported trades</h3>
-                    <p>SCRIPT DELIVERED 07-07 (backfill_exits.py): recomputes stop/T1/T2 via the app's own CFG/fetch/indicators at entry-date ATR; math verified against GOOGL's stored exits to the cent. Run on the Dell: dry-run first (GUI closed), then --apply (timestamped backup + atomic write). Also verified overnight: LEAP nightly scan ran (67 records), outcomes cron populating, backup pipeline self-healing.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                    <h3>Freeze fixes applied — awaiting 10-cycle live verification</h3>
+                    <p>Two root causes found and fixed: (1) Item 56 paint race — persistent Signals canvas shipped 07-06; (2) nested-destroy freeze — py-spy caught the main thread wedged in _ref_tracker's destroy, called inline from _render_scan's tail during the Barchart re-render. Fixed 07-07: background renders skip tab-select + tracker refresh; foreground renders defer _ref_tracker via a coalesced after(). NOT resolved until 10 consecutive clean scan cycles incl. a Barchart second pass (Michael, live GUI). Popup-storm throttling = variable #2, held until #1 proves out.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Phase 1 — decide if the edge is real (before ~Aug milestone)</h3>
@@ -233,12 +233,17 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">21</span>
+                    <span class="count">22</span>
                 </div>
                 <div class="card">
                     <h3>Market-data wiring (absorbed)</h3>
                     <p>Closed 07-06: the pivots/ATH/52wk helpers found their home in the Tracker tab, and the Swing/LEAP tabs correctly read Dell-produced data instead of recomputing market data on Render. Nothing left for this card to wire.</p>
                     <div class="card-tags"><span class="tag tag-shared">shared</span></div>
+                </div>
+                <div class="card">
+                    <h3>Exits backfilled for 8 imported trades</h3>
+                    <p>07-07: backfill_exits.py dry-run + applied on the Dell — all 8 (GM GS NEM ON ORCL PFE T VZ) got stop/T1/T2 from entry-date ATR via the app's own CFG/indicators; verified none missing after write; timestamped backup taken. Position-monitor alerts now cover them.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Backup pipeline unwedged + root-caused</h3>
