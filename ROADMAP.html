@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 61%;
+            height: 100%; width: 59%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>23 of 38 items done</span>
+                <span>23 of 39 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">7</span>
+                    <span class="count">8</span>
                 </div>
                 <div class="card">
                     <h3>Watch today's automations (Jul 6)</h3>
@@ -205,9 +205,14 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Blank-screen endgame: remove Barchart from swing (brief delivered)</h3>
-                    <p>The blank-after-populate survived both 07-06/07 freeze fixes (live file b8286393 verified fix-present) — the remaining trigger is _bc_post_scrape's post-scrape re-render itself. Michael then questioned whether swing-side Barchart earns its keep at all; the close-out analysis said no (see Done). Removal brief delivered 07-07 (CODE_HANDOFF_barchart_swing_removal): strip collector/synth/correlation classes, scan-tail scrape, _bc_post_scrape, Opinion column, Consensus tab, health probe — LEAP/Tracker Barchart untouched, freeze fixes left in place, one variable. The blank trigger dies by deletion. Acceptance: 10 consecutive clean cycles post-removal (populate, never blank).</p>
+                    <h3>Blank-screen endgame: remove Barchart, keep Synthetic (v2 brief delivered)</h3>
+                    <p>The blank-after-populate survived both 07-06/07 freeze fixes (live file b8286393 verified fix-present) — the remaining trigger is _bc_post_scrape's post-scrape re-render itself. Close-out analysis said Barchart has no pattern (see Done); Michael's call 07-07: remove the scraper, KEEP SyntheticConsensus as a candidate momentum/timing indicator. v2 brief delivered (CODE_HANDOFF_barchart_removal_keep_synth, supersedes v1): Step 1 strips collector/correlation/_bc_post_scrape/Opinion column/live rows of Consensus tab/health probe — synth display stays, LEAP/Tracker Barchart untouched, freeze fixes left in place; Step 2 installs synth_daily.py nightly logger (swing UNIVERSE + LEAP tickers, 180d retention bound, cron 16:30 ET, backed up to trading-data). The blank trigger dies by deletion. Acceptance: 10 consecutive clean cycles post-removal.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Synth timing indicator — confirmation pass (~Aug 18)</h3>
+                    <p>Exploration on the archived Apr–Jul panel ran 07-07 (in-sample, all Suspected): synth "turn up" signals ANTI-work — every turn definition underperformed, and turns inside falling knives marked dead-cat bounces (46.0% vs 49.1% WR at 7d), while the one positive cell is steady-Buy persistence (≥67 and holding: 54.9% WR at both 7d and 21d, +4.36% mean at 21d vs +2.44% baseline). Pre-registered confirmation spec filed (SYNTH_TIMING_PREREG_SPEC): C1 knife anti-turn negative rule, C2 steady-Buy persistence, C3 knife-stabilization (the LEAP falling-knife hypothesis) — runs on ≥6 weeks of new synth_daily data, target week of Aug 18; then joins the milestone cadence. Display badges at most until something confirms; no wiring.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-leap">leap</span></div>
                 </div>
                 <div class="card">
                     <h3>Phase 1 — decide if the edge is real (before ~Aug milestone)</h3>
