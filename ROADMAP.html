@@ -206,7 +206,7 @@
                 </div>
                 <div class="card">
                     <h3>Backfill exits for 8 imported trades</h3>
-                    <p>The tracker's 8 journal-imported positions (GM GS NEM ON ORCL PFE T VZ) carry signal joins but empty suggested_exits → no stop/target alerts from the position monitor (swing_flag WATCH/ROT/STOP coverage unaffected). Small backfill: recompute stop/T1/T2 from entry price ± CFG multipliers × entry-date ATR.</p>
+                    <p>SCRIPT DELIVERED 07-07 (backfill_exits.py): recomputes stop/T1/T2 via the app's own CFG/fetch/indicators at entry-date ATR; math verified against GOOGL's stored exits to the cent. Run on the Dell: dry-run first (GUI closed), then --apply (timestamped backup + atomic write). Also verified overnight: LEAP nightly scan ran (67 records), outcomes cron populating, backup pipeline self-healing.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
