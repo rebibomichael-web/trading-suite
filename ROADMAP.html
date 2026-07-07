@@ -211,7 +211,7 @@
                 </div>
                 <div class="card">
                     <h3>Phase 1 — decide if the edge is real (RATIFIED, ready to run)</h3>
-                    <p>CRITERIA RATIFIED &amp; FROZEN 07-07 (before any number computed) — run brief delivered (CODE_HANDOFF_phase1_edge_reality_RATIFIED). Part A (the decisive one): alpha-suggestive ⟺ mean per-trade excess vs SPY ≥ +1.0% AND sign holds both halves; beta ⟺ within ±0.5% or sign flips (→ fold to medium lane, paper/clean-trial till M3); QQQ reported as cross-check. Part B: execution-honest rerun (next-day-open + 7.5bp) — edge real ⟺ PF ≥ 1.15 vs the 1.23 same-close baseline. Plus portfolio risk series + M9 correlation (descriptive) and MASTER_STATUS_BOARD downgrades (IV-2 / IV-6 / −8% cliff → Suspected). Analysis-only, read-only, doesn't touch swing_trader (safe alongside the blank-cycle count) or LEAP. Needs one Dell session; run before Milestone 2 (~Aug 1).</p>
+                    <p>CRITERIA RATIFIED &amp; FROZEN 07-07 (before any number computed) — run brief delivered (CODE_HANDOFF_phase1_edge_reality_RATIFIED). Part A (the decisive one): alpha-suggestive ⟺ mean per-trade excess vs SPY ≥ +1.0% AND sign holds both halves; beta ⟺ within ±0.5% or sign flips (→ fold to medium lane, paper/clean-trial till M3); QQQ reported as cross-check. Part B: execution-honest rerun (next-day-open + 7.5bp) — edge real ⟺ PF ≥ 1.15 vs the 1.23 same-close baseline. A2 added 07-07: endogeneity-aware velocity cut — bucket by ENTRY-side info only (not realized holding period, which peeks at the outcome), descriptive, no new gate; the velocity threshold itself stays a Milestone-2 out-of-sample job. Plus portfolio risk series + M9 correlation (descriptive) and MASTER_STATUS_BOARD downgrades (IV-2 / IV-6 / −8% cliff → Suspected). Analysis-only, read-only, doesn't touch swing_trader (safe alongside the blank-cycle count) or LEAP. Needs one Dell session; run before Milestone 2 (~Aug 1).</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
             </div>
@@ -229,7 +229,7 @@
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
-                    <p>Replace the journal/module.py stub with the real trade journal + P&amp;L logic. The stock-tracker journal_dashboard connector (build_journal_data.py) is working prior art. Same get_data() contract.</p>
+                    <p><strong>⏸ PARKED 07-07 — owner deferred the encryption-design decision; not blocked on code.</strong> Blocker: sensitive P&amp;L must never be served unencrypted from the public Render suite — migration waits on Michael's call on the encryption approach. Then: replace the journal/module.py stub with the real trade journal + P&amp;L logic. The stock-tracker journal_dashboard connector (build_journal_data.py) is working prior art. Same get_data() contract.</p>
                     <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-priority">priority</span></div>
                 </div>
             </div>
