@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 59%;
+            height: 100%; width: 61%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>22 of 37 items done</span>
+                <span>23 of 38 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -201,12 +201,12 @@
                 </div>
                 <div class="card">
                     <h3>Perf &amp; stability: root cause + canaries (spec delivered)</h3>
-                    <p>Item 51 reopened on both triggers; Yahoo probe came back FAST (0.2–2.2s) → today's slowness is in-program. Root cause named (PERF_STABILITY_ROOTCAUSE_SPEC, 07-07): main-thread work scales with unbounded data (975KB signals rewritten whole, 2.5MB synth, ~10MB startup parse) and nothing measures it. Spec delivers cause-fixes (retention/compaction reusing the in-house archive pattern, incremental saves, bounded renders) + 5 HealthMonitor canaries (Yahoo latency, scan-duration trend, event-loop heartbeat = freeze early-warning, file-size watch, hung-socket count). Still wanted: one timed headless scan to log the current Story-B baseline.</p>
+                    <p>Item 51 reopened on both triggers; Yahoo probe came back FAST (0.2–2.2s) → today's slowness is in-program. Root cause named (PERF_STABILITY_ROOTCAUSE_SPEC, 07-07): main-thread work scales with unbounded data (975KB signals rewritten whole, 2.5MB synth, ~10MB startup parse) and nothing measures it. Spec delivers cause-fixes (retention/compaction reusing the in-house archive pattern, incremental saves, bounded renders) + 5 HealthMonitor canaries (Yahoo latency, scan-duration trend, event-loop heartbeat = freeze early-warning, file-size watch, hung-socket count). Still wanted: one timed headless scan to log the current Story-B baseline. 07-07 update: Barchart removal freezes the synth+live JSONs (3.6MB of the unbounded-data problem) — F1 compaction scope shrinks to signals.json + fire_alerts.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Freeze fixes applied — awaiting 10-cycle live verification</h3>
-                    <p>Two root causes found and fixed: (1) Item 56 paint race — persistent Signals canvas shipped 07-06; (2) nested-destroy freeze — py-spy caught the main thread wedged in _ref_tracker's destroy, called inline from _render_scan's tail during the Barchart re-render. Fixed 07-07: background renders skip tab-select + tracker refresh; foreground renders defer _ref_tracker via a coalesced after(). NOT resolved until 10 consecutive clean scan cycles incl. a Barchart second pass (Michael, live GUI). Popup-storm throttling = variable #2, held until #1 proves out.</p>
+                    <h3>Blank-screen endgame: remove Barchart from swing (brief delivered)</h3>
+                    <p>The blank-after-populate survived both 07-06/07 freeze fixes (live file b8286393 verified fix-present) — the remaining trigger is _bc_post_scrape's post-scrape re-render itself. Michael then questioned whether swing-side Barchart earns its keep at all; the close-out analysis said no (see Done). Removal brief delivered 07-07 (CODE_HANDOFF_barchart_swing_removal): strip collector/synth/correlation classes, scan-tail scrape, _bc_post_scrape, Opinion column, Consensus tab, health probe — LEAP/Tracker Barchart untouched, freeze fixes left in place, one variable. The blank trigger dies by deletion. Acceptance: 10 consecutive clean cycles post-removal (populate, never blank).</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
@@ -233,7 +233,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">22</span>
+                    <span class="count">23</span>
+                </div>
+                <div class="card">
+                    <h3>Barchart correlation experiment — CLOSED, no pattern</h3>
+                    <p>07-07: close-out analysis before removal (Michael's call), 5,213 pairs Apr 13–Jul 6, 4,740 with checked 7d outcomes, 53.1% rising-tape baseline. Verdict: Barchart opinion is directionally a coin flip (51.1%; our synth proxy 49.8%), Buy-vs-Sell spread 1.7pt, live-vs-synth disagreements dead even (49.7/50.3), agreement-matrix cells contradict each other, and live↔synth barely correlate (r≈0.10). One post-hoc gradient (+5pt in one cell) logged as Suspected-at-best, unused. The original "I wonder if there's a pattern" is answered: no. Findings doc filed; dataset stays archived in trading-data.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Market-data wiring (absorbed)</h3>
