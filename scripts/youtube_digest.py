@@ -109,10 +109,27 @@ def fetch_feed(channel_id):
     return videos
 
 
+def transcript_path(video_id):
+    return os.path.join("transcripts", "youtube", f"{video_id}.txt")
+
+
 def fetch_transcript(video_id):
-    """Fetch captions; uses a Webshare rotating residential proxy when the
-    WEBSHARE_PROXY_USERNAME/PASSWORD secrets are set (YouTube blocks direct
-    requests from cloud IPs like GitHub's runners)."""
+    """Return the transcript text for a video.
+
+    Prefers a transcript pre-fetched on a residential IP (e.g. the Dell, via
+    scripts/fetch_youtube_transcripts.py) and committed to
+    transcripts/youtube/<id>.txt — this sidesteps YouTube's block on caption
+    requests from cloud IPs like GitHub's runners. Only if no pre-fetched file
+    exists does it fetch directly (optionally through a Webshare residential
+    proxy when WEBSHARE_PROXY_USERNAME/PASSWORD are set), caching the result in
+    the same raw-text file for reuse and audit."""
+    cached = transcript_path(video_id)
+    if os.path.exists(cached):
+        with open(cached) as fh:
+            text = fh.read().strip()
+        if text:
+            return text
+
     from youtube_transcript_api import YouTubeTranscriptApi
 
     user = os.environ.get("WEBSHARE_PROXY_USERNAME")
@@ -125,7 +142,12 @@ def fetch_transcript(video_id):
     else:
         api = YouTubeTranscriptApi()
     snippets = api.fetch(video_id)
-    return " ".join(s.text for s in snippets)
+    text = " ".join(s.text for s in snippets)
+
+    os.makedirs(os.path.dirname(cached), exist_ok=True)
+    with open(cached, "w") as fh:
+        fh.write(text)
+    return text
 
 
 def summarize_video(channel, v):
@@ -142,10 +164,6 @@ def summarize_video(channel, v):
     transcript = None
     try:
         transcript = fetch_transcript(v["id"])
-        os.makedirs("transcripts/youtube", exist_ok=True)
-        with open(f"transcripts/youtube/{v['id']}.txt", "w") as tf:
-            tf.write(f"{channel} — {v['title']} ({v['published']:%Y-%m-%d})\n\n")
-            tf.write(transcript)
     except Exception as e:
         print(f"{channel} / {v['title']}: no transcript ({e!r}) — using description")
         transcript = None
