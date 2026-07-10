@@ -3,6 +3,25 @@
 Consolidation of three trading projects into one Flask app with tabbed modules.
 Read this first in any session on this repo.
 
+## The four-repo system
+
+This repo is one fragment of a single trading platform spread across four
+repos:
+
+- `trading-src` (private) — canonical trading code + planning docs; an
+  hourly-synced **mirror** of the owner's Dell PC. Code edits made on GitHub
+  get overwritten by the next sync.
+- `trading-data` (private) — machine-generated data backups (nightly scans,
+  swing state, Fidelity journal CSVs). Never hand-edit; contains sensitive
+  brokerage data.
+- `trading-suite` (public, this repo) — the consolidated Flask app on Render
+  and the migration target. GitHub-native: edit and push here freely.
+- `stock-tracker` (public) — the legacy Render app + journal dashboard;
+  slated for retirement into this repo.
+
+The canonical map, data flow, duplication list, and traps live **in this
+repo**: `docs/SYSTEM_MAP.md`. Keep it current when the system's shape changes.
+
 ## Modules
 - `leap/nightly.py` — **primary LEAP data source**: reads the nightly Dell
   scan's records (real 6-pillar scores, premiums, IV) from the private
@@ -85,6 +104,9 @@ the sibling repositories. At the start of a session, add them with the
 - `rebibomichael-web/stock-tracker`
 - `rebibomichael-web/trading-src`
 - `rebibomichael-web/trading-data`
+
+Clone them to `/workspace/<repo>` — trading-src's tests expect the
+trading-data clone at `/workspace/trading-data`.
 
 If an add fails with an authorization error, tell the owner to grant the
 Claude GitHub App access to that repo at https://github.com/apps/claude
