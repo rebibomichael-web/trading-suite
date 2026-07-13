@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 62%;
+            height: 100%; width: 60%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>24 of 39 items done</span>
+                <span>24 of 40 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,12 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">6</span>
+                    <span class="count">7</span>
+                </div>
+                <div class="card">
+                    <h3>Pipelines DOWN since 07-10: mirror sync + daily backup (repeat wedge)</h3>
+                    <p>Found 07-13: hourly trading-src sync last ran 07-10 00:20, daily trading-data backup last ran 07-10 06:30 — three days dark. Cause: 07-10 web-setup PRs (SessionStart hook / allowlist / CLAUDE.md) merged on GitHub moved main on BOTH repos → the Dell's push-without-pull sync fails non-fast-forward silently — the exact 07-06 backup disease, now on sync-trading-src.sh, which never got the 07-07 hardening (only backup-data.sh did). The Dell also crashed, so cron state unknown. Consequences: the 07-13 canaries edit (243d7d18) exists ONLY on the laptop; 3 backups missed; canaries follow-ups (skipped-field, 63/152 check) unverifiable from cloud. Fix brief delivered (CODE_HANDOFF_pipeline_unwedge_20260713): verify canaries state first, unwedge both repos (GitHub wins CLAUDE.md/.claude; local wins code/data), harden the sync script with pull-AFTER-copy (mtime hazard), manual catch-up runs, cron restore check.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
