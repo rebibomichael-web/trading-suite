@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 65%;
+            height: 100%; width: 63%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>26 of 40 items done</span>
+                <span>26 of 41 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,12 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">6</span>
+                    <span class="count">7</span>
+                </div>
+                <div class="card">
+                    <h3>Auto-scan on launch (brief delivered)</h3>
+                    <p>Michael's ask 07-13 (he currently clicks Scan every launch). Brief delivered 07-14 (CODE_HANDOFF_autoscan_on_launch): new _startup_scan method + one after(5000,…) registration in __init__ — fires _scan() ~5s after launch ONLY if last_scan_metadata.timestamp is >4h stale (quick relaunches skip; _scan already self-guards). Unconditional by design (not Auto-toggle-gated); the rare double-scan when launching inside a _tick auto-window is accepted. Design facts verified against the live-matching mirror (d1a2eeea). Verification: both paths observed live + click-free scan proven via perf.json + next hourly sync carries it (doubles as the re-hardened sync's first live check).</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
