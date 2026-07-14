@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 60%;
+            height: 100%; width: 65%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>24 of 40 items done</span>
+                <span>26 of 40 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,12 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">7</span>
-                </div>
-                <div class="card">
-                    <h3>Pipelines DOWN since 07-10: mirror sync + daily backup (repeat wedge)</h3>
-                    <p>Found 07-13: hourly trading-src sync last ran 07-10 00:20, daily trading-data backup last ran 07-10 06:30 — three days dark. Cause: 07-10 web-setup PRs (SessionStart hook / allowlist / CLAUDE.md) merged on GitHub moved main on BOTH repos → the Dell's push-without-pull sync fails non-fast-forward silently — the exact 07-06 backup disease, now on sync-trading-src.sh, which never got the 07-07 hardening (only backup-data.sh did). The Dell also crashed, so cron state unknown. Consequences: the 07-13 canaries edit (243d7d18) exists ONLY on the laptop; 3 backups missed; canaries follow-ups (skipped-field, 63/152 check) unverifiable from cloud. Fix brief delivered (CODE_HANDOFF_pipeline_unwedge_20260713): verify canaries state first, unwedge both repos (GitHub wins CLAUDE.md/.claude; local wins code/data), harden the sync script with pull-AFTER-copy (mtime hazard), manual catch-up runs, cron restore check.</p>
-                    <div class="card-tags"><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
+                    <span class="count">6</span>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
@@ -201,7 +196,7 @@
                 </div>
                 <div class="card">
                     <h3>Perf &amp; stability: root cause + canaries (spec delivered)</h3>
-                    <p>Item 51 reopened on both triggers; Yahoo probe came back FAST (0.2–2.2s) → today's slowness is in-program. Root cause named (PERF_STABILITY_ROOTCAUSE_SPEC, 07-07): main-thread work scales with unbounded data (975KB signals rewritten whole, 2.5MB synth, ~10MB startup parse) and nothing measures it. Spec delivers cause-fixes (retention/compaction reusing the in-house archive pattern, incremental saves, bounded renders) + 5 HealthMonitor canaries (Yahoo latency, scan-duration trend, event-loop heartbeat = freeze early-warning, file-size watch, hung-socket count). Still wanted: one timed headless scan to log the current Story-B baseline. 07-07 update: Barchart removal freezes the synth+live JSONs (3.6MB of the unbounded-data problem) — F1 compaction scope shrinks to signals.json + fire_alerts. P1+P2 handoff DELIVERED 07-07 (CODE_HANDOFF_perf_canaries_P1P2): Yahoo probe each scan + hourly idle, scan-duration trend vs 10-scan median, ~/.michael_swing_perf.json telemetry (capped 500), 2 new HealthMonitor probes (5→7), notify on red — GATED on the 10-cycle blank acceptance finishing first (one variable). P3–P5 + F1–F3 follow per spec sequencing.</p>
+                    <p>Item 51 reopened on both triggers; Yahoo probe came back FAST (0.2–2.2s) → today's slowness is in-program. Root cause named (PERF_STABILITY_ROOTCAUSE_SPEC, 07-07): main-thread work scales with unbounded data (975KB signals rewritten whole, 2.5MB synth, ~10MB startup parse) and nothing measures it. Spec delivers cause-fixes (retention/compaction reusing the in-house archive pattern, incremental saves, bounded renders) + 5 HealthMonitor canaries (Yahoo latency, scan-duration trend, event-loop heartbeat = freeze early-warning, file-size watch, hung-socket count). Still wanted: one timed headless scan to log the current Story-B baseline. 07-07 update: Barchart removal freezes the synth+live JSONs (3.6MB of the unbounded-data problem) — F1 compaction scope shrinks to signals.json + fire_alerts. P1+P2 INSTALLED &amp; LIVE 07-13 (MD5 40c2b853 → d1a2eeea incl. follow-ups): Yahoo probe each scan + hourly idle, scan-duration trend, telemetry with skipped-count, 7 health probes — verified end-to-end 07-14: perf.json flowing to trading-data (20 entries; baseline forming: 152 syms in ~134s ≈ 1.14 sym/s, probes 0.6–1.0s green). Story-B baseline now accrues automatically. Remaining per spec sequencing: P3 heartbeat + P5 sockets (own session, after a few days of telemetry), then F1 compaction (signals.json + fire_alerts) + F2/F3/P4.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
@@ -220,12 +215,7 @@
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">2</span>
-                </div>
-                <div class="card">
-                    <h3>Blank-screen endgame: Barchart removed — 10-cycle acceptance running (2/10)</h3>
-                    <p>APPLIED on the Dell 07-07 (local session, MD5 b8286393 → 40c2b853, backup .bak-pre-barchart-removal-20260707): collector/correlation/_bc_post_scrape/Opinion column/health probe/bs4 import removed; SyntheticConsensus + synth-only Consensus tab + all freeze fixes kept. Verified: py_compile clean, residue grep clean, TWO clean GUI scan cycles (populated, never blanked, no Barchart stdout), health shows 5 probes. synth_daily.py logger live same session. Mirror staleness self-healed — trading-src now carries 40c2b853. Remaining: Michael banks 8 more clean cycles in live use; leftover unused `import requests` = a later one-variable cleanup. Blank returns after this = new investigation, not this card.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                    <span class="count">1</span>
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
@@ -238,7 +228,17 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">24</span>
+                    <span class="count">26</span>
+                </div>
+                <div class="card">
+                    <h3>Blank-screen bug CLOSED — Barchart removal accepted</h3>
+                    <p>The populate-then-blank saga is over. Trigger (_bc_post_scrape re-render) deleted 07-07; acceptance gate answered 07-13 (10 clean cycles banked, confirmed at the canaries session precondition check); a week of live scans since removal with zero blanks, now visible in perf telemetry (full scans populating, 152/152 symbols). If a blank EVER recurs it is a NEW investigation with py-spy, not this card. Leftover: unused `import requests` — a later one-variable cleanup.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>Pipelines unwedged + BOTH sync scripts now hardened</h3>
+                    <p>07-14: repaired per CODE_HANDOFF_pipeline_unwedge. Actual findings: trading-src had 7 stranded local Auto-sync commits (pushes failing silently since the 07-10 web-setup PR merges moved main — the 07-06 disease on the un-hardened twin script); trading-data was never wedged (already hardened) — its "missed days" were Sat/Sun (cron is weekday-only) + Mon morning (machine off/crash). Fixed: rebase+push both repos (zero conflicts, web-setup additions kept), sync-trading-src.sh hardened with pull-after-commit-before-push (mtime-hazard-safe placement), perf.json added to backup copy list, cron verified intact post-crash, synth_daily confirmed gap-free. Cloud-verified 07-14: mirror MD5 matches live (d1a2eeea), Auto-sync flowing, perf.json in trading-data. Bonus: STEP-0 proved Michael's pre-crash follow-ups WERE done (skipped-field in, 63/152 resolved — full scans log 152/0).</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Phase 1 edge-reality — RAN; swing reads as beta-in-a-bull-tape (verdict audited)</h3>
