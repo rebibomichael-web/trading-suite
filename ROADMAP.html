@@ -134,7 +134,7 @@
             <div class="column col-backlog">
                 <div class="column-header">
                     <span class="column-title">Backlog</span>
-                    <span class="count">7</span>
+                    <span class="count">6</span>
                 </div>
                 <div class="card">
                     <h3>Phase 2 — risk controls before any capital increase</h3>
@@ -162,11 +162,6 @@
                     <div class="card-tags"><span class="tag tag-shared">shared</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
-                    <h3>Journal → swing import (IV-8)</h3>
-                    <p>Journal presents trade facts, swing consumes. Contract validated live (59/59 join); 7-column open-positions export already ships. Build when prioritized.</p>
-                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span></div>
-                </div>
-                <div class="card">
                     <h3>Retire old stock-tracker</h3>
                     <p>Blocked on two things now: verify the ported LEAP tab, AND find a new home for the Journal Dashboard that stock-tracker gained on 07-05. Final step.</p>
                     <div class="card-tags"><span class="tag tag-infra">infra</span></div>
@@ -177,7 +172,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">7</span>
+                    <span class="count">8</span>
                 </div>
                 <div class="card">
                     <h3>CRON_TZ is inert — cron schedule audit (2 fixed, rest flagged)</h3>
@@ -188,6 +183,11 @@
                     <h3>Warm start: cached scan table + age flag on launch (brief delivered)</h3>
                     <p>Michael's y 07-14 — kills the blank pane on open. Brief delivered (CODE_HANDOFF_warm_start): persist the full table at scan end (~/.michael_swing_last_scan.json, atomic, latest-only ~200KB, deliberately NOT backed up — regenerable cache); on launch _restore_last_scan renders it instantly via the safe background render path, with an age-flagged label ("Xh ago", amber >4h — which also fixes the UTC-as-wall-clock "3:29 PM" display confusion); the 5s startup-scan then refreshes only if truly stale. Four insertions, one variable; verification includes the backdate test proving render-then-refresh end to end. Before-MD5 expected 9c266fbe.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>Journal sync in-app: new-CSV detection + Trades-tab button (finishes IV-8)</h3>
+                    <p>Michael's ask 07-14. The journal_sync.py engine already EXISTS (built 07-06 — the old "build when prioritized" backlog card was stale): one-way journal→tracker with OK/CLOSE/TRIM/ADD/MANUAL/NEW/CANDIDATE classification, report-only default, real broker rows only. What's left is integration: (1) the app detects a new Accounts_History*.csv in ~/Downloads (mtime vs last-synced marker, checked at launch + on the minute-tick) → auto-runs the sync REPORT in a worker thread → banner "journal drift: N positions"; (2) a 🔄 Sync Journal button in the Trades tab → report popup → in-app Apply for safe classes only (CLOSE/TRIM/ADD/NEW-with-signal; MANUAL/CANDIDATE never auto), timestamped backups. Bonus: in-app apply makes the app the single writer — kills the CLI-while-GUI-open hazard. Needs a light refactor of journal_sync into callable functions (it's argparse-CLI today). Sequence: after P3+P5 canaries (both edit swing_trader.py); brief written when its turn comes so the expected before-MD5 is fresh.</p>
+                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
