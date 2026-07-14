@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 64%;
+            height: 100%; width: 65%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>27 of 42 items done</span>
+                <span>28 of 43 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -180,14 +180,14 @@
                     <span class="count">7</span>
                 </div>
                 <div class="card">
-                    <h3>Auto-scan on launch — APPLIED, one check remaining</h3>
-                    <p>APPLIED on the Dell 07-14 (MD5 d1a2eeea → 897dd8dd, backup taken): _startup_scan method + one-shot after(5000,…) registration in __init__; fires _scan() ~5s after launch only if last scan >4h stale. Gates passed (py_compile, grep counts, diff confined). SCAN-WHEN-STALE PATH VERIFIED LIVE: app scanned itself ~10s after launch, zero clicks — proven by the programmatic probe+scan pair in perf.json (152 symbols, 183.2s). Mirror carried 897dd8dd on the 17:20 auto-sync (the re-hardened sync's first scheduled run — working). Session correctly caught + fixed a brief error: the suggested anchor line (after(60_000,_tick)) lives inside _tick's self-rescheduler, not __init__ — literal placement would have re-armed the startup scan every 60s; placed in __init__ instead. SKIP PATH VERIFIED 07-14 evening (launch produced no probe/scan pair; the 19:00 entry is the hourly idle probe). AUDIT FOUND A BRIEF ERROR though: last_scan_metadata.timestamp is genuine UTC (_now_utc), not cosmetic-Z local as the brief claimed — the gate compares UTC vs local clock, biasing scans to look 3h older (effective threshold ~1h, DST-dependent; evidence: the "3:29 PM" display = UTC of the 18:29 IL scan, and the 18:27 scan fired 1.5h after the prior one). One-line UTC fix delivered (compare in timezone.utc); card closes when applied + skip re-verified.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
-                </div>
-                <div class="card">
                     <h3>CRON_TZ is inert — cron schedule audit (2 fixed, rest flagged)</h3>
                     <p>Found 07-14: the Dell's cron (Ubuntu-family ISC) ignores CRON_TZ — every "ET"/"UTC" line actually fires at ISRAEL time (proof: synth_daily's own log stamps 16:30 IL for a "16:30 ET" schedule). APPLIED &amp; VERIFIED 07-14 evening (Michael ran the 2-line edit, grep-confirmed): synth_daily moved 16:30→23:30 IL (= true 16:30 ET, after US close — first close-era record tonight) + second daily backup at 17:15 IL (06:30 misses were the machine being off — kernel boot log: Mon first boot 08:19, Tue 09:56). Accidentally fine, left alone: outcomes_check really runs 16:45 ET (post-close ✓). Flagged for Michael's call: swing_headless_scan really runs 09:40 ET (at open) feeding the web display; all LEAP crons similarly shifted (parked behind overhaul); youtube job at 04:10 IL not UTC. Optional later hygiene: strip the misleading CRON_TZ lines and re-comment the crontab in IL times.</p>
                     <div class="card-tags"><span class="tag tag-infra">infra</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Warm start: cached scan table + age flag on launch (brief delivered)</h3>
+                    <p>Michael's y 07-14 — kills the blank pane on open. Brief delivered (CODE_HANDOFF_warm_start): persist the full table at scan end (~/.michael_swing_last_scan.json, atomic, latest-only ~200KB, deliberately NOT backed up — regenerable cache); on launch _restore_last_scan renders it instantly via the safe background render path, with an age-flagged label ("Xh ago", amber >4h — which also fixes the UTC-as-wall-clock "3:29 PM" display confusion); the 5s startup-scan then refreshes only if truly stale. Four insertions, one variable; verification includes the backdate test proving render-then-refresh end to end. Before-MD5 expected 9c266fbe.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
@@ -233,7 +233,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">27</span>
+                    <span class="count">28</span>
+                </div>
+                <div class="card">
+                    <h3>Auto-scan on launch — DONE (both paths verified, UTC gate fixed)</h3>
+                    <p>Shipped 07-14 in three steps: feature applied (d1a2eeea → 897dd8dd; _startup_scan + one-shot after(5000) registration — the session correctly caught &amp; fixed the brief's bad anchor that would have re-armed it every 60s); stale path verified live (click-free scan proven via perf.json); skip path verified (launch added no entries; the 19:00 entry was the hourly idle probe). Audit then found the staleness gate compared a genuine-UTC stamp against the local clock (3h bias, effective threshold ~1h) — my brief's "cosmetic Z" claim was wrong; one-line UTC fix applied on the Dell and confirmed in the mirror (9c266fbe, dt.timezone.utc in place). Launch now: scan if truly >4h stale, skip if fresh.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Phase 0 — swing data loss stopped (verified against live data)</h3>
