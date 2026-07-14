@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 63%;
+            height: 100%; width: 66%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>26 of 41 items done</span>
+                <span>27 of 41 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">7</span>
+                    <span class="count">6</span>
                 </div>
                 <div class="card">
                     <h3>Auto-scan on launch — APPLIED, one check remaining</h3>
@@ -193,11 +193,6 @@
                     <h3>LEAP maturity gate: press Check Outcomes ≥ Jul 8</h3>
                     <p><strong>⏸ PARKED 07-07 — held until the LEAP overhaul lands; press Check Outcomes after, not on the Jul 8 calendar date.</strong> Gate confirmed read-only 07-06 (log at 1,606 records; Jun-8+ 30d outcomes = 0, as calendar predicts). Catch: LEAP outcomes are manual-check-only and the last check ran ~early June (newest 30d outcome is a May 8 signal). Real go-condition: press Check Outcomes in the LEAP GUI on/after ~Jul 8 — then score-band / pillar-power / repeat-trigger unblock. Same orphaned-automation disease as swing; candidate for the same cron fix.</p>
                     <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-priority">priority</span></div>
-                </div>
-                <div class="card">
-                    <h3>Phase 0 — stop the swing data loss (audit)</h3>
-                    <p>IN MOTION — journal P&amp;L bugs fixed 07-06 (branch claude/journal-phase0-pnl-fixes: Fidelity CSV column-shift fix, anchored action classification, REINVEST/TRANSFER/ASSIGNED handling, first journal tests; deployed to the live file 14:13, verified: py_compile clean + 10/10 tests pass). Remaining swing-side items: persist ATR/Close + exit_regime, MFE/MAE wiring, atomic signals.json saves, non-BUY-tier logging, archive sync, UTC−4 → zoneinfo, error unswallowing. Pair with the LEAP logger session.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Perf &amp; stability: root cause + canaries (spec delivered)</h3>
@@ -233,7 +228,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">26</span>
+                    <span class="count">27</span>
+                </div>
+                <div class="card">
+                    <h3>Phase 0 — swing data loss stopped (verified against live data)</h3>
+                    <p>Closed 07-14 — the whole remaining list was implemented by sessions between 07-06 and now; confirmed NOT from code inference but from the production data in trading-data: signals.json 704 recs (newest 07-13) every one carrying ta_snapshot + confidence_score/checks + setup_type + atr_swing + price(entry Close), atomic-saved with rolling backup; non-BUY tiers logged (ACT NOW / BUY / ARB / WATCH, not BUY-only); e0 live+backtest sinks (34 + 489 recs) carry entry_atr / exit_regime / mfe_pct / mae_pct; UTC−4 hardcode replaced by zoneinfo (DST-correct, swing_core:80); errors log.error'd not swallowed; live sink persists incrementally to survive crashes. Journal P&amp;L fixes (07-06) already Done separately. The August analyses will have the fields they need. Minor spot-check if ever wanted: archive sync (didn't independently confirm) — everything else is live-verified.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Blank-screen bug CLOSED — Barchart removal accepted</h3>
