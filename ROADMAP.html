@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 58%;
+            height: 100%; width: 57%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>19 of 33 items done</span>
+                <span>20 of 35 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -210,7 +210,12 @@
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">2</span>
+                    <span class="count">3</span>
+                </div>
+                <div class="card">
+                    <h3>Swing scan TZ bug — dual-scan fix + regime break</h3>
+                    <p>07-15: found that Debian cron ignores CRON_TZ, so the "16:40 ET" swing scan has always run at 16:40 Israel = ~09:44 ET, 14 min after the US open, scoring a partial intraday bar (the dashboard's "Scan HH:MM ET" label stamps local time with a hardcoded ET suffix). Fix chosen (option C): keep 16:40-local as the evening dashboard snapshot, add a 23:40-local (16:40 ET) authoritative close scan feeding journal history; outcomes check moves 23:45→23:55; label converted to real ET via zoneinfo. Verified safe: the headless scan never writes the signal log (GUI-only), results file is atomic. Awaiting the crontab + label paste on the Dell. REGIME BREAK: all pre-07-15 headless-scan history is mid-market data — Milestone 2 (~Aug 1) must not pool across 2026-07-15.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
@@ -228,7 +233,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">19</span>
+                    <span class="count">20</span>
+                </div>
+                <div class="card">
+                    <h3>YouTube digest: feed-block fallback + no more burned videos</h3>
+                    <p>07-15 (PR #32): YouTube began 404-ing channel RSS on GitHub runner IPs (07-14/15) — digest silently skipped 5 videos. Fixes: Dell now commits a daily feed snapshot the digest falls back to; a run that can't see any channel fails red; caption-less videos younger than 40h defer to the backlog instead of being burned with description summaries. Recovery shipped same day: digest #33 (5 missed videos, transcript-based) + backfill #34 (4 previously burned). 9-scenario offline harness green.</p>
+                    <div class="card-tags"><span class="tag tag-infra">automation</span></div>
                 </div>
                 <div class="card">
                     <h3>Jul 6 automations watched — all green, emails fixed</h3>
