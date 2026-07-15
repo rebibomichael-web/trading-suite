@@ -1,0 +1,57 @@
+name: YouTube coverage check
+
+# Daily audit: did every published video get summarized (or safely queued)?
+# Quiet when everything is covered; goes RED and opens an issue when any video
+# is genuinely missing; goes RED without an issue when it cannot check at all.
+on:
+  schedule:
+    # 09:07 UTC — after the digest's real fire window (06:30-08:00 UTC).
+    - cron: '7 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run coverage check
+        id: check
+        run: |
+          set +e
+          python scripts/youtube_coverage.py --days 7 --markdown --fail-on-missing | tee coverage.md
+          code=${PIPESTATUS[0]}
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          if [ "$code" = "3" ]; then
+            echo "Could not check coverage (no feed, no snapshot)."
+            exit 3
+          fi
+          exit 0
+
+      - name: Open issue if videos are missing
+        if: steps.check.outputs.code == '2'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DAY=$(date -u +%Y-%m-%d)
+          if gh issue list --repo "$GITHUB_REPOSITORY" --state open \
+               --search "YouTube coverage gap in:title" \
+               --json title --jq '.[].title' | grep -q "YouTube coverage gap"; then
+            echo "An open coverage-gap issue already exists — not duplicating."
+          else
+            gh issue create \
+              --title "YouTube coverage gap — $DAY" \
+              --body-file coverage.md \
+              --repo "$GITHUB_REPOSITORY"
+          fi
+          # keep the job red so the gap is visible in the Actions list
+          exit 1
