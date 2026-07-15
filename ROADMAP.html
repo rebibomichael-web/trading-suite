@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 65%;
+            height: 100%; width: 64%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>28 of 43 items done</span>
+                <span>28 of 44 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -172,7 +172,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">8</span>
+                    <span class="count">9</span>
                 </div>
                 <div class="card">
                     <h3>CRON_TZ is inert — cron schedule audit (2 fixed, rest flagged)</h3>
@@ -186,8 +186,13 @@
                 </div>
                 <div class="card">
                     <h3>Journal sync in-app — mostly BUILT overnight; remaining: new-CSV auto-detection</h3>
-                    <p>Update 07-15: a parallel Dell session built the Trades-tab integration overnight (visible in Michael's morning screenshot, confirmed in the 09:20 mirror sync): ⟲ Sync Journal button, journal_sync.py imported read-only, report popup, and in-app "✔ Apply N change(s)" mirroring the CLI's tested apply path — the app is now the single writer for journal syncs. REMAINING (the original ask's other half): auto-detect a new Accounts_History*.csv in ~/Downloads (mtime vs last-synced marker, launch + minute-tick) → run the report in a worker thread → banner "journal drift: N positions". Small change; brief when its turn comes (after P3+P5). Related one-off: 4 of the 13 open trades (CSCO/MRK/NVDA/RIOT) show no Stop/T1/T2 — newer imports missing suggested_exits; one backfill_exits.py run (GUI closed) fixes them, same as 07-07.</p>
+                    <p>Update 07-15: a parallel Dell session built the Trades-tab integration overnight (visible in Michael's morning screenshot, confirmed in the 09:20 mirror sync): ⟲ Sync Journal button, journal_sync.py imported read-only, report popup, and in-app "✔ Apply N change(s)" mirroring the CLI's tested apply path — the app is now the single writer for journal syncs. REMAINING (the original ask's other half): auto-detect a new Accounts_History*.csv in ~/Downloads (mtime vs last-synced marker, launch + minute-tick) → run the report in a worker thread → banner "journal drift: N positions". Small change; brief when its turn comes (after P3+P5). ROOT CAUSE of the exitless imports FOUND 07-15 (per Michael's fix-the-source rule): journal_sync.py never computes suggested_exits — its import path calls log_trade without them, the same hole that made the 07-06 eight. Brief delivered (CODE_HANDOFF_import_exits_rootfix): imports compute entry-date-ATR exits at the source (backfill_exits math, reused not reimplemented) + one backfill run catches up CSCO/MRK/NVDA/RIOT + micro-rider: persist the Regime MODE (Agg/Normal/Con) on every signal so M2+ analyses can slice by it (today only regime_mult is stored). Monitor SL/TP alerts need NO code — the checkbox persists (set_monitor_enabled → state.json); Michael ticks it once.</p>
                     <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>Barbell gauge in Trades rows (Michael's ask 07-15)</h3>
+                    <p>Per-trade visual line in the Trades tab, LEAP pivot-zone-gauge style (same pattern as support_zone_gauge): Stop ―― −8% triage mark ―― entry ―― T1 ―― T2 with ● at current price. All positions data-driven per trade (from suggested_exits + live price); the −8% triage line becomes a CONFIG value (read by both the gauge and swing_flag) so when milestone analyses move it, the display follows with zero code change — "adjust to the data" by construction. Depends on the exits root-fix landing first (gauge needs every row to have exits). Brief when its turn comes.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
