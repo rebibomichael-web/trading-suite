@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 62%;
+            height: 100%; width: 60%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>29 of 47 items done</span>
+                <span>29 of 48 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">10</span>
+                    <span class="count">11</span>
                 </div>
                 <div class="card">
                     <h3>CRON_TZ is inert — cron schedule audit (2 fixed, rest flagged)</h3>
@@ -205,6 +205,11 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
+                    <h3>Analytics learning loop: automate the cadence + validate the knobs</h3>
+                    <p>Michael 07-15: ANALYTICS "seems more powerful than current use" — confirmed: backtest_results.json (the BT± source steering every live score) last generated 07-06, nine days stale; combo-suppression recompute is button/GUI-gated. Fix A (small, does NOT touch swing_trader — can run anytime): add recompute_if_dirty to the nightly outcomes cron + a Friday-night headless full backtest cron → suppression refreshes nightly, BT± never staler than a week. Fix B (M2): validate the two wired knobs — do positive-BT± signals actually outperform, do suppressed combos deserve it? Both predate the no-wiring discipline and BT± rests on 3–7 simulated trades per symbol (small-cell fragility) — confirm they earn their wiring or unwire them. Automation without validation just ships unvalidated judgments faster; they go together.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
                     <h3>LEAP logger persistence fix</h3>
                     <p><strong>⏸ PARKED 07-07 — LEAP is mid-overhaul; no LEAP-side code sessions until it lands.</strong> Session brief delivered 07-06 (CODE_HANDOFF_leap_logger_fix). Verified against real code: IV is already computed by get_best_leap and just dropped at the log site — a one-line persist; tracked store costs ~1 chain fetch per open contract per night (the "zero network cost" assumption was wrong). One stable Dell session via local Claude Code.</p>
                     <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-priority">priority</span></div>
@@ -226,7 +231,7 @@
                 </div>
                 <div class="card">
                     <h3>Phase 1 M2 de-risks — the honest gate for swing (~Aug 1)</h3>
-                    <p>Correction fully closed 07-07: each-way Part B re-run (PF 1.13, cross-checked, Arm A intact) + all SUSPECTED/caveat doc edits committed and pushed to origin/main (e6aec9f → 924e0ff → bd08c67); ~/Downloads board reconciled; verified from the cloud. Two de-risks remain before swing's edge can be resurrected at Milestone 2: (1) re-run Part A INCLUDING the open book marked-to-market (12/13 open legs underwater in state.json → realized-closed-only excess is disposition-biased upward); (2) recompute live excess on a beta-adjusted / QQQ / equal-weight benchmark (the sleeve is high-beta, lagged QQQ −1.07%/trade). A genuine edge could still survive these; run before Milestone 2 with the frozen criteria. ADDED 07-15 (Michael): pre-register a third M2 question — for HELD positions, does the entry score at time-t add information about forward returns beyond the DIAGNOSE flags? (cross-tab; if yes, a data-earned entry+exit combination rule may be designed later — display stays side-by-side until then).</p>
+                    <p>Correction fully closed 07-07: each-way Part B re-run (PF 1.13, cross-checked, Arm A intact) + all SUSPECTED/caveat doc edits committed and pushed to origin/main (e6aec9f → 924e0ff → bd08c67); ~/Downloads board reconciled; verified from the cloud. Two de-risks remain before swing's edge can be resurrected at Milestone 2: (1) re-run Part A INCLUDING the open book marked-to-market (12/13 open legs underwater in state.json → realized-closed-only excess is disposition-biased upward); (2) recompute live excess on a beta-adjusted / QQQ / equal-weight benchmark (the sleeve is high-beta, lagged QQQ −1.07%/trade). A genuine edge could still survive these; run before Milestone 2 with the frozen criteria. ADDED 07-15 (Michael): pre-register a third M2 question — for HELD positions, does the entry score at time-t add information about forward returns beyond the DIAGNOSE flags? (cross-tab; if yes, a data-earned entry+exit combination rule may be designed later — display stays side-by-side until then). ADDED 07-15: validate the two wired analytics knobs — BT± (do positive-adjustment signals outperform?) and combo suppression (do suppressed combos actually lose?) — both pre-date the discipline, never tested.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
             </div>
