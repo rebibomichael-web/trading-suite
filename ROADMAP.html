@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 62%;
+            height: 100%; width: 61%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>28 of 45 items done</span>
+                <span>28 of 46 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -177,7 +177,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">9</span>
+                    <span class="count">10</span>
                 </div>
                 <div class="card">
                     <h3>CRON_TZ is inert — cron schedule audit (2 fixed, rest flagged)</h3>
@@ -198,6 +198,11 @@
                     <h3>Barbell gauge in Trades rows (Michael's ask 07-15)</h3>
                     <p>Per-trade visual line in the Trades tab, LEAP pivot-zone-gauge style (same pattern as support_zone_gauge): Stop ―― −8% triage mark ―― entry ―― T1 ―― T2 with ● at current price. All positions data-driven per trade (from suggested_exits + live price); ALL levels become CONFIG values per Michael 07-15 — the −8% triage line AND the stop/T1/T2 multipliers — so milestone analyses can move them with zero code change. ⚠ Design constraint found in code: stop_m/t1_m/t2_m are load-bearing FIVE ways (entry gate atr_swing≥min_swing, position sizing cap·risk/(stop_m·atr), the backtest engine — changing them breaks 526-baseline comparability — plus exits + display). So the config split is: EXIT-SUGGESTION multipliers (configurable, data-adjustable per ratified milestone) separated from ENGINE/GATE constants (pinned per analysis baseline; re-baselined only via pre-registered analysis). Per discipline, config changes flow only analysis → ratification → config. Depends on the exits root-fix landing first. Brief when its turn comes.</p>
                     <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>ANALYZE pane shows BUY when the scanner says WATCH — align verdict engines</h3>
+                    <p>Found 07-15 via Michael's SWKS screenshots: ANALYZE stamped ▲ BUY (70/100) while the same-day scan said WATCH and DIAGNOSE said SKIP. Root cause (verified): the ANALYZE pane computes its verdict with a legacy score-threshold one-liner — no strong-primary-trigger requirement, no breadth/suppression — while the scanner's canonical tiering requires the trigger (proof: SNPS scored 90 and was still WATCH). DIAGNOSE correctly describes the canonical rule; ANALYZE has drifted and can talk Michael into entries the system doesn't endorse. Fix: the pane derives its verdict from the scanner's own score_and_assign/gate path — one verdict engine, three screens. Small brief, sequenced with the current queue; the SYMBOL-tab merge later kills this bug class structurally (this is its poster child).</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
