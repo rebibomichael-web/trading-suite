@@ -20,6 +20,7 @@ import html
 import json
 import os
 import re
+import sys
 import urllib.request
 
 from halftime_pipeline import ask_claude, preflight_auth
@@ -34,10 +35,13 @@ CHANNELS = {
 }
 
 STATE_PATH = "summaries/youtube/state.json"
+FEED_SNAPSHOT_PATH = os.path.join("feeds", "youtube_feed.json")
 MAX_PER_CHANNEL = 3          # cost guard: videos summarized per channel per run
 FIRST_RUN_WINDOW_H = 36      # without state, only look this far back
 WINDOW_DAYS = 4              # with state, ignore fresh feed items older than this
 PENDING_CAP_PER_CHANNEL = 30  # bound the carry-over backlog so state can't grow forever
+SNAPSHOT_MAX_AGE_H = 72      # ignore a Dell feed snapshot older than this
+GRACE_HOURS = 40             # wait this long for captions before settling for the description
 
 SUMMARY_INSTRUCTIONS = (
     "Summarize this YouTube video transcript in SIMPLE terms for a busy "
@@ -109,6 +113,38 @@ def fetch_feed(channel_id):
     return videos
 
 
+def load_feed_snapshot():
+    """Feed snapshot committed daily by the Dell fetcher
+    (scripts/fetch_youtube_transcripts.py). Lets the digest keep working when
+    YouTube blocks RSS requests from GitHub's runner IPs (observed 2026-07-14:
+    404 on every channel feed, two days running)."""
+    try:
+        with open(FEED_SNAPSHOT_PATH) as fh:
+            snap = json.load(fh)
+        fetched = datetime.datetime.fromisoformat(snap["fetched_at"])
+    except (OSError, ValueError, KeyError, TypeError):
+        return None
+    age = datetime.datetime.now(datetime.timezone.utc) - fetched
+    if age > datetime.timedelta(hours=SNAPSHOT_MAX_AGE_H):
+        print(f"WARN: feed snapshot is {age} old — ignoring")
+        return None
+    channels = {}
+    for name, vids in snap.get("channels", {}).items():
+        parsed = []
+        for v in vids:
+            try:
+                parsed.append({
+                    "id": v["id"],
+                    "title": v["title"],
+                    "published": datetime.datetime.fromisoformat(v["published"]),
+                    "description": v.get("description", ""),
+                })
+            except (KeyError, TypeError, ValueError):
+                continue
+        channels[name] = parsed
+    return channels
+
+
 def transcript_path(video_id):
     return os.path.join("transcripts", "youtube", f"{video_id}.txt")
 
@@ -150,13 +186,17 @@ def fetch_transcript(video_id):
     return text
 
 
-def summarize_video(channel, v):
-    """Return a rendered digest section for one video, or None if the summary
-    could not be produced this run because Claude was unreachable (so the
-    caller keeps the video pending and retries next run).
+def summarize_video(channel, v, now):
+    """Summarize one video. Returns (status, section):
+      ("ok", section)  — summary produced; caller marks the video seen.
+      ("defer", None)  — no transcript yet and the video is younger than
+                          GRACE_HOURS; caller keeps it pending so a later run
+                          (after the next Dell fetch) can use the real
+                          transcript instead of burning a shallow fallback.
+      ("retry", None)  — Claude was unreachable; caller keeps it pending.
 
-    A missing transcript is NOT a transient failure: we fall back to the
-    title/description summary and the video is considered done.
+    Only once the grace period has passed does a missing transcript fall back
+    to the title/description summary and count as done.
     """
     url = f"https://www.youtube.com/watch?v={v['id']}"
     date = v["published"].strftime("%b %d")
@@ -165,8 +205,16 @@ def summarize_video(channel, v):
     try:
         transcript = fetch_transcript(v["id"])
     except Exception as e:
-        print(f"{channel} / {v['title']}: no transcript ({e!r}) — using description")
+        print(f"{channel} / {v['title']}: no transcript ({e!r})")
         transcript = None
+
+    if transcript is None:
+        age = now - v["published"]
+        if age < datetime.timedelta(hours=GRACE_HOURS):
+            print(f"{channel} / {v['title']}: no transcript yet "
+                  f"({age.total_seconds() / 3600:.0f}h old) — deferring until "
+                  f"the next transcript fetch")
+            return "defer", None
 
     try:
         if transcript:
@@ -188,11 +236,11 @@ def summarize_video(channel, v):
     except Exception as e:
         # Claude itself failed — transient. Leave the video pending to retry.
         print(f"{channel} / {v['title']}: summary generation failed, will retry: {e!r}")
-        return None
+        return "retry", None
 
     if not summary:
-        return None
-    return (
+        return "retry", None
+    return "ok", (
         f"### [{v['title']}]({url})\n"
         f"**{channel}** · {date}\n\n{summary}\n"
     )
@@ -225,14 +273,27 @@ def main():
 
     sections = []
     new_pending = []
+    snapshot = None
+    snapshot_loaded = False
+    channels_unavailable = 0
     for channel, cid in CHANNELS.items():
         carried = pending_by_channel.get(channel, [])
         try:
             videos = fetch_feed(cid)
         except Exception as e:
-            print(f"{channel}: feed error {e!r}")
-            new_pending.extend(carried)  # don't lose the backlog on a feed hiccup
-            continue
+            # YouTube blocks RSS from some cloud IPs — fall back to the feed
+            # snapshot the Dell commits daily from a residential IP.
+            if not snapshot_loaded:
+                snapshot = load_feed_snapshot()
+                snapshot_loaded = True
+            if snapshot and channel in snapshot:
+                videos = snapshot[channel]
+                print(f"{channel}: live feed failed ({e!r}) — using the Dell feed snapshot")
+            else:
+                print(f"{channel}: feed error {e!r} (no usable snapshot)")
+                channels_unavailable += 1
+                new_pending.extend(carried)  # don't lose the backlog on a feed hiccup
+                continue
 
         carried_ids = {x["id"] for x in carried}
         fresh = [v for v in videos
@@ -250,9 +311,9 @@ def main():
         leftover = candidates[MAX_PER_CHANNEL:]
 
         for v in chosen:
-            section = summarize_video(channel, v)
-            if section is None:
-                leftover.append(v)          # transient failure — retry next run
+            status, section = summarize_video(channel, v, now)
+            if status != "ok":
+                leftover.append(v)          # deferred/transient — retry next run
                 continue
             sections.append(section)
             seen.add(v["id"])
@@ -290,6 +351,13 @@ def main():
 
     # Always persist: even on a NO_VIDEOS day the pending backlog may have changed.
     save_state(state)
+
+    # A run that couldn't see ANY channel (live or snapshot) must not look like
+    # a quiet success — fail it so the outage is visible.
+    if channels_unavailable == len(CHANNELS):
+        print("ERROR: every channel feed failed and no usable snapshot exists — "
+              "failing the run instead of reporting a silent empty digest")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
