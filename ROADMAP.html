@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 57%;
+            height: 100%; width: 60%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>20 of 35 items done</span>
+                <span>21 of 35 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -210,12 +210,7 @@
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">3</span>
-                </div>
-                <div class="card">
-                    <h3>Swing scan TZ bug — dual-scan fix + regime break</h3>
-                    <p>07-15: found that Debian cron ignores CRON_TZ, so the "16:40 ET" swing scan has always run at 16:40 Israel = ~09:44 ET, 14 min after the US open, scoring a partial intraday bar (the dashboard's "Scan HH:MM ET" label stamps local time with a hardcoded ET suffix). Fix chosen (option C): keep 16:40-local as the evening dashboard snapshot, add a 23:40-local (16:40 ET) authoritative close scan feeding journal history; outcomes check moves 23:45→23:55; label converted to real ET via zoneinfo. Verified safe: the headless scan never writes the signal log (GUI-only), results file is atomic. Awaiting the crontab + label paste on the Dell. REGIME BREAK: all pre-07-15 headless-scan history is mid-market data — Milestone 2 (~Aug 1) must not pool across 2026-07-15.</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                    <span class="count">2</span>
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
@@ -233,7 +228,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">20</span>
+                    <span class="count">21</span>
+                </div>
+                <div class="card">
+                    <h3>Swing scan TZ bug fixed — dual scans + regime break annotated</h3>
+                    <p>07-15: Debian cron ignores CRON_TZ, so the "16:40 ET" swing scan had always run at 16:40 Israel = ~09:44 ET — 14 min after the US open, scoring a partial intraday bar (journalctl-confirmed on the Dell). Fixed same day (option C): 16:40-local stays as the evening dashboard snapshot; new 23:40-local (16:40 ET) authoritative close scan overwrites results + feeds journal history; outcomes check moved 23:45→23:55; the "Scan HH:MM ET" label now genuinely converts to ET via zoneinfo. Safe by construction: the headless scan never writes the signal log (GUI-only). REGIME BREAK annotated in ROADMAP_swing_trader.md: pre-07-15 headless series are mid-market data — Milestone 2 (~Aug 1) must not pool across 2026-07-15.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>YouTube digest: feed-block fallback + no more burned videos</h3>
