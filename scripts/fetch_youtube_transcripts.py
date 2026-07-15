@@ -46,6 +46,7 @@ to the description summary for those.
 import argparse
 import datetime
 import html
+import json
 import os
 import re
 import subprocess
@@ -63,23 +64,34 @@ CHANNELS = {
 }
 
 TRANSCRIPT_DIR = os.path.join("transcripts", "youtube")
+FEED_SNAPSHOT = os.path.join("feeds", "youtube_feed.json")
 
 
 def fetch_feed(channel_id):
-    """Return [(video_id, published_datetime), ...] from a channel's RSS feed."""
+    """Return video dicts (id/title/published/description) from a channel's
+    RSS feed. Full metadata, because this feed also becomes the snapshot the
+    GitHub-hosted digest falls back to when YouTube blocks RSS from the
+    runner's cloud IP (observed 2026-07-14)."""
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     xml = urllib.request.urlopen(url, timeout=30).read().decode("utf-8", "ignore")
     out = []
     for entry in re.findall(r"<entry>.*?</entry>", xml, re.S):
         vid = re.search(r"<yt:videoId>([^<]+)</yt:videoId>", entry)
+        title = re.search(r"<title>([^<]+)</title>", entry)
         pub = re.search(r"<published>([^<]+)</published>", entry)
-        if not (vid and pub):
+        desc = re.search(r"<media:description>(.*?)</media:description>", entry, re.S)
+        if not (vid and title and pub):
             continue
         try:
             published = datetime.datetime.fromisoformat(pub.group(1))
         except ValueError:
             continue
-        out.append((vid.group(1), published))
+        out.append({
+            "id": vid.group(1),
+            "title": html.unescape(title.group(1)),
+            "published": published,
+            "description": html.unescape(desc.group(1).strip()) if desc else "",
+        })
     return out
 
 
@@ -117,13 +129,24 @@ def main():
     written = []
     skipped = 0
     no_caps = 0
+    snapshot_channels = {}
     for channel, cid in CHANNELS.items():
         try:
             videos = fetch_feed(cid)
         except Exception as e:
             print(f"{channel}: feed error {e!r}", file=sys.stderr)
             continue
-        for vid, published in videos:
+        snapshot_channels[channel] = [
+            {
+                "id": v["id"],
+                "title": v["title"],
+                "published": v["published"].isoformat(),
+                "description": v["description"],
+            }
+            for v in videos
+        ]
+        for v in videos:
+            vid, published = v["id"], v["published"]
             if published < cutoff:
                 continue
             dest = os.path.join(out_dir, f"{vid}.txt")
@@ -145,22 +168,37 @@ def main():
             written.append(f"{TRANSCRIPT_DIR}/{vid}.txt")
             print(f"{channel}: {vid} transcript saved ({len(text)} chars)")
 
+    # Write the feed snapshot for the digest's runner-IP fallback. Only when at
+    # least one feed succeeded — never clobber a good snapshot with nothing.
+    to_add = []
+    if snapshot_channels:
+        snap_path = os.path.join(repo, FEED_SNAPSHOT)
+        os.makedirs(os.path.dirname(snap_path), exist_ok=True)
+        with open(snap_path, "w") as fh:
+            json.dump({"fetched_at": now.isoformat(),
+                       "channels": snapshot_channels}, fh, indent=0)
+        to_add.append(FEED_SNAPSHOT)
+        print(f"Feed snapshot written ({len(snapshot_channels)} channels).")
+
     print(f"Done: {len(written)} new, {skipped} already present, "
           f"{no_caps} without captions.")
 
-    if args.no_git or not written:
-        if not written:
+    to_add.extend(written)
+    if args.no_git or not to_add:
+        if not to_add:
             print("Nothing new to commit.")
         return
 
-    # commit + push only the transcript files we added
+    # commit + push the transcript files and the feed snapshot
     day = now.strftime("%Y-%m-%d")
-    git(["add", *written], repo)
+    git(["add", *to_add], repo)
     # nothing staged (e.g. identical content) → done
     if git(["diff", "--cached", "--quiet"], repo, check=False).returncode == 0:
         print("No staged changes.")
         return
-    git(["commit", "-m", f"YouTube transcripts {day} ({len(written)} videos)"], repo)
+    msg = (f"YouTube transcripts {day} ({len(written)} videos)" if written
+           else f"YouTube feed snapshot {day}")
+    git(["commit", "-m", msg], repo)
     if args.no_push:
         print("Committed locally (--no-push).")
         return
