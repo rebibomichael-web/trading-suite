@@ -58,6 +58,19 @@ FALLBACK_INSTRUCTIONS = (
     "below. Do not invent specifics that are not stated."
 )
 
+OVERVIEW_INSTRUCTIONS = (
+    "Below are today's per-video summaries from the investor YouTube channels "
+    "I follow. Write ONE tight TL;DR paragraph (3-6 sentences; two paragraphs "
+    "only if the videos split into genuinely unrelated threads) that "
+    "synthesizes ACROSS them the way a sharp market-brief editor would: find "
+    "the through-line or tension of the day, play theses against their "
+    "counterweights, keep the concrete numbers (price targets, unit counts, "
+    "odds, dates, levels), and attribute claims briefly to their channel or "
+    "video. Opinionated connective framing is welcome ('the skeptical "
+    "counterweight', 'the palate cleanser') but NEVER invent facts that are "
+    "not in the summaries. No headers, no bullet lists — flowing prose only."
+)
+
 
 def load_state():
     """Load state, tolerating a missing or corrupt file (a truncated write
@@ -341,10 +354,22 @@ def main():
 
     day = now.strftime("%Y-%m-%d")
     if sections:
-        digest = "Daily summaries of new videos from your followed channels.\n\n" + \
-                 "\n---\n\n".join(sections)
+        # Editorial lead: one synthesized cross-video paragraph. Best-effort —
+        # a failure here must never cost the digest itself.
+        overview = None
+        if len(sections) >= 2:
+            try:
+                overview = ask_claude(OVERVIEW_INSTRUCTIONS,
+                                      "\n\n---\n\n".join(sections)).strip()
+            except Exception as e:
+                print(f"WARN: overview generation failed: {e!r}")
+        digest = "Daily summaries of new videos from your followed channels.\n\n"
+        if overview:
+            digest += f"**Today's read:** {overview}\n\n---\n\n"
+        digest += "\n---\n\n".join(sections)
         open("digest.md", "w").write(digest)
-        print(f"Digest written: {len(sections)} videos for {day}")
+        print(f"Digest written: {len(sections)} videos for {day}"
+              + (" (with editorial lead)" if overview else ""))
     else:
         open("digest.md", "w").write("NO_VIDEOS")
         print("No new videos across all channels.")
