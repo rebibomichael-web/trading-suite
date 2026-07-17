@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 59%;
+            height: 100%; width: 60%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>29 of 49 items done</span>
+                <span>30 of 50 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -196,7 +196,7 @@
                 </div>
                 <div class="card">
                     <h3>Journal sync in-app — mostly BUILT overnight; remaining: new-CSV auto-detection</h3>
-                    <p>Update 07-15: a parallel Dell session built the Trades-tab integration overnight (visible in Michael's morning screenshot, confirmed in the 09:20 mirror sync): ⟲ Sync Journal button, journal_sync.py imported read-only, report popup, and in-app "✔ Apply N change(s)" mirroring the CLI's tested apply path — the app is now the single writer for journal syncs. REMAINING (the original ask's other half): auto-detect a new Accounts_History*.csv in ~/Downloads (mtime vs last-synced marker, launch + minute-tick) → run the report in a worker thread → banner "journal drift: N positions". Small change; brief when its turn comes (after P3+P5). ROOT CAUSE of the exitless imports FOUND 07-15 (per Michael's fix-the-source rule): journal_sync.py never computes suggested_exits — its import path calls log_trade without them, the same hole that made the 07-06 eight. Brief delivered (CODE_HANDOFF_import_exits_rootfix): imports compute entry-date-ATR exits at the source (backfill_exits math, reused not reimplemented) + one backfill run catches up CSCO/MRK/NVDA/RIOT + micro-rider: persist the Regime MODE (Agg/Normal/Con) on every signal so M2+ analyses can slice by it (today only regime_mult is stored). Monitor SL/TP alerts need NO code — the checkbox persists (set_monitor_enabled → state.json); Michael ticks it once.</p>
+                    <p>Update 07-15: a parallel Dell session built the Trades-tab integration overnight (visible in Michael's morning screenshot, confirmed in the 09:20 mirror sync): ⟲ Sync Journal button, journal_sync.py imported read-only, report popup, and in-app "✔ Apply N change(s)" mirroring the CLI's tested apply path — the app is now the single writer for journal syncs. REMAINING (the original ask's other half): auto-detect a new Accounts_History*.csv in ~/Downloads (mtime vs last-synced marker, launch + minute-tick) → run the report in a worker thread → banner "journal drift: N positions". Small change; brief when its turn comes (after P3+P5). ROOT CAUSE of the exitless imports FOUND 07-15 (per Michael's fix-the-source rule): journal_sync.py never computes suggested_exits — its import path calls log_trade without them, the same hole that made the 07-06 eight. Brief delivered (CODE_HANDOFF_import_exits_rootfix): imports compute entry-date-ATR exits at the source (backfill_exits math, reused not reimplemented) + one backfill run catches up CSCO/MRK/NVDA/RIOT + micro-rider: persist the Regime MODE (Agg/Normal/Con) on every signal so M2+ analyses can slice by it (today only regime_mult is stored). Monitor SL/TP alerts need NO code — the checkbox persists (set_monitor_enabled → state.json); Michael ticks it once. UPDATE 07-17: the root-cause half is DONE (see Done card "Exitless imports ROOT-FIXED") — only the new-CSV auto-detection remains here.</p>
                     <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
@@ -258,7 +258,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">29</span>
+                    <span class="count">30</span>
+                </div>
+                <div class="card">
+                    <h3>Exitless imports ROOT-FIXED — pipe + backfill + mode stamp (07-17)</h3>
+                    <p>Dell run verified end to end. Pipe: journal_sync.py now computes entry-date-ATR exits at import (atr_at_date/compute_exits, byte-identical math to backfill_exits.py) and warns loudly instead of blocking when ATR is unavailable. Drift check proved REAL: the GUI's Sync-Journal apply path duplicated log_trade and did NOT inherit — same exits logic applied there too. Backfill: dry-run then --apply hit exactly CSCO/MRK/NVDA/RIOT; state.json shows all 13 active trades with exits, NONE missing. Mode stamp: "mode" now saved with every signal (verify in signals.json after the next live scan). Gates: MD5s before/after, .baks, py_compile clean, diffs confined. Note: journal_sync.py lives ONLY in ~/trading-src/swing — correct per the app loader; sync script never clobbers it. Report mode surfaced 6 pending day-to-day reconcile actions (CLOSE AMZN/AVGO/T · ADD NVDA · NEW CDNS) — deliberately NOT applied, Michael's call; the CDNS import will be the first live proof of the fixed pipe. Unblocks: barbell gauge + full SL/TP monitor coverage.</p>
+                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Verdict-drift hypothesis — REFUTED by Michael's three-way test</h3>
