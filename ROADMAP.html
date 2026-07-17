@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 60%;
+            height: 100%; width: 59%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>30 of 50 items done</span>
+                <span>30 of 51 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -172,7 +172,12 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">13</span>
+                    <span class="count">14</span>
+                </div>
+                <div class="card">
+                    <h3>⚠ Sync-apply corrupted fills — repair brief delivered (07-17)</h3>
+                    <p>Fidelity truth vs app after the 07-17 apply(s): PFE 4→8 sh, CSCO 1→2, RIOT 5→10, GM 1.298→2.596 (all DOUBLED), NVDA doubled + a SEP-IRA reinvest lot (wrong account), CDNS 07/16 lot counted twice, ORCL avg rewritten wrong (139.12→135.48), AA fills rewritten, and a GOOGL PHANTOM (sold 07/10 as GOOG — ticker alias never matched, still shows open). SNPS/ISRG clean (fresh single imports) → corruption hits already-tracked symbols whose fills were re-added. Suspects: two-writer interleave (CLI --apply ran while GUI open — also explains the Monitor SL/TP checkbox unticking itself) and/or non-idempotent ADD path. Brief: reconstruct timeline → restore cleanest post-backfill/pre-apply snapshot → close GOOGL phantom honestly → re-apply once with fixes: FILL-LEVEL dedup (re-run = no-op), single-writer guard, GOOG↔GOOGL alias map, account filter. Monitor checkbox verify rides along.</p>
+                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Tab consolidation 8→4 + combined entry/exit view (design WITH Michael)</h3>
