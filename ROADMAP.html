@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 60%;
+            height: 100%; width: 62%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>32 of 53 items done</span>
+                <span>33 of 53 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -172,12 +172,7 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">13</span>
-                </div>
-                <div class="card">
-                    <h3>⚠ Sync-apply corrupted fills — repair brief delivered (07-17)</h3>
-                    <p>Fidelity truth vs app after the 07-17 apply(s): PFE 4→8 sh, CSCO 1→2, RIOT 5→10, GM 1.298→2.596 (all DOUBLED), NVDA doubled + a SEP-IRA reinvest lot (wrong account), CDNS 07/16 lot counted twice, ORCL avg rewritten wrong (139.12→135.48), AA fills rewritten, and a GOOGL PHANTOM (sold 07/10 as GOOG — ticker alias never matched, still shows open). SNPS/ISRG clean (fresh single imports) → corruption hits already-tracked symbols whose fills were re-added. Suspects: two-writer interleave (CLI --apply ran while GUI open — also explains the Monitor SL/TP checkbox unticking itself) and/or non-idempotent ADD path. Brief: reconstruct timeline → restore cleanest post-backfill/pre-apply snapshot → close GOOGL phantom honestly → re-apply once with fixes: FILL-LEVEL dedup (re-run = no-op), single-writer guard, GOOG↔GOOGL alias map, account filter. Monitor checkbox verify rides along. 07-19 sweep: repair NOT yet run — journal_sync.py unchanged since 07-17 11:20; corrupted fills still live as of the 07-17 17:15 backup. Leading clean-snapshot candidate: the 07-17 06:30 trading-data state.json (verify post-backfill / pre-apply on the Dell). GOOGL remains a reported MANUAL case (alias map still pending).</p>
-                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                    <span class="count">12</span>
                 </div>
                 <div class="card">
                     <h3>Tab consolidation 8→4 + combined entry/exit view (design WITH Michael)</h3>
@@ -263,7 +258,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">32</span>
+                    <span class="count">33</span>
+                </div>
+                <div class="card">
+                    <h3>Sync-apply corruption REPAIRED + root-fixed (07-19)</h3>
+                    <p>Fidelity truth vs app after the 07-17 apply(s): PFE 4→8 sh, CSCO 1→2, RIOT 5→10, GM 1.298→2.596 (all DOUBLED), NVDA doubled + a SEP-IRA reinvest lot (wrong account), CDNS 07/16 lot counted twice, ORCL avg rewritten wrong (139.12→135.48), AA fills rewritten, and a GOOGL PHANTOM (sold 07/10 as GOOG — ticker alias never matched, still shows open). SNPS/ISRG clean (fresh single imports) → corruption hits already-tracked symbols whose fills were re-added. Suspects: two-writer interleave (CLI --apply ran while GUI open — also explains the Monitor SL/TP checkbox unticking itself) and/or non-idempotent ADD path. Brief: reconstruct timeline → restore cleanest post-backfill/pre-apply snapshot → close GOOGL phantom honestly → re-apply once with fixes: FILL-LEVEL dedup (re-run = no-op), single-writer guard, GOOG↔GOOGL alias map, account filter. Monitor checkbox verify rides along. 07-19 sweep: repair NOT yet run — journal_sync.py unchanged since 07-17 11:20; corrupted fills still live as of the 07-17 17:15 backup. Leading clean-snapshot candidate: the 07-17 06:30 trading-data state.json (verify post-backfill / pre-apply on the Dell). GOOGL remains a reported MANUAL case (alias map still pending). RESOLVED 07-19 (Dell run, 19m): root cause = BOTH suspects — two-writer clobber as trigger (GUI's stale in-memory DataManager saved over the CLI's writes between applies; proven from the .bak chain timestamps: clean at 18:25, correct closes 18:26, exact 2× at 18:30) + no dedup safety net. Restored the 18:25:16 .bak (post-backfill/pre-apply — better than the 06:30 candidate), fixed AA to true FIFO (51.79), closed the GOOGL phantom honestly (−$15.80 incl. a 0.289 lot the alias bug had never even added), re-applied ONCE (5 closes + CDNS/ISRG/SNPS with exits). BONUS finds: 5 duplicate closed-trade records in history.json (deduped 55→50) and a brief erratum (NVDA true avg 195.3125, not 195.76 — session trusted the parse over the handoff, correctly). Root fixes all tested: fill-level dedup (replay = no-op, proven), CLI guard via /proc argv (pgrep -f false-positived), GOOG↔GOOGL alias + generic dual-class matcher, account allowlist {ROTH 235498151, Joint X17212229, Joint X83768586} excluding SEP 347749788 — ALLOWLIST AWAITS MICHAEL'S CONFIRMATION. Final: 10 positions, all match Fidelity truth, all with exits, deployed $1,576.06; monitor flag round-trips and ended ON.</p>
+                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>CRON_TZ is inert — cron schedule audit (2 fixed, rest flagged)</h3>
