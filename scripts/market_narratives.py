@@ -17,8 +17,12 @@ Env:
   NARRATIVE_TICKERS  comma-separated tickers — overrides scope selection
   NARRATIVE_MAX      max narratives per run (default 25; extras listed, not run)
   NARRATIVE_MODEL    Claude model for the API path (default claude-sonnet-5)
-  ANTHROPIC_API_KEY / CLAUDE_CODE_OAUTH_TOKEN — same dual auth as
-                     halftime_pipeline.py (API key preferred, else Claude CLI)
+  NARRATIVE_AUTH     cli (default) | api — which credential to prefer
+  ANTHROPIC_API_KEY / CLAUDE_CODE_OAUTH_TOKEN — dual auth like
+                     halftime_pipeline.py, but preferring the OAuth token:
+                     the Claude Code CLI runs on the owner's subscription
+                     (no per-token or per-search billing), so runs are free.
+                     The API key is only a fallback / NARRATIVE_AUTH=api.
 
 Exit codes: 0 = report written, nonzero = real failure.
 Run with --selftest for offline tests on synthetic data (no network, no creds).
@@ -252,14 +256,23 @@ def _clean_credentials():
 
 
 def ask_claude(instructions, content, web_search=True):
-    """ANTHROPIC_API_KEY -> Claude API; CLAUDE_CODE_OAUTH_TOKEN -> Claude CLI."""
+    """Prefer the subscription CLI (free); Claude API only as fallback.
+
+    Unlike halftime_pipeline.py this checks CLAUDE_CODE_OAUTH_TOKEN first:
+    narrative runs make ~25 web-searching calls, which are included in the
+    Claude subscription but would bill real money on the API meter.
+    """
     _clean_credentials()
-    if os.environ.get("ANTHROPIC_API_KEY"):
-        return _ask_api(instructions, content, web_search)
-    if os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"):
+    prefer_api = os.environ.get("NARRATIVE_AUTH", "cli").strip() == "api"
+    have_cli = bool(os.environ.get("CLAUDE_CODE_OAUTH_TOKEN"))
+    have_api = bool(os.environ.get("ANTHROPIC_API_KEY"))
+    if have_cli and not (prefer_api and have_api):
         return _ask_cli(instructions, content, web_search)
+    if have_api:
+        return _ask_api(instructions, content, web_search)
     raise RuntimeError(
-        "Set the ANTHROPIC_API_KEY or CLAUDE_CODE_OAUTH_TOKEN repo secret")
+        "Set the CLAUDE_CODE_OAUTH_TOKEN (free, subscription) or "
+        "ANTHROPIC_API_KEY repo secret")
 
 
 def _ask_api(instructions, content, web_search):
@@ -287,8 +300,11 @@ def _ask_cli(instructions, content, web_search):
     cmd = ["claude", "-p", f"{instructions}"]
     if web_search:
         cmd += ["--allowedTools", "WebSearch"]
+    # Strip the API key so the CLI can't silently bill the API meter instead
+    # of using the subscription OAuth token.
+    env = {k: v for k, v in os.environ.items() if k != "ANTHROPIC_API_KEY"}
     result = subprocess.run(cmd, input=content, capture_output=True,
-                            text=True, timeout=900)
+                            text=True, timeout=900, env=env)
     if result.returncode != 0:
         # The CLI prints auth/API errors to stdout, not stderr.
         raise RuntimeError(
@@ -297,6 +313,11 @@ def _ask_cli(instructions, content, web_search):
 
 
 def preflight_auth():
+    prefer_api = os.environ.get("NARRATIVE_AUTH", "cli").strip() == "api"
+    if os.environ.get("CLAUDE_CODE_OAUTH_TOKEN") and not prefer_api:
+        print("Auth path: Claude Code CLI on subscription — this run is free")
+    else:
+        print("Auth path: Claude API (metered billing)")
     reply = ask_claude("Reply with exactly: OK", "ping", web_search=False)
     print(f"Auth preflight passed ({reply[:20]!r})")
 
@@ -461,6 +482,28 @@ def selftest():
     assert "EEE" in report
     big = report + "x" * ISSUE_BODY_LIMIT
     assert len(issue_body(big)) <= ISSUE_BODY_LIMIT + 100
+
+    # auth routing: subscription CLI (free) preferred; API fallback/override
+    routed = []
+    orig_cli, orig_api = _ask_cli, _ask_api
+    globals()["_ask_cli"] = lambda i, c, w: routed.append("cli") or "x"
+    globals()["_ask_api"] = lambda i, c, w: routed.append("api") or "x"
+    try:
+        os.environ["CLAUDE_CODE_OAUTH_TOKEN"] = "t"
+        os.environ["ANTHROPIC_API_KEY"] = "k"
+        os.environ.pop("NARRATIVE_AUTH", None)
+        ask_claude("i", "c")
+        assert routed[-1] == "cli", "both secrets set -> free CLI path"
+        os.environ["NARRATIVE_AUTH"] = "api"
+        ask_claude("i", "c")
+        assert routed[-1] == "api", "explicit override -> API path"
+        os.environ.pop("NARRATIVE_AUTH")
+        os.environ.pop("CLAUDE_CODE_OAUTH_TOKEN")
+        ask_claude("i", "c")
+        assert routed[-1] == "api", "no OAuth token -> API fallback"
+    finally:
+        globals()["_ask_cli"], globals()["_ask_api"] = orig_cli, orig_api
+        os.environ.pop("ANTHROPIC_API_KEY", None)
     print("selftest OK")
 
 
