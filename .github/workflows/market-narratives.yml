@@ -84,6 +84,7 @@ jobs:
           gh issue create \
             --title "Market narratives — $DAY" \
             --body-file narratives_issue.md \
+            --assignee "$GITHUB_REPOSITORY_OWNER" \
             --repo "$GITHUB_REPOSITORY"
           # 2) Archive: commit the full report to the repo.
           mkdir -p summaries/narratives

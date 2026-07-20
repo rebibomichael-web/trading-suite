@@ -59,9 +59,12 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           if [ -f alert.md ]; then
+            # --assignee guarantees email + GitHub-mobile push notification
+            # for the owner regardless of repo watch settings.
             gh issue create \
               --title "🔔 Trigger alert — $(date -u '+%Y-%m-%d %H:%M') UTC" \
               --body-file alert.md \
+              --assignee "$GITHUB_REPOSITORY_OWNER" \
               --repo "$GITHUB_REPOSITORY"
           fi
           git config user.name "halftime-bot"
