@@ -3,6 +3,25 @@
 Consolidation of three trading projects into one Flask app with tabbed modules.
 Read this first in any session on this repo.
 
+## The four-repo system
+
+This repo is one fragment of a single trading platform spread across four
+repos:
+
+- `trading-src` (private) — canonical trading code + planning docs; an
+  hourly-synced **mirror** of the owner's Dell PC. Code edits made on GitHub
+  get overwritten by the next sync.
+- `trading-data` (private) — machine-generated data backups (nightly scans,
+  swing state, Fidelity journal CSVs). Never hand-edit; contains sensitive
+  brokerage data.
+- `trading-suite` (public, this repo) — the consolidated Flask app on Render
+  and the migration target. GitHub-native: edit and push here freely.
+- `stock-tracker` (public) — the legacy Render app + journal dashboard;
+  slated for retirement into this repo.
+
+The canonical map, data flow, duplication list, and traps live **in this
+repo**: `docs/SYSTEM_MAP.md`. Keep it current when the system's shape changes.
+
 ## Modules
 - `leap/nightly.py` — **primary LEAP data source**: reads the nightly Dell
   scan's records (real 6-pillar scores, premiums, IV) from the private
@@ -54,11 +73,17 @@ Read this first in any session on this repo.
 - [ ] Wire `common/market_data.py` helpers into Swing/Journal as they land.
 - [ ] Verify the ported LEAP tab against live data, then retire old
       stock-tracker (which now also hosts the Journal Dashboard — that needs a
-      new home first).
+      new home first; note 2026-07-06: the dashboard is served from the Dell
+      over Tailscale, so live serving no longer depends on the repo).
 - [x] ~~Decide whether the old "Stock Tracker" tab becomes part of Swing~~ —
       resolved 2026-07-06: it's its own Tracker tab (`tracker/module.py`).
-- [ ] Watch the first scheduled Halftime run (Mon Jul 6, ~1:20pm ET) and
-      verify @claude Q&A on a report issue.
+- [x] ~~Watch the first scheduled Halftime run (Mon Jul 6, ~1:20pm ET) and
+      verify @claude Q&A on a report issue~~ — done 2026-07-06: both scheduled
+      runs fired and delivered (YouTube #8/#14, Halftime #15). Email root
+      cause fixed: the repo was never Watched on GitHub, so issue emails went
+      to no one; now watching (All Activity), verified end-to-end. @claude
+      Q&A was broken by the pasted-newline token (claude.yml passed it raw);
+      fixed with a strip step and verified live on issue #15.
 
 The full-system board (suite + automations + swing/LEAP research threads) is
 `ROADMAP.html`, refreshed 2026-07-06. Deep research/status detail lives in
@@ -79,6 +104,9 @@ the sibling repositories. At the start of a session, add them with the
 - `rebibomichael-web/stock-tracker`
 - `rebibomichael-web/trading-src`
 - `rebibomichael-web/trading-data`
+
+Clone them to `/workspace/<repo>` — trading-src's tests expect the
+trading-data clone at `/workspace/trading-data`.
 
 If an add fails with an authorization error, tell the owner to grant the
 Claude GitHub App access to that repo at https://github.com/apps/claude

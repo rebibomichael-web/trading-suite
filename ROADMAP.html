@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 66%;
+            height: 100%; width: 67%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>35 of 53 items done</span>
+                <span>36 of 54 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -163,7 +163,7 @@
                 </div>
                 <div class="card">
                     <h3>Retire old stock-tracker</h3>
-                    <p>Blocked on two things now: verify the ported LEAP tab, AND find a new home for the Journal Dashboard that stock-tracker gained on 07-05. Final step.</p>
+                    <p>Blocked on two things now: verify the ported LEAP tab, AND find a new home for the Journal Dashboard that stock-tracker gained on 07-05. Note 07-06: the dashboard is now served from the Dell over Tailscale (private tailnet, works on 5G), so live serving no longer depends on this repo — the repo copy is source only. Final step.</p>
                     <div class="card-tags"><span class="tag tag-infra">infra</span></div>
                 </div>
             </div>
@@ -248,7 +248,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">35</span>
+                    <span class="count">36</span>
+                </div>
+                <div class="card">
+                    <h3>Swing scan TZ bug fixed — dual scans + regime break annotated</h3>
+                    <p>07-15: Debian cron ignores CRON_TZ, so the "16:40 ET" swing scan had always run at 16:40 Israel = ~09:44 ET — 14 min after the US open, scoring a partial intraday bar (journalctl-confirmed on the Dell). Fixed same day (option C): 16:40-local stays as the evening dashboard snapshot; new 23:40-local (16:40 ET) authoritative close scan overwrites results + feeds journal history; outcomes check moved 23:45→23:55; the "Scan HH:MM ET" label now genuinely converts to ET via zoneinfo. Safe by construction: the headless scan never writes the signal log (GUI-only). REGIME BREAK annotated in ROADMAP_swing_trader.md: pre-07-15 headless series are mid-market data — Milestone 2 (~Aug 1) must not pool across 2026-07-15.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>Tracker hygiene + PERFORMANCE tab SHIPPED (07-20)</h3>
@@ -396,8 +401,8 @@
                     <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
-                    <h3>YouTube digest live + hardened</h3>
-                    <p>6 channels, daily 7:40am Israel (PR #2). PR #6 fixed the Actions-IP caption block with a description fallback (optional Webshare proxy for full transcripts) and added transcript archives.</p>
+                    <h3>YouTube digest: feed-block fallback + no more burned videos</h3>
+                    <p>07-15 (PR #32): YouTube began 404-ing channel RSS on GitHub runner IPs (07-14/15) — digest silently skipped 5 videos. Fixes: Dell now commits a daily feed snapshot the digest falls back to; a run that can't see any channel fails red; caption-less videos younger than 40h defer to the backlog instead of being burned with description summaries. Recovery shipped same day: digest #33 (5 missed videos, transcript-based) + backfill #34 (4 previously burned). 9-scenario offline harness green.</p>
                     <div class="card-tags"><span class="tag tag-infra">automation</span></div>
                 </div>
                 <div class="card">
