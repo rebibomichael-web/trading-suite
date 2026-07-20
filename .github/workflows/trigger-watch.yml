@@ -1,0 +1,72 @@
+name: Trigger watch
+
+# Checks watched price levels (triggers.json: your manual switches, open
+# position stops/targets, and flip levels from the narratives pipeline)
+# against live prices every 30 minutes during US market hours. A crossed
+# level opens a GitHub issue — which emails you, and pushes to your phone
+# if you have the GitHub mobile app with notifications on.
+#
+# Free: yfinance prices, no Claude calls, public-repo Actions minutes.
+
+on:
+  schedule:
+    # every 30 min, 13:00-20:59 UTC Mon-Fri ≈ US market hours (EDT).
+    # GitHub cron can lag a few minutes — fine for swing-trading levels.
+    - cron: '*/30 13-20 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: trigger-watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Detect trading-data token
+        id: data
+        env:
+          DATA_TOKEN: ${{ secrets.TRADING_DATA_TOKEN }}
+        run: echo "present=$([ -n "$DATA_TOKEN" ] && echo true || echo false)" >> "$GITHUB_OUTPUT"
+
+      - name: Checkout trading-data (position stops/targets)
+        if: steps.data.outputs.present == 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: rebibomichael-web/trading-data
+          token: ${{ secrets.TRADING_DATA_TOKEN }}
+          path: trading-data
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet yfinance
+
+      - name: Check triggers
+        run: python scripts/trigger_watch.py
+
+      - name: Deliver alert and save state
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f alert.md ]; then
+            gh issue create \
+              --title "🔔 Trigger alert — $(date -u '+%Y-%m-%d %H:%M') UTC" \
+              --body-file alert.md \
+              --repo "$GITHUB_REPOSITORY"
+          fi
+          git config user.name "halftime-bot"
+          git config user.email "actions@github.com"
+          git add triggers.json
+          git commit -m "Trigger watch state" || exit 0
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin HEAD:"${GITHUB_REF_NAME}" || echo "state push failed (alert still delivered via issue)"

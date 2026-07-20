@@ -65,4 +65,6 @@ Automated daily reports live in this repo — when answering questions about
   names the LEAP/swing scanners like (thesis event vs technicals, per ticker)
 Pipelines: `scripts/halftime_pipeline.py`, `scripts/youtube_digest.py`,
 `scripts/market_narratives.py` (reads a trading-data checkout; needs the
-`TRADING_DATA_TOKEN` secret), scheduled/dispatched via `.github/workflows/`.
+`TRADING_DATA_TOKEN` secret), `scripts/trigger_watch.py` (price-level alerts
+from `triggers.json` + position exits, cron every 30 min in market hours),
+scheduled/dispatched via `.github/workflows/`.

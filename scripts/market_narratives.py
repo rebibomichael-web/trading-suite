@@ -30,6 +30,7 @@ Run with --selftest for offline tests on synthetic data (no network, no creds).
 import datetime
 import json
 import os
+import re
 import subprocess
 import sys
 import time
@@ -77,7 +78,18 @@ holds a position (noted in context), speak to it.
 
 End with a "Sources:" line of markdown links to what you used. Do not invent
 data — everything quantitative must come from the context block or a source.
-The scanner context follows."""
+
+After the Sources line, append a fenced code block labelled `triggers` with a
+JSON array of 0-3 price levels worth watching, drawn from your Bottom line —
+the "flips to a buy above X" / "exit if it loses Y" levels. Format exactly:
+
+```triggers
+[{"when": "above", "level": 79.20, "note": "reclaims EMA50 on volume - flip to buy"},
+ {"when": "below", "level": 55.43, "note": "loses support - exit if held"}]
+```
+
+Levels must be plain numbers within ~25% of the current price. Omit the block
+only if nothing is worth watching. The scanner context follows."""
 
 
 # ── data loading ───────────────────────────────────────────────────────────
@@ -322,6 +334,60 @@ def preflight_auth():
     print(f"Auth preflight passed ({reply[:20]!r})")
 
 
+# ── trigger extraction ─────────────────────────────────────────────────────
+
+TRIGGER_RE = re.compile(r"```triggers\s*\n(.*?)```", re.S)
+
+
+def extract_triggers(sym, text):
+    """Pull the machine-readable trigger block out of a narrative.
+
+    Returns (display_text, triggers): the fenced block is replaced with a
+    human-readable "Watching:" line, and the parsed levels feed triggers.json
+    for the trigger-watch workflow.
+    """
+    m = TRIGGER_RE.search(text)
+    if not m:
+        return text, []
+    triggers = []
+    try:
+        raw = json.loads(m.group(1))
+    except ValueError:
+        raw = []
+    for t in raw[:3] if isinstance(raw, list) else []:
+        try:
+            when, level = t["when"], float(t["level"])
+        except (KeyError, TypeError, ValueError):
+            continue
+        if when in ("above", "below") and level > 0:
+            triggers.append({"ticker": sym, "when": when, "level": level,
+                             "note": str(t.get("note", ""))[:120],
+                             "source": "narrative"})
+    watching = ("🔔 Watching: " + "; ".join(
+        f"{t['when']} ${t['level']:g} — {t['note']}" for t in triggers)
+        if triggers else "")
+    return TRIGGER_RE.sub(lambda _: watching, text).strip(), triggers
+
+
+def update_triggers_file(path, narrative_triggers):
+    """Replace the narrative-sourced entries in triggers.json, keeping the
+    user's manual entries and the watcher's fired-state untouched."""
+    data = {"manual": [], "narrative": [], "fired": {}}
+    if os.path.exists(path):
+        try:
+            data.update(json.load(open(path)))
+        except ValueError:
+            pass
+    data["_doc"] = ("Price levels watched by the trigger-watch workflow. "
+                    "Add your own to 'manual' as {ticker, when: above|below, "
+                    "level, note}. 'narrative' is rewritten by each market-"
+                    "narratives run. 'fired' records alerts already sent — "
+                    "delete a key to re-arm that trigger.")
+    data["narrative"] = narrative_triggers
+    json.dump(data, open(path, "w"), indent=1)
+    return data
+
+
 # ── report assembly ────────────────────────────────────────────────────────
 
 def summary_table(targets, board, recent_swing, held):
@@ -393,15 +459,17 @@ def main():
           f"{', '.join(targets)}" + (f" (skipping {len(skipped)})" if skipped else ""))
 
     preflight_auth()
-    sections, errors = [], []
+    sections, errors, all_triggers = [], [], []
     for i, sym in enumerate(targets):
         ctx = build_context(sym, board, data["score_history"],
                             data["swing_signals"], held, band_stats,
                             setup_stats, recent_swing)
         try:
-            text = ask_claude(INSTRUCTIONS, ctx)
+            text, triggers = extract_triggers(sym, ask_claude(INSTRUCTIONS, ctx))
             sections.append((sym, text))
-            print(f"[{i + 1}/{len(targets)}] {sym} ok ({len(text)} chars)")
+            all_triggers.extend(triggers)
+            print(f"[{i + 1}/{len(targets)}] {sym} ok ({len(text)} chars, "
+                  f"{len(triggers)} triggers)")
         except Exception as e:  # keep going — one bad ticker shouldn't kill the run
             errors.append((sym, str(e)[:300]))
             print(f"[{i + 1}/{len(targets)}] {sym} FAILED: {e}", file=sys.stderr)
@@ -412,8 +480,11 @@ def main():
                            sections, errors)
     open("narratives.md", "w").write(report)
     open("narratives_issue.md", "w").write(issue_body(report))
+    update_triggers_file(os.environ.get("TRIGGERS_FILE", "triggers.json"),
+                         all_triggers)
     print(f"Wrote narratives.md ({len(report)} chars, "
-          f"{len(sections)} ok / {len(errors)} failed)")
+          f"{len(sections)} ok / {len(errors)} failed, "
+          f"{len(all_triggers)} triggers)")
     if sections == []:
         sys.exit(1)
 
@@ -482,6 +553,34 @@ def selftest():
     assert "EEE" in report
     big = report + "x" * ISSUE_BODY_LIMIT
     assert len(issue_body(big)) <= ISSUE_BODY_LIMIT + 100
+
+    # trigger extraction: fenced block -> parsed levels + "Watching:" line
+    narrative = ('Bottom line.\n\nSources: [x](https://e.com)\n\n'
+                 '```triggers\n[{"when": "above", "level": 79.2, '
+                 '"note": "reclaims EMA50"},\n {"when": "below", '
+                 '"level": 55.43, "note": "loses support"},\n {"when": "up", '
+                 '"level": 1}, {"level": "oops"}]\n```')
+    text, trigs = extract_triggers("AAA", narrative)
+    assert len(trigs) == 2 and trigs[0]["level"] == 79.2, trigs
+    assert trigs[1] == {"ticker": "AAA", "when": "below", "level": 55.43,
+                        "note": "loses support", "source": "narrative"}
+    assert "```" not in text and "Watching:" in text and "$79.2" in text
+    assert extract_triggers("AAA", "no block here") == ("no block here", [])
+    assert extract_triggers("AAA", "```triggers\nnot json\n```")[1] == []
+
+    # triggers.json merge: manual + fired survive, narrative replaced
+    tf = "selftest_triggers.json"
+    json.dump({"manual": [{"ticker": "M", "when": "below", "level": 1}],
+               "narrative": [{"ticker": "OLD", "when": "above", "level": 2}],
+               "fired": {"M|below|1": "2026-07-01"}}, open(tf, "w"))
+    try:
+        out = update_triggers_file(tf, trigs)
+        assert out["manual"][0]["ticker"] == "M"
+        assert [t["ticker"] for t in out["narrative"]] == ["AAA", "AAA"]
+        assert out["fired"] == {"M|below|1": "2026-07-01"}
+        assert json.load(open(tf))["narrative"][0]["level"] == 79.2
+    finally:
+        os.remove(tf)
 
     # auth routing: subscription CLI (free) preferred; API fallback/override
     routed = []

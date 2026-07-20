@@ -1,0 +1,6 @@
+{
+ "_doc": "Price levels watched by the trigger-watch workflow (every 30 min, market hours). Add your own switches to 'manual' as {\"ticker\": \"SNPS\", \"when\": \"above\"|\"below\", \"level\": 415.3, \"note\": \"...\"} — set \"enabled\": false to pause one. 'narrative' is rewritten by each Market narratives run. Open-position stops/targets are watched automatically from trading-data. 'fired' records alerts already sent — delete a key to re-arm that trigger.",
+ "manual": [],
+ "narrative": [],
+ "fired": {}
+}
