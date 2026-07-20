@@ -1,0 +1,96 @@
+name: Market narratives
+
+# Push-button ("Run workflow") narrative brief for the names the LEAP and
+# swing scanners currently like: what moved each stock, thesis event vs
+# technicals, and what the system's own outcome data says. Delivered as an
+# issue (emailed) and archived to summaries/narratives/.
+#
+# To make it a daily brief, add under `on:`
+#   schedule:
+#     - cron: '10 5 * * *'   # 05:10 UTC — after the overnight trading-data sync
+
+on:
+  workflow_dispatch:
+    inputs:
+      scope:
+        description: 'Which names to narrate'
+        type: choice
+        options:
+          - signals   # LEAP score >= 10 or S2/S3 alert, recent swing fires, held positions
+          - monitor   # everything scoring >= 7, plus the above
+          - all       # the whole LEAP board (slow; ~70 narratives)
+        default: signals
+      tickers:
+        description: 'Comma-separated tickers (overrides scope)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  narrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check trading-data token
+        env:
+          DATA_TOKEN: ${{ secrets.TRADING_DATA_TOKEN }}
+        run: |
+          if [ -z "$DATA_TOKEN" ]; then
+            echo "::error::Missing repo secret TRADING_DATA_TOKEN. Create a fine-grained PAT with Contents: Read on rebibomichael-web/trading-data and add it under Settings -> Secrets and variables -> Actions."
+            exit 1
+          fi
+
+      - name: Checkout trading-data
+        uses: actions/checkout@v4
+        with:
+          repository: rebibomichael-web/trading-data
+          token: ${{ secrets.TRADING_DATA_TOKEN }}
+          path: trading-data
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install --quiet anthropic
+
+      - name: Install Claude Code CLI (subscription auth)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Generate narratives
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          TRADING_DATA_DIR: trading-data
+          NARRATIVE_SCOPE: ${{ github.event.inputs.scope || 'signals' }}
+          NARRATIVE_TICKERS: ${{ github.event.inputs.tickers }}
+          NARRATIVE_MAX: ${{ github.event.inputs.scope == 'signals' && '25' || '80' }}
+        run: python scripts/market_narratives.py
+
+      - name: Deliver report
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          DAY=$(date -u +%Y-%m-%d)
+          # 1) Email delivery: open an issue — GitHub emails it to you.
+          gh issue create \
+            --title "Market narratives — $DAY" \
+            --body-file narratives_issue.md \
+            --repo "$GITHUB_REPOSITORY"
+          # 2) Archive: commit the full report to the repo.
+          mkdir -p summaries/narratives
+          cp narratives.md "summaries/narratives/$DAY.md"
+          git config user.name "halftime-bot"
+          git config user.email "actions@github.com"
+          git add summaries/narratives/
+          git commit -m "Market narratives $DAY" || exit 0
+          git pull --rebase origin "${GITHUB_REF_NAME}" || true
+          git push origin HEAD:"${GITHUB_REF_NAME}" || echo "archive push failed (report still delivered via issue)"

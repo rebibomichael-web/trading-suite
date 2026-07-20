@@ -61,5 +61,8 @@ Automated daily reports live in this repo — when answering questions about
 - `transcripts/` — full Halftime episode transcripts (same dates, more detail)
 - `summaries/youtube/` — daily YouTube digest across followed channels
 - `transcripts/youtube/` — full video transcripts when captions were available
+- `summaries/narratives/` — push-button "why is it moving" narratives for the
+  names the LEAP/swing scanners like (thesis event vs technicals, per ticker)
 Pipelines: `scripts/halftime_pipeline.py`, `scripts/youtube_digest.py`,
-scheduled via `.github/workflows/`.
+`scripts/market_narratives.py` (reads a trading-data checkout; needs the
+`TRADING_DATA_TOKEN` secret), scheduled/dispatched via `.github/workflows/`.
