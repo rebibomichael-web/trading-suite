@@ -91,6 +91,16 @@ The full-system board (suite + automations + swing/LEAP research threads) is
 LEAP_ROADMAP.md) — trading-src is an hourly-synced mirror of the Dell; edit
 those docs on the machine, not on GitHub.
 
+## Git safety rule (added after the 2026-07-20 incident)
+NEVER force-push (`push --force`/`--force-with-lease`) to `main` or any shared
+branch, and never delete/overwrite remote branches you did not create in the
+current session. If a push is rejected as non-fast-forward, your clone is
+STALE: `git fetch origin && git merge origin/main` (or rebase your own
+commits), resolve, and push normally. A rejected push is information, not an
+obstacle. On 2026-07-20 a session with a two-week-old clone force-pushed and
+erased 14 days of history (restored in PR #49/#50). Also: before starting work,
+`git pull` — and if this file's history looks weeks old, STOP and re-clone.
+
 ## Storage rule
 GitHub is the source of truth; the local machine is a disposable working copy.
 Push often. `handoff.sh` snapshots repo state for a clean handoff between sessions.
