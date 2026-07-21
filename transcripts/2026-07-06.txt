@@ -1,0 +1,1101 @@
+I'm Scott Wapner and you're listening to CNBC's halftime report, the podcast, the most profitable
+hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Carl, thank you very much.
+The mic is hot.
+That's what we learned over the last 15 minutes.
+So it's nice to be with all of you front and center of this hour.
+The state of momentum, that part of the market, staging a nice rally today.
+We discussed in debate whether you should buy the bounce.
+We have SpaceX set to join the NAS 100.
+We're all over all of it with the committee, as always.
+Joe Cheranova, Jim David, Steve Weiss, Rob Siechen.
+In the house here at Post 9, we'll check the markets.
+We did have the Dow above 53,000 first time ever, albeit briefly this morning.
+But Russell 2000 having a nice day.
+It is the NASDAQ that is the winner and the big story is clearly the momentum rebound.
+It is up sharply.
+The chips are rallying.
+I turned to our expert in the momentum factor.
+He is Joe Cheranova sitting right to my left.
+What do you make of this today?
+From the perspective of what is the effect on the market overall, I think we had this unwind
+in momentum over the last several days and the resiliency of the broad market was very powerful.
+So that's a good condition.
+I think what you're seeing today is nothing more than a rebound.
+I think it has to prove itself out, this momentum rebound specifically as it relates
+to semiconductors and memory names.
+As we get through the week, we will have Samsung's earnings.
+We will have SK Hynex IPO probably on Friday and then next week you have ASML and TSMC.
+So it has to prove itself in the interim.
+It really validated the resiliency of the market.
+The last thing I will say though, it is leading to a deleveraging in particular for systematic
+funds and quant funds.
+They are beginning to reduce exposure significantly as it relates to technology.
+The effect of that brings elevated volatility on the other side.
+So keep that in mind.
+I think we're going to continue to see very wild swings in the NASDAQ, very wild swings
+in the names like Marvell, Corning and Micron.
+Okay.
+Goldman's trading desk, Rob, has an interesting note about momentum.
+It's now down 24% since the peak.
+It's sell-off since the first quarter of 2023 versus an average drawdown of roughly 12%.
+Barring a regime change, buying the dip in momentum has historically paid off and the
+magnitude of the current move is likely a function of lower liquidity and a bit of
+summer fatigue.
+In other words, don't get too caught up with a real dramatic shift in how momentum
+was trading.
+It's going to reverse itself and you would be wise to buy the reversal.
+What do you think?
+I think we agree with that.
+There's some out there that are saying price sell-off leads a business sell-off and a
+re-rating in the group, but we're buying in the weakness in the group and historically
+that's been rewarded.
+If you look at the last corrections and we've seen 10 double digit corrections
+gotten in the semi-industry over the last five years and still that has generated
+more than 30% annualized returns.
+We maintain our modest overweight to the group, roughly 20 versus 18.
+It's been long-standing.
+It served us well and I don't think we have any intention of reducing it.
+Why is this the biggest story in the market, I think, because it had people
+thinking that you had a regime change going on here, that these stocks, which had
+led you in many respects on the way up, were going to lead you on the way down
+unless there was a significant rotation into other areas of the market.
+If you look at all of these names today, the microns, the marvels, 3%,
+Intel's up 3, AMD's up 9, you get the idea of where these stocks had gone
+over a one-week period of time, leading that factor to the downside.
+Significant losses, micron in a week down 10.5%, KLA 10-core down 11.5%,
+and so on and so forth.
+Were we too quick to think that that trade was finished for a while,
+that the rotation was going to lead us elsewhere?
+We back, how would you assess it?
+I think jury's still out.
+I think we're really at, we'll be in an extended inflection point.
+And so if you take a look, take a look at Bitcoin, for example.
+You know, when people got in, when Trump got elected and he was pushing
+towards Bitcoin, then trade up to 125.
+But it's always that last group that comes in at the end
+that causes the biggest drawdown, because they are impatient.
+They're immediately losing money, so they're selling it down.
+So what I struggle with in these moves is now, who's the marginal buyer?
+Have they corrected enough?
+Now, 10% in a week is a big correction.
+But we've also seen it up 10% or 20% in a week as well.
+So I don't know if they've corrected enough to bring that marginal buyer back in.
+So for me, what I look at rather than buying momentum per se,
+I look at buying stocks that have been severely dislocated,
+like a Broadcom, where I initiated that position,
+or adding to meta last week.
+Those are the opportunities I look for.
+And I'm tending to fade, and I guess we'll discuss later,
+some of the other names that I'm involved in.
+So B of A today takes a look at the semis.
+They call it a pullback, being a reset, not a reversal.
+That's the central question, because last week,
+it looked like a significant reversal to where we're like, OK,
+if money is going to come out of chips,
+it's got to find a home either in the mega cap,
+so it has to find a home in all these other areas of the market
+like you had been playing for.
+And I wonder if you were too quick to think
+that that was going to be the thing.
+And now we're reminded today that, you know what?
+Maybe it's not.
+Well, I mean, that is the question.
+Is this a return to the old trend,
+or is there a new regime in place?
+And frankly, as Steve just said, the jury's still out.
+You can't answer it in a day.
+Is it still out?
+I mean, that's the thing.
+I think maybe you needed more proof for the former,
+not the latter.
+OK.
+I mean, I do know what you mean.
+And the question, I don't have the answer to the question,
+but let me frame how we might answer.
+Last week, if you just look at last week,
+the first or last, the last or first in terms of sectors,
+health care was up 5.3% last week.
+I will go out on a limb here and say
+that has nothing to do with AI.
+So clearly there was some bottom fishing
+or some bargain hunting going on out there.
+Does that continue?
+Was last week a blip or a trend?
+We have to determine.
+And Scott, I think I'm getting your point,
+which is that if you look at today,
+no, the first or first, and it's technology.
+I was going to take issue with your statement
+right at the top of, I think we can all agree
+that the health care move has nothing to do with AI.
+I would suggest to you that it has everything to do with AI.
+It just has moved from the payers, the hyperscalers,
+to those that are going to reap the benefits
+and the rewards of AI, like health care.
+People started to look at other areas of the market.
+I hear you.
+I thought about that as I was saying that.
+And as I was framing the sentence,
+I thought, well, maybe health care
+rallied last week on the idea that AI
+is going to help new molecule discovery.
+I just personally think it's a little premature to state that.
+But OK, we can have that argument.
+Let me make my point a little bit clearer
+by saying a couple of weeks ago, I
+initiated a position in micron.
+I'm voting so far with my feet, which
+is to say I haven't added to it.
+I'm thinking about it.
+I'm wondering if today I should be adding to micron.
+My position is, Scott, as it was last week,
+that I think the second half is
+going to see a continued broadening of the rally,
+on a broadening of earnings, and that I
+will continue to have opportunities to add to micron.
+I don't have to do it today.
+There's your time frame greater than three months.
+If it is, then yeah, you add to micron.
+I hear you.
+I think we're having a conversation where I agree with Steve.
+If you are questioning whether the semis and memory
+and momentum will maintain the leadership role that
+has had so far in 2026 in the coming quarter,
+that's a fair question.
+And the answer to that will be determined probably
+over the next five to 10 days as earnings come out.
+Do I think that the high is in for the year,
+in semis, in memory, in momentum?
+Absolutely not.
+Well, because the socks has had six straight sessions
+with at least a 3.9% move.
+This is from BTIG.
+This sort of extreme volatility near a high at best
+suggests a long period of consolidation
+and at worst, a more meaningful top.
+100% and I studied most of the weekend
+that I wasn't shooting 120 on the golf course.
+I studied what I was seeing in our portfolio
+with momentum.
+And everything suggests exactly what that says.
+That you are going through a multi-week period
+that's going to trap a lot of people.
+It's going to look as if momentum's breaking down.
+It was an inflection point.
+It's going to look as if maybe the restart is occurring.
+Time is going to heal and provide the answer for you.
+Doesn't the breakdown have to occur
+with CapEx news that's not as positive
+out of the hyperscalers before you're not going to see
+by the dip mentality here?
+In my mind, until that happens, you are not seeing that.
+I'm sorry, we've had 10 double-digit corrections
+in this space, 10.
+Every dip spot.
+And what's the catalyzer?
+Spend.
+If you think spend's going to change, I agree with you.
+If you don't think spend's going to change, I don't.
+Well, that's why you do agree with me
+because I just said, I don't think this is the highest.
+Okay, okay.
+I'm with you, I'm good.
+But he's making the reset.
+Rob's making the reset, not reversal argument like B of A is.
+It was a reset if he's right.
+Not a full reversal of what was a straight-up trade.
+You don't want it to be a straight down.
+And it was expensive, I mean, it moved so far.
+Isn't Rob right?
+Like until the spending dynamic changes from the spenders.
+I think he's right in terms of,
+obviously that will cause a major decline in the shares.
+However, that doesn't have to be the catalyst for the decline.
+The catalyst for the decline could be,
+particularly they move so fast and so quickly.
+I mean, it could be that people see,
+they don't want to be the last ones out
+and they're willing to call the peak of the cycle
+before a company comes and calls out.
+I think that-
+It just seems like based on what we hear
+from so many people that calling the end of the cycle
+or the top is early.
+Like you're going to call it in the,
+you're going to come run out of the dugout
+and try and call the game in the third inning?
+That's what people are saying, right?
+But I don't think it's third inning.
+No, I know you don't, but I'm saying generally speaking.
+Here's what I think.
+I think that I'd much rather be early
+calling the peak than late calling it.
+And when you have so many gains,
+like I've initially bought Micron at 350 in April
+after the prior quarter, the company got hit.
+So when you have such huge gains in it,
+you hang around and try to squeeze the last dollar
+out of the trade.
+Maybe even the more definitive tell isn't
+so much on the hyperscaler spend
+and maybe one plays into the other.
+It's on the DRAM price increases.
+Like the DRAM prices are still going up
+because demand is outstripping supply.
+Everybody who talks on the topic
+says you're not going to get a slowdown in demand
+anytime soon for over more than another year.
+I agree with that.
+That is exactly why I initiated Micron two weeks ago
+immediately after their earnings.
+And many people said, boy, you missed out
+on a 600% rise.
+That's factually true.
+But I think it's equally factually true.
+Rather opinion here that this is like buying
+NVIDIA three years ago.
+Yes, a lot of gains have been had,
+but more were coming.
+And in this case on the back of prices.
+I think just this, whether we call it
+a reset or a regime change,
+I think it's short-term in nature.
+And I think it has a lot to do
+with Brad Gerster said to you last week.
+He said, after whatever the gains are,
+Micron's up 600% Steve in what?
+A year, whatever it is.
+You know, a lot of people should be thinking
+about taking their foot off the throttle.
+And maybe that's exactly what's happening here.
+It's not a cycle call.
+If I thought the cycle was ending,
+I wouldn't have finished it.
+Oh, please.
+If you thought that the cycle was ending,
+we'd have bigger problems.
+Yeah, I don't think so.
+And the markets doesn't feel like it's sniffing
+anything out other than these stocks went parabolic.
+And maybe we got a little ahead of ourselves.
+And maybe the valuations on some of the names
+got a little too rich for our liking.
+And now maybe we need to just take a pause.
+Exactly.
+A lot of parabolas.
+That's exactly what Brad said.
+A lot of parabolas.
+Let's take a pause.
+Go ahead.
+So I'll talk about it now.
+So I sold Micron.
+You know, I exited and I sent a note
+on Thursday morning exit near the open.
+And the reason is there are many reasons for it.
+Number one, I don't want to be the last one out.
+I'd rather be the first one out.
+What you just said, and I know what you just said,
+everybody's saying this,
+when everybody's from one side of the boat,
+it can capsize and you can come to a decline
+sooner than reaching the peak.
+Now, there's really little doubt in my mind
+the stock will trade up from here.
+But so what, I'm giving up another 10%, 20%.
+So that's that.
+And then, hold on, let me finish.
+Yeah, go ahead.
+Go ahead.
+So then you've got NVIDIA.
+And I think NVIDIA is not that it's been
+a poor performing stock.
+It has, you know, over a.
+Exactly.
+Over a period of time.
+So what you cited that NVIDIA in three years, right?
+I think that that's no longer the case.
+People looking at referring to it now
+is NVIDIA this year and can catch a bit, right?
+So despite continuing to have great, great news.
+So that informed my thinking on an exiting micron.
+Now, it'll go up, but that's fine.
+I've made enough money in the trade.
+I don't want to be there at the end.
+The chip equipment names are getting a lot of love
+continually on Wall Street.
+Morgan Stanley bumps the targets up
+on several names today, KLA to 274,
+Lambda 404, AMAT to 647.
+Rob, I'll give you those.
+I mean, I'll come to Joe too, but you go first
+because you own AMAT, LAM, and KLA as Joe does.
+Yeah, these are, so start with AMAT.
+It's, you know, it's obviously up a boat load.
+I think it's up 140% trades at 41 times forward PE.
+So to speak about the magnitude of these moves,
+I think something you have to pay attention to.
+But yet every single analyst that follows these names,
+you're not just seeing tremendous growth
+year on year in earnings.
+You're seeing raises quarter on quarter
+in earnings expectations.
+And, you know, from my lens,
+when you look at this part of the market,
+one of the most powerful forces has been momentum.
+And the momentum is, wow, maybe decelerating slightly.
+It is not material enough for me to say
+there's a break in that trade.
+Right, yeah, it's a question.
+Goldman, same amount of love for a lot of these names.
+AMD goes to 640 over there.
+Applied materials, 645.
+So remember, we just had 647 at Morgan Stanley, 645 at Goldman.
+They see downside for KLA though.
+If you want to take that side of it,
+what do you think about that?
+Because I mean,
+it's the most expensive.
+It's one of the most expensive.
+That's a valuation argument more than anything else.
+If you looked back over the last couple of years,
+it was basically a three-horse race
+with lamb, KLA Corp and Applied Materials.
+And it was always Applied Materials
+was kind of running in the back,
+a third to KLA Corp and lamb research.
+I think with KLA Corp trading at somewhere
+in the mid-60s, Rob, correct me if I'm wrong?
+1551.
+So the valuation is a little bit rich there,
+but I don't think I've heard anything to your point, Scott.
+Fundamentally, that changes this story for memory,
+for semis, for semi-equipment.
+I think what I heard from Micron
+was fundamentally long-term bullish.
+It was the worst performing semi-last week.
+We're securing pricing going out over the next five years.
+40%.
+What about Weiss's idea though,
+because you could extrapolate that to any of these names.
+All the parabolic charts,
+whether it's Marvell or whomever,
+a willingness to be one of the first out,
+even if it's early.
+You'd rather be out,
+rather take a view from the sidelines that says,
+you guys can continue to play,
+you'll probably make more money,
+but I don't know where the exit's gonna be
+and when it's time to run for the door,
+so I'm done now.
+Now, he may very well next week buy it back.
+But I need to, to that end.
+To that end, we trimmed KLA.
+We did, because of the valuation concern
+and because of the magnitude of the move.
+100% move traded 51 times forward.
+It doesn't mean we jettisoned the position.
+We still like the name, but we certainly trimmed it.
+That's a move.
+There's another point to Micron,
+which is that there's this massive rush
+and the CEO said to himself
+that we are trying as hard as we can to add capacity.
+They've also come out,
+the Apple, Apple's come out and said,
+we want to buy Chinese memory chips, right?
+So it's not just about the spending ending, right?
+And that's often not what it is with memory.
+It's about supply coming on the market
+and it's easier to add supply in memory
+than it is to add supply in semis,
+which is why I didn't sell Taiwan.
+None of this, all of these questions,
+which like 18 minutes into the program,
+you see a decent move back to sort of the way we were
+in the market.
+None of what's happened in the last week or so
+has made someone like Ed Yardeni
+any less bullish on the overall market.
+Says you go another 10% on the S&P this year.
+82.50 is the target that he is reiterating again today
+because of FIMO.
+Remember what that was?
+Not FOMO, FIMO, fabulous earnings momentum.
+Okay, so we have a chart.
+Did we make this up, guys,
+on what the sector by sector earnings growth
+is expected to be?
+Because everybody knows what tech is gonna deliver, okay?
+65.5% is what the earnings growth estimate is for technology.
+Everything else doesn't look that great.
+Energy is 116% and you got low to mid-single digits
+for every single, just about other sector.
+Materials is 32%.
+I'm wondering what you think of 82.50.
+I'm wondering what you think of the earnings estimates
+going up across the board for everything
+to where you're gonna get 24.5% overall earnings growth,
+what was 15% on January the 1st?
+For 82.50, the formula would have to look
+very similar to today,
+where semis and software are both up at the same time.
+You would need that participation in technology
+to be very broad.
+I think overall, as we said at the top of the show,
+the resiliency was the powerful message of last week
+when momentum was correcting
+and you saw a semi and memory roll over.
+I think looking at the upcoming earnings,
+the market is telling you it is thirsting
+to begin to build positions based upon earnings growth
+in healthcare, in a lot of the underappreciated sectors.
+Healthcare today is expected to have
+a negative 9.3% earnings growth.
+And I would characterize the positioning there
+as far less leaning towards bullishness
+than you would see in technology.
+More recently, we're building positions.
+We, I say the financial services industry
+is returning to the financial sector once again
+on the anticipation that the earnings
+will be strong there once again.
+And I think the market is telling you,
+if it wants to broaden out, give us the earnings
+and we will build the positions there.
+The greatest example of it is the Russell.
+Right now, if you look at momentum,
+the strength of momentum for all the major indexes
+is in the Russell above everything else.
+You know, I just hit the target.
+Ed Yardini's target is about 20.5 times
+next year's earnings.
+Next year's earnings on the S&P 500
+are a little bit over $400 a share.
+In terms of the current price of the S&P 500
+versus this year's earnings, 20.6.
+So really, what this market is trading on
+and the way you get to Ed's,
+I guess it seems lofty, but not really,
+target is the continued earnings growth,
+which at least in the second quarter,
+we're looking at over 22% earnings growth.
+And that's driven more than a hundred percent
+of the gains this year have come from earnings.
+So if you buy that,
+where we finished with the multiple expansion market,
+we're in the earnings driven market,
+phase of the bull market.
+100%, and expectations are for 26% earnings growth.
+So it's certainly believable
+that the market continues to keep up with that, right?
+It's a believable thing.
+I do think we have risk side.
+I think we have seasonality right now
+when you get into August and September,
+historically difficult months.
+We have the midterm elections coming up.
+There's going to be some volatility created with that.
+But I think the earnings trends continue.
+And I think you have to be an athletic stance
+and be a buyer of dips and things that you want to own,
+much like Steve just talked about what he did
+with Meta and Micron.
+I think that's a healthy way to do these things.
+Are you guys looking to do that in somewhere like software?
+Because the software versus semis,
+granted it's a short sample size,
+but it's outperformed over the last two weeks,
+the IGV to the SOXX,
+6.5% up IGV, the SOX down 8%.
+You're not looking for anything.
+But you don't have really any,
+when I look at the list outside of Microsoft, obviously,
+you still have that, right?
+Yeah, Microsoft.
+But like the Palantir, the crowd strikes
+with the cybers done incredibly well of late.
+ServiceNow, IBM, Adobe, Jim, Datadog, Zoom,
+Synopsys, Cisco, Oracle,
+there's your names not on any of those.
+Yeah, I mean, when I bought more Meta last week,
+and I actually had a little bit too this morning as well,
+I looked at Microsoft as well,
+because I went in there with Adabias.
+Do I want to buy more?
+Do I want to sell it?
+Do I want to hold it?
+I decided I couldn't make the investment case
+for buying more Microsoft, but I could for Meta.
+Now in terms of the rest of software,
+I mean, that's 100% the bullseye of AI,
+and you don't know who's going to do well who's not.
+Now Salesforce in particular,
+Salesforce has grown a lot through acquisitions.
+Now the problem is when you get so big,
+what's the next acquisition you have to reach
+to make a really large one to impact your bottom line?
+So while Bell use AI to their advantage,
+with the ability of AI tools that businesses have
+with IT departments,
+you could really cut down and never see it once.
+You can, but there's still going to be the service now
+as the IBMs that have the consulting businesses,
+the Fortinet for integrated security.
+These are things that-
+Well, consulting businesses are,
+I mean, take a look at who's out.
+We want to take a look at a company
+that's got consulting business,
+but that stock's done over the last year and a half.
+So I think it's too early to call,
+you know, the bottom in these.
+Selectively.
+Selectively.
+Selectively over what you mentioned service now
+in Fortinet in the same sentence.
+Yeah, I mean, different things.
+Obviously one cyber security and the others,
+the platform enterprise platform
+that it's kind of an operating ecosystem, right?
+And so those are, I think they're tough
+to switch away from.
+There's, there's huge switching cost
+to move away from those things.
+And I don't know what they trade at right now.
+Let me take a look at Oracle too.
+It's been down for nine sessions in a row.
+It's the longest since December of 2021, Jim.
+Yeah, the stock is, the stock is just a pinata
+being beaten by the sentiment about whether AI is a bubble
+or not.
+There's no candy falling on the floor though.
+Is there?
+Excellent extension of the analogy that I made.
+I'm still a believer.
+Look, we already know about the free cash flow
+going negative.
+We know about the debt,
+much of which has been raised already.
+They did, they do still have some equity to raise.
+And I think that's overhanging the stock right now.
+I kind of wish they hadn't announced
+on their last earnings call
+that they were going to do an equity raise.
+I don't see any upside into announcing that.
+They should just snap it on the market when they want to.
+That being said, within the last three months,
+it's traded above $200 a share.
+It's now down in the 140s.
+You look at this on a multiple of out year earnings,
+which are not that far out.
+This is a fiscal year, May 31st.
+So when we look at fiscal year 28,
+we're looking at a low teens multiple.
+It's not that far away.
+We just got to get through the remaining concerns
+about funding this.
+When you look at Oracle,
+if you're using a 12 month timeframe for momentum,
+which is what most momentum players will do,
+you're now in an area
+where you've got that yellow and red light going,
+believe it or not.
+In the last quarter,
+you still had the green light going for Oracle.
+So it failed at that 240 level.
+It's rolled back significantly.
+I've got a 143 right now.
+It's not looking too good as we go into the rebalance.
+I agree with Rob in the fact that you can be tactical here.
+You could find opportunities.
+I did that with CrowdStrike,
+recognizing that very powerful rally
+that we were having in cyber.
+Datadog is another name.
+It has a touch of security
+as it relates to cloud infrastructure.
+It's been breaking out.
+I did a horrible job on Twilio.
+I said the day that I got stopped out,
+it would be the low.
+Steve, it was the dead low.
+It has bounced ever since.
+Twilio is a software name that works here as well.
+And the last name I think for the viewers,
+they should look at is Zoom Video.
+We own it in the ETF.
+Remember the relationship that they have with Anthropic.
+It's a very powerful monetary relationship going back
+to 2023 when they invested $51 million.
+That stake could be worth $5 billion today.
+I'd look at that one.
+All right, we'll take a break coming up SpaceX.
+It's in the spotlight today.
+As you know, it's about to join the NASDAQ 100.
+Our Leslie Picker following that action force
+joins us next with what you need to know.
+And we're back on the hats on report.
+I am Frank Holland with your CNBC News Update.
+At least 500 people have died
+out of more than 1,500 confirmed cases
+in Congo's Ebola outbreak.
+Frontline workers issued a 24-hour notice yesterday
+threatening to strike if authorities fail
+to pay them benefits and improve their working conditions.
+Officials have not yet identified the outbreak's
+patient zero and they still need
+to contract trace possibly tens of thousands of people.
+The White House is out with a 162-page report
+accusing the Smithsonian's National Museum
+of American History of, quote,
+extreme political activism.
+The report is part of President Trump's executive order
+aimed at eliminating what he calls
+anti-American ideology from the Smithsonian.
+A museum spokesperson told The Washington Post
+it remains committed to nonpartisan
+and independent scholarship.
+And as the tour to France kicked off this weekend,
+a large wildfire in the South of France
+is preventing fans from viewing the finale
+of the third stage of the race.
+With more than 4,000 acres burned,
+race organizers have limited access
+to only riders and vehicles essential to the race.
+Scott, back over to you.
+All right, Frank, appreciate that.
+Thank you, Frank Collins.
+SpaceX, as we said, joining the NASDAQ 100
+after the close today.
+Leslie Picker has everything you need to know
+for us right now.
+Hi, Les.
+Hey, Scott, yeah, after the closing bell tonight,
+index funds tracking the NASDAQ 100
+have to start buying SpaceX stock
+whether they want to or not.
+There are more than $800 billion in assets
+that directly track the NASDAQ 100,
+more than half of which from Invesco's QQQ.
+JP Morgan estimates there will be about $4.3 billion
+worth of forced purchases flows into SpaceX
+by funds that have to reflect its weighting
+in the composite before it officially appears there
+tomorrow.
+SpaceX's weight in the NASDAQ 100
+will be very, very small at first, less than 1%.
+And these funds will have to sell a little
+from the other constituents in the index
+in order to make room, but the impact
+will be spread out over the other names.
+So it shouldn't be too noticeable.
+We've never seen something like this happen
+at this scale so quickly after an IPO.
+Remember, Scott, several months ago,
+NASDAQ altered its rules to allow for a fast tracking
+of mega-cap companies into its flagship index.
+So instead of waiting months with a double digit percent
+float, companies that would have a top 40 market cap
+can be included after 15 trading days
+with just a small sliver of a float.
+Now, SpaceX's weighting in the index
+will grow as its float does.
+We'll see that happen as the company starts
+to lift its lockups, allowing insiders to sell,
+and that could start as soon as next month.
+And then SpaceX may opt to do secondary offerings over time,
+which would also bolster the float size.
+However, markets tend to front-run these rebalancings,
+especially ones as well telegraphed as the SpaceX one.
+So, you know, any expected forced buying
+may already be reflected in the stock price.
+You could see it's not really doing much
+ahead of the event today.
+Okay, all right, Leslie, thank you very much for that.
+That's Leslie Picker.
+How is this all going to impact the way this trades?
+As Leslie said, I mean, the stocks tend to front-run
+things like this.
+Has this really front-run that all that much?
+It seems to have, because this has been widely talked about,
+right, and this is exactly that passive type of buying
+that we thought would engineer the price support for this,
+along with a limited float,
+relative to the total market cap.
+And I think real price discovery comes later.
+There's a lot of people, including us.
+Like I wanna see from the IPO in other words on this chart.
+Go ahead, sorry.
+Real price discovery starts to come
+as the lockups come off.
+But even as I'm talking to clients about this
+that own this, there is maybe some desire
+to take some off the table.
+Again, limited float, so that might have an impact.
+But there is an evangelistic support for this asset
+because they have one of the most
+unreplicable business models that has ever existed.
+And so, truth is, I don't know, it's an expensive name,
+but you've seen a lot of what Elon has been involved with
+has always traded expensive.
+So I think you're gonna have long-term holders.
+I think you're gonna have some come off.
+And I would use that if you don't own it
+as the opportunity to try to be a better buyer
+if it ever comes.
+What do you think?
+Look, I mean, you would think that would trade up
+with inclusion in the index,
+but I don't think any of that's new news.
+Actually, when it was thought it was going to the S&P,
+that fueled the book being way oversubscribed
+and the SP came out and said, no, not so fast.
+And I also believe that any pull forward
+is being met by selling, continual selling.
+So you just, you can't value it.
+So yes, if you follow Musk, and there's no reason not to,
+he's made people a lot of money,
+then you're gonna stay here and you're gonna buy on dips.
+But if you're just a fundamental investor
+and don't care who's running it, you take a look,
+say, look, I don't know when they're gonna make money.
+They have a great, great business, you know,
+and it's going to expand that business,
+but are they gonna buy Tesla?
+And what are they gonna do with Tesla?
+I think a lot of people are playing for that.
+Exactly.
+Do you think that this story
+is in any way capital restrained,
+whether it's on the institutional or retail side
+from those who have their eyes on other prizes
+that are out there lurking that are very large as well?
+And if they weren't there,
+that maybe this chart would even look a little bit different
+or the prospects in the near term would be different?
+Well, yes and no.
+So in terms of others, like the idea of, of anthropic.
+Yeah, open AI.
+Yeah, there's the obvious ones that I'm referring to.
+Nobody's gearing up in time for it right now
+with this because you've still got time to do that.
+I just think people are still waiting to,
+despite what the market's doing,
+I think people still waiting to take it.
+This is a playbook.
+You just can't justify valuation.
+How do you go to your investment committee
+and say, I want to buy this?
+And they say, well, what about the valuation?
+No, it's all about Elon Musk.
+And they'll say, okay, what's that worth?
+Yeah, but it's not like you're telling that story
+for the first time.
+They've seen the blueprint and the roadmap
+in a Tesla, if you've had to make that case before.
+You don't have to make it again.
+No, you do have to make it again
+because they review everything again.
+But you know what I mean.
+It's not like they're new to the story
+of what you're trying to tell.
+They're like, can you just,
+many people can't justify Teslas.
+They want to see this valuation.
+They want to see more mature trading history on this.
+If you're a benchmark manager,
+which many are, I'm not saying we are, many are,
+one of the most dangerous things you can do
+is be massively underweight a name like this.
+It carried people out, and I think 23 or 24.
+It was, Tesla did.
+It was the best performer.
+Every active manager got vaporized
+as a result of that decision.
+I think you have to be balanced.
+What's the weighting?
+What's the weighting?
+I don't know.
+It's not going to be that big.
+All right, we got a bounce.
+We'll do Santoli next.
+Senior markets commentator.
+And over time, co-anchor Michael Santoli,
+there he is for his midday word.
+But the word is momentum because it's back.
+It is back, or at least it's bouncing.
+And market making the case that it was a sufficient shakeout
+tactically of that factor.
+What I find interesting though is that
+all anybody can talk about are these structural elements.
+The factors, the way they manifest in the index.
+And late last week, I was out there saying like,
+everyone wants a broadening market,
+but be careful because that's dependent
+on a lot of different things and the macro has to cooperate.
+And that sometimes proceeds in more fragile tape.
+Well, today what you have is the healthcare sector down 1.4%.
+Why?
+Oh, because people got renewed confidence
+in the AI hardware capex story.
+Well, that shouldn't send healthcare down 1.4%
+and staples down 1.8% in a vacuum, but it does.
+Because that's the market we have.
+We have a market that is 18% semis in the S&P 500
+and 16% is the four hyperscalers spending all the money
+and they're working against one another.
+So I think right now it's all kind of fighting
+to a pretty benign outcome, I guess,
+but it's pretty sideways in the overall market.
+And it makes you wonder, ultimately,
+what on a given day the market's gonna respond to.
+All right, good stuff, Mike.
+Thanks, I'll see you later.
+That's Mike Santoli.
+Still the head top calls of the day
+and later a red card reversal
+and a green light for the prediction markets.
+We're following the big money,
+pouring into those betting markets
+ahead of tonight's US World Cup match.
+We're back after this.
+Committee stocks on the move, Delta.
+Downgraded to outperform from strong buys.
+Is that really a downgrade?
+They report earnings on Friday, right?
+The target's the 104.
+Yeah.
+Raymond James did it.
+Target goes to 115 at Morgan Stanley.
+Jim, you get that one.
+Yeah, I'm gonna say.
+It's only gonna outperform,
+but I wouldn't strongly urge you to buy it.
+Yeah.
+Here's, it's tricky for all of us
+because we like the company, we like the stock.
+Think it's gonna go higher over the long run,
+but look at that chart and I will tell you
+that doesn't even really show
+how strong it's been over the last few months.
+It's punching above its weight class.
+That's all I can say.
+They better have extraordinary earnings on Friday.
+Because of the chart?
+It's just the valuation.
+It's now in the low teens
+and I understand stocks will re-rate
+and I've been the one who's been saying
+the balance sheet cleanups
+deserves a re-rating much less debt,
+but I'm just saying it's ahead of itself.
+I would not add new money to Delta here.
+I'm not selling anything
+and I'm not trying to talk out of both sides of my mouth.
+What I'm saying is,
+if you want to start in position in Delta,
+I'd probably wait until after the earnings on Friday.
+It's a low bar to beat on Friday.
+Keep that in mind,
+because Q2 was a tough quarter.
+Weather disruptions, challenges related as fuel.
+Keep going.
+So it is a low bar for them to beat.
+Be careful.
+They could beat, the stock could go higher
+and then reverse.
+All I'm gonna say is it's traditionally
+a single multiple of earnings stock
+and now it's around 13.
+What has happened?
+I'm sorry.
+Robbie, what has happened to the narrative
+and the fundamental story around Netflix?
+Yeah, you know, Goldman lowers the target today.
+They still like it.
+They cut the target to 110 from 120.
+It feels like there's a lot of people
+who still like it,
+but have either figuratively
+or literally cut their targets.
+I mean, what is going on?
+Let's back this out a little bit more also.
+What's happened with this stock?
+So, you know, we just bought it in March
+when it re-rated from a multiple standpoint.
+You know, we're probably a little down on it
+even since then,
+but it's gotten cheaper.
+It trades it 23 times,
+way off the peak premium.
+In our view as this company matures,
+content creation, user growth and monetization
+are keys advertising less of a key.
+They don't need it quite as much.
+So I just think it's kind of a growth
+at a reasonable price business
+that has been able to execute historically.
+And anytime we've seen these re-ratings,
+this is a stock that has come roaring back.
+It's finally from a multiple perspective
+kind of gotten into the zip code where we were at.
+I know that March, you know,
+that didn't get the WBD thing.
+That looks like a great head fake
+for investors in terms of stock.
+People are like, I don't like it
+because this is going to be in the penalty box
+until it's whole things all figured out.
+Well, it's figured out.
+They don't get the asset.
+Stock goes back up.
+There's like a sigh of relief for many.
+And then it's just been a steady stream lower from there.
+You could be watching this competitive landscape
+for other assets play out.
+I just think it's not a momentum story right now.
+And I think it'll regain a strong foothold.
+Risk worth taking in my opinion.
+Really super tight.
+It's a show me story, pure and simple.
+I added very, very small the other dates
+and otherwise revisiting.
+So we'll see what the quarter does.
+It's bouncing on quarters, then it goes silent.
+Okay. Go coming up.
+We'll have more on that big red card reversal
+for the US men's national team.
+What it means for the betting markets
+ahead of tonight's World Cup match,
+Contessa Brewer following that money for us joins us next.
+All right, welcome back President Trump confirming today
+that he called FIFA's president
+to review a controversial red card
+that would have suspended America's top goal scorer
+ahead of tonight's World Cup match against Belgium.
+That red card reversal is changing the game
+for the betting markets.
+Our Contessa Brewer following that money for us
+joins us now.
+Hi, what have you found?
+Well, first of all, FIFA's president says,
+look, this decision was made independently.
+But Falarene Bologna has been clear to play
+in tonight's game against Belgium.
+And look what happened when FIFA's decision was made public.
+The probabilities of who would win
+switched with USA taking the lead.
+Fandle told me as of yesterday,
+Balagon was bringing in four times the amount
+of money wagered as the next most popular scorer,
+Christian Pulisic.
+Belgium's soccer coach called the FIFA reversal
+an April Fool's joke.
+And we have just learned that FIFA has denied
+Belgium's appeal of that decision.
+Doesn't matter.
+Football fever is just fueling this betting bonanza.
+Kalshi has just posted its most lucrative market ever.
+Who will win the finals of the World Cup
+has now surpassed a billion dollars in trading volume.
+And Kalshi, with whom CNBC has a commercial relationship,
+did more than five billion bucks in trading volume
+this weekend according to Piper Sandler.
+That set new records fueled by this soccer mania,
+45% higher than last month and polymarket as well,
+up 24% over last month.
+And remember what we had last month
+NBA finals fervor?
+That's really saying something.
+The sports books also are raking it in.
+England versus Mexico match last night
+helped Caesars set new soccer records
+for most unique visitors.
+Most number of bets on soccer ever
+and most soccer handle, that's the amount of money wagered
+and Fandle says almost 90% of the World Cup handle
+is coming in on, you might guess it, USA.
+And when USA wins, it makes customers very happy.
+Still, we're gonna watch for the impact
+on earnings this quarter because if customers win,
+Scott, the house loses.
+Sure, but it's a win-win at least
+in terms of betting volumes.
+Not, you know, sometimes you see
+if the prediction markets are taking all the sports action
+that maybe it's hurting some of the sports books,
+but as you're reporting here, not in this case,
+it's sort of everybody's just getting in on this action
+part of the point.
+And I think they're hoping that the enthusiasm over soccer
+drives persistent enthusiasm,
+not just now for World Cup,
+but for what happens next year when MLS takes to the pitch.
+And maybe that'll be good.
+One more note, now you've got, say, Flutter and Fandle
+being market makers and going in on the B2B side
+of that predictions business,
+helping with combos and parlays.
+That's a big deal because they can make money
+even if the sports book ends up holding the bag
+when it comes to the outcome of the games.
+All right, good stuff, Contessa, thanks.
+Contessa Brewer, we'll do finals next.
+All right, we'll see you on closing bell,
+three o'clock Eastern, Malcolm Ethridge,
+Bryn Taukey, then Brian Bellsky,
+Jeff DeGraft, Kevin Simpson,
+so I'll look for all you then.
+What's your final trades?
+What do you got, Robbie?
+Meta trading at 15 times,
+growing at 20% and three billion active users.
+Okay, it's a good day for tech
+as you can clearly see.
+Who's got Alphabet?
+I have Alphabet, Scott, and I like it.
+I think you could also.
+Thanks, Steve.
+Good, good.
+No, I said I'd like Alphabet, I think it also bounce.
+Oh, I thought I cut you off.
+It's overdue, it's been under pressure.
+All right, pay attention.
+I wish I cut you off.
+Yeah, sorry, Jim.
+Apollo, it was 140 a couple of weeks ago.
+I think it'll get back there in short order.
+Joey.
+Apple about to make a new high.
+All right, good stuff.
+I will see you at three o'clock.
+I'm closing bell.
+The exchange is down.
+You've been listening to CNBC's
+halftime report, the podcast.
+You can always catch us live weekdays
+at 12 Eastern only on CNBC.
+All opinions expressed by the halftime report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated
+by them on television, radio, internet,
+or another medium.
+You should not treat any opinion expressed
+on this podcast as a specific inducement
+to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness
+or accuracy and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit CNBC.com forward slash
+halftime report disclaimer.

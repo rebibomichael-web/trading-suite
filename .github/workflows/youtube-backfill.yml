@@ -1,0 +1,52 @@
+name: YouTube digest backfill
+
+# Manual one-off: regenerate summaries for videos listed in a spec JSON from
+# transcript files already in the repo, and deliver them as an issue. Does not
+# touch state.json.
+on:
+  workflow_dispatch:
+    inputs:
+      spec:
+        description: 'Backfill spec JSON path'
+        required: false
+        default: 'scripts/backfill_2026-07-15.json'
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Claude Code CLI (subscription auth)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Run backfill
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: python scripts/backfill_youtube_digest.py "${{ github.event.inputs.spec }}"
+
+      - name: Deliver
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "$(cat backfill.md)" = "NOTHING" ]; then
+            echo "Nothing to deliver."
+            exit 0
+          fi
+          gh issue create \
+            --title "YouTube digest — backfill $(date -u +%Y-%m-%d)" \
+            --body-file backfill.md \
+            --repo "$GITHUB_REPOSITORY"
