@@ -11,6 +11,11 @@ permissions:
   contents: write
   issues: write
 
+# Never let a manual dispatch race the scheduled run on state.json.
+concurrency:
+  group: youtube-digest
+  cancel-in-progress: false
+
 jobs:
   digest:
     runs-on: ubuntu-latest
@@ -43,21 +48,55 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          if [ "$(cat digest.md)" = "NO_VIDEOS" ]; then
-            echo "No new videos — nothing to deliver."
-            exit 0
-          fi
+          set -euo pipefail
           DAY=$(date -u +%Y-%m-%d)
-          gh issue create \
-            --title "YouTube digest — $DAY" \
-            --body-file digest.md \
-            --repo "$GITHUB_REPOSITORY"
-          mkdir -p summaries/youtube
-          cp digest.md "summaries/youtube/$DAY.md"
+          HAS_DIGEST=0
+          if [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
+            HAS_DIGEST=1
+            mkdir -p summaries/youtube
+            cp digest.md "summaries/youtube/$DAY.md"
+          fi
+
+          # 1) Persist state FIRST, with retries. The de-dup state (seen +
+          #    pending backlog) must be durably pushed before the issue is
+          #    created — otherwise a failed push would re-summarize the same
+          #    videos next run and post a duplicate digest (and re-bill Claude).
           git config user.name "halftime-bot"
           git config user.email "actions@github.com"
-          git add "summaries/youtube/$DAY.md" summaries/youtube/state.json
+          git add summaries/youtube/state.json || true
+          if [ "$HAS_DIGEST" = "1" ]; then
+            git add "summaries/youtube/$DAY.md"
+          fi
           git add transcripts/youtube/ 2>/dev/null || true
-          git commit -m "YouTube digest $DAY" || exit 0
-          git pull --rebase origin "${GITHUB_REF_NAME}" || true
-          git push origin HEAD:"${GITHUB_REF_NAME}" || echo "archive push failed (digest still delivered via issue)"
+          if ! git diff --cached --quiet; then
+            git commit -m "YouTube digest $DAY"
+            n=0
+            until git push origin "HEAD:${GITHUB_REF_NAME}"; do
+              n=$((n + 1))
+              if [ "$n" -ge 4 ]; then
+                echo "state push failed after $n attempts — failing the job so state stays consistent"
+                exit 1
+              fi
+              git pull --rebase origin "${GITHUB_REF_NAME}" || git rebase --abort || true
+              sleep $((n * 3))
+            done
+          else
+            echo "No state changes to commit."
+          fi
+
+          # 2) Only now create the issue, and only if one for today doesn't
+          #    already exist (idempotent — safe against a re-run).
+          if [ "$HAS_DIGEST" = "1" ]; then
+            if gh issue list --repo "$GITHUB_REPOSITORY" --state all \
+                 --search "YouTube digest — $DAY in:title" \
+                 --json title --jq '.[].title' | grep -qxF "YouTube digest — $DAY"; then
+              echo "Issue for $DAY already exists — skipping (idempotent)."
+            else
+              gh issue create \
+                --title "YouTube digest — $DAY" \
+                --body-file digest.md \
+                --repo "$GITHUB_REPOSITORY"
+            fi
+          else
+            echo "No new videos — no issue to create."
+          fi

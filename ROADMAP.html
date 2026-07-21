@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 47%;
+            height: 100%; width: 60%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -107,6 +107,7 @@
         footer {
             text-align: center; margin-top: 36px;
             color: #64748b; font-size: 0.85em;
+            line-height: 1.6;
         }
         footer code {
             background: #1e293b; border: 1px solid #334155;
@@ -117,12 +118,13 @@
 <body>
     <div class="container">
         <h1>Trading Suite — Roadmap</h1>
-        <p class="subtitle">LEAP scanner · Swing trader · Trade journal — one Flask app, three tabs</p>
+        <p class="subtitle">Full-system board: suite app · automations · dashboards · swing &amp; LEAP research<br>
+        Refreshed <strong>2026-07-06</strong> from a review of all four repos (stock-tracker · trading-src · trading-suite · trading-data)</p>
 
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>9 of 19 items done</span>
+                <span>21 of 35 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -132,21 +134,46 @@
             <div class="column col-backlog">
                 <div class="column-header">
                     <span class="column-title">Backlog</span>
-                    <span class="count">3</span>
+                    <span class="count">8</span>
                 </div>
                 <div class="card">
-                    <h3>Barchart opinions in UI</h3>
-                    <p>Surface get_barchart() opinion data in the web UI once its home (Swing tab?) is decided.</p>
-                    <div class="card-tags"><span class="tag tag-shared">shared</span><span class="tag tag-swing">swing</span></div>
+                    <h3>Phase 2 — risk controls before any capital increase</h3>
+                    <p>Hard catastrophic stop (the −15% STOP flag already shipped to swing_flag + dashboard fallback from the audit window), earnings-hold rule, sleeve-drawdown kill-switch (e.g. −12% from high-water → flat). Pre-register the exit contradiction (time-stop / velocity-take as rules) for the Milestone-2 out-of-sample test.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
-                    <h3>Dashboard live testing</h3>
-                    <p>Exercise all three tabs against live market data on Render; check refresh thread behavior over time.</p>
-                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
+                    <h3>Phase 3 — refactor behind a golden test</h3>
+                    <p>Golden-file test for the scoring pipeline FIRST (pinned outputs), then: kill the 97%-identical swing_trader_quiet fork, extract GUI-free swing_core.py shared by GUI + headless, de-dupe the scan loop, reconcile the two disagreeing score caps, single-writer discipline on state.json.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Velocity exit threshold</h3>
+                    <p>Derive via standing-analysis M2 at Milestone 2 (~Aug 1): full curve, spike-vs-plateau rule, out-of-sample confirm at the next milestone. If adopted into swing_flag.classify(), the DIAGNOSE readout picks it up with zero code change.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>Pre-earnings drift factor</h3>
+                    <p>Tag E0 records with days-to-earnings at entry, bin 0–3 / 4–7 / 8–14 / 15+. Acceptance criteria pre-registered in ROADMAP_swing_trader.md. Blocked until sinks hold records.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>LEAP Stage 0 — bottom-calling backtest</h3>
+                    <p>Design locked in LEAP_ROADMAP.md (swing lows, S1/S2/S3, penetration-normalized proximity, SNATCH/DURABLE outcomes). Open question before building: reuse the existing bars cache (V-1), don't build a new data layer.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span></div>
+                </div>
+                <div class="card">
+                    <h3>Extract shared marketdata.py (V-1)</h3>
+                    <p>One get_bars() for every caller — the seam both project halves keep rediscovering. Trigger: before Stage 0 adds a fourth ad-hoc data caller.</p>
+                    <div class="card-tags"><span class="tag tag-shared">shared</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Journal → swing import (IV-8)</h3>
+                    <p>Journal presents trade facts, swing consumes. Contract validated live (59/59 join); 7-column open-positions export already ships. Build when prioritized.</p>
+                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-swing">swing</span></div>
                 </div>
                 <div class="card">
                     <h3>Retire old stock-tracker</h3>
-                    <p>Shut down the original stock-tracker app once the ported LEAP tab is verified. Final step.</p>
+                    <p>Blocked on two things now: verify the ported LEAP tab, AND find a new home for the Journal Dashboard that stock-tracker gained on 07-05. Note 07-06: the dashboard is now served from the Dell over Tailscale (private tailnet, works on 5G), so live serving no longer depends on this repo — the repo copy is source only. Final step.</p>
                     <div class="card-tags"><span class="tag tag-infra">infra</span></div>
                 </div>
             </div>
@@ -155,22 +182,27 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">3</span>
+                    <span class="count">4</span>
                 </div>
                 <div class="card">
-                    <h3>Merge PR #2</h3>
-                    <p>One click activates the YouTube digest (6 channels) and the Halftime token fix needed for Monday's scheduled run.</p>
-                    <div class="card-tags"><span class="tag tag-infra">automation</span><span class="tag tag-priority">priority</span></div>
-                </div>
-                <div class="card">
-                    <h3>Verify LEAP tab vs live data</h3>
-                    <p>Compare scan_leaps() output in the new app against the original stock-tracker to confirm the port is faithful.</p>
+                    <h3>LEAP logger persistence fix</h3>
+                    <p>Session brief delivered 07-06 (CODE_HANDOFF_leap_logger_fix). Verified against real code: IV is already computed by get_best_leap and just dropped at the log site — a one-line persist; tracked store costs ~1 chain fetch per open contract per night (the "zero network cost" assumption was wrong). One stable Dell session via local Claude Code.</p>
                     <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
-                    <h3>Decide Stock Tracker's home</h3>
-                    <p>Old "Stock Tracker" tab (pivots + Barchart) is preserved in common/market_data.py. Does it become part of Swing, or its own tab?</p>
-                    <div class="card-tags"><span class="tag tag-decision">decision</span><span class="tag tag-swing">swing</span></div>
+                    <h3>LEAP maturity gate: press Check Outcomes ≥ Jul 8</h3>
+                    <p>Gate confirmed read-only 07-06 (log at 1,606 records; Jun-8+ 30d outcomes = 0, as calendar predicts). Catch: LEAP outcomes are manual-check-only and the last check ran ~early June (newest 30d outcome is a May 8 signal). Real go-condition: press Check Outcomes in the LEAP GUI on/after ~Jul 8 — then score-band / pillar-power / repeat-trigger unblock. Same orphaned-automation disease as swing; candidate for the same cron fix.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Phase 0 — stop the swing data loss (audit)</h3>
+                    <p>IN MOTION — journal P&amp;L bugs fixed 07-06 (branch claude/journal-phase0-pnl-fixes: Fidelity CSV column-shift fix, anchored action classification, REINVEST/TRANSFER/ASSIGNED handling, first journal tests; deployed to the live file 14:13, verified: py_compile clean + 10/10 tests pass). Remaining swing-side items: persist ATR/Close + exit_regime, MFE/MAE wiring, atomic signals.json saves, non-BUY-tier logging, archive sync, UTC−4 → zoneinfo, error unswallowing. Pair with the LEAP logger session.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>Phase 1 — decide if the edge is real (before ~Aug milestone)</h3>
+                    <p>Analysis-only, no live code: benchmark restatement (per-trade excess vs SPY/QQQ — the single decisive analysis), execution-honest backtest rerun (next-day-open entries + costs; PF ≥~1.15 bar), portfolio NAV/beta/drawdown series + M9 concurrency correlation, and status-board downgrades (velocity thesis, sizing instinct, −8 cliff → Suspected).</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
             </div>
 
@@ -178,21 +210,11 @@
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">4</span>
-                </div>
-                <div class="card">
-                    <h3>Halftime summary end-to-end test</h3>
-                    <p>Run #3 in progress with the token fix — auth passed, transcribing the July 2 episode. Diagnosed & fixed: hidden CLI errors, line break in pasted token.</p>
-                    <div class="card-tags"><span class="tag tag-infra">automation</span></div>
-                </div>
-                <div class="card">
-                    <h3>Migrate Swing trader code</h3>
-                    <p>Replace the swing/module.py stub with the real local-only implementation. Contract: get_data() → list[dict].</p>
-                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                    <span class="count">2</span>
                 </div>
                 <div class="card">
                     <h3>Migrate Journal code</h3>
-                    <p>Replace the journal/module.py stub with the real trade journal + P&amp;L logic. Same get_data() contract.</p>
+                    <p>Replace the journal/module.py stub with the real trade journal + P&amp;L logic. The stock-tracker journal_dashboard connector (build_journal_data.py) is working prior art. Same get_data() contract.</p>
                     <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
@@ -206,58 +228,119 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">9</span>
+                    <span class="count">21</span>
+                </div>
+                <div class="card">
+                    <h3>Swing scan TZ bug fixed — dual scans + regime break annotated</h3>
+                    <p>07-15: Debian cron ignores CRON_TZ, so the "16:40 ET" swing scan had always run at 16:40 Israel = ~09:44 ET — 14 min after the US open, scoring a partial intraday bar (journalctl-confirmed on the Dell). Fixed same day (option C): 16:40-local stays as the evening dashboard snapshot; new 23:40-local (16:40 ET) authoritative close scan overwrites results + feeds journal history; outcomes check moved 23:45→23:55; the "Scan HH:MM ET" label now genuinely converts to ET via zoneinfo. Safe by construction: the headless scan never writes the signal log (GUI-only). REGIME BREAK annotated in ROADMAP_swing_trader.md: pre-07-15 headless series are mid-market data — Milestone 2 (~Aug 1) must not pool across 2026-07-15.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
+                </div>
+                <div class="card">
+                    <h3>YouTube digest: feed-block fallback + no more burned videos</h3>
+                    <p>07-15 (PR #32): YouTube began 404-ing channel RSS on GitHub runner IPs (07-14/15) — digest silently skipped 5 videos. Fixes: Dell now commits a daily feed snapshot the digest falls back to; a run that can't see any channel fails red; caption-less videos younger than 40h defer to the backlog instead of being burned with description summaries. Recovery shipped same day: digest #33 (5 missed videos, transcript-based) + backfill #34 (4 previously burned). 9-scenario offline harness green.</p>
+                    <div class="card-tags"><span class="tag tag-infra">automation</span></div>
+                </div>
+                <div class="card">
+                    <h3>Jul 6 automations watched — all green, emails fixed</h3>
+                    <p>Both scheduled runs fired and delivered on 07-06: YouTube digest (issues #8/#14, description fallback working) and Halftime's first-ever scheduled run (issue #15, 19:22 UTC). Root cause of "no emails" found: the repo was never Watched, so GitHub had no one to notify — fixed (Watch → All Activity) and verified end-to-end on 5G. @claude Q&amp;A was broken (claude.yml passed the raw pasted-newline token to the action — instant auth death); fixed with the same strip-whitespace treatment and verified live on issue #15 (correct Micron answer, Lebenthal-vs-Weiss disagreement).</p>
+                    <div class="card-tags"><span class="tag tag-infra">automation</span></div>
+                </div>
+                <div class="card">
+                    <h3>Swing tab live via the bridge</h3>
+                    <p>07-06: swing/module.py reads the real signal log — local file on the Dell, trading-data on Render (shared common/trading_data.py fetcher, reused by LEAP). Latest signal per symbol, 21-day window, confidence + 7d outcome columns (outcomes fill as the new nightly check runs). Full 152-ticker live-scan view unlocks when Phase 0 D7 syncs headless results to trading-data.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>LEAP trading-data bridge live</h3>
+                    <p>07-06 (PR #12 + token): the LEAP tab reads the nightly Dell scan from trading-data — verified live: source=nightly, 104 signal-carrying tickers, 104/104 with real premiums, latest scan 07-03, one scoring truth (6-pillar). Legacy live-scan kept as automatic fallback. This bridge pattern is the template for the swing/journal migrations.</p>
+                    <div class="card-tags"><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Suite deployed to Render + tabs verified</h3>
+                    <p>07-06: service created (trading-suite-yar3.onrender.com, free plan; render.yaml runtime + plan fixes shipped). Tracker tab fully verified live — rows stream in, pivots + nearest-level markers correct, Barchart opinions scrape fine from Render. LEAP tab port-faithful (same score_leap, correct math) but option chains are blocked from Render's IP → follow-up card in Next Up.</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span><span class="tag tag-shared">shared</span><span class="tag tag-leap">leap</span></div>
+                </div>
+                <div class="card">
+                    <h3>Swing program full audit delivered</h3>
+                    <p>07-06 (stock-tracker PR #4, docs/SWING_AUDIT_2026-07-06.md): verdict UNPROVEN — process discipline excellent, but the edge rests on one bullish year, a survivorship universe, same-close execution, and no benchmark; it halves in-window. 8 forward-only discard defects found. Phased plan (0–3) adopted onto this board. Side deliverables: watchdog, outcome reminder, notify-send fix, GUI banners, STOP flag.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-leap">leap</span></div>
+                </div>
+                <div class="card">
+                    <h3>Tracker tab: pivots + Barchart opinions</h3>
+                    <p>07-06: home decision resolved (its own tab, Michael's call) and shipped — tracker/module.py ports the original Stock Tracker view (price, S3–R3 pivots with nearest-level markers, Barchart opinion/strength/direction + snapshots) with partial-row streaming during the ~90s scan. Hermetically tested; live-verify on Render after merge.</p>
+                    <div class="card-tags"><span class="tag tag-shared">shared</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Outcome checking automated (both lanes' plumbing)</h3>
+                    <p>07-06: swing outcomes_check.py + 23:45 cron installed (GUI guard, venv python) — outcomes no longer depend on a window being open. Same day, the audit window fixed silent cron desktop alerts (notify-send needs DISPLAY under cron — verified by real cron firings; three _notify() patched) and wired watchdog + outcome-reminder banners into the LEAP GUI.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Confidence hypothesis tested (pre-registered)</h3>
+                    <p>07-06: E0 sinks proved structurally unable to test it (no confidence/score persisted — card premise corrected); signals.json had 303 testable signals. H1 rejected on frozen criteria; inversion logged as Suspected. Spec + findings docs delivered. RATIFIED by Michael same day: no wiring; June out-of-sample re-test scheduled.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>Standing analysis — Milestone 1 run</h3>
+                    <p>Framework frozen 07-03, Milestone 1 run 07-05 (M1–M11, 83 live trades + 152-symbol backtest, hypothesis ledger opened). Flat-floor curve read as noise per spike-vs-plateau; shipped ATR×2.0 holds. Next milestone ~Aug 1 via milestone_banner.py.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>T1 symbol diagnostic (diagnose.py)</h3>
+                    <p>State-only exit-decision readout, 07-05: momentum/trend/volume/velocity/location/regime + shipped exit flags, reusing swing_trader's own functions — never reimplemented. Fresh live fetch by design.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>Journal Dashboard live (stock-tracker)</h3>
+                    <p>PRs #1–2 merged 07-05: heatmap + LEAP lists + ACT NOW cards + flagged positions, plus the password-protected encrypted Trade Journal section (browser-side decryption). Verified on the home machine, cron 16:40 ET.</p>
+                    <div class="card-tags"><span class="tag tag-journal">journal</span><span class="tag tag-infra">infra</span></div>
+                </div>
+                <div class="card">
+                    <h3>Exit thresholds shipped to swing_flag.py</h3>
+                    <p>WATCH at worst-since-entry −8% (triage), ROT ≥22d (the only losing time bucket); static TAKE and price-CUT dropped as unsupported. Auto-regens on journal close (07-01).</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-journal">journal</span></div>
+                </div>
+                <div class="card">
+                    <h3>R1 / R1b entry-gate experiment closed</h3>
+                    <p>R1 closed 07-02 (tech-anal gate never existed — premise unfounded). R1b EMA200 trend gate run 07-03 → Rejected on all 3 pre-registered criteria (221 signals, 51.6% WR vs required ≥300, ≥57%). ATR gate stays; no live code changed; R2 now unblocked.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span></div>
+                </div>
+                <div class="card">
+                    <h3>YouTube digest live + hardened</h3>
+                    <p>6 channels, daily 7:40am Israel (PR #2). PR #6 fixed the Actions-IP caption block with a description fallback (optional Webshare proxy for full transcripts) and added transcript archives.</p>
+                    <div class="card-tags"><span class="tag tag-infra">automation</span></div>
                 </div>
                 <div class="card">
                     <h3>Halftime Report auto-summaries</h3>
-                    <p>Daily pipeline live on main: podcast feed → Whisper transcript → Claude summary (overview + who-said-what) → emailed GitHub issue, weekdays ~1:45pm ET. Free via your Claude subscription.</p>
+                    <p>Daily pipeline live on main: podcast feed → Whisper transcript → Claude summary → emailed GitHub issue, weekdays ~1:45pm ET. Token fix proven end-to-end on the July 2 episode.</p>
                     <div class="card-tags"><span class="tag tag-infra">automation</span></div>
                 </div>
                 <div class="card">
-                    <h3>YouTube digest built (6 channels)</h3>
-                    <p>Herbert, Matt Pocius, Fundstrat ×2, Mr. FIRED Up Wealth, Kaspa Silver. Captions → simple summaries → one daily email, 7:40am Israel. In PR #2.</p>
+                    <h3>@claude Q&amp;A over the report archives</h3>
+                    <p>Comment "@claude …" on any issue and Claude answers in-thread with access to summaries/ and transcripts/ (PR #6, owner-only trigger).</p>
                     <div class="card-tags"><span class="tag tag-infra">automation</span></div>
+                </div>
+                <div class="card">
+                    <h3>Suite shell + LEAP port</h3>
+                    <p>Flask app with 3 tabs, JSON API (/api/leap, /api/swing, /api/journal), 30-min background refresh, Render deploy; scan_leaps() ported verbatim; shared market-data utils (pivots, ATH/52wk, Barchart, TICKERS).</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span><span class="tag tag-leap">leap</span></div>
+                </div>
+                <div class="card">
+                    <h3>Cross-repo session wiring</h3>
+                    <p>CLAUDE.md in all four repos now auto-attaches the sibling repositories at session start (merged 07-06).</p>
+                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Project roadmap (this board)</h3>
-                    <p>Kanban board in the repo; updated as work progresses.</p>
-                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
-                </div>
-                <div class="card">
-                    <h3>LEAP scanner ported</h3>
-                    <p>scan_leaps() with 0–15 scoring, verbatim from stock-tracker.</p>
-                    <div class="card-tags"><span class="tag tag-leap">leap</span></div>
-                </div>
-                <div class="card">
-                    <h3>Shared market data utils</h3>
-                    <p>Daily/weekly pivots, ATH/52-week, Barchart scraper, TICKERS universe.</p>
-                    <div class="card-tags"><span class="tag tag-shared">shared</span></div>
-                </div>
-                <div class="card">
-                    <h3>Flask app shell</h3>
-                    <p>templates/index.html with 3 tabs; generic table renderer for stub modules.</p>
-                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
-                </div>
-                <div class="card">
-                    <h3>JSON API endpoints</h3>
-                    <p>/api/leap, /api/refresh/leap, /api/swing, /api/journal.</p>
-                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
-                </div>
-                <div class="card">
-                    <h3>Background refresh thread</h3>
-                    <p>30-min refresh for all modules; starts on first request, not at import.</p>
-                    <div class="card-tags"><span class="tag tag-infra">infra</span></div>
-                </div>
-                <div class="card">
-                    <h3>Render deploy config</h3>
-                    <p>gunicorn app:app on Python 3.11 via render.yaml.</p>
+                    <p>Kanban board in the repo; refreshed 2026-07-06 from a full four-repo review.</p>
                     <div class="card-tags"><span class="tag tag-infra">infra</span></div>
                 </div>
             </div>
         </div>
 
         <footer>
-            Source of truth for open items: <code>CLAUDE.md</code> — update both when the board changes.
+            Source of truth for open suite items: <code>CLAUDE.md</code> — update both when the board changes.<br>
+            Deep research/status detail lives in <code>trading-src/docs/planning/</code> (MASTER_STATUS_BOARD.md · ROADMAP_swing_trader.md · LEAP_ROADMAP.md) — that repo is an hourly-synced mirror of the Dell; edit those docs on the machine, not on GitHub.
         </footer>
     </div>
 </body>

@@ -29,6 +29,8 @@
   tr.s2-alert { background: #3d3010 !important; }
   tr.strong   { background: #1a3d1a !important; }
   .arrow { color: #ffd93d; font-weight: bold; }
+  .pos { color: #00cc66; font-weight: bold; }
+  .neg { color: #ff6b6b; font-weight: bold; }
   .sig-s3 { color: #ff6b6b; font-weight: bold; }
   .sig-s2 { color: #ffd93d; font-weight: bold; }
   .sig-strong { color: #00cc66; font-weight: bold; }
@@ -48,6 +50,7 @@
   <h1>📊 Trading Suite</h1>
   <div class="tabs">
     <button class="tab active" onclick="showTab('leap')">🎯 LEAP</button>
+    <button class="tab" onclick="showTab('tracker')">📈 Tracker</button>
     <button class="tab" onclick="showTab('swing')">🌊 Swing</button>
     <button class="tab" onclick="showTab('journal')">📓 Journal</button>
   </div>
@@ -57,24 +60,44 @@
 <!-- LEAP PANEL -->
 <div class="panel active" id="panel-leap">
   <div class="alert-bar" id="leap-alerts">⚡ Loading LEAP data…</div>
-  <div class="legend">
-    📊 <b>Prem Effcncy</b> = cents paid per $1 of stock (lower is better) &nbsp;&nbsp;
-    ⚡ <b>Leverage</b> = dollars of stock controlled per $1 spent (higher is better)
+  <div class="legend" id="leap-legend">
+    📊 <b>Prem %</b> = premium as % of stock price (lower is better) &nbsp;&nbsp;
+    ⚡ <b>Leverage</b> = dollars of stock controlled per $1 spent (higher is better) &nbsp;&nbsp;
+    Rows come from the nightly Dell scan (only signal-carrying tickers are logged)
   </div>
   <button class="refresh-btn" onclick="refreshLeap()">🔄 Refresh LEAP Data</button>
   <div class="table-wrap">
     <table id="leap-table">
       <thead><tr>
-        <th>Ticker</th><th>Price</th><th>52W High</th><th>% from 52W</th>
-        <th>Prem Effcncy</th><th>Leverage</th>
-        <th>Weekly S2</th><th>Weekly S3</th><th>vs S2</th><th>vs S3</th>
-        <th>Furthest Exp</th><th>Furthest Prem</th>
-        <th>LEAP Score /15</th><th>Signal</th>
+        <th>Ticker</th><th>Price</th><th>Score /15</th><th>Signal</th>
+        <th>Strike</th><th>Expiry</th><th>DTE</th>
+        <th>Premium</th><th>Prem %</th><th>Leverage</th><th>IV</th>
+        <th>Stale?</th><th>Rev?</th><th>Scanned</th>
       </tr></thead>
-      <tbody id="leap-body"><tr><td colspan="14" class="loading">Loading LEAP data (may take 1-2 min)…</td></tr></tbody>
+      <tbody id="leap-body"><tr><td colspan="14" class="loading">Loading LEAP data…</td></tr></tbody>
     </table>
   </div>
   <div class="detail-box" id="leap-detail">Click any row to see the LEAP breakdown.</div>
+</div>
+
+<!-- TRACKER PANEL (pivots + Barchart opinions — the original stock-tracker tab) -->
+<div class="panel" id="panel-tracker">
+  <div class="legend">
+    ► marks the nearest pivot level below/above the current price &nbsp;&nbsp;
+    Opinion / Strength / Direction and the snapshot columns come from Barchart's opinion widget
+  </div>
+  <button class="refresh-btn" onclick="refreshTracker()">🔄 Refresh Tracker</button>
+  <div class="table-wrap">
+    <table id="tracker-table">
+      <thead><tr>
+        <th>Ticker</th><th>Price</th><th>Change %</th>
+        <th>S3</th><th>S2</th><th>S1</th><th>R1</th><th>R2</th><th>R3</th>
+        <th>Opinion</th><th>Strength</th><th>Direction</th>
+        <th>Yesterday</th><th>Last Week</th><th>Last Month</th><th>Updated</th>
+      </tr></thead>
+      <tbody id="tracker-body"><tr><td colspan="16" class="loading">Loading stock data…</td></tr></tbody>
+    </table>
+  </div>
 </div>
 
 <!-- SWING PANEL -->
@@ -120,25 +143,35 @@ function loadLeap() {
       setTimeout(loadLeap, 5000);
       return;
     }
-    const alerts = leapData.filter(r => r.signal.includes('S3') || r.signal.includes('S2'));
-    document.getElementById('leap-alerts').innerHTML = alerts.length
-      ? '⚡ ALERTS: ' + alerts.map(r => `<span class="${r.signal.includes('S3') ? 's3' : 's2'}">${r.signal.includes('S3') ? '🔴' : '🟡'} ${r.signal}: ${r.ticker}</span>`).join(' &nbsp;|&nbsp; ')
-      : '⚡ No S2/S3 alerts at this time';
+    const alerts = leapData.filter(r => r.signal.includes('S3') || r.signal.includes('S2') || r.signal.includes('STRONG'));
+    const srcNote = d.source === 'nightly' && d.meta
+      ? `📡 nightly Dell scan via trading-data · latest scan ${d.meta.latest_scan} · showing signals from the last ${d.meta.window_days} days`
+      : d.source === 'live-scan'
+        ? '⚠ live-scan fallback (no trading-data token) — option data unavailable from this host'
+        : '';
+    document.getElementById('leap-alerts').innerHTML =
+      (alerts.length
+        ? '⚡ ALERTS: ' + alerts.map(r => `<span class="${r.signal.includes('S3') ? 's3' : 's2'}">${r.signal}: ${r.ticker}</span>`).join(' &nbsp;|&nbsp; ')
+        : '⚡ No active alerts') + (srcNote ? `<br>${srcNote}` : '');
+    // flatten so both nightly rows and legacy live-scan rows render
+    const f = (r, k) => r[k] != null ? r[k] : (r.leap ? r.leap[k] : null);
     body.innerHTML = leapData.map((r, i) => {
       const cls = rowClass(r.signal, r.score);
       const rowCls = cls || (i % 2 === 0 ? 'even' : 'odd');
-      const vs2 = r.vs_s2 != null ? (r.vs_s2 > 0 ? '+' : '') + r.vs_s2 + (r.closest === 's2' ? ' <span class="arrow">◄</span>' : '') : 'N/A';
-      const vs3 = r.vs_s3 != null ? (r.vs_s3 > 0 ? '+' : '') + r.vs_s3 + (r.closest === 's3' ? ' <span class="arrow">◄</span>' : '') : 'N/A';
-      const fl = r.furthest;
+      const iv = f(r, 'iv'), prem = f(r, 'premium');
       return `<tr class="${rowCls}" onclick="showLeapDetail(${i})" style="cursor:pointer">
         <td><b>${r.ticker}</b></td><td>$${r.price}</td>
-        <td>${r.w52h ? '$'+r.w52h : 'N/A'}</td><td>${r.pct_52w != null ? r.pct_52w : 'N/A'}</td>
-        <td>${r.prem_pct != null ? r.prem_pct : 'N/A'}</td><td>${r.leverage != null ? r.leverage : 'N/A'}</td>
-        <td>${r.ws2 ? '$'+r.ws2 : 'N/A'}</td><td>${r.ws3 ? '$'+r.ws3 : 'N/A'}</td>
-        <td>${vs2}</td><td>${vs3}</td>
-        <td>${fl ? fl.exp : 'N/A'}</td><td>${fl ? '$'+fl.premium : 'N/A'}</td>
         <td><b>${r.score} / 15</b></td>
         <td class="${signalClass(r.signal)}">${r.signal}</td>
+        <td>${f(r,'strike') != null ? '$'+f(r,'strike') : 'N/A'}</td>
+        <td>${f(r,'exp') || 'N/A'}</td><td>${f(r,'dte') != null ? f(r,'dte') : 'N/A'}</td>
+        <td>${prem != null ? '$'+prem : 'N/A'}</td>
+        <td>${r.prem_pct != null ? r.prem_pct : 'N/A'}</td>
+        <td>${r.leverage != null ? r.leverage : 'N/A'}</td>
+        <td>${iv != null ? iv+'%' : 'N/A'}</td>
+        <td>${r.premium_stale ? '⚠' : ''}</td>
+        <td>${r.rev_confirmed === true ? '✅' : r.rev_confirmed === false ? '—' : ''}</td>
+        <td>${r.scan_date || ''}</td>
       </tr>`;
     }).join('');
     document.getElementById('status').textContent = 'LEAP updated: ' + (d.updated || '—');
@@ -148,33 +181,24 @@ function loadLeap() {
 function showLeapDetail(idx) {
   const r = leapData[idx];
   if (!r) return;
-  const leap = r.leap, fl = r.furthest, bd = r.breakdown || {};
+  const g = (k) => r[k] != null ? r[k] : (r.leap ? r.leap[k] : null);
+  const bd = r.breakdown || {};
   const line = '─'.repeat(55);
   let txt = line + '\n';
-  txt += `  ${r.ticker}   |   Price: $${r.price}   |   52W High: $${r.w52h}   |   From 52W: ${r.pct_52w}\n`;
+  txt += `  ${r.ticker}   |   Price: $${r.price}${r.scan_date ? '   |   Scanned: ' + r.scan_date : ''}\n`;
   txt += line + '\n';
-  if (leap) {
-    txt += `  Best LEAP:   $${leap.strike} Call  |  Expiry: ${leap.exp}  |  DTE: ${leap.dte} days\n`;
-    txt += `  Premium:     $${leap.premium}  |  Prem/Price: ${r.prem_pct}  |  Leverage: ${r.leverage}x\n`;
-    txt += `  IV:          ${leap.iv ? leap.iv + '%' : 'N/A'}\n`;
-  }
-  if (fl) {
+  if (g('strike') != null) {
+    txt += `  LEAP:      $${g('strike')} Call  |  Expiry: ${g('exp')}  |  DTE: ${g('dte')} days\n`;
+    txt += `  Premium:   $${g('premium')}${r.premium_stale ? '  ⚠ stale' : ''}  |  Prem/Price: ${r.prem_pct}%  |  Leverage: ${r.leverage}x\n`;
+    txt += `  IV:        ${g('iv') != null ? g('iv') + '%' : 'N/A'}\n`;
     txt += line + '\n';
-    txt += `  Furthest LEAP: $${fl.strike} Call  |  Expiry: ${fl.exp}  |  DTE: ${fl.dte} days\n`;
-    txt += `  Furthest Premium: $${fl.premium}\n`;
   }
-  txt += line + '\n';
-  txt += `  Weekly S2: $${r.ws2}  (${r.vs_s2 > 0 ? '+' : ''}${r.vs_s2} from price)\n`;
-  txt += `  Weekly S3: $${r.ws3}  (${r.vs_s3 > 0 ? '+' : ''}${r.vs_s3} from price)\n`;
-  txt += line + '\n';
   txt += `  SCORE BREAKDOWN:\n`;
-  txt += `    ATH Drawdown:    ${bd['ATH Drawdown'] || 0}/3\n`;
-  txt += `    Prem Efficiency: ${bd['Prem Efficiency'] || 0}/3\n`;
-  txt += `    Leverage:        ${bd['Leverage'] || 0}/3\n`;
-  txt += `    Time Horizon:    ${bd['Time Horizon'] || 0}/3\n`;
-  txt += `    S2/S3 Level:     ${bd['S2/S3 Level'] || 0}/3\n`;
+  Object.keys(bd).forEach(k => {
+    txt += `    ${(k + ':').padEnd(22)} ${bd[k]}\n`;
+  });
   txt += `    ${'─'.repeat(20)}\n`;
-  txt += `    TOTAL:           ${r.score}/15   ${r.signal}\n`;
+  txt += `    ${'TOTAL:'.padEnd(22)} ${r.score}/15   ${r.signal}\n`;
   txt += line;
   document.getElementById('leap-detail').textContent = txt;
 }
@@ -182,6 +206,42 @@ function showLeapDetail(idx) {
 function refreshLeap() {
   document.getElementById('leap-body').innerHTML = '<tr><td colspan="14" class="loading">⏳ Refreshing…</td></tr>';
   fetch('/api/refresh/leap', {method: 'POST'}).then(() => setTimeout(loadLeap, 3000));
+}
+
+function loadTracker() {
+  fetch('/api/tracker').then(r => r.json()).then(d => {
+    const body = document.getElementById('tracker-body');
+    if (!d.data || !d.data.length) {
+      body.innerHTML = '<tr><td colspan="16" class="loading">⏳ Fetching stock data… (rows appear as each ticker completes)</td></tr>';
+      if (d.loading) setTimeout(loadTracker, 5000);
+      return;
+    }
+    body.innerHTML = d.data.map((r, i) => {
+      const chgClass = r.chg_pct >= 0 ? 'pos' : 'neg';
+      const rowCls = i % 2 === 0 ? 'even' : 'odd';
+      function fmtLvl(val, name) {
+        if (val == null) return 'N/A';
+        const arrow = (name === r.below || name === r.above) ? ' <span class="arrow">►</span>' : '';
+        return val + arrow;
+      }
+      return `<tr class="${rowCls}">
+        <td><b>${r.ticker}</b></td>
+        <td>$${r.price}</td>
+        <td class="${chgClass}">${r.chg_pct > 0 ? '+' : ''}${r.chg_pct}%</td>
+        <td>${fmtLvl(r.s3,'s3')}</td><td>${fmtLvl(r.s2,'s2')}</td><td>${fmtLvl(r.s1,'s1')}</td>
+        <td>${fmtLvl(r.r1,'r1')}</td><td>${fmtLvl(r.r2,'r2')}</td><td>${fmtLvl(r.r3,'r3')}</td>
+        <td>${r.opinion}</td><td>${r.strength}</td><td>${r.direction}</td>
+        <td>${r.yesterday}</td><td>${r.last_week}</td><td>${r.last_month}</td>
+        <td>${r.updated}</td>
+      </tr>`;
+    }).join('');
+    // keep polling while a pass is mid-flight so partial rows fill in live
+    if (d.loading) setTimeout(loadTracker, 5000);
+  }).catch(() => setTimeout(loadTracker, 8000));
+}
+
+function refreshTracker() {
+  fetch('/api/refresh/tracker', {method: 'POST'}).then(() => setTimeout(loadTracker, 2000));
 }
 
 // Generic renderer for Journal / Swing until real code is wired in.
@@ -211,9 +271,10 @@ function loadGeneric(name) {
 }
 
 loadLeap();
+loadTracker();
 loadGeneric('swing');
 loadGeneric('journal');
-setInterval(() => { loadLeap(); loadGeneric('swing'); loadGeneric('journal'); }, 1800000);
+setInterval(() => { loadLeap(); loadTracker(); loadGeneric('swing'); loadGeneric('journal'); }, 1800000);
 </script>
 </body>
 </html>
