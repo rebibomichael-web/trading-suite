@@ -13,13 +13,17 @@ from datetime import datetime
 from flask import Flask, jsonify, render_template
 
 from leap import scanner as leap_scanner
+from leap import nightly as leap_nightly
 from swing import module as swing_module
 from journal import module as journal_module
+from tracker import module as tracker_module
 
 app = Flask(__name__)
 
 cache = {
-    'leap': {'data': [], 'updated': None, 'loading': False},
+    'leap': {'data': [], 'updated': None, 'loading': False,
+             'source': None, 'meta': None},
+    'tracker': {'data': [], 'updated': None, 'loading': False},
     'swing': {'data': [], 'updated': None},
     'journal': {'data': [], 'updated': None},
 }
@@ -34,12 +38,41 @@ def refresh_leap():
         return
     cache['leap']['loading'] = True
     try:
-        cache['leap']['data'] = leap_scanner.scan_leaps()
+        try:
+            rows, meta = leap_nightly.get_data()
+            cache['leap']['source'] = 'nightly'
+            cache['leap']['meta'] = meta
+        except leap_nightly.NotConfigured:
+            # No trading-data token — legacy live scan. Note: option chains
+            # are blocked from cloud IPs, so premium/leverage/DTE will be
+            # missing and scores degraded (verified 2026-07-06).
+            rows = leap_scanner.scan_leaps()
+            cache['leap']['source'] = 'live-scan'
+            cache['leap']['meta'] = None
+        cache['leap']['data'] = rows
         cache['leap']['updated'] = _stamp()
     except Exception as e:
+        # keep the previous cache on a failed fetch — stale beats blank
         print(f"LEAP refresh error: {e}")
     finally:
         cache['leap']['loading'] = False
+
+
+def refresh_tracker():
+    if cache['tracker']['loading']:
+        return
+    cache['tracker']['loading'] = True
+    try:
+        def on_row(rows):
+            # publish partial results — a full pass takes ~60-90s
+            cache['tracker']['data'] = rows
+            cache['tracker']['updated'] = _stamp()
+        cache['tracker']['data'] = tracker_module.get_data(on_row=on_row)
+        cache['tracker']['updated'] = _stamp()
+    except Exception as e:
+        print(f"Tracker refresh error: {e}")
+    finally:
+        cache['tracker']['loading'] = False
 
 
 def refresh_swing():
@@ -61,6 +94,7 @@ def refresh_journal():
 def background_refresh():
     while True:
         refresh_leap()
+        refresh_tracker()
         refresh_swing()
         refresh_journal()
         time.sleep(1800)  # every 30 minutes
@@ -90,12 +124,25 @@ def index():
 @app.route('/api/leap')
 def api_leap():
     c = cache['leap']
-    return jsonify({'data': c['data'], 'updated': c['updated'], 'loading': c['loading']})
+    return jsonify({'data': c['data'], 'updated': c['updated'], 'loading': c['loading'],
+                    'source': c['source'], 'meta': c['meta']})
 
 
 @app.route('/api/refresh/leap', methods=['POST'])
 def api_refresh_leap():
     threading.Thread(target=refresh_leap, daemon=True).start()
+    return jsonify({'status': 'refreshing'})
+
+
+@app.route('/api/tracker')
+def api_tracker():
+    c = cache['tracker']
+    return jsonify({'data': c['data'], 'updated': c['updated'], 'loading': c['loading']})
+
+
+@app.route('/api/refresh/tracker', methods=['POST'])
+def api_refresh_tracker():
+    threading.Thread(target=refresh_tracker, daemon=True).start()
     return jsonify({'status': 'refreshing'})
 
 

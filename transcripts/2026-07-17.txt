@@ -1,0 +1,1367 @@
+Are you as confident as you should be when it comes to growing your business?
+Is your strategy ready to execute today?
+If cash flows aren't where they need to be, growth could be at risk,
+especially in the eyes of your investors, board members, and the business press.
+But when your business is operating in top shape, you've earned the right to grow.
+EY Parthenon can help you reimagine your business and execute a game plan for long-term growth.
+EY Parthenon. Solutions that work in practice.
+Not just on paper.
+The board recommends approving.
+Regarding that seat on the committee, we're promoting.
+To most quarterly earnings.
+Every day, shareholders meet to discuss important matters about the companies you invest in.
+Now you can easily make your voice heard.
+Vanguard Investor Choice gives you a say in the companies you invest in.
+With just a few taps, you can set your proxy voting preference for your index funds.
+Visit vanguard.com slash investor choice to learn more.
+Vanguard investors own shares of our index funds,
+which own shares of the companies they invest in.
+Available for Vanguard index funds that participate in Investor Choice.
+Vanguard Marketing Corporation distributor.
+I'm Scott Wapner, and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+All right, thanks very much, Carl.
+Thanks very much, Sarah.
+Welcome to the Halftime Report.
+I am Dominic Chewin for Scott Wapner today.
+Front and center this hour.
+Bid news out of China sending shivers through that tech trade.
+The investment committee at the ready to break it all down, including the fallout.
+Joining me for the hour are Steve Weiss, Jenny Harrington,
+and Kevin Simpson right here at the New York Stock Exchange.
+Let's get a check on the markets overall right now.
+We are seeing a down day, fractionally so,
+for the downed industrials off about,
+Joe, now just about one-tenth of 1%.
+It's about 52, 526.
+The S&P, though, down one-half of 1%,
+sitting right below the 7,500 mark,
+and the NASDAQ composite, the tech heavier index,
+down about 1% right now.
+The semiconductor trade, the real pain point again,
+as China rolls out a powerful new AI model.
+Now, to the scorecard for the semis,
+as you can kind of see here, it's moving a little to the downside.
+Nvidia shares AMD, the lot, are going to the downside right now.
+That's driving the momentum ETF on Paceford's worst week
+since April of 2025.
+The DRAM ETF on Paceford's worst week since inception,
+and the SOX ETF is now in a quote-unquote bare market
+off 20% from its recent highs.
+All of these things are happening at once,
+but it has become the epicenter of that momentum AI tech overall trade.
+So let's go to the committee for what's going on right now,
+and maybe I'll start Steve with you.
+The sentiment we've seen this before,
+just not to the degree recently that we've seen
+over the past week and a half with the chip trade,
+is this finally the rollover,
+or are we just going to buy it after it goes down a little bit more again
+because the valuations have become more compelling?
+Yeah, so there are multiple points to that question.
+First of all, it's not just been a week and a half,
+it's been a longer time.
+We've seen huge volatility in the semi-trade,
+but they keep making lower highs,
+which if you look at from a technical standpoint, is troubling.
+In terms of what drove it,
+the market always talks about that the market can stay irrational
+for longer than you could say solvent.
+That works both on the upside and then when you're coming down on the downside.
+Upside in terms of being short, downside in terms of being long.
+So where I think we are is that the market is beginning to pull forward,
+and I've said this repeatedly on the show, the end of the cycle.
+If everybody's saying the cycle's going to be over,
+and I'm talking about they'll never spend again,
+I'm talking about peak spending only.
+The market has not been anticipating peak spending,
+it's been trading like spending is going to continue to increase.
+We saw a hint of that on meta news,
+we're going to say we're going to increase by 40 billion,
+but that's what's anticipating.
+Then you take some of the, in other words,
+they were anticipating the market spending,
+we'll keep going and make new peak, new peak.
+The others, and what's been the controlling narrative of last month or so,
+is that okay, everybody's saying we've got a year or two,
+and I'm not going to be the last one out.
+So the ones that were in the earliest are the sellers,
+and then you've got the nervous hands,
+the week-olders who came at the end of momentum trade,
+right, and they're the fastest ones to sell
+because they're booked and lost.
+Now, here's where I'd say where we are.
+I don't think it's over completely.
+I'm not sure the reset is over either.
+China, which you're bringing up as a new point is not a new point.
+I referenced it this week, I referenced it last week.
+You have to be sleeping, not to have known that China has much cheaper models,
+whereas tokens have gotten very expensive here,
+and much more effective AI.
+So the market, meaning the buyers,
+like the medis and everybody else, have been going to that.
+So that is an issue.
+But what's not talked about, even though, again,
+I mentioned it on Wednesday,
+and what we seem to be, sleep won't pass,
+is the risk of higher inflation and the war on Iran.
+Which is not going to end.
+This is my view, and my view is very well informed on this.
+It's not going to end until we do much more significant damage,
+which will include damage to the energy infrastructure,
+which will drive up oil prices, drive up inflation,
+and that, of course, will be bad for gross stocks.
+That's like a non-virtuous cycle, by the way,
+what you're kind of talking about right now.
+Kevin, do you feel the same way about whether or not?
+I only bring it up because Bank of America
+kind of put out some commentary on that semiconductor trade right now.
+Basically, they're saying, we see correction as a summer reset,
+not a fundamental reversal,
+and remain positive on leading compute.
+That's NVIDIA, Broadcom, memory, Micron,
+networking Marvell, CPUs, AMD and Intel,
+and Semicap, that's, you know,
+land research, applied materials, the ASML type names.
+Do we feel as though this is the pause that refreshes?
+It doesn't seem like a pause right now.
+It really feels like, in some ways,
+people want to get out of this trade.
+Yeah, pause always feels like what,
+always feels like that when you're in the middle of it,
+but I don't think that changes Steve's narrative at all.
+In fact, I think it's pretty congruent to what I'm expecting,
+because we were in a period, Dom,
+where it was just like,
+if you mentioned artificial intelligence,
+you were rewarded, the stocks were moving higher.
+I think a lot of these have been validated
+by earnings growth,
+but what I would say is we're in the most important
+earning season for several years right now,
+because we know the numbers are going to be really, really good.
+Even your Taiwan Semi was fantastic,
+but the problem is they're spending a little bit more,
+even though the guides are good,
+if we're at or near this peak spending period,
+it becomes problematic that every single trade
+isn't going to work.
+So I think what we're going to see this earning season
+is a have and a have not story,
+and those companies that can execute,
+that can deliver return on investment
+for all of this money that's being spent,
+they'll be rewarded.
+And if you come up just a little bit short,
+not on your earnings, but on your guide,
+I think it gets slammed.
+All right.
+So I want to bring up another piece of commentary
+because we want to kind of frame this around
+how this debate is playing out
+to the downside predominantly today.
+You've also got Wolf Research on semis and momentum.
+They say how the next bounce in semis unfolds
+will be extremely telling
+as longer-term momentum is cresting
+and on the verge of breaking
+following the parabolic advance.
+We'll need to see a powerful acceleration
+to reverse these headwinds.
+If not, this is the key point,
+the early stages of a topping process
+are likely upon us.
+Jenny, does that seem to resonate?
+A lot of people have called a lot of tops
+over the course of the past 10 years
+that have not really come to fruition.
+But is this time different, famous last words?
+Yeah.
+So I hate talking about feelings,
+but it feels like we're in that topping process.
+And I think the reason it feels that way to me
+is because I'm not looking at just the semis,
+I'm looking at this from a much broader perspective
+and I think to think about the semis,
+you have to think about everything else that's going on.
+So for example, DVY, which is a dividend ETF
+that I like to reference,
+just kind of as a poster child for everything else,
+it's up like 0.1% or something today.
+And it's up 15% on the year.
+And what their top holdings are are things like Verizon,
+Kinder Morgan, Dominion, General Mills, Target.
+And so the way I'm seeing this
+is that there's valuation talk
+and valuation work really creeping back into what's going on.
+And the speculation trade of to infinity and beyond
+as speculation putting a price on stocks,
+that's fading while valuation is coming back in.
+I've also been thinking of it, Dom,
+in terms of what if we're at a peak moment
+in stock friendliness.
+And that would mean not that things
+are going to get terrible,
+but if we think forward for the next year,
+like do you really think corporate taxes
+are going to get lower than they are now?
+No.
+Is the regulatory environment going to get better and easier?
+Probably not, especially if we get a divided Congress.
+Is our earnings going to get significantly better.
+And to Kevin's point,
+Kevin said we know the numbers are going to be good.
+We know those numbers are going to be good.
+Analysts adjusted the S&P up to up 24% year over year
+a couple of weeks ago as Q1 earnings finished up.
+So like we know these are good
+and now we have these big cash cows
+converting into cash guzzlers.
+So what if we're at this moment
+where it's kind of as good as it gets for now?
+Then what does that mean for the future?
+What that means for the future is
+long dated cash flows are less valuable today
+and short dated cash flows are more valuable today.
+And this, so you've got short dated cash flow
+being more valuable.
+I think that halo, heavy asset,
+low obsolescence still holds.
+And I also think you need to pay attention to
+where there is a target on the back of a company.
+So what's in the government
+or what's in society's crosshairs?
+And I think you want to get away from that.
+And if you look again at those stocks that I mentioned
+that are in the DVY ETF,
+which are the kinds of things I invest in,
+they're kind of like in the epicenter
+of the things that you'd want.
+They have heavy assets.
+They've got low targets.
+They've got high cash flow.
+So I think I feel like there's a topping in the Semi
+because of what I see going on outside of it.
+You know, I'm not willing to say that
+earning is going to be good in the absolute.
+They'll show good growth.
+They'll be good for any company,
+but will they be good enough for the market?
+That's the key.
+And that's the question.
+That's the key.
+And as we've seen with past quarters like Broadcom,
+great numbers, not just good numbers, great numbers.
+But guess what?
+They weren't good enough.
+In the aftermath of Micron reporting,
+phenomenal numbers.
+Just not good enough to sustain the company's stock
+moving up higher.
+Forget about past quarters,
+just in the last week between TSNC and...
+I'm not telling you that.
+I'm not telling you that.
+Just respect.
+My count was not long ago.
+Right.
+So the expectations are going into many of these prints
+even though they're going to keep reporting
+double digit earnings growth.
+So is it the expectation going to the print
+of a whisper number?
+Or is it Holder saying,
+this is going to be a great quarter.
+The stock is going to pop on the quarter.
+I'm going to exit.
+And they get the pop for a nanosecond
+and then they exit anyway.
+So we really don't know what's driving it.
+So the important thing is all the stuff you read,
+interesting, good data points,
+but you sort of have to ignore that.
+You have to pay attention to what your discipline is,
+the profit you're willing to take,
+the losses you're willing to tolerate,
+and where you think it's going,
+not try to bet where others think it's going.
+Right.
+And that's right.
+So I sold micron.
+I believe there was more upside to it,
+but not at that point in time.
+Guess what?
+I made enough money.
+So why put that at risk?
+Right?
+It was a great return in the stock.
+So just know when to pick up the chips
+and go home.
+OK, so to that point, if you are,
+I mean, this is a trading desk right now.
+You know, there are some shorter term tactical views
+that we take, and there are longer term strategic ones.
+Because you brought up Buzz Lightyear
+into infinity and beyond.
+I mean, the Barclays team seems to feel like
+there's a Buzz Lightyear to infinity and beyond trade
+over the longer term.
+The comments are interesting.
+They talk a little bit about the tech volatility trade
+right now.
+They say, while tech volatility may persist
+in the near term, we believe that the reset
+in positioning should ultimately prove healthy,
+creating more attractive entry points for long term investors
+targeting the structural AI theme.
+So maybe this is just a time where some of the weaker hands
+are getting out and creating a longer term opportunity
+for people who can wait three, five, seven, 10 years.
+Is that a good assessment or not?
+I think it's a dangerous assessment
+to put a broad brush on that.
+And I think you can look at the tech index
+over the last quarter, you know,
+and then bring it down to that level
+where tech, you know, tech was up, what, 31% for the quarter?
+You had micron up 244% for the year
+and you have sales forced down 31% for the year.
+And I think even within that AI space,
+as we go forward three and five years out,
+it's going to be very much the same.
+Where you need to buckle down
+and like do your valuation homework.
+I don't think you can bank on just speculation
+and saying like, oh, AI for everyone, AI forever,
+AI to infinity and beyond.
+If it has AI attached, I'm going to buy it.
+I think that trade is done, gone.
+And I think there's like real granularity coming in.
+And I think there is an increasing demand to see,
+or there will be an increasing demand
+to see return on the investment
+that these companies are making.
+So I don't think you can paint that broad brush.
+I just want to like beef on something else.
+But one of the things that I've been really frustrated
+about is looking at, like as some of these stocks
+have really started falling off,
+looking at the analyst recommendations.
+So you look at SpaceX right now
+and you've got like every single analyst with a buy.
+I think there's maybe one that says
+it's like a performer or a hold
+and the valuation targets are crazy.
+Like $1,200 and stuff.
+Or you can look at Netflix and on CNBC Pro
+it says there's 52 analysts covering Netflix.
+Not one of them even has like underperform on it.
+No sells.
+And the lowest price target says it's $80.
+And the average price target is like 112.
+And so I think there's going to be this moment
+of reckoning where people need to realize
+you have to make money to actually be rewarded.
+And so I really think, yeah,
+I don't think you can just broad brush it and say,
+yeah, it's all under the sky.
+One of you guys is not broad brushing it.
+Kevin is not broad brushing it at all
+because Kevin, you actually added
+to a position in NVIDIA a stock that at one point
+and maybe still arguably is the poster child
+of the kind of AI revolution,
+industrial revolution that we're in right now,
+you added to it.
+And by the way, you're not the only one
+out there feeling that way because it trades
+at a forward multiple of 20 times earnings
+on a 12 month forward basis.
+Some would argue it's almost a value stock at that point.
+Is there a reason why you can't be opportunistic
+about buying this trade if there are valuation
+at least tailwinds for some of these stocks?
+I mean, you're using the word value investment
+in NVIDIA is like music to my ears.
+So I appreciate that dump.
+I'll take the other side that Jenny just brought in
+with respect to Barclays because I'm not sure
+that they're painting a broad brush.
+I think they're looking at this and saying,
+as things get a little bit more sane
+in certain trades, there are opportunities
+and I'll pivot specifically to our NVIDIA position here.
+The stock was 230, what six weeks ago, four weeks ago.
+Here we're back down to the 200 range.
+And I do look at this as a company
+that's in a maturation process,
+maybe a la apple over its history
+because lots of people made a lot of money over this name.
+You know, if you could put five cents into NVIDIA
+and then it's worth 5 million two years later,
+we're looking at it now as a true investment longer term.
+So they have an $80 billion share buyback.
+They're paying a dividend, which is close to a half a percent yield,
+not enough yet for your dividend strategy,
+but enough for ours from the dividend growth perspective.
+And then if you look at what they're doing under the surface,
+this is almost at $100 billion a quarter in revenue.
+So I think that Jenny's point about which stocks are going to be
+specifically winners and losers is spot on.
+I'll just take Barclays back a little bit and say,
+I don't know that they were paying a broad budget
+or at least I was thinking or talking my book as I was reading it.
+So I think there are great opportunities here.
+And if you step in when there's problem,
+when things are under pressure, that's where you make money.
+Steve, I want to go back to a point that you made about
+whether or not you made this money in a memory name like Micron.
+There might be more to be had,
+but you want to protect what you've got.
+And you take that, you raise the cash
+and you deploy it somewhere else at some point.
+One other place I'm curious that you raised cash in
+has been an ancillary play on that AI revolution
+on the industrial side.
+And that's Caterpillar specifically.
+And I want to talk about the trade that you did
+because you've sold that Caterpillar stake.
+And by the way, just from an evaluation standpoint,
+I just want to bring it up for relativity's sake.
+Different industries, right, Micron and Nvidia versus Caterpillar.
+But Caterpillar right now trades at around 35 times
+forward expectations versus Nvidia's 21 times forward expectations.
+How much do investors really have to toggle around
+with just where to take profits from
+and where to deploy them to?
+Look, that's insanity.
+And I said it while I owned the stock.
+I sold most of it, by the way.
+And I guess maybe even close to a month ago,
+a number of weeks ago, and this is a tag end.
+And to me, 35 times forward 12 is insanity
+for a highly cyclical capital-intensive company.
+It's just lunacy.
+It should be in the mid-teams.
+And that's because catch, you get a premium.
+A premium too, it's historical.
+Now, what we don't know is how long this is going to be.
+But what we do, the cycle, we do know it's a cyclical company.
+Always has been, always will be,
+there are different cycles that drive it.
+And that same thing with Micron.
+So Micron, I don't think it's going away.
+I just think the markets lost track
+of what the habit stock trades historically
+and why it trades that way,
+which is a commodity company.
+And they add capacity, cats adding capacity,
+and eventually drives up.
+Now, what we don't know is how much pre-ordering has happened.
+And this applies to cat and Micron, all the others.
+What we do know is Meta came out and said,
+hey, we're going to get into the cloud business.
+Now, is that because they see a tremendous opportunity
+in cloud, or is it because they bought too much?
+And now they want to put what they bought too much.
+So we're going to come back to the same cycle
+with all these semis where there was overordering
+because nobody could get their orders filled.
+So it's like when I allocated all the IPOs,
+when I was at Lehman, and funds would put in
+in order for 10% of the book,
+knowing they're only getting 2% of what they wanted.
+So it's the same type of phenomenon,
+it's the same phenomenon in every single industry.
+If supply is tight, you order more than you need.
+And if you get it, great, you're surprised.
+Cat specifically, it's just basic.
+It's, I'm not saying the end is over for the stock.
+I do expect you to report a good quarter.
+But for me, valuation was just too much.
+As I look to raise cash, I've raised significant cash.
+This is just one that I don't know.
+Can we talk a little bit more about,
+because you brought up the idea of the kind of,
+the mega cap hyperscaler kind of theme
+that's going on here with the spend
+and the ordering and everything else with Meta.
+I also want to bring in a couple of names
+that we're keeping a close eye on right now.
+Apple has been on a quiet run and on a relative basis
+compared to the Mag7.
+At one point, briefly we took the most valuable company
+in the world kind of at level.
+We're watching the $5 trillion market cap level at this point.
+This is not the first time that Apple has been
+talked about as a relative value within Mag7
+and a so-called maybe even safety trade,
+right, for some of those things.
+That's why money's going to my view.
+Nothing changes in the fundamentals in Apple.
+They're still way behind in AI
+with no plan that we know about to get there.
+It's still a consumer product company.
+Valuation is a little more reasonable than it was.
+It's still slow growth.
+It's money looking for a home
+and then making a story out of it.
+So that to me is it's pure and simple.
+That's what it is.
+Kevin, you have a story on Apple though,
+because you've done some work
+in trading positions around it.
+What exactly have you done with your Apple?
+To Steve's point,
+there's a lot of money going into it.
+2.5 billion devices is no joke.
+And if we can deliver the AI on these 2.5 billion devices,
+that's why this stock is working.
+So I don't think we're near the end at 330.
+But what we did, Dom,
+is we wrote a covered call on the position.
+So we've got a 350 strike.
+We still got $20 of upside.
+We brought in a nice premium.
+We covered half the position.
+If it stalls here for a little while,
+we could pay the little option premium
+on top of a modest dividend.
+If it goes up and we're out at 350 on half of it,
+well, heck, this thing was $300 also a few weeks ago.
+So I mean, I love the name.
+We've been in and out of this for the past 15 years.
+I always talk about the fact that I love the company.
+I don't always love where it's trading at.
+So it's getting up against the multiples
+that you get a little nervous here.
+But I think the next cycle,
+with respect to the flip phone,
+what they're doing with China with AI,
+there's a lot to like about Apple.
+And I would not be abandoning it here.
+The covered call is an embarrassed statement.
+It's just harvesting a little volatility.
+It's just smart to do covered calls.
+You're welcome.
+Well, especially when volatility's at a premium
+in certain parts of the market right now,
+you can be opportunistic with it.
+Other places you can be opportunistic
+are outside of that Mag7 hyperscaler trade
+but having an exposure to it.
+And Jenny, I'll turn to you for this one
+because you've been active as well.
+You've put on a position
+in a certain real estate company,
+Investment Trust,
+that is kind of tied to communications
+and to wireless and to everything else.
+Talk to us about that.
+Right. So we added American Tower
+AMT, which has a 4.2% dividend yield,
+generates four and a half billion dollars of cash.
+But interestingly, Dom,
+we didn't add it to our dividend strategy.
+We added it to our discipline growth strategy
+because there's a decent earnings growth trajectory
+ahead for it.
+So what they have is they have 150 cell phone towers
+in 22 countries.
+And you see that the stocks traded down
+like 45% since its peak in 2021
+that had some to do with the T-Mobile sprint merger.
+And then there was another layer of pressure on it
+that came as,
+and we saw this, by the way,
+the same thing that I'm going to talk about
+when I added Comcast
+to the dividend strategy a few weeks ago.
+But with this SpaceX IPO,
+there is so much focus on Starlink
+and how Starlink is so amazing,
+which, by the way, it is.
+But how that was just going to take over
+all the traditional forms of broadband and wireless
+and it was going to get rid of towers,
+it's not.
+So far, Starlink is really a compliment.
+I mean, even professionally for us at Gilman Hill,
+we view Starlink as a compliment,
+but it's certainly not a replacement.
+It's just there's physics involved
+that make it not trustworthy
+or not dependable quite enough.
+So you've got this stock that was on sale.
+You've got a huge free cash flow yield.
+You've got huge dividend.
+It's trading at 14 times FFO.
+It, again, fits into this,
+into kind of the middle of the Venn diagram
+of all the things we're looking at.
+So it's not like, hey, let's go hit a home run.
+It's just, here's a stock that's going to mint cash
+that's going to be highly necessary
+for probably decades to come.
+By the way, we're just getting started.
+We mentioned a couple of the names
+that we're going to delve further
+into like Netflix, like SpaceX and everything,
+but coming up is our chart of the day.
+Netflix, again, under pressure on its earnings report,
+but one halftime committee member,
+as we alluded to, is buying the pullback.
+Those details ahead, halftime is back
+after this commercial break, two minutes time.
+Soccer teaches us lessons we can take with us
+long after we leave the field.
+That's why Bank of America and US Soccer
+are committed to helping bring soccer to every school.
+To always have a few financial goals
+and a really smart one you can set,
+earning cashback on what you buy every day.
+And with Discover, you can get this.
+Discover automatically matches all the cashback
+you've earned at the end of your first year.
+Seriously, all of it.
+And we trust you to make smart decisions.
+After all, you listen to this show.
+See terms at discover.com slash credit card.
+State analysis.
+See how your state measures up.
+America's top states for business.
+See the full list now at topstates.cnbc.com.
+Welcome back.
+We've got a news alert on shares of meta platforms
+which are moving off their lows of the session right now.
+Let's bring in our own Pippa Stevens.
+Pippa, what can you tell us?
+That's right, Dom.
+So meta is reportedly in talks
+to lease computing power to Anthropic.
+This is according to the New York Times.
+In a deal that could potentially be worth
+$10 billion over two years.
+Now this does according to the report
+and more potential step toward a new AI business
+for the social networking company.
+And again, this could be worth some $10 billion
+over two years, Dom.
+All right, Pippa Stevens.
+Thank you very much for the news update there.
+I'm going to go to you for this one, Steve,
+because you had just alluded to meta,
+the excess compute, the leasing, the neocloud type stuff.
+The reaction here, I mean,
+is this something that we should maybe focus
+a little bit more on hyperscalers now
+giving out that capacity?
+Not giving, I should say.
+Financially benefiting from it.
+Yeah, I don't know how many others have it,
+but think of what that's going to do to data centers.
+Think about what it's going to do to others,
+which is that it's going to lower prices, right?
+Now we don't know while this is a good headline
+and has cut the drawdown today and met it significantly.
+We actually don't know what their margin
+is going to be on that.
+So what did they pay for it
+versus what are they leasing out?
+I don't think we'll ever know those numbers,
+but we should create a new metric.
+Net interest margins for net financials
+and net compute margins for the hyperscalers.
+That's a good one.
+So that's really the question.
+How many others have done this?
+And there's that back into the chain
+where you lower your price
+that you're going to pay for compute.
+Everybody on the desk owns meta platforms, by the way.
+So Jenny, what about you?
+Here's my bottom line on it.
+What I like is that we see Mark Zuckerberg
+being financially savvy
+and I like that it's a statement
+of him maximizing returns.
+I don't really need too much more on that for this move.
+Well, if not maximize returns, cutting his losses.
+Okay.
+Which is, you know what?
+But either way, it's the same thing.
+My view is, and I said,
+my view is he's playing chess
+while Microsoft is playing checkers.
+I think that's right.
+We'll find out with earnings
+with the guide and what their CapEx looks like
+because if that comes down,
+then you know that this is a problem
+where they've overspent.
+And then that could be something
+that has a ripple effect across the board.
+But there's so many companies
+that by accident, right,
+gone in to, tripped into a great business.
+Now, I'm not underselling Zuckerberg
+because he's brilliant,
+but think of what he's done.
+The business that he's created
+since Facebook launch
+and going to cloud is brilliant.
+There's going to be so much need for cloud.
+And you also see him maturing
+and being flexible over and over.
+You know, he became flexible
+when he's like, okay, fine.
+We're going to pivot to efficiency
+and the maturity that he's shown
+over the past 20 years is pretty exceptional.
+So I like saying this.
+It's just a positive direction.
+Next to go, it's my largest position.
+Perfect.
+So from one mega cap,
+Com Services company
+to another one that's very much
+in the headlines today.
+Let's talk about Netflix.
+It is our chart of the day.
+Don Paceford's worst day, by the way,
+going back to April, 2022,
+following its earnings report.
+Let's get the news
+and the context with Mackenzie Sagalos
+on that big drop.
+Mack, what can you tell us?
+So Dom, at least 17 firms
+cutting their price targets
+on Netflix
+after the company reported
+slowing revenue growth
+and a weaker Q3 outlook,
+which would mark
+a third straight quarter of deceleration.
+The debate here really centers on engagement.
+Netflix says total viewing hours
+rose 2% in the first half of the year,
+slightly faster than 2025.
+But J.P. Morgan says it,
+viewing fell in the U.S. and Canada.
+Wolf calls the broader picture
+a murky mosaic
+and cut its 2027 revenue outlook,
+really suggesting that the slowdown
+could last longer than investors had hoped.
+And that's why Bernstein
+is focused on whether live programming
+can offset the weakness
+by driving outsized signups
+and ad revenue.
+There's also an M&A overhang,
+sitting saying investors
+are still pricing in the risk
+of a major acquisition
+despite record buybacks by Netflix.
+So Bank of America,
+they may sum it up best.
+The quarter changes
+neither the bull nor the bear thesis,
+really leaving the stock
+without an obvious catalyst.
+Shares are down
+nearly 50% over the past year
+and 7.5% right now, Dom.
+All right, Mac, thank you very much
+for the update on Netflix,
+currently down 7.5%
+off at session lows, by the way.
+One halftime committee member
+in Malcolm Ethridge
+actually just bought the pullback
+and Netflix added to the position.
+He joins us now.
+Malcolm, why Netflix today on this dip
+and are you scared
+that there could be bigger dips
+to come in the coming months?
+Hey, Dom.
+So we talked about this on the show
+yesterday
+and the thing that I really liked
+about Netflix initially was the fact that,
+one, they've already gotten past
+that WBD distraction.
+They finally sort of decoupled themselves
+from that
+and that was initially
+the pressure on the shares.
+However, they've increased prices
+over the last two years
+and they've also increased
+the paid subscribers
+by 40 to 50 million people
+over that same time.
+So we're seeing the street
+and the actual consumer
+going in two completely different directions.
+So to me,
+this is a chance to own
+a really great company
+that exists in a lot of people's lives
+and is not going away anytime soon
+that has pricing power.
+They've shown us that
+because I just mentioned the price increases
+and the ability to own it
+at about a 45 to 50% discount
+from its most recent highs.
+And so to me,
+the sell-off following the earnings
+I completely get at the bears
+really wanted to hear something positive
+about the engagement numbers
+to make them change their mind
+and instead they got the opposite.
+Netflix basically said
+instead of telling you
+how bad our engagement numbers
+are in the near future,
+we're just going to eliminate that report
+and only tell you about it once a year,
+which is not what you want to hear.
+However, they did the same thing
+last year when they said
+they weren't going to tell us
+about their paid subscribers anymore
+and the market seems to have forgotten
+about that metric altogether
+and we can kind of estimate
+what it looks like.
+So to me,
+this looks like a great opportunity
+to be buying
+if you are a long-term-minded investor
+because this is not another semi-conductor
+company that's going to be up 80% in a month,
+but it's an opportunity
+to own a really quality company
+that's basically a utility at this point
+for a very cheap price
+in comparison to what you'd have
+to pay for it about a year ago.
+All right, Malcolm Etheridge,
+thank you very much for joining us
+to give us the case
+for why you bought the dip.
+We appreciate it.
+Have a nice weekend, sir.
+All right, let's go to Kevin
+because you actually earlier this week
+sold some of your position
+going into this earnings print.
+Why and would you
+maybe take profits on that kind of position
+and then reposition for a higher
+on this particular pullback?
+So we sold some on Tuesday Dom at 74.
+I wish we had sold it all.
+I like Malcolm's entry point here.
+I love the long-term thesis on the stock.
+But when it comes to streaming,
+content does matter.
+So let's just think about
+your friends and neighbors, boys,
+Dutton Ranch, House of Dragon, The Bear.
+These are shows that people are watching.
+None of them are on Netflix.
+So for the time being,
+I think they need to straighten out the content
+if we're going to see the stock get back
+on the right trajectory.
+How can they do that?
+Well, I think live sports is the easy answer.
+So you think about NBC and what they own,
+the property and NFL football, NBA, the Olympics.
+Imagine if Netflix was to pivot
+and own those properties.
+Now you've got something where the eyeballs
+are not only going to be there,
+but they're going to stay there.
+Nothing draws the viewer,
+like Monday night football.
+Imagine if that was on.
+I mean, they're kind of already putting that
+marker out there, right?
+So I exited the rest of my position
+earlier in the week.
+And the reason why I did it,
+and I mentioned that,
+look, I could be running a quarter.
+So typically I have quarters
+where they bounce back after that quarter.
+I would just frankly edit what Malcolm said,
+which is that this is a,
+where he said this is a good time to buy it.
+This is another good time to buy it
+because it's continued to miss.
+And the issue is,
+and they said this very clearly,
+we're worried about growth.
+That was my concern.
+It remains my concern.
+Petitive landscape has been enhanced quite a bit.
+I think that, you know,
+if Malcolm wants to park money,
+there are other places to park it.
+I think this is dead money
+for at least the rest of the year
+and maybe longer.
+Now, if they do buy,
+if they do try to engage in a bidding war
+for sports, you know, good sports,
+that's going to limit their ability
+of number one,
+give back money to Sheryls,
+and to get other content.
+And see other content,
+not the sports that people sign up with
+for a trial one day or one week trial.
+It's the constant contact
+that you're streaming repeatedly,
+the 10 episode series so forth
+that keeps viewers engaged.
+So I think it's dead money.
+Yes, it's a great business,
+solid business.
+Yes, it's utility,
+but you don't get paid like utility.
+As Jenny will tell you.
+So I just don't see any point in buying it here.
+What do you think, Jenny?
+I don't think it's utility.
+And I think what Steve said is,
+Steve said the competitive landscape
+has been enhanced.
+I think that's a very kind,
+very gentle phrasing of what's gone on.
+I would say the competitive threat
+is dramatically increased
+versus any time in Netflix's history.
+So today, content can be created
+more cheaply, more easily,
+more robustly,
+thanks to the amazing AI generation tools behind it.
+And that is a significant
+competitive threat to Netflix.
+It's trading at about 18, 19 times,
+markets at about 20 times.
+It should have a bigger discount to the market
+because this thing's under threat.
+Like however you cut it,
+it's under threat.
+Unlike Disney or Disney,
+and I hate going to Netflix Disney,
+so I don't really want to drag there,
+but just Disney's content,
+for example, is more of a library.
+They're not totally dependent
+from a content perspective
+on creating new content.
+Netflix is much more dependent
+on new content creation.
+So they're competing
+in a very competitive space already.
+And then in the worst part of that,
+I think, which is new content creation
+is what drives viewers everywhere.
+I go even sitting on the desk sometimes
+feel like, oh, I stop, you know,
+I cut off my Netflix.
+I'm just not using it.
+I'm just not watching it.
+There's so many other places to go
+for interesting things to watch.
+So I think it deserves a multiple.
+I don't know of like 15 times or 14 times,
+but it deserves a discounted multiple.
+That's where I might ever consider it again,
+but still with roughly a market multiple.
+At best, it's dead money.
+There are some folks who believe
+that that higher multiple could be commanded
+if they get the capital budgeting correct
+between the pivot between content movies
+and studios versus that live sports component
+and what the ROI is on investing
+in both of those vis-a-vis your AI creation
+and everything else.
+So that's completely different analysis
+than our subscription growth accelerating.
+They've got very, very low turn.
+Turns almost, I mean,
+two and a half, two and three, four percent
+is negligible.
+But where does the growth come from?
+You see, their issue is that they've had to short change
+the American consumer where it started
+in terms of viewing to go global, right?
+So they have to dilute their budget globally
+and you may not have the same growth over there
+as you have here.
+All right, guys, big conversation.
+We need to have more time for that one.
+Coming up next though,
+Mike Santoli joins us now with his midday word.
+Keep it right here.
+We'll be back after this.
+I want to grow the game
+so every kid can fall in love of soccer like I did.
+So I asked myself, what would you like the power to do?
+My answers inspired me to invent a pop-up soccer goal
+that can turn any basketball court
+into a street soccer pitch.
+Bank of America champion street soccer advocate
+Kyle Martino,
+and everyone who dares to ask,
+what would you like the power to do?
+Bank of America, proud to be the official bank
+of U.S. soccer and FIFA World Cup 2026.
+Bank of America and A member of FDST.
+It's smart to always have a few financial goals
+and a really smart one you can set?
+Earning cash back on what you buy every day.
+And with Discover, you can.
+Get this, Discover automatically matches
+all the cash back you've earned
+at the end of your first year.
+Seriously, all of it.
+And we trust you to make smart decisions.
+After all, you listen to this show.
+See terms at discover.com slash credit card.
+Which are America's top states for business?
+Get all the data and complete state-by-state analysis.
+See how your state measures up.
+America's top states for business.
+See the full list now at topstates.cnbc.com.
+Welcome back to the Halftime Report.
+I'm Pippa Stevens with your CNBC News Update.
+The man accused of breaching security at NBC's Today Show
+has pleaded not guilty to hate crime charges.
+Police say 41-year-old Andrew Truloth
+entered a restricted area at Rockefeller Center,
+asked for Al Roker,
+then confronted Craig Melvin
+while shouting a racial slur.
+No one was hurt.
+Bail was set at $10,000
+and protection orders were issued for both hosts.
+Coca-Cola says a cyber attack
+has temporarily shut down
+Fairlife milk production in the U.S.
+The company says an unauthorized
+third-party accessed Fairlife's production systems
+in what it believes was a ransomware event.
+The company says product quality
+and safety were not affected
+and Fairlife operations in Canada
+are running normally.
+And Britain is getting a new prime minister,
+Andy Burnham, the former mayor of Greater Manchester,
+has been named leader of the governing Labour Party
+and is expected to take office Monday.
+He replaces Keir Starmer,
+who is stepping down after a rebellion
+inside his own party and weak election results.
+Burnham says he wants to move power away from London
+and focus on the economy, public services,
+and restoring trust in government.
+Dom, I'll send it back to you.
+All right, Pippa.
+Thank you very much for the news update there.
+Thank you.
+Senior markets commentator
+and overtime co-anchor Mike Santoli
+joins us now with the midday word.
+We are in some ways a little bit clearer now
+than we were just a couple of hours ago
+with regard to how this market
+is starting to digest things.
+So what exactly do you think
+is going to be that next possible step
+beyond what we've seen with the sell-off today?
+The most evident thing
+continues to me to be
+how the market reaches into its bag of tricks
+and always pulls out rotation,
+always pulls out this way
+of kind of trading one thing off another,
+mitigating the losses
+in the highly pressured groups of semis
+and essentially saying,
+we can hold this range for now.
+So it's not a clear message to me
+coming from what actually is working today.
+It's net defensive,
+a little bit of pharma doing OK and things like that.
+I do think you have to give credit to this market
+for not fully losing its composure.
+I've been questioning for a while
+how much we can expect of this to continue,
+where you're not going to have these violent moves
+in individual stocks and sectors
+spilling into the broader tape
+to just sort of make it a little messier.
+So give it credit, we started,
+we first hit 7,500 on the S&P May 14th.
+Keep talking about that.
+Cerebrous IPO day,
+lots of other good stuff going on.
+And I think the big question
+the market's been struggling with is,
+have we overplayed the AI hardware bottleneck trade?
+Now that we've dialed back on that,
+do we have another answer?
+To that point,
+and I'll leave it with this,
+the DRAM ETF is now up 3.5% on the day.
+I did note that, yeah,
+my con is down a lot,
+but found some footing here.
+And SanDisk has as well and all those others.
+All right, Mike Santoli,
+we'll see you on Closing Bell Overtime
+later on this afternoon.
+All right, coming up next,
+our top calls of the day.
+Keep it right here.
+Welcome back to the halftime report.
+Let's get to our calls of the day right now.
+We're going to start with Juan
+on the hospitality and leisure side of things.
+That's Marriott.
+It's over a reiterated overweight.
+Over at Morgan Stanley,
+the target goes up to 380 bucks.
+It was 353 over at Morgan Stanley.
+Jenny, you're a Marriott owner.
+Yeah, it seems like every week
+someone's loving Marriott even more.
+So we've owned this from the beginning
+of our growth strategy inception.
+It's up 425%.
+And we'll probably own it
+for the next 10, 15 years too.
+It's a, as Steve says,
+a permanent compounder.
+And they've got earnings growth of mid-teens.
+It's driven by the global demand for travel.
+There's 618,000 new rooms coming on in development.
+It's just a great company,
+great story, a little expensive,
+but again, something that you ride out those valuations.
+All right, let's stick with the consumer here.
+Dick's Sporting Goods reiterated a top pick at BTIG
+with a $300 target price
+and Steve Weiss owns Dick's Sporting Goods.
+Well, I do own it.
+I do like the position quite a bit.
+I kind of read that report
+because I don't know how you get to 300 on this.
+But if that's a long-term target,
+they can do it.
+Look, this is one of one
+in terms of national franchise,
+in terms of buying power,
+in terms of being at destination for Sporting Goods.
+You still want to go and try most of them out
+and don't buy as much on Amazon or other online,
+although they have a great online interface.
+So if you're doing it, you can go right to Dick's.
+Yeah, I mean, they say stronger brand portfolio,
+operational flexibility, catalyst in place.
+Strong, strong management, strong, strong management.
+All right, one more to add to the mixed chevrons.
+Reiterated a buy rating at UBS
+with a $220 price target.
+And Kevin, you're a chevron guy.
+Yeah, it seems like a stretch,
+but I think they can get there.
+They're one of the most disciplined capital allocators
+in the energy space.
+There's a handful of names that you can go with.
+We love chevron, growing production, fortress balance sheet,
+and a growing active dividend.
+And you know what?
+Yesterday, there was a part of out saying that they're,
+like, chevrons trying to figure out ways
+to get oil out of Iraq,
+you know, and working around the Gulf of Hormuz,
+the Strait of Hormuz,
+which is just, no, out of Iraq.
+Around Iran.
+Around Iran, yeah.
+Like, they are savvy and clever and quick.
+All right, coming up on your show here,
+the options action with Oliver Renick
+tracking some big trades in SpaceX today.
+He's going to break down those trades coming up next.
+Keep it right here.
+All right, welcome back to the Halftime Report.
+Let's get today's options action.
+Oliver Renick is at the SIBO Global Markets Platform
+in Chicago.
+What's the floor saying?
+What's the options action today, Oliver?
+Retail traders in Wall Street
+have something in common this morning, Dom.
+They are both underwater on SpaceX.
+The banks that chose to issue an extra $11 billion
+after the stock's strong start,
+a little over a month ago,
+and the traders who stormed into bullish call options
+are in the same boat today,
+with SpaceX trading 9% below its IPO price of $135.
+The Nasdaq 100 was just half a percent
+off its all-time high last month
+when SpaceX peaked,
+and the nine-day straight route
+in the stock is giving fodder to bearers
+who said the market couldn't handle all that supply.
+What's amazing
+is these traders aren't going down without a fight.
+80% of today's almost half a billion dollars
+in SpaceX options premium is tied to puts,
+but over half of that is being sold,
+and risk takers are diving right back
+into brace yourself, Dom.
+The 330 strike calls expiring next week,
+those need SpaceX to rally 164%,
+and right now are the most popular contract by volume.
+All right, Oliver Renick with that big,
+big movement there in SpaceX options,
+we appreciate that.
+Let's talk a little bit more
+because we had brought it up in the A block of the show
+way back in the first 10 minutes,
+but SpaceX will get into a little bit more.
+Steve, what exactly does the options action
+and the trading today tell you
+about what you think SpaceX should be worth?
+Well, I don't think anybody can tell you
+what it should be worth.
+I don't think that Elon Musk can tell you
+what it should be worth
+because you don't have the typical metrics to base on.
+Look, I think at this point,
+SpaceX is a great company.
+It's a true innovator,
+and like Musk has done with Tesla and others,
+he's establishing the market.
+However, that doesn't mean it's going to be a great stock.
+Kevin.
+It's still an immature stock,
+but you know, Kevin.
+What do you think, Kevin?
+One thing, I just want to say, Kevin, you can.
+We own the stock.
+I think long term, it's going to be in really good shape.
+We've got to get through this lockup period in the summer.
+I love that 330 July call.
+That's got some big echo in it.
+All right, guys, thank you very much for that.
+Coming up, final trades.
+Keep it right here.
+All right, we're back with final trades.
+Kevin, we'll start with you.
+I'm going to go with Apple Dom.
+Apple Intelligence is just getting started.
+I think it can help with a multi-year upgrade cycle.
+And they don't have to win the AI race.
+They just have to bring it to their $2.5 billion devices.
+All right, Jenny.
+One from our international strategy,
+Rio Tinto, four and a half percent yield.
+As China's export economy is booming,
+their iron business should do well.
+And Mr. Stephen Weiss.
+United Health, they had a great quarter.
+I think it continues to move higher.
+Steve Hemsley is a star.
+Wayne, the CFO.
+Tremendous.
+All right, that does it for the halftime report.
+Thanks for joining us.
+Have a great weekend.
+I'll see you at 3 p.m. Eastern Time on Closing Bell.
+The exchange with Contessa Brewer starts right now.
+You've been listening to CNBC's halftime report,
+The Podcast.
+You can always catch us live weekdays
+at 12 Eastern only on CNBC.
+All opinions expressed by the halftime report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated
+by them on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit cnbc.com forward slash halftime report disclaimer.
+Snoring, gasping for air during sleep,
+daytime sleepiness, I'm Shaquille O'Neal
+and this shouldn't be anybody's experience.
+Ask your doctor about Zep bound to her Zep time.
+The first and only FDA approved prescription medicine
+for moderate to severe obstructive sleep apnea
+in adults with obesity.
+Zep bound is a prescription medicine
+used with a reduced calorie diet
+and increased physical activity
+to help adults with moderate
+to severe obstructive sleep apnea,
+OSA, and obesity to improve their OSA.
+Zep bound is approved as a 2.5, 5, 7.5, 10, 12.5,
+or 15 milligram injection.
+Zep bound contains trazepatide
+and should not be used with other
+trazepatide containing products
+or any GLP-1 receptor agonist medicines.
+It is not known if Zep bound is safe
+and effective for use in children.
+Don't share needles or pens or reuse needles.
+Don't take up allergic to it
+or if you or someone in your family
+had medullary thyroid cancer
+or if you've had multiple endocrine
+neoplasia syndrome type two.
+Tell your doctor if you get a lump
+or swelling in your neck.
+Stop Zep bound and call your doctor
+if you have severe stomach pain
+or a serious allergic reaction.
+Severe side effects may include
+inflamed pancreas or gallbladder problems.
+Tell your doctor if you experience vision changes
+before scheduled procedures with anesthesia
+if you're nursing, pregnant,
+plan to be, or taking birth control pills.
+Taking Zep bound with a sulfonyl urea
+or insulin may cause low blood sugar.
+Side effects include nausea,
+diarrhea, and vomiting,
+which can cause dehydration
+and worsen kidney problems.
+Talk to your doctor.
+Call 1-800-545-5979
+or visit zepbound.lily.com.

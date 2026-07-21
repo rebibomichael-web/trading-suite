@@ -1,0 +1,1054 @@
+At Edward Jones, we believe rich is more than caring about the latest and greatest.
+It's also taking care of what gives your life meaning.
+That's why your dedicated financial advisor meets you where you are, with personalized
+financial strategies that help protect what matters, so you can preserve your progress
+while creating a path forward.
+The key to being rich is knowing what counts.
+Let's find your rich together.
+Edward Jones, member SIPC.
+Guide the dip and save on CNBC Pro.
+24-7 access to market moving news and interviews across three global live streams.
+For $59.99 at CNBC.com slash join CNBC Pro.
+Terms and conditions apply.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report, the podcast, the
+most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Thanks so much.
+Welcome to the Halftime Report.
+I'm Scott Wapner, front and center of this hour, the latest on the momentum unwind.
+Many of those names are down sharply.
+Meantime, the Dow hitting a new record high before turning negative, trading all of it
+with the investment committee, as always.
+Joining me for the hour, Joe Teranova, Stephanie Link, Rob, Ceachan, and Josh Brown.
+I'll show you the markets here.
+We have gone red across the board.
+NASDAQ is the weakest, as you might expect, with that momentum unwind yet again, or
+at least continuing after that bounce that we got yesterday, 7,500 is right where the S&P
+sits.
+Micron, Intel, AMD, Marvell, all down significantly.
+We can show you some of those as we cycle through here.
+The AI power names, Vernova, Vertiv, Quanta, Eaton, also down, Caterpillar.
+Just keep showing these guys because it really tells the story about what is happening
+here.
+Joe, as Goldman Sachs says, the character of this market has changed.
+I think it's a fight for leadership.
+We talked about the momentum rebound yesterday.
+I think a lot of us questioned that that one-day rebound was evidence that maybe a near-term
+bottom had been put in place.
+I think more deleveraging as it relates to the momentum factor is what lies ahead
+for all of us.
+I think it's semis.
+I think it's memory.
+I think the evidence to support that premise is the reaction to earnings for Samsung and for
+Micron, classic examples of good news, bad price action.
+If you look at the chart, if we could pull up a chart of Micron, you will see the reported
+earnings on the afternoon of June 24th, and the high for the stock is June 25th.
+We know what happened last night with Samsung.
+Samsung was good, right?
+The profit was up 1,800%.
+Concerns about CapEx, concerns about demand seem to be the issue today.
+The Cosby and Korea got smoked overnight was down 5%.
+Momentum in the mix of its worst drawdown since the first quarter of 23.
+I think what happens now is as we move forward over the coming weeks into earnings, which
+the expectation is they will be good, the market tries to find leadership elsewhere.
+Be surprised if it finds it in the Mag7 itself, but certainly I think semis and memory, they
+have a lower sideways consolidation period in front of them.
+It's noise.
+It's not a peak.
+Steph, the idea that the character of this market has changed, are you on board with
+that because it impacts a good handful of stocks that you've believed in as much
+if not more than any others, right?
+The AI power related names are all caught up in this momentum unwind.
+Yeah.
+I mean, I'm encouraged that since June 22nd when semis peaked, that healthcare is up 9%,
+financials up 6%, cybersecurity up 20%.
+New record, another record, right?
+So we have this rotation clearly, but Micron and Samsung didn't say anything about demand
+waning.
+Micron secured $100 billion in contracts between now and the end of 2027.
+Samsung said very similar things, that demand is going to exceed supply well into 2027.
+It's just that these stocks have run really, really far.
+19% of the S&P 500 is semiconductors.
+That's three times as much since 2022.
+That is huge, right?
+So they've had a nice run for good reason because the growth is there and it's all
+the same trade, Scott.
+It's semiconductors and it's the food chain that I've been talking about.
+Yeah, the AI food chain.
+Let me just give some context, I'll come right back to you on how much these stocks have run
+to your point because looking at charts alone doesn't tell the full story until you read
+the numbers as well.
+Micron is up 218% year to date.
+It's now down 28% from its high.
+So you're looking at bear market levels of pullback, corrections for many of these.
+Marvell up almost 200%.
+Now down 23% off of its high.
+Marvell up 167% year to date.
+Now 31% off of its high and so on and so forth.
+Right.
+And so you want to pick your spots because if you believe demand is exceeding supply
+for a long period of time, you're going to get opportunities.
+These things don't grow every single year, 200%, it's just not normal.
+In fact, I'm looking at some of the industrial companies that I own, even Nova Quantas
+Services Vertib, they could correct another easily another 20, 25%, but they are buys and
+because I look at the backlogs, this is why I talk about backlogs all the time, really
+hard to cancel backlogs and the backlogs on average are growing in the 30% range.
+Historically backlogs for industrials grow 5%.
+So they're seeing enormous visibility.
+I mean, GE Vernova is sold out until 2028.
+Quantas Services, we talk about this total addressable market number that they cited
+a couple of weeks ago at their analyst meeting, 960 billion to 2.4 trillion between
+now and 2030.
+That's not normal.
+And this is a very conservative company.
+And 70% of their clients are utilities, which by definition are very conservative.
+That could be painful though, if you're right, right.
+If you say, well, they could easily correct another 20 to 25%, that's going to look pretty
+ugly on the screen.
+But those are not the ones I want to sell.
+Those are the ones I want to add to, as opposed to Marvell, which I had been
+trimming last week when I bought ServiceNow.
+I trimmed a little bit of Marvell because that stock is up so much.
+And even though I think the fundamentals are phenomenal, you've got to take some profits
+along the way.
+So it's obvious that many of the AI-related winners are the ones that are now suffering.
+The idea that Golden says the character of the market's changed.
+Yesterday, you had this big rebound, Rob, and we asked the question, is momentum
+back in some respects, was the pullback done, or at least close to done?
+Today would suggest no way.
+As others like Jeff DeGraft came on closing bell yesterday and said, no, the momentum
+crack is real and it's not finished pulling back yet.
+And Steph, I think the way she tells the story is kind of an agreement.
+Another 20 to 25% for some of these names, maybe.
+Who knows?
+I think that's right.
+Who knows if we get there?
+But I think this is a reset and not a reversal because this is still an unbelievable AI arms
+race.
+These companies are enormous beneficiaries.
+The price moves have certainly been pulled forward as a result of this demand.
+And so when you have the magnitude of what we've seen, you're going to have a reset.
+If you look at the average resets in this space, the worst ones have been drawdowns
+of 12%.
+This is much more significant, partly because it's just the magnitude of the upside.
+So you're in a sea volatility around this.
+But this infrastructure is getting built out.
+These bottlenecks still exist.
+You have meta out there selling computing power and generating possibly $20 billion in incremental
+revenue by selling one gig of additional power.
+And to bring that on costs $50 billion.
+Who knows if that's the pricing mechanism on a forward basis?
+But those economics are absolutely attractive and they have the most compute power that has
+been bought of any of the hyperscalers.
+And a lot of people looked at that as a negative.
+I look at it as, boy does it pay to invest in this infrastructure.
+So it's, Josh, it's not just chips, right?
+I mean, let's make that clear too.
+62% of tech is in correction or worse.
+62% of tech is in bear market or worse.
+Just to give you an idea of some of the notables that are off their 52 e-kais by extraordinary
+amounts.
+Oracle is 60% down.
+Service now 47% down.
+Adobe 41, Salesforce 38, Palantir 35, and then Microsoft 29.
+Yeah.
+Well, look, I think what's happening right now is not fundamental.
+It's behavioral.
+The market has been drunk on some of these momentum trades for a very long time.
+And that's that positive sentiment around the AI CapEx build out.
+It's not like springing up in a vacuum for no reason.
+The earnings growth for these companies has just been like, you couldn't ignore it even
+if you wanted to.
+Some of the numbers that these companies are putting up.
+But the problem is, we got into this realm where the expectations have gone so far at
+this point that they're almost impossible to make anyone happy.
+Samsung's a really great example.
+Earnings beat by 6%.
+They literally had nothing negative to say.
+The print, the profit print, was a 19-fold increase for the quarter ending in June.
+You see the price action in the stock and all of the related price action in all of the
+companies that are part of this ecosystem.
+And you just come to realize, all right, we're not talking about fundamentals anymore.
+We're talking about how levered people have been.
+Todd Sonich Stratigus is out with a note this morning.
+We now have $200 billion in leveraged ETFs.
+And most of that is in tech.
+And most of that is long.
+So it's actually 13 to 1 long to short in these leveraged ETFs.
+So nobody is leveraged short or inverse.
+Everybody is all in on the same trade.
+That $200 billion notional is more like half a trillion dollars.
+And so when we get drunk like this, there's going to be the hangover.
+And nothing fundamental has to have changed.
+Everything Stephanie said is true.
+Everything that we're talking about with this AI capex theme is all still true.
+But the price action tells you that people went overboard.
+That's a really good point.
+And that's correcting right now.
+But I don't think it's bad.
+Like I know nobody wants to buy a stock and be down 10% the next day, I understand that.
+But I don't think it's bad for us to have these rotations and have this shift in the
+other direction.
+There's no such thing as a one-way trade.
+And this is elemental stuff for those of us who have been in this business.
+This is Wall Street.
+Remember what Luke Mannheim had to tell Bud Fox?
+You want to roll, kid?
+Enjoy it because it never lasts.
+Why should this be different?
+You want to just comment on that?
+Yeah, I just think the notion of leveraged ETFs and how the banks and ETF companies
+that create these create a structure that kind of feeds fuel to the fire of the upside
+whether that be through options or futures and some of those are short-dated day
+trades.
+The leverage applies for just that day.
+So it does create a lot of additional support for some of these names on the
+upside but the unwind is equally ferocious.
+It's a whip saw.
+Yeah, as people are definitely learning.
+How do we feel about the bond offering from Amazon?
+Everybody owns it, Steph.
+You get the first one on that.
+It's obviously not the first, Alphabet, Oracle, Meta, Vidya, and now Amazon.
+It's not surprising at all.
+It's not surprising, especially since DRAM prices, ASPs at Micron were up 60% and
+Nan prices were up 80%.
+So a lot of this spend is because the memory is a lot more expensive than it ever has
+been.
+But you're getting a little fed up with what you're seeing at Meta.
+Well, I am.
+Does this sort of seep into that level of concern and in any way, do you have a,
+what's your thought on here?
+I think Amazon has better fundamentals at this very moment in time, but they too
+are eating their free cashflow.
+They're going to go from $42 billion last year in free cashflow to $4 billion.
+So of course they're going to have to do a debt offering or several debt offerings
+and Andy Jassy, the CEO of Amazon, has been very honest and open about having
+to spend and they will continue to spend, which goes back to the fact that
+I don't think that they were at the end of this cycle, that fundamentals
+remain strong because these MAG7s and the Big Techs are going to continue
+to spend.
+They have to spend.
+That all being said, Amazon has a lot of ways to win.
+AWS, they doubled the capacity and so they can grow 28 to 30% at AWS.
+That would be an acceleration, which is good fundamentally.
+Retail sales, same-store sales are running in the upper single digits.
+Advertisings, a $70 billion revenue run rate business for them, grown
+over 115 over the next two years.
+And then this compute that they're doing this custom compute and custom chip
+business could be $100 billion for them.
+So there's a lot of ways this company can win and this is the reason why
+over the last couple of weeks I've been adding to Amazon because I think
+that the valuation has gotten much too cheap for all of these ways to win.
+I'm not even looking at PE, I'm looking at EBITDA, 11 times EBITDA.
+That's really the most important number to me for this stock.
+Historically it's traded at 18 times.
+So this thing is pulled back and I think the fundamentals don't deserve.
+They do deserve having to be buying these things right now.
+Meta, on the other hand, there's a lot of question marks.
+We own it too.
+Amazon, you do.
+Yeah, I would disagree a little bit on the Meta side of things.
+I own Meta, trust me.
+But I'm more frustrated with their fundamentals than anything.
+I think it's Amazon's exposure to two-speed economy right now
+that really has the lower end consumer struggling.
+And I think that's why it's lagged the others here to date.
+I also think that they do have to play catch up on spend
+where maybe Meta doesn't.
+So that relief is already there for Meta.
+Well, Amazon's not, as Steph said,
+they're not slowing down their spending anytime soon.
+B of A just raised their capex estimates, by the way,
+for Alphabet Meta and Amazon.
+As Kanakor today says, the bear case against Meta
+and their AI spend has gone too far.
+Those are their words.
+Agree with that, by the way.
+So everyone on the desk goes Amazon.
+We know the fundamentals are remarkably strong.
+You began this conversation though
+by addressing the fact that they're doing
+another bond offering.
+And the headline on that sometimes scares investors.
+Why?
+Because cumulatively in 26,
+we're now up to 335 billion in debt offerings
+from these hyper scales.
+Stock's green, by the way.
+The stock is green.
+That is twice where we were last year.
+Is that troubling?
+No, it shouldn't be troubling
+because in the case of Nvidia,
+in the case of Alphabet,
+in the case of Amazon, it's money well spent.
+The demand is remarkably strong in these debt offerings
+for a company like Oracle.
+Little bit more troubling
+if they continue to access the debt markets
+for a company like Meta.
+A little bit troubling because they have not
+had reputation and good spending experience.
+Let me finish.
+Lastly, have you followed what has gone on
+with SpaceX in the secondary market
+with their debt offering?
+Very weak demand.
+It's one of the reasons why
+nothing fundamentally about SpaceX
+but you're seeing real weak demand
+in the secondary market.
+It's affecting the equity price of SpaceX.
+Look at these individually
+when you're speaking about debt offerings.
+I don't know how you look at Meta
+and say somebody selling compute power
+because they've built it is a bad thing
+when everybody else is trying to catch up to build it
+and it trades at 16 times.
+They just announced it.
+It's the cheapest and cheapest of any hyper scale.
+They just announced it last week.
+We just talked about being negative today.
+They just announced it last week.
+They announced it last week and when they did,
+I did say this could be powerful for them
+but reputationally when companies do debt offerings
+you look at their history,
+managing the balance sheet and their CAPEX
+and if you measure NVIDIA, Amazon, Alphabet
+relative to Meta, I think you would agree
+those three companies have a much stronger track record
+in terms of their spending and you'll see better demand
+for their debt.
+First to monetize doesn't mean not monetizing
+for the last to monetize.
+And so I think when you have doubled the compute power
+of anybody else, anybody else,
+that's a huge opportunity at a 16 times.
+Recent announcement, I agree with you.
+16 times earnings and they just grew revenues at 30 per,
+here's the bull case.
+They just grew revenues last quarter, 31%.
+Add impressions up 19%.
+Add pricing up 12.
+So that's your positive.
+Investors want more.
+They don't wanna see negative free cash flow
+which they are a negative 11 billion
+which I'm not happy about
+and I don't want them spending more and more.
+I want them to see better returns, better monetization.
+I think Amazon by comparison is,
+we are seeing that with AWS accelerating
+after all the spend that they are putting together.
+Let's not forget about Josh Apple either.
+312, almost 313.
+It's only about a percent and a half
+off of its all time high.
+Target goes to 345 at JPM, reiterated overweight.
+I mean, you flagged this,
+I don't feel like a few months ago
+that it was this stock to watch.
+And it certainly has been in the face of questions
+about a lot of the others.
+This is the stock.
+Look at that chart.
+No, I think it's going to 400.
+This is the stock.
+And I'm gonna tell you right now,
+the amount of catalysts that Apple has
+in the second half of this year,
+I don't even think the average market participant
+is aware of what's coming.
+iOS 27 is gonna be a game changer.
+Agentex Siri is gonna be a game changer.
+The foldable phone, the jury's still out
+until we actually see the product.
+But oh my God, I know they can't make and sell a lot
+this year, won't be in this year's earnings,
+but they could be a category killer there.
+And then the realization dawns on everybody
+where the conversation was Apple's late to AI.
+All of a sudden that narrative shifts to holy cow,
+Apple is the company with 2.5 billion devices
+currently providing access to every large language model,
+every AI app to their users,
+taking a toll on every transaction.
+My God, and they didn't have to spend the CapEx to do it.
+So to me, this is the name of the Mag7 for the second half
+or the Mag8, I guess we call it now,
+for the second half.
+And it's like a sleeping giant hidden in plain sight.
+Everyone's been looking past it.
+And even the China story has gotten better at Apple.
+The last time they reported that number hit 20 billion.
+Like they are at a point now
+where revenue is growing again, earnings are growing again,
+they're raising guidance in certain categories.
+And we got new phones coming
+and I just, I don't see how other people
+are paying more attention to it.
+Well, I'll tell you why, possibly.
+We own it, Josh, I'm with you.
+But the reality of it is,
+this is a very healthy fundamental story.
+And by the way, the markets agree with us,
+but at a 34 PE, doesn't that give some people some pause?
+That's never mattered.
+Has never mattered.
+Apple has been a worse buy at lower multiples
+than it's been a better buy at higher multiples.
+The thing that people are paying up for with Apple
+is not that it's micron and earnings and revenue
+are gonna skyrocket.
+The thing people are paying up for
+is the reliability of those cash flows coming in
+and the discipline.
+And this is a company that is still
+buying another $100 billion buyback,
+still shrinking their float
+while the other companies that are of comparable size
+are borrowing money in the bond market
+and spending over 100% of their cash flow
+on this CapEx build out.
+Apple's getting paid by all of them.
+This is the critical thing.
+Apple is this whole booth for consumer AI, period.
+It's a good segue to the doubt, for obvious reasons.
+So we closed about 53K for the first time ever yesterday.
+We had been trading above it for much of the morning
+than before we went negative.
+And we're a little bit below that right now.
+McDonald's wanted to watch J&J Traveler Chevron Merc.
+Having pretty good sessions.
+Record high J&J, record high Travelers,
+record high for Coca-Cola.
+You have one month winners
+that include American Express up 13%.
+Sherwin Williams up 13%.
+Home Depot up 11 and a half.
+You wanna shout at this, Joe?
+I mean, my biggest position tactically is Apple.
+So I love what Josh said.
+I would have liked to have commented on that.
+But a lot of these doubt names,
+Travelers American Express.
+You don't get everything you want on this program, Joe.
+Travelers American Express.
+You want to throw a little tantrum over there.
+We can have you do that.
+But that's why we moved on, right?
+So Travelers and American Express are financials
+that are part of the rotation.
+We've talked about in the last several days,
+insurance companies have the pricing power.
+The market can rebuild positioning
+in the financial sector for sure.
+The momentum strategy has not been there.
+Okay, Travelers American Express.
+Those are Travelers Insurance Company.
+Merck.
+Travelers best stock in the market.
+Merck, financials to healthcare.
+Healthcare yesterday struggled for sure.
+A lot of people were questioning
+whether it was gonna participate.
+Merck has been a name that we've owned.
+It has momentum actually embedded in it,
+surprisingly enough,
+while the rest of healthcare has underperformed.
+Lily is another name there as well.
+I don't understand why discretionary
+hasn't done better.
+Because oil prices crude is down 40% from its highs.
+We know that consumer has a job.
+We know that wages are growing four to five percent.
+And I know Wells Fargo came out,
+I think they upgraded discretion
+where they were talking positively about it.
+Cause it's only up 0.6% year to date.
+Like that's where I think the real value.
+I agree with you on financials.
+And I agree with you on a lot of these names,
+but I think that there was real value
+to be had in discretionary here.
+His names like Ulta, Las Vegas Sands,
+which were former momentum winners rather,
+which have significantly underperformed.
+Well, I think it's Wal-Mart news is fascinating today.
+Did you know it's the only sector negative year to date?
+Yeah.
+Discretionary.
+That's why I say like,
+but there's a lot of tailwinds for the consumer.
+And I go back to looking at credit card data,
+I look at retail sales data,
+it's all really strong.
+Yeah, okay, it's K shape, fine,
+but it's strong.
+And I'm fascinated by this Wal-Mart news today.
+And I'm surprised the stock's not up more.
+This is interesting.
+Defensive darlings like J&J and Coca-Cola,
+which you listed there,
+have been better hedges to the volatility
+coming from AI than the bond market has, frankly.
+So as you're building portfolios,
+these things are up 30% for the year,
+23% per the year.
+They're beating the market
+and they've actually acted in a much more uncorrelated way
+than buying fixed income.
+I thought, Josh, there was an interesting note today
+from Goldman on your halo stocks
+in which they suggest the first phase is largely complete,
+but the second phase is only beginning.
+That capital intensive stocks
+have significantly outperformed capital light ones
+driving a substantial convergence and valuations.
+Going forward, we expect returns
+to be increasingly driven by earnings
+with greater dispersion between winners and losers.
+Well, earnings estimates are up to 24.5% now thereabouts.
+There were only 15 only in January,
+but what about that trade, the name you coined
+and that others have picked up?
+It's only half over.
+Yeah, look, I think what's very obvious
+to people at this point is that we're gonna see companies
+that have these kind of capital intensive balance sheets
+and businesses that are less replicable by LLMs
+get a second look from investors.
+And obviously it's been happening all year.
+Industrial's been great.
+Defense stocks have had their moments.
+Utilities have done great.
+These are all part of the halo trade.
+The question becomes like, how long does this go on for?
+And in my opinion, it goes on for years
+because we're gonna be in a market
+where software companies, data providers,
+information companies, they were the Wall Street darling
+for 15 years.
+Everything was about capital light, asset light.
+These were the business models
+that got the highest multiples.
+And in real time, we're watching that flip-flop
+and now you're seeing investors
+put a higher degree of confidence
+on companies that have physical assets
+and their ability to continue to generate cashflow.
+And it's no secret, the money
+that's going into these types of stocks
+is coming out of the types of companies
+that we used to say are worth paying 25, 30 times earnings for.
+And now we're not so sure about whether or not
+they have any defensive moat
+versus an anthropic coming along and saying,
+oh, that's what you sell?
+All right, we'll just bundle that into our next iteration.
+We sell that too now.
+So I think this has legs.
+You guys are looking at the halo ETF up on the screen,
+which I'm an advisor to and involved with.
+There are a lot of ways to win in this concept.
+And I think that this is something
+that we'll be talking about for years
+as the AI revolution marches on.
+Okay, we'll take a quick break
+and then we'll get Joe back from the abyss.
+He's all right.
+Recovered from his annoyance
+over not being able to speak about it after all.
+Right?
+Do it as your final trade, Joe.
+He's smiling.
+You don't listen to me on the golf course.
+I talk to you about it every Friday.
+He's back.
+We have a call, by the way.
+In our calls of the day,
+I named it Steph's been adding to it.
+She's got hit with a downgrade today.
+We'll get her take coming up.
+The Genesis GV70 with all its award-winning tech
+and performance is built to thrill.
+So you can hit the road, hit the turns
+and hit Sport Plus mode
+for serious acceleration and handling.
+Inside, you'll find a two-it-of-tech
+that elevates every driving experience.
+And wherever you go,
+the GV70 will have you on the edge of your seat.
+It's luxury that's built to thrill.
+Learn more at Genesis.com and feel the GV70.
+Buy the dip and save on CNBC Pro.
+24-7 access to market-moving news
+and interviews across three global live streams.
+For $59.99 at CNBC.com slash join CNBC Pro.
+Terms and conditions apply.
+Okay, we're back.
+We'll get to the call that I mentioned,
+but first Joe has some real moves he wants to get to.
+Thank you, Scott.
+I appreciate the attention.
+So you personally sold Generac.
+You did.
+And then you personally bought Costco.
+So Joe, the floor is yours, please.
+Just educate us here.
+You would characterize, Rob, I'll talk to you on this.
+You would characterize Generac as a classic example
+of a momentum trade.
+I am getting in front of what I know
+is going to happen over the next several months.
+Clairvoyant too?
+With the momentum, well,
+you try and do that in this business.
+The momentum funds will begin to liquidate Generac.
+Why?
+Generac is basically an industrial company
+that's delivering very strong on its revenue growth,
+but you're seeing a lot of capital flows
+that are coming there that have nothing
+to acknowledge the fundamental story.
+It's just about the price appreciation,
+the relationship, the momentum.
+Taking the capital, moving it into Costco.
+I think that there was a clear valuation reset
+for both Costco and for Walmart.
+Well, do you think that the Costco valuation,
+because you're right.
+I mean, I think there was a
+clear valuation reset.
+I think there was a clear valuation about this stock
+was valuation.
+Yes.
+I think that reset has completed its process.
+I think the fundamentals are strong.
+I think you're beginning to see
+in the case of Walmart and Costco,
+they are going to benefit again on pricing power
+as the cost of goods for them comes down.
+You've already heard Sam's Club with Walmart,
+they're going to lower prices
+on beef and other staple goods.
+So I think that there enough is enough
+for the pullback in Costco and Walmart,
+taking a personal position in Costco.
+All right, good stuff.
+Thank you for that.
+Steph, now to this downgrade, okay?
+You've been buying more truest
+within the last two weeks, right?
+Got it with a downgrade today.
+It was a buy, now it's neutral at UBS.
+The target to 55, it was 58.
+It's lagged this year, recently announced CEO change
+in the prospect of rate hikes in the forward curve cloud,
+near-term visibility on the leadership roster,
+talent retention, near-term EPS power,
+and recently introduced medium-term targets.
+And this is why the stock trades at one time's book.
+And that has typically been a very good time to buy a bank
+when it trades at one time's book.
+This is a company that's going to have a fine quarter.
+Is it going to be blowout?
+I don't know.
+I mean, I think you're going to see higher net interest income,
+steady net interest margins, higher fee income,
+which is kind of like across the bank board, by the way.
+But you have to wait for September 1st
+for the CEO to actually officially start.
+He has a very good background of FinTech
+as well as traditional banking.
+I think he's going to get the job done.
+But maybe the stock goes sideways
+until we get and hear more from him.
+But I think the fundamentals of the company
+are right on track.
+Robbie ASML reiterated a top pick
+and overweight at Morgan Stanley today.
+$2092 is the price target, Bob.
+Completely agree.
+We see a lot of upside in the name.
+It is the ultimate bottleneck in AI infrastructure.
+No advanced chip in the world gets made
+without their machines.
+They have a monopoly on the world's most advanced
+lithography equipment, a position
+that no other company could replicate
+within a meaningful time.
+It is expensive, but I think it continues to perform.
+It's up like 63% this year.
+Josh Service Titan, top pickpiper sandler,
+Target 115, multiple growth drivers they talk about.
+Yeah, so this company got thrown out
+with the rest of the software stocks earlier this year.
+But I think the market is waking up to the fact
+that not all software companies are created equally
+and not every SaaS provider is laying down
+on the train tracks in front of the LLMs.
+Service Titan is a really great example
+where they dominate at the top of the trades market.
+Somebody comes to your house to do work on something
+or build something very often.
+They've got the Service Titan machine in hand
+and the software that powers that construction
+or trade business is this company.
+But the catalyst that's being cited today
+by Piper Sandler is about Max.
+Max is their premium AI tier.
+This is gonna be the company that brings AI to the trades.
+Max represents a two time subscription revenue uplift
+for the Service Titan customers who adopt it
+and it's driving higher consumption on top of that.
+Piper Sandler says Max could be a 38 million dollar
+run rate product just in the first year
+and longer term get to 370 million,
+which would be 50% of Service Titan subscription revenue.
+So I like the stock a lot.
+I'm long, I'm an investor, not a trader.
+You know, my 10th pertantrum really helped
+just helped me out.
+I'm gonna give the viewers a great trade
+at the end of the show.
+You are?
+Max seven.
+Cause I just, I just got something.
+There's a mag seven that has the same setup
+that Apple had at the end of March when I initially bought it.
+You're still not over it.
+You're still talking.
+No, this is exciting.
+One of the mag seven is about to go.
+Give it to you at the end of the show.
+I'm gonna buy it personally.
+Wow.
+Okay.
+He's storming back.
+Ladies and gentlemen.
+Frank.
+Ladies.
+Frank Holland has a news update.
+Hey man.
+Good afternoon to and good afternoon all of you.
+ABC is firing back at the FCC over its investigation
+into the view and new comments.
+ABC cited the show's long history of newsmaking interviews
+and said it was being singled out
+because of President Trump's criticism.
+FCC chair Brennan Carr claims the show
+isn't a bonafide news program
+and therefore it is subject to the FCC's equal time rules.
+The International Olympic Committee provisionally lifted
+a suspension of the Russian Olympic Committee.
+It's a step towards Russia's return
+to the Olympics ahead of the 2028 Games.
+Russia was suspended in 2023
+for recognizing Olympic councils
+in Russia occupied parts of Ukraine.
+The IOC has not yet decided
+if Russia will be able to display its flag
+or play its national anthem.
+And Supreme Court justices Amy Coney Barrett
+and Elena Kagan are set to testify
+on Capitol Hill next week
+on their annual budget request.
+It will be the first appearance of justices
+before Congress since back in 2019.
+The Supreme Court requested a boost
+of more than $14 million for fiscal 2027.
+That includes increased security for the justices.
+Scott, back over to you.
+Okay, Frank, thank you, Frank Holland.
+Coming up, Josh Brown's best stocks in the market.
+He says, ride the wave of strength in these two names
+as we kick off the second half of the year.
+They'll reveal them next.
+Thursday, July 16th, CNBC Sport and Boardroom
+join Fanatics Fest for Game Plan.
+Groundbreaking ideas shaping the future
+of sports and entertainment.
+Request your invite at CNBCEvents.com slash Game Plan.
+Talks that time again.
+Best stocks in the market according to Josh Brown.
+The spotlight today is on.
+Tell us.
+We wanted to take a look at the best stocks
+in the worst sectors.
+If you think that this is a market
+that's got heavy duty rotation,
+which I know we all agree with,
+what better way to prepare?
+And so we did, I'm not gonna do Merck,
+but that was one of the names doing way better
+than most of its category.
+Let's do Archer Daniels Midland, ADM.
+Guidance is a story here.
+Management raised full year earnings per share
+from $415 to $470,
+up from a prior midpoint of $4.
+This is being held by the highest soybean oil prices
+in more than three years,
+plus the new federal biofuel blending requirements.
+They also have a cost program
+targeting 750 million in savings.
+Not to mention this is a company
+that's been paying dividends uninterrupted for 94 years.
+That is incredible.
+377 consecutive quarterly payments.
+So it's a very stable business,
+I think with a great chart,
+and we could see a breakout here.
+The next catalyst will be earnings in early August.
+The street is expecting a 39% jump.
+State Street is another one.
+The asset managers mostly look like death,
+especially the alternative asset managers.
+State Street looks incredible.
+Give me a little bit of a longer-term chart here, guys.
+Record Q1 across the board,
+revenue up 16% to 3.8 billion,
+earnings up 40%,
+FX trading up 30%,
+record client volumes,
+record assets under management,
+$5.6 trillion,
+record ETF inflows.
+They just have everything working at the right time.
+The Trump accounts are defaulting to their fund, SPYM.
+That's the default for all the new Trump accounts
+going right into that product.
+They're also doing a dividend hike.
+So I think this is a very simple setup.
+Traders can use $159 as a working stop
+and then trail this thing as it goes higher
+for investors with a little bit more risk tolerance.
+I think $150 is really the line in the sand.
+Earnings are July 16th.
+The reaction there could make or break this trade.
+I think the momentum for State Street will continue
+and you ain't going to have to worry about that $150 level.
+Joe, so ADM was your final trade towards the end of May.
+You haven't owned it for a while.
+I haven't.
+But you must have seen something
+that Josh has been looking at
+to even make it your final trade.
+Yeah, it's pulled back a little bit recently.
+It's a good spot, I think, to buy it.
+It's pulling back out of the moving averages.
+But agriculture is right now from the commodity standpoint,
+building strong tailwinds behind it.
+So that's your Mosaic.
+That's your Archer Daniels, Bungie, another name
+that you could talk about in the agriculture world as well.
+Commodities right now are pivoting away
+from precious metals, a little bit away from oil
+and looking towards agriculture in particular
+as you go into the summer season.
+Okay, so just to reiterate this tease that you did,
+this big, deep tease.
+Yes.
+You get to tell us a stock.
+Deep tease.
+Another mega cap for the end of the show.
+It looks like it's going to break out
+and you're going to buy it.
+It is going to break out
+from what has been a sideways multi-month period.
+Okay, so we'll do that.
+Coming up in Santoli as well, when we come back.
+Senior markets commentator and overtime co-anchor
+Michael Santoli is here at post nine
+for his midday word.
+Well, so much for yesterday.
+Yeah, exactly.
+Yeah.
+The balance, I mean in momentum.
+Goodbye.
+And in a sense, we did talk about it in the other clothes,
+which was how much do you want to give credence
+to these daily two and fro of what's in favor
+and where you have a little bit of the extreme positioning
+that's going to get unwound.
+Interesting today.
+I mean, obviously you're kind of giving it up
+and the semiconductor group has not told you enough
+to disprove the idea that there's been
+a consequential interim top set a few weeks ago,
+whatever it might be.
+That being said, from about late morning on,
+NVIDIA just decides to go on, right?
+Because it's defensive and it's not memory
+and it did not actually get kind of to the extremes.
+The rest of it did that buffers the overall index
+as well as all the defensive stuff,
+which people say are going up for a reason,
+you know, of its own.
+In reality, it's anti-semi or anti-memory.
+So interesting that we're able to stay within 3%
+of the highs basically in the S&P.
+While all this goes on, I do like to remind folks,
+we did this for four months from November through February.
+You had equal weight outperforming.
+You had most stocks doing better than the index.
+The S&P did absolutely nothing over that period.
+And we've done nothing so far for just under two months
+in the headline S&P.
+What do you make of the software bounce?
+Which is ongoing again today,
+Salesforce, Snow, Service, IBM, pretty good week,
+pretty decent month.
+Look at the stuff that's gotten most blasted
+on a three month basis or a year to date basis.
+I mean, I wish it were more complicated than that,
+except to say that's the other leg of momentum.
+Because when you have a momentum trade on,
+you're also short stuff with the worst momentum.
+So I think that's probably most of it.
+That being said, you might be seeing green shoots
+in things like Microsoft actually trying to firm up here.
+Something maybe a little bit away from pure security software
+and things like that.
+So who knows if it's kind of bumping along a bottom there
+and things like Service Now and Salesforce.
+All right, good stuff.
+I'll see you in a couple hours on Closing Bell.
+That's Mike Santoli up next.
+Oliver Renwick with Options Action from Chicago.
+Options Action time.
+And for that we go to Oliver Renwick
+who is at the Sevo Global Market in Chicago.
+What are you looking at today?
+Hey, Scott, we're watching software stocks
+which have been up all morning and options flows
+have favored the group since late May
+when we saw chip stock positioning sour
+as traders warmed up to the IGV software ETF.
+Where today we see basically no put buyers
+and one big put spread seller
+who brought in a net $1 million,
+selling $2 million of the 85 strike puts in IGV
+expiring August 21st
+and buying 1 million of the 80 strikes expiring the same date.
+That's a bet.
+The software group will hold levels
+it first fell to in February
+before staging a now 27% comeback since April.
+Cyber security stocks are the big winners of the trade
+with the hack ETF up 40% on the year now.
+Strangely, no options traded there
+but to that note, I might watch Broadcom,
+the second biggest holding in hack
+where call buying almost triples put buying
+despite just the 7% move year to date, Scott.
+Appreciate that, Oliver, thank you very much.
+That's Oliver Renick at Sebo.
+Steph, you've been playing and so has Rob
+but you've been playing for this rebound
+in some of these software names.
+Yeah, so service now is one most recently
+but I like the option action in Broadcom.
+I mean, I think that that stock has lagged
+for a long time and it's actually gotten
+to a better reasonable valuation
+but back on to software,
+service now is trading at 23 times forward estimates
+growing 20 to 25% total revenue growth
+with operating margin and gross margin expansion
+and so I just think it's down so much
+and so hated and it's mission critical software.
+Companies need their software to survive.
+Okay, by the way, we're gonna take a break
+but come back again.
+Joe's big trade is next.
+Liz Ann Saunders is gonna join me today
+on closing Val Adam Parker, Lori Calvesina
+and Lowe Tony, don't wanna miss that.
+Let's get to your trade here, what do you got?
+Okay, March 30th, Nvidia 164
+up to 236 by the middle of May.
+You now have a retracement back
+into what's known as the box.
+Technicians will know that,
+50 to 62% and a half area.
+You wanna buy Nvidia here, which I will do,
+you're gonna have to risk some around 9.5, 10%
+back to the April 7th gap at 178.
+It's a similar pattern match
+to when Apple broke out
+from its sideways consolidation November through March.
+Okay, again, it's personal buy.
+Personal buy.
+It's not in the tee?
+It's in the, oh, absolutely.
+Number one stock in the tee.
+In the tee.
+You haven't owned it personally in a while,
+so you're gonna buy that.
+Okay, 100%.
+All right, good stuff.
+Thank you for that.
+Josh, what's your final?
+Toast is about to take out
+its 200 day moving average to the upside.
+Thank you.
+Robert, seat you.
+Microsoft, the worst of the rewriting is behind us
+and it's trading as cheap as it was in 22 at 21 times.
+Okay, Stephanie Ling.
+So I made my case for a service now,
+but I was buying it, I'll continue to buy it.
+Should not be down 31% here indeed.
+Yeah, well, software staged a nice rebound
+and there it is up another 5%.
+So the Nvidia is you're gonna be your final trade.
+100%.
+Quite literally.
+Yes.
+It's all right.
+Well, we will follow that for sure.
+I'll see you at three o'clock.
+We'll see what this market does towards the close.
+We'll watch momentum carefully
+and of course, the Dow trying to close
+above 53K yet again.
+The exchange is now.
+You've been listening to CNBC's
+halftime report, the podcast.
+You can always catch us live weekdays at 12 Eastern
+only on CNBC.
+All opinions expressed by the halftime report participants
+are solely their opinions and do not reflect the opinions
+of CNBC or its parent company or affiliates
+and may have been previously disseminated by them
+on television, radio, internet or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+that halftime report participants consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit CNBC.com forward slash halftime report disclaimer.
+Real talent is defined by what people can do,
+not where they learn to do it.
+So by stopping at the education section of a resume,
+you might throw away the perfect hire.
+Skills first hiring helps you see talent others miss
+like more than 70 million stars
+skilled through alternative routes.
+Let their story unfold and gain a competitive advantage
+because hiring managers who start with skills
+are 60% more likely to find a successful hire.
+Hire skills first.
+Learn why at tetherpapersealing.org
+brought to you by Opportunity at Work and the Ad Council.
