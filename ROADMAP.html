@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 67%;
+            height: 100%; width: 65%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -124,7 +124,7 @@
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>36 of 54 items done</span>
+                <span>36 of 55 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -230,7 +230,12 @@
             <div class="column col-progress">
                 <div class="column-header">
                     <span class="column-title">In Progress</span>
-                    <span class="count">2</span>
+                    <span class="count">3</span>
+                </div>
+                <div class="card">
+                    <h3>Market narratives + trigger watch — BUILT (remote session 07-21); owner setup pending</h3>
+                    <p>The "that level of analysis, in the program" answer — built in trading-suite by the parallel remote session (session_01Qf9a9M7H1bcwXhvMWDVzQV; full handoff in docs/HANDOFF_20260721_narratives_triggers_session.md; commits 82e1fb0…9e2fec3 on main). TWO PIECES: (1) MARKET NARRATIVES (push-button GitHub Action): per-ticker Claude analysis WITH web search — What happened / Thesis or technicals / What the scanners see / Your own data says / Bottom line — built on a stats context block from trading-data (score trajectories, band stats, setup stats, per-name history, position); scope=signals covers LEAP ≥10/S2-S3 + recent swing fires + all held names; delivered as a GitHub issue assigned to Michael (guaranteed email + mobile push) + archived. Free-run auth via the subscription CLI (OAuth preferred, API key stripped from the subprocess). This is the SNPS/LOW sell-analysis productized. (2) TRIGGER WATCH (every 30min, market hours, free/yfinance): merges manual levels (triggers.json), EVERY active trade's stop/TP1/TP2 from state.json (30 levels across 10 names), and model-emitted narrative triggers; first cross → issue → phone push; fired-map prevents re-alerts. End-to-end proven live (issue #46, real SNPS price, cleaned up). BLOCKED ON MICHAEL (two steps): add the TRADING_DATA_TOKEN secret (fine-grained PAT, Contents:Read on trading-data) to trading-suite, then Actions → Market narratives → Run workflow. Optional third: uncomment the daily schedule block. CROSS-LANE NOTES: that session also independently audited the Dell SYMBOL build diff (PASSED) and recommended the dead-code sweep — already satisfied 07-22 (orphan cut d6f7c25 + _ui_call docstring). Its diagnose.py "Flips to a BUY if…" levels are the natural future feed for triggers.json. Relationship to the pill-narratives build: complementary layers — app pills = instant deterministic sentences; narratives = thesis-aware web-searched deep dives; trigger watch = the "if it breaks $205" levels as real phone alerts.</p>
+                    <div class="card-tags"><span class="tag tag-shared">shared</span><span class="tag tag-infra">automation</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP overhaul — option-volume rework (Michael's project)</h3>
