@@ -1,0 +1,1154 @@
+I'm Scott Wopner and you're listening to CNBC's halftime report, the podcast, the most profitable
+hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+All right.
+Thank you very much, Carl.
+Thank you, Sarah.
+Welcome to the halftime report.
+I'm Dominic Chu.
+I'm in for Scott Wopner, front and center this hour.
+The Alphabet Aftermath has more AI spending over shadows, cloud growth, and ways on
+the markets.
+The investment committee is standing by with what it all means for your money.
+Joining me for the hour are Josh Brown, Malcolm Etteridge, Jim Laventhal, and Jason Snite.
+Let's get a check on the markets, which are decidedly negative.
+Again, throughout the course of this session here, we've seen the markets move to the
+downside.
+Now we're just bouncing off some of the lows.
+The Dow is down about a 523 points, roughly 1%.
+The S&P 500 down by about 1.3% to a level of 7400, that big figure, right there on
+the number.
+And the Nasdaq Composite 25089 off about 2.5% there.
+Gentlemen, this is a down day.
+We've seen them before, but does this one feel different than other down days, given the
+fact that it's being triggered by maybe arguably one of the Mag7, if not two of the Mag7?
+And then, Jim, I'm going to start with you on this one here.
+Well, I mean, okay, it's a down day, and I get it, Alphabet's down, and some people
+are worried about the capital expenditures.
+I'm not.
+I would also point out that as far as down days have gone recently, it's nice to show
+a little bit of sign of strength in something like Micron, some of the memory chips make
+sense, right?
+If CapEx is going up at Alphabet, if they're not throwing in the towel because of Chinese
+open source, large language models, then okay.
+It's game on for spending at Micron, which of course they have those long-term contracts
+in place.
+Look, I get it.
+There are people who are worried that AI is a bubble.
+I certainly understand that.
+I'm more in the camp of the CEOs of these hyperscalers, the Brad Gerstens of the
+world, who all feel that at worst we're in the middle innings of this.
+And yes, I get it, political blowback against data center construction.
+Some people don't want them in their backyard.
+There's enough places to build these things, and clearly from Alphabet,
+we're going to continue to build them whether we like it or not.
+So I don't look at this as a bad sign.
+I look at it as the AI trade is alive and healthy.
+Josh, you either have to spend the money, you've got to spend the money, right?
+Right.
+Because you position yourself for future growth, or you don't spend the
+money and are not positioned for that future growth down the line.
+It seems like a bit of a paradox.
+Is it one that is overall constructive over the medium term?
+Long term, we know it is.
+That's the future of technology.
+But short to medium term, how exactly then do you reconcile the paradox
+about spending versus positioning for growth down the line?
+Okay.
+So two different answers to your question.
+I know I have all the time in the world, right, guys?
+We're good?
+Yes.
+The first answer is I've been talking about the second half as
+being a totally different environment from the first half.
+And in the second half, I think you want to focus on non-hyperscalars
+that are seeing business improvement in the form of upside
+earning surprises as a result of their uses of AI.
+I like this story so much better, this whole broadening out
+trade that we're living through in the markets, this whole
+shift away from Mag7, from hyperscalar, and into other sectors,
+other areas, is being driven by this idea.
+There are companies that are demonstrating material progress
+in incorporating all of these AI tools that Alphabet and METR
+are paying for.
+And they're able to tell the street, oh, by the way,
+this earnings beat sponsored by our use of blank.
+Name your favorite LLM.
+So I've given two examples for the viewers on the show.
+Recently, I've been pounding the table on travelers.
+Let's go ahead and put up a chart here.
+Bright green in a dark red tape.
+It's not a secret as to why.
+Here's Chubb.
+We talked about this Tuesday, CB, another situation,
+insurance, just absolutely ripping to the upside.
+You talk about the companies that
+are going to feel the efficiencies and the productivity
+from AI use first.
+These have to be at the top of the list.
+Then you look at the industrials.
+I talked about Alphabet the other day
+as being literally the key to the market.
+What could resurrect this AI trade?
+It's going to be the CapEx number.
+Google took its CapEx number up by $5 or $10 billion.
+Good enough.
+Look at the industrials today.
+The best performing sector.
+Caterpillar up 1.7%.
+GE is up.
+GEV is up as well.
+And when you've got the industrials
+reacting positively to a game on announcement from Alphabet,
+you look at this market and you say, OK,
+I don't need to worry about whether or not
+the hyperscalers hold up.
+I have so many other ways to play what's going on.
+Malcolm, the overall feel in the market right now
+has been for weeks this idea.
+And we all go back to the same chart
+about how much money the hyperscalers are spending
+out of their free cash flow and how much of that
+is being transferred to hardware companies that
+have to build AI infrastructure.
+This is a trade right now, though,
+that, to Josh's point, benefits way more companies
+than just the select maybe 10 or 15
+at the top of this kind of MAG7 hyperscaler type food chain.
+Is it one, though, where if you look at these sectors
+overall, you have to be even more specific about what parts
+of those sectors and what industries specifically
+are going to be the outstanding beneficiaries of this
+as opposed to just the kind of market beneficiaries?
+Yeah, it's absolutely a stock picker's market.
+Josh is pointing out there are companies
+with green on the screen even as the market seems
+to be selling off writ large today.
+This is an important moment to be paying attention
+to which companies are showing up green.
+But separately from that, I was on last week
+when Shannon said it's a tough quarter to have a tough quarter.
+And I think that is being proven true right now
+for a company that was already trading
+at a decent premium to the market,
+something like 24 times earnings to then turn around
+and have a second miss in a row.
+The last thing that the street wanted to hear
+is, oh, by the way, we're going to raise the top end
+of our CAPEX target by about $15 billion.
+I think that what Google has proven
+is that they are not going to be the first one to blink
+in this hyperscalar CAPEX arm race.
+But I think what investors are looking to hear
+with the analyst community is looking to hear
+is really where the tangible benefits of this CAPEX
+is going to be in layman's terms.
+We don't necessarily want to hear about the huge projection
+for buy 2030, this thing will be.
+We got that in the form of increased growth in Google Cloud,
+which I thought was very positive.
+They increased growth there by about 20 percentage points
+above what they did last quarter,
+which was massive last quarter.
+So I think they are working it out.
+They are proving the bull case
+for why you'd want to be invested in the companies
+doing the spending, at least for Alphabet.
+But it's also going to be a while before that one
+starts to really go in the other direction.
+But it's up 70% still with today's pullback
+over the last year.
+Maybe there's a reason why folks are taking profits.
+Nobody ever went broke taking a profit.
+So Alphabet, by the way, to put points on this,
+sequentially you talked about the massive move
+higher in cloud revenue.
+It's even more impressive on a year over year basis.
+It's up 82% year over year.
+We've also got their CAPEX guidance of force being raised.
+Let's talk about, you mentioned the analyst community.
+There are a handful of moves that are happening right now.
+JP Morgan did reiterate its overweight rating
+on Alphabet in light of these earnings,
+but they did cut their target price by 40 bucks
+to $420 a share.
+Piper Sandler cut their target price as well,
+but then reiterated their overweight rating.
+Piper Sandler says the 22Q226 results
+were largely in line with our expectations,
+but cloud materially outperformed,
+accelerating 82% year over year.
+Shares fell 4% after hours as management raised
+its CAPEX guide and reiterated plans
+for a significant increase in 2027.
+A handful of other analysts are out there doing this.
+And Jason, you're a shareholder of Alphabet.
+How much do you care about what some of these projections
+by the company itself are?
+And then what the analysts are projecting,
+the repercussions could be for share price down the line.
+Yeah, I think the key is obviously
+the reiteration of overweight, right?
+I mean, some price pullback, that's fine.
+I mean, the stock has roughly flats up 2% so far this year.
+They had to raise it and reaffirm and raise
+the CAPEX guide from my perspective.
+I think the street also is looking
+at the operational margin miss.
+I mean, by 2%, I think the expectation was 36.
+They came in at 34.
+I think that's bit of a concern.
+And then negative free cash flow.
+Again, we've got to continue to raise capital,
+whether it's secondaries or debt offerings
+to continue to spice up the chain,
+to be able to reinvest and get these LLMs to a level
+where there's true enterprise adoption.
+So I think that is the story.
+I think we will likely see a read through to Amazon
+and some of the other hyperscalers
+as a result of some of the spending.
+Once one makes a move like this, the others will follow.
+And that is somewhat concerned.
+But to Josh's point earlier,
+this story has to be about the breath,
+the AI beneficiaries to Jimmy's point,
+Mike, where I'm moving today.
+Unfortunately, we're seeing energy move a lot today
+for other reasons, but we need to see other sectors
+continue to play in this bull run,
+industrials, financials, health cares,
+which we've seen over the last couple of weeks.
+I think we need to continue to see that
+overall see a healthy market don't vote.
+I just want to point out one thing, all right?
+By the way, Jim, you're a shareholder as well.
+So I'm kind of curious.
+And as a shareholder, a long-term shareholder,
+obviously I'm not happy down 6% today,
+but I've got to put it in the perspective
+of over the last year, it's up 67%.
+Over the last year, the value of Alphabet,
+the company is up $1.2 billion.
+Like it can take a breather.
+The way that it got that much appreciation
+is because a number of earnings reports
+that came in much better than expected.
+And when you get those reports a year ago,
+nine months ago, you say to yourself,
+it's not gonna last forever.
+What's happened this quarter is very understandable,
+particularly the negative free cash flow.
+If you don't believe what I said earlier
+about this is the middle endings of AI,
+this is not the stock for you.
+I get it.
+Or maybe like Josh said,
+you've got a bunch of derivative plays elsewhere
+of where artificial intelligence is gonna help out.
+But I'll tell you, my own opinion is that
+this is an easy stock to hold over the next year.
+Maybe it takes a few days, a few weeks
+to kind of digest this earnings report,
+but there's gonna come a point in time,
+probably not that far away,
+where money starts flowing into the hyperscalers again.
+Amazon Alphabet will benefit.
+Two things happened during the course of this quarter.
+One is it wasn't horrible,
+but search was not as good as expected
+as a specific line item.
+I wonder if you view that as potentially now
+something to monitor going forward
+because cannibalization of search
+was always a negative hanging over alphabet.
+It ended up being much to do about nothing
+because they went all in on AI responses to queries
+and the profitability was okay,
+but I'm just curious.
+And then the second thing,
+look, this is a company that had been buying back stock
+for most of the last 10 years.
+And during the course of this quarter,
+they came out and surprised everyone
+with an at the market equity offering.
+Do you think there might be another one
+during the course of this quarter
+given what they're saying about CapEx?
+And is that now something
+that maybe materially changes the story?
+I mean, good questions of the second one first.
+I mean, certainly they could.
+I don't think they would want to.
+I know the debt market is pretty saturated right now,
+but the cost of equity capital is a lot higher
+for alphabet in my opinion than debt capital.
+So I'd rather have them do that.
+Yeah, they did the secondary.
+Got some cash in their hands.
+Fine.
+Where this all comes down to job is not small.
+85 million, but where this all comes down to
+is they are investing.
+And as I said, you either believe
+the investment is gonna pay off or you don't.
+If you don't, then obviously you're not owning Alphabet.
+I'm not gonna dare anyone to short it,
+but if that's your cup of tea, go right ahead.
+With regards to your other question about search,
+I kind of saw it close enough to call it in line,
+but okay, instead of debating that,
+what I think is more interesting
+is what AI overview is doing to a number of publishers.
+There's some reports on this.
+Alphabet may have to figure out some ways
+to compensate the reddits of the world,
+the fortune magazines of the world.
+Or get sued into the Stone Age.
+Right.
+Well, I mean, I'm not sure those lawsuits
+would have any real legs to it,
+but it's probably better to just co-opt that
+and get a better revenue
+or sharing agreement in place.
+Can I go back to something really quickly?
+Cause to answer your question about whether
+they're gonna need to do another capital raise or not,
+I think the answer is obviously yes,
+but what I think it's missed here
+is for a company that is up 70% in one year.
+You know who's also up?
+All of their employees who get paid
+and restricted stock in it.
+So buried in the details of the last equity raise
+is the fact that about half of that
+is going toward paying the tax bill
+associated with those RSUs.
+So as long as that remains the key component
+of their equity compensation plan
+for all of their employees,
+because oh, by the way,
+they're back up to about 200,000 as their headcount now.
+So there's a ton of people walking around
+with Google RSUs now.
+They're gonna have to continue
+to keep tapping the equity markets that way,
+which is not going to be great
+for the analyst community,
+which you're seeing start to dial down
+what those price targets are
+and you gotta imagine they're baking in
+at least a piece of that.
+All right, so let's talk,
+because I wanna hit on something that you mentioned.
+You mentioned the cost of debt capital right now.
+You mentioned the cost of equity capital.
+I don't think there's any doubt in many people's minds
+that the cost of equity capital at this point
+is on an after-tax basis,
+certainly not as advantageous
+as doing it on debt capital right now,
+which is the reason maybe arguably
+why all of these companies are raising funds
+at not that many basis points
+above treasuries at this point
+to finance their expansion plans.
+I guess this has been a negative story for a while,
+but how much do we have to worry
+about the increased leverage
+that these companies are taking on vis-a-vis
+the overall size of their equity capital balance sheet
+or dilution from their equity issuances that they do?
+If you're a capital budgeter,
+if you're a treasurer or a CFO
+at one of these magnificent seven
+hyperscaler type companies,
+is it that much in doubt?
+I do this and I ask this question,
+vis-a-vis credit default swaps,
+bond insurance on Oracle specifically,
+heading higher and higher and higher.
+It's still not not investment grade,
+but it's showing signs.
+How much do you have to worry about that?
+And maybe Jason, I'll start with you on this one.
+Yeah, I mean, you, you mentioned it.
+You know, Oracle is obviously the poster boy in that space.
+I feel like they switched from a growth story
+to a balance sheet story, right?
+Now we're focused on the CDS as you,
+as you noted, and the credit spreads potentially widening.
+And they're just a hair above junk
+from a debt perspective.
+So I think that is concerning.
+It's no longer a story about RPO.
+Man, these size, sizable RPO numbers.
+Wow, what a lot, quarter after quarter,
+it's like, are you able to execute
+and what is the cost of execution?
+So I do think it's absolutely a concern in the market.
+You know, the issuance and obviously
+how that affects shareholders.
+So definitely I think it's something
+I'll be watching very closely.
+All right, guys, hold that thought for a second.
+We've got some breaking news out of Washington, DC.
+Let's head out to Amon Jaffers with the latest here, Amon.
+Dom, that's right, White House Press Secretary Caroline Levitt
+wrapping up a press briefing just a short time ago.
+A couple of headlines to bring you from that.
+One is on trade.
+Remember those 10% across the board tariffs
+are set to expire tomorrow, Friday.
+And Levitt was asked what the president
+intends to do about that.
+And she flagged that there is expected
+to be an announcement from the U.S. trade representative,
+Jameson Greer, this afternoon.
+We don't know what exactly that announcement's gonna be done,
+but we do think it might have something to do
+with something he flagged on CNBC earlier this week,
+the possibility of tariffs based on foreign governments
+or foreign companies' use of forced labor.
+That could be up to 60 countries impacted by those tariffs,
+maybe 90% of American trade.
+So it could be a potentially big one.
+We'll watch for that announcement from USTR.
+No confirmation of when that's coming
+or what exactly that's going to be though
+later this afternoon.
+On the Saudi Arabia nuclear deal,
+Caroline Levitt, despite the fact
+that the Department of Energy put out a press release
+saying this deal was signed yesterday,
+Caroline Levitt portrayed it instead
+as very much an open process that's still going on,
+even though the Saudis agreed to the deal yesterday
+and that press release went out.
+So that depends, she says,
+on the Saudis' agreement to recognize Israel,
+Saudi Arabia has given really no indication
+that they're willing to do that.
+So where that nuclear deal ends up now,
+really very much an open question
+given that it was inked a day ago.
+The president seems to be wanting to change the terms
+retroactively on that one to force the Saudis
+to agree to this additional condition of recognizing Israel.
+And then on the Iran war, I would just flag for you,
+Axios posted an interview with President Trump
+in which he said he is considering a massive attack
+on Iran, he doesn't give a timeline for that.
+He says he's considering it, might happen, might not happen.
+Hard to say what that means, if anything,
+given that the United States has attacked Iran
+for the past 11 consecutive nights.
+Does the president have something
+of a different order of magnitude in mind?
+Is he thinking ground troops?
+Not really clear, but just wanted to flag for you, Dom,
+that there are options out there
+for the president to really escalate dramatically,
+especially given what we're seeing
+in the Red Sea with the Houthis.
+Back over to you.
+All right, Aiman Jevers with the latest air.
+Thank you very much for that.
+Just a quick reaction here, Jim,
+I'll go to you for this one.
+When we talk about the market moves that we're seeing
+with the Dow down roughly 400 to 500 points,
+the NASDAQ, we know Alphabet's a big part of that story,
+so is Tesla.
+In the market move scheme of things, mathematically,
+we understand that the majority of this
+is being driven by stock-specific moves.
+I wonder from those stock-specific moves
+and the broader markets overall, together,
+how much do we care about this stuff, right?
+Tariffs about the Middle East, about Iran,
+about maybe opening up another front against Oman,
+given what's happening with the Red Sea,
+versus specifically hyperscalar,
+CapEx spending plans vis-a-vis Alphabet and maybe others.
+Yeah, I mean, I'll phrase it this way, Dom.
+I think if you're making policy decisions
+in the White House about Iran,
+you have to put the financial markets to the side.
+Because in order to get done what needs to get done,
+you may over the short term
+have to sacrifice the financial markets.
+Let me be more specific.
+If you really want to get rid of the nuclear program,
+if you really want regime change,
+I know that hasn't been stated.
+But if that's what the goal is,
+you're gonna have to do things
+that are gonna freak out the oil market
+more than they already have.
+And we're kind of running close to the bottom,
+whether it's the strategic petroleum reserves,
+or pushing Oklahoma commercial inventories.
+We're getting to that point
+where if we're not gonna pull back from this,
+we're gonna have serious problems.
+And it doesn't look like we're pulling back.
+So the market, in my opinion, is skating past this,
+where I look at the S&P 500 off about three-ish percent
+from a tie.
+I think we need to be prepared
+that as we get later in the summer,
+these higher energy prices may have an effect.
+In the end, it'll be resolved,
+but it could be a tricky August into September.
+If that's the case, Josh,
+what exactly then do you do
+from an investor and trader standpoint
+if you want to be along this market
+and you want to be in it for the longer term,
+do you have to pay attention
+as much tactically, short-term, to these types of movements?
+Or can you feel like the old dollar cost averaging
+every week or two or every month or so
+just works over the long term?
+How exactly much do you have to really pay attention
+to price action like this?
+Well, the first thing is you never sell your energy stocks.
+It is, as an equity investor,
+it is the only hedge you have
+against these types of price spikes
+and inflation scares and geopolitical shocks.
+There's nothing else that really could work
+from an equity standpoint.
+So let's put aside,
+you're going to be out there in the futures market
+acting like you know what you're doing.
+Most people are not going to do that.
+So from a portfolio management standpoint,
+to answer your question, you do not sell your energy.
+What that means unfortunately
+is you will live through long stretches of time
+where it, quote unquote, doesn't help
+or worse, detracts from performance.
+This is about being a long-term thinker
+and understanding not every piece of the puzzle
+is going to be going up at the same time.
+This year, it's been working very nicely.
+25% of the energy sector has been advancing
+for the last five days
+and energy is the best sector this year, up 34%.
+It blows tech away, almost double.
+Tech is up 18% this year.
+So you haven't paid the, quote unquote,
+energy stock tax this year.
+And I thought we could blaze through
+a couple of tickers real quick
+because we have several energy stocks
+in our Porter House portfolio currently.
+And many of these are also on the best stocks
+in the market list.
+Let's take a look at FTI.
+Let's take a look at Devin.
+Halliburton's been on the list all year.
+We've talked about Marathon and Valero.
+I don't know how many times
+in these best stocks in the market segments
+on the show, 10 times.
+It just, it seems like the market
+has had this figured out over the last six months
+that they want to be in these names.
+They're willing to buy the dip.
+EOG is up 2% today.
+Fang is up 2% today.
+People don't really own these stocks.
+People don't really know them.
+I'm not suggesting you buy them today
+on an oil price spike,
+but for God's sake, take a few minutes,
+familiarize yourself with the sector
+because there are probably some names
+that deserve a spot in your portfolio.
+I mean, for goodness sake, these days,
+even if you don't want to do all of the homework
+on these individual stocks,
+you can find any cadre of ETFs out there
+that can give you the exposure to those types of things.
+If you're using it as a portfolio diversifier
+and a hedge against inflation and higher energy prices.
+I think overall though,
+if you talk about the way that these movements
+are working their way through the market,
+energy does not have that much of an impact.
+Yes, it's a great bright spot in the down market,
+but from a percentage waiting basis,
+it doesn't really carry that much weight.
+What does though, versus the entire almost energy sector,
+are those magnificent seven names.
+One of the ones that we didn't talk about as much
+or allude to is Apple.
+And by the way, Apple is a relative outperformer.
+Many of these Amazon, Metas are down anywhere from three,
+four, five percent, just shy of what Alphabet is doing.
+Apple is right now down maybe one,
+one and a half percent the last I checked.
+Is Apple one of those stocks?
+And I say this because the entire desk here
+owns shares of Apple.
+It staged a nice quiet rally,
+didn't get as much fanfare over the course
+of the last several weeks,
+briefly overtook Nvidia
+as the world's most valuable publicly traded company.
+What exactly is the thesis for Apple right now
+and why it is, why has it become
+a laggard to now a silent leader?
+Malcolm, I'll go to you for this one first.
+We're still waiting for the super cycle.
+That's really all it is.
+We didn't get the dip that we expected.
+We didn't get the punishment in Apple shares
+that we expected over the last couple of years
+where almost everyone has sat at this desk
+and asked, where is Apple in this AI arms race?
+They stayed out of it.
+Their capex looks minimal in comparison
+to what we're talking about with Alphabet,
+for example, today.
+And oh, by the way,
+there's still a ton of folks
+that haven't adopted the 16 and 17,
+which means that they still have
+the potential for the upgrade.
+So when you look at things like their recent announcement,
+the partnership with Klarna
+to help you lease their next devices,
+it's an opportunity to help spur
+that super cycle that we're talking about,
+that up cycle.
+I also think it's an opportunity
+to help increase their services revenue,
+which has been the spot
+that a lot of folks have pointed to
+as the real growth mechanism for Apple,
+because who doesn't already have
+at least one Apple device around the globe?
+So I think it's a patient's story right now.
+And if you have been patient with Apple,
+waiting on them to show you
+how AI is gonna change your life
+and the way that you interact with the device,
+I think you're probably going to be rewarded for it.
+But lastly, I'd say this goes back
+to the point that I was making before
+about investors waiting on these analysts,
+sorry, on these earnings calls
+for CEOs and CFOs to make the case
+in tangible terms and layman's terms,
+this is how AI is going to change your life.
+We haven't really gotten that just yet
+from these companies.
+It's been very enterprise focused.
+And I think Apple is the perfectly positioned company
+to tell that story in a way
+that regular ordinary consumers can appreciate.
+I agree with Malcolm.
+Apple is, I think Apple's gonna own consumer AI.
+I think you buy every dip.
+I think the stock could get to 400
+if they continue to execute.
+Last quarter was a return to earnings and revenue growth
+after, I don't know, 18 months of nothing.
+The 17 was a smash comparable
+to previous big replacement cycle phones.
+And now the 18 is gonna have AI on it.
+September 1st, we're gonna hear from John Turnis
+for the first time as CEO,
+leading one of these launches.
+I think it'll be the foldable.
+And you'll get a JetDix Siri by year end.
+They have approval now to do AI on the phones in China.
+So I think the tailwind behind Apple
+is as good as it's been in the last few years.
+I think the market has woken up to it.
+And they love the fact
+that we don't have this black hole of CapEx
+happening with Apple's technology.
+Negative free cash.
+They do have a massive amount of CapEx,
+but you know who it's being funded by?
+But there's an all of us.
+There's an all of us.
+There's an all of us, correct.
+Because we're all out there buying to Malcolm's point
+if there is a super cycle coming up
+and iPhone upgrades and Mac upgrades and everything else.
+I remember talking to one tech investor
+who basically said, you know what?
+There are not that many companies, Dom,
+that have as many edge computing touch points
+as Apple does, right?
+The devices in our hands, in our homes,
+if you're trying to connect to the cloud,
+if you're trying to connect
+to many of these AI type systems,
+you're doing it through edge devices.
+It's two and a half billion devices.
+Instead of install basis massive.
+They're the toll booth.
+So look, you like Claude, great.
+You're probably going to utilize it through iOS.
+Right, yeah.
+Guess who's getting paid?
+I think there's a technicality to this as well.
+I'm not going to say technical, but a technicality.
+I have a market weight in Apple, okay?
+I have to say I'm not as enthused
+as the rest of the group.
+In this regard, I think it's priced into the stock
+at 34 times earnings.
+But what am I going to do as a portfolio manager
+who has retail clients, what am I going to do?
+Am I going to sell Apple here,
+give them a whopping big tax bill
+because we're going to spend it on exophones.
+Yeah, all right.
+No, so, you know, look, new money comes in.
+Of course, I'm putting some to work.
+Am I putting it in at the market?
+Wait, it's a little hard with what it's done so far.
+I mean, this was a $180 stock 15 months ago.
+All right, all right.
+We have to take a commercial break.
+I didn't want to kill the momentum.
+Do we really have to?
+I'm like the DJ that's killed all the momentum
+in this conversation, the dance party right now.
+All right, coming up next year,
+more of the day's biggest movers
+and our top calls of the day.
+And then later on, Josh Brown's back
+with the best stocks in the market.
+His fintech pick, half-time's back in two.
+All right, welcome back to the half-time report.
+Let's get to some stocks on the move.
+Lockheed Martin soaring after delivering
+a beaten raise in its most recent quarter.
+Labanthol owns it, Jim.
+Dumb, you know, sometimes the stock market
+makes things a lot harder than it has to be.
+If you pull this chart out over the last year or so,
+you'll see that stocks been all over the place.
+Guys, it's really kind of simple.
+And I'm not seeing this with any gladness.
+We're shooting a lot of missiles.
+We're using a lot of helicopters.
+We're spending all of the things that Lockheed Martin makes.
+This stock is a good hold
+for the next couple of years on that basis.
+All right, Blackstone's profit surging
+on its AI investments, and Jason, you are an owner.
+Yeah, so obviously, I mean, Blackstone has struggled
+this year, it's down about 20 so far this year.
+It's kind of this private credit overhang
+in the early part of this year,
+I think is still playing on the stock,
+but nice revenue beat on the top and the bottom.
+Revenue was up 36%, earnings was up 26%,
+ton of dry powder, $228 billion worth of dry powder.
+So I continue to like this one.
+Also, realizations, this three and a half billion dollar
+data center sale to digital realty,
+now we're seeing their real estate division up
+for the most it's been in four years.
+So from an earnings perspective,
+I continue to like the measurements here
+and I'll continue to stay patient here.
+The alternative asset managers have been one
+where people have been trying to pick a bottom for a while.
+So let's see if that consolidation happens
+a little bit more in earnest here.
+Next one is Deutsche Bank upgrading JP Morgan Chase
+to a buy rating from a hold.
+Malcolm and Josh both own JP Morgan
+and maybe Josh, I'll start with you on this one.
+Yeah, so I've spent the better part of 20 years
+ignoring all the upgrades and downgrades here
+because the fundamental thing that matters in banking
+is size and trust and JP Morgan has both in spades.
+I think this is a stock that may not outperform
+every other bank over every cherry pick timeframe,
+but in the fullness of time,
+because they are the most trusted to not blow up
+and because they are among the largest, if not the largest
+in almost every category they play in,
+the earnings power has been literally off the charts.
+And I think that'll be the case for the foreseeable future.
+So I remain long, you'll have to pry it
+from my cold dead hands.
+I actually assumed it was a typo.
+Like how do you have the world's largest bank
+at a hold in the first place?
+This company's been co-lead investment bank
+on basically every large M&A transaction
+that's happening this year.
+You got all these blockbuster IPOs
+and they're a hold on your list.
+Because you know why?
+Because they look at the price to book
+and they think they're rocket scientists
+and they figured out something, no one else.
+JP Morgan and relative to the other stocks in the group
+is overvalued by 18%, oh you're a genius.
+I wonder why that's the case.
+Why does it have a premium valuation?
+Maybe it's because of the way the bank has run,
+the success that they're having in every line of business
+and the fact that people trust them more
+and they trust any of the other leadership groups
+in this space.
+Could that be why there's been a premium on the stock
+for 20 years?
+Like, oh my God, you discovered a fire.
+So that's why people have it as a hold.
+We know how Josh feels about this.
+So anyway, I'm bullish.
+We didn't glean that in the minimal amount of log right now.
+All right, one last one here.
+Cleveland Cliffs is spiking after
+its second quarter revenue beat estimates.
+Jim Labanthal, you own this name.
+Yeah, congrats to the team at Cleveland Cliffs
+for a great quarter and a great prognosis going forward.
+I will be the first to admit
+before anybody piles on,
+this has been a very tough stock for me for many years.
+I think they're well on track here.
+Look, the stock's been trading this year like it's micron.
+It's up 15, down to 10, up to 15, down to nine.
+It's on its way back to 15.
+It should go higher.
+Look, this is a simple business.
+You've got this price of steel,
+which they sell going up.
+Their energy costs are under control.
+Their volumes are going up
+as the economy continues to expand.
+It's a simple equation
+and it's working out for their favor right now.
+I expect further appreciation from here.
+All right, guys,
+thank you very much for the comments there.
+Let's go over to Seema Modi
+with a CNBC news update right now.
+Good afternoon, Seema.
+Hi, Dom, here's what we're watching.
+The Secret Service says a member
+of Vice President JD Vance's protective detail
+is under investigation
+for allegedly leaking sensitive information.
+Officials say the probe involves possible threats
+to operational security and could become criminal.
+The agency did not name the person
+or detail the allegations,
+but said any conduct risking a protective safety
+will not be tolerated.
+More than 10,000 people have been evacuated
+in southwest France as a wildfire burns.
+Officials say the fire has scorched more than 4,900 acres
+with about 500 firefighters battling the flames,
+no injuries have been reported.
+And Norway's soccer federation is weighing
+a FIFA ethics complaint over President Trump's role
+in clearing U.S. striker Flo Baligan
+to play after a red card.
+Norway's federation president says
+FIFA bent a basic rule after Trump called the president.
+Belgium later beat the U.S. for one in the World Cup.
+Dom?
+All right, Seema Modi,
+thank you very much for the news update there.
+Up next, Mike Santoli joins us with this midday word.
+Keep it right here, we'll be back in two.
+We're gonna get right back out to Washington, DC
+and Emily Wilkins with a news alert.
+Emily, what can you tell us?
+Hey, Dom, well, we are of course continuing to track
+the congressional support for the Iran War.
+And we have two updates today.
+Both the House and the Senate voting on a war powers act
+that would put a few limits on President Trump's ability
+to have strikes.
+We should note that this actually passed in the House.
+You saw four Republicans go over and join Democrats on it,
+but a recent vote in the Senate
+was not able to get enough votes to pass.
+Notably, you saw Lisa Murkowski and Senator Rand Paul,
+both who have supported these types of measures
+and limits in the past,
+they actually did not vote this time around,
+not sure if this is just an absence
+or a statement of where they currently stand,
+but certainly something to watch
+because of course, over the last several months,
+we have seen the Republican Party go
+from firmly standing behind President Trump on this
+to raising some concerns
+with how his administration has been dealing with.
+And this, we should note, is really the first time
+that the House and Senate have voted on the war
+ever since Trump sent a letter back to Congress
+saying that attacks had restarted.
+This, of course, isn't the one back in February.
+It's much more recent.
+And it will be following, of course,
+the level of support that lawmakers have,
+especially as the Trump administration
+is asking for a much larger defense supplemental
+to continue funding efforts in Iran
+as well as other places.
+Guys, Dom.
+All right, Emily Wilkins, thank you very much
+for the update on Washington DC.
+We appreciate that.
+Now let's turn it to Mike Santoli,
+senior markets commentator and overtime anchor,
+co-anchor with his midday word from the NASDAQ.
+And right now we're seeing some stability,
+but is it something that makes people feel comfortable
+or is maybe just the worst to come
+by as we hit those opposing bill?
+Look, Dom, I guess it's reassuring
+that things didn't get more disorderly in the morning.
+It threatened to do so.
+We did make a new one month blow in the S&P 500.
+We're still in this mode where
+the thing that's been holding the index up
+is also the thing that's holding it back.
+The constant internal tension
+between what's working and what's not.
+We have not yet proven that semis can rally
+while the big tech platform,
+hyper scalar stocks can also participate and vice versa.
+You can't have a broadening of this market
+towards cyclicals and non-tech
+if the bond market does not ratify that move
+and higher yields means it doesn't happen.
+And we have consumer pretty weak today.
+So all those elements I think
+are still kind of churning around.
+I do think there's been a little bit of damage to the trend.
+I mean, you see the, you know,
+we're two and a half months into this mode
+where we haven't made much headway.
+The NASDAQ 100 doesn't not look like a possible top.
+I mean, or maybe it has more ground to give up.
+That being said, we've held together the S&Ps
+within 3% of its record highs.
+And if anything, the macro story for the market
+is leaning more toward overheat than vulnerability
+in terms of, you know, the pace of growth.
+Yeah, and vis-a-vis that the Van Neck Vector Semicut or ETF
+is only down half of 1% today.
+So a lot of machinations going on right now.
+Thank you very much, Mike.
+We'll see you later on on Closing Bell Overtime
+from the NASDAQ.
+Up next here, Josh Brown has his best stocks
+in the market.
+Half time we'll be back right after this.
+All right, welcome back.
+We're off session.
+Let me let you guys down 465 points.
+Josh Brown is back with his best stocks in the market.
+Josh, what are you focused on today?
+That's right, Dom.
+We're going to talk about a stock
+that I literally do not trust,
+but as part of the research we do
+into the best stocks in the market,
+I have to listen to what the market's saying
+and at least investigate.
+And what it's telling me right now
+is that Wall Street may be ready to reconsider block.
+So you may remember this company, S-square.
+Ticker is inexplicably XYZ.
+This was a early FinTech payments giant
+that literally had a midlife crisis during the pandemic.
+They started doing the wackiest things you could imagine.
+Jack Dorsey would take a walk in the Hamptons with Jay-Z.
+The next thing you know,
+Block was paying $300 million to buy streaming music platform
+called Title for six times
+what Jay-Z bought it for a couple of years earlier.
+Okay, I guess.
+Then they bought Afterpay,
+literally at the top of the market
+for buy now pay later.
+And then they started loading up the balance sheet with crypto.
+And by the time they were done,
+Block fell 26% in 2021 as the market made new highs.
+It is still 72% below those highs.
+And what's happening lately though
+is that the market has taken this to a 52 week high.
+Thank you for that zoom and perfect timing.
+I don't trust Jack Dorsey.
+I was like an eight year survivor
+of being a Twitter shareholder.
+Mark Zuckerberg famously referred to Twitter
+as a clown car that crashed into a gold mine.
+I think that's fairly accurate.
+And if not for the fact that Elon put us all out of our misery
+by buying it at a very high multiple,
+I probably would have lost money
+miraculously somehow I didn't.
+So I'm not personally getting into this turnaround
+in particular, but I do want to spotlight it
+because you've got the stair step pattern of higher lows.
+You've got a company now that is expected
+to actually grow earnings faster
+than almost any other company in finance.
+They gave guidance to full year earnings per share
+of $3.85.
+That would be 62% above what they had done
+in the prior year.
+And in the meanwhile, you don't have to pay up for it.
+It's a fairly low multiple.
+So the market is starting to give this company
+the better to the doubt.
+Technically, I'm going to tell you right now
+I need to see the breakout.
+I'm not anticipating this one.
+I need to see $81 a share with conviction.
+I want to see volume and I want an RSI
+that's in the high 60s.
+And if I don't get it, I'm going to stay on the sidelines,
+but I did want to bring it to people's attention
+because this stock has been down and out for five years
+and now is starting to make new year highs.
+All right, Malcolm, let's go to you for this one.
+Don't tell me you want this.
+No, no, no, no, I don't think he does, but he does.
+I just have to apologize.
+But he does own other financials
+and FinTech adjacent names.
+Sofive in one of them, Visa, American Express.
+How does Block compare, given what you've heard from Josh
+versus other financial payments and tech players?
+I don't think anything compares in the way he just framed that.
+I think Stripe maybe is the one that we would look at
+to give us a little bit of a comparison
+in the free cash flow coming from Stripe
+that allows them to be bold enough
+to decide to go buy something like an eBay.
+I think it's interesting.
+I think the whole FinTech, excuse me, landscape
+is really being held down by the 10-year
+being what it is and being as stubborn as it is.
+There is tons of opportunity in names
+like Sofive you mentioned in Rocket.
+We've talked about a million times on this desk
+as potential breakout as soon as the 10-year moves
+and so then mortgage interest rates move as a byproduct.
+But I am paying attention to American Express's earnings
+that release tomorrow morning.
+What I'm looking for is an opportunity, honestly,
+to exit this position and be vindicated in calling it,
+I think early April when I got into the stock
+and said basically at 294 there's a disconnect
+between what the market is seeing
+and appreciating their pivot toward the higher end consumer.
+They're focused on the top end of the K.
+Really, everyone who's getting an American Express card
+at this moment is only getting the platinum card
+which is far more expensive than all the other cards
+that they offer.
+And that seems like a really smart place to play.
+So if that one goes on a tear following earnings,
+I'll be looking for an opportunity to ring you.
+All right, Annex, a big one to watch for tomorrow as well.
+Thank you very much for that guys.
+Up next we've got Options Action.
+Oliver Renek is following the big moves
+and energy and options.
+We're back after this.
+Welcome back, it's time for Options Action
+with Oliver Renek.
+He joins us live from the Sebo Global Markets
+in Shytown, Oliver.
+Hey Dom, WTI is above 90, Brent's above 100
+and options traders think there's more to come.
+Options volume in the USO is more than twice
+its daily average with more than $150 million
+of premium trading there so far
+with more than 10% of it concentrated
+in just two call contracts.
+The In The Money 130 calls expiring in September and October.
+Both of those are going for around 20 bucks a contract
+meaning these traders think crude oil
+will rally another 8%.
+The best hedge might be XLE Energy ETF calls
+which are outpacing puts more than three to one
+on a heavy volume today.
+Traders have already spent more than $25 million
+in premium there with 80% of it on the call side Dom.
+All right, bullish activity when it comes
+to those call options in energy.
+Thank you very much Oliver for that.
+Final trades are coming up so keep it right here
+on the halftime report.
+All right, one minute left in show here.
+We're back with Final Trades.
+Jason, we're gonna start with you.
+At the SkyRizzy and Renvo continue to be
+the growth drivers for this stock.
+I like this one here.
+All right, now let's go to Jim Labendahl.
+Yeah, going with TransOcean Rig.
+This is probably the highest beta
+to energy prices play that you can have.
+They do have earnings coming up in two weeks
+based on everything that's been going on
+with contract announcements,
+a potential merger with the competitor.
+I think now is the time to build your position.
+I didn't know we could do panty stocks on this, Josh.
+It's $5, come on, it's not a penny.
+Hey, man, it's like a $6 billion stock.
+Malcolm, how about you?
+Yeah, talk about a green stock on a red day.
+Cerebus just announced a strategic partnership
+with CrowdStrike that I think is gonna help
+to validate their position as a leader
+when it comes to inference speed.
+Up 3% today and Josh.
+Wish me luck because I added some Netflix this week.
+It's one of the worst stocks I own
+but one of the best businesses
+and I don't think it'll stay down here forever.
+All right, right now, again,
+markets are on a down day right now
+that does it for the halftime.
+We'll see you later on on Closing Bell.
+The exchange starts right now.
+You've been listening
+to CNBC's halftime report, The Podcast.
+You can always catch us live weekdays
+at 12 Eastern only on CNBC.
+All opinions expressed by the halftime report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated by them
+on television, radio, internet or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy
+but only as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants consider reliable
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer
+please visit cnbc.com forward slash halftime report disclaimer.
