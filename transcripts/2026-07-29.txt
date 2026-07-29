@@ -1,0 +1,1411 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+Ever finish your to-do list just in time for three more things to get added?
+That's what managing technology can feel like.
+There's always another ticket, another update, another thing demanding attention.
+That's why CDW's here.
+We help run, optimize, and evolve complex IT environments
+so your team can focus on moving the business forward.
+We've been there and solved that.
+When operations stop getting in the way, it's actually pretty amazing.
+We configure, optimize, and deliver the tech that runs business.
+CDW make amazing happen.
+I'm Scott Wopner and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Alright guys, thanks so much.
+Welcome to the Halftime Report.
+I'm Scott Wopner, front and center of this hour.
+What a day ahead.
+The Fed meeting, earnings from Meta, Microsoft looming,
+so much more happening in these markets today.
+We're celebrating all of it, of course.
+With the investment committee and joining me for the hour,
+Joe Teranova, Brent Taukey, and Steve Weiss.
+Kevin Simpson to the markets.
+We're getting hit pretty hard here.
+12 noon in the east.
+That is the picture today with the Dow down one and two thirds percent.
+The S&P is now off almost one percent.
+NASDAQ's selling is picked up a bit.
+The chips are getting weaker as we speak.
+And part of it has to do with the fact that there's that big spike in crew
+that you saw at the bottom of your screen,
+at least where some of the green on the board is today.
+Sarah was just talking about yields.
+We're watching all of that.
+But there's the chips picture at 12 noon.
+So we do have one heck of a day.
+And as single days go, this is a pretty big one.
+With everything that's looming in the hours ahead.
+Well, it's big for me personally because of Microsoft and Meta.
+Yes, the Federal Reserve is critically important.
+Is there a surprise there?
+We'll see.
+The market will react one way or the other to a significant surprise.
+But back to Microsoft and Meta, clearly the theme has been about CapEx.
+We heard that last week with Alphabet for the first time.
+They were free cash flow negative.
+Obviously the street punished them for that.
+So each one of these stocks, Meta and Microsoft,
+I utilize momentum as a factor in the strategy.
+Neither one of these names, Scott,
+whether you're looking on a 12 month basis or a six month basis,
+can be defined as a momentum stock anymore.
+Let's get that out of the way.
+Take Microsoft first.
+I mean, everybody on the desk owns it.
+So there's a lot at stake.
+Obviously today, Brent, the stock's underperformed.
+It's the worst of the hyperscalers year to date.
+Maybe that limits some of the downside as some are suggesting
+because it already hasn't done anything.
+There are a lot of questions out there.
+Are they going to raise their CapEx guide?
+Are they going to maintain their guide on Azure?
+That's going to be a really interesting dynamic to watch.
+If they don't sort of lift cloud and they lift spend,
+the stock's probably going to get punished.
+But how do you see it here?
+So first of all, you have from a momentum perspective,
+it's below the 250 and 100 day.
+So it's the opposite of the momentum trade right now.
+The stock is making lower highs and lower lows.
+So that is not a good setup.
+I don't think in any, going into any earnings report of being,
+let's say, washed out.
+I think that whereas Google Cloud grew at 85% year over year,
+albeit it's much smaller than Microsoft,
+I still think that the jury's out
+and ultimately I'm still reflecting on,
+China clearly owns the open model.
+And with Kimmy spending whatever,
+we obviously know they're probably distilling,
+anthropic, et cetera.
+Nonetheless, they are crushing it on their open models.
+I think the question that we're all dealing with
+is what the heck are these hyperscalers
+spending all this money on?
+And what are the results?
+Because I think whereas Google,
+you have these verticals of their chips,
+YouTube, et cetera, et cetera.
+We use co-pilot and co-work, it's still mediocre.
+And so to me, I think when you have these Chinese models
+working very well, very inexpensive,
+the US models, especially Microsoft,
+is still quite clunky.
+I think that, to me,
+I think the news is going to be more on the downside
+because I just think they're still so stuck in the mud
+of actually, are we actually going to all continue
+to buy co-pilot?
+Because now co-work is now usage-based
+and they still haven't even figured out
+what they're going to charge for that model.
+So why am I as a company going to go buy co-work
+when I'm not exactly sure what their charge is?
+There's so much on the line in terms of
+it's not just the amount they're spending.
+It's the drain, as Brin said, on free cash flow.
+Fact set, surveyed analysts,
+they expect Microsoft's free cash flow to go negative
+in the fourth quarter for the first time
+since at least 01.
+Alphabet got punished for that.
+Then you have raising debt to help pay
+for a lot of the build out
+to offset some of the free cash flow drain.
+And then you have the CDS,
+which is widening in these names
+to levels that we haven't seen in an awfully long time.
+So that's a backdrop that projects some skepticism
+in the marketplace to save the very least, right?
+Yeah, I think it's well-deserved skepticism.
+Microsoft went from, in my view,
+the clear winner about a year and a half ago
+to the question of what is their strategy?
+Have they aligned themselves
+and gotten too deep into the relationship with open AI?
+And we don't know, ultimately,
+if open AI are anthropic, we'll be winners.
+So Brin talks about Chinese competition.
+That's actually good for these companies
+because they could spend less and get
+not quite equal capabilities,
+but the capabilities that they need.
+So their cost should go down.
+So that's a small part of the cost.
+Data centers are the biggest part of the cost.
+So there's lots of uncertainty.
+Look, clearly if they don't hit
+whatever the whisper number is on cloud growth
+after seeing Google,
+then that's going to be a major, major issue for them.
+So it comes down to spend too.
+Is their spend going to go up?
+Probably.
+Yeah, you would think so.
+Don't you expect, I mean,
+is that a rhetorical question in many respects?
+I do expect to because we know that
+we're going to spend another $40 billion
+and you had open AI increased their spend
+by 25% to $750 million.
+So look, so I own Microsoft.
+It's not one of my bigger positions.
+Meta is one of my bigger positions.
+We'll get there in a minute.
+Give me a three-year, guys, on this Microsoft
+if you wouldn't mind.
+But we'll get to Meta in a minute.
+So I don't want to go there yet.
+But it's so interesting.
+Three years ago-ish,
+maybe not quite that far.
+This was like the AI darling.
+Sachin Adela was like deemed to be
+the man who had led his company
+into the future sooner than others, right?
+He had the open AI relationship that they did.
+And now we're asking all these questions
+about what their strategy is
+and there are many articles now being written
+about what his legacy is going to be
+when everybody sort of had written it in Sharpie
+but a few years ago.
+And I think it was software, Scott,
+that really derailed this entire company.
+You can put IBM sort of in that same conversation
+of the four that we're going to hear from today and tomorrow
+I'm most concerned about Microsoft.
+And everyone here on the desk has talked about
+Azure growth and capex.
+Those are the two things we want to see.
+I don't know if the whisper number is 40%
+or 41%, but I can't imagine a scenario
+in which this stock's going to pop
+and report something so constructive
+that it goes higher.
+I think all the bad news has been built in
+and maybe this is just an earnings bar
+that's incredibly low
+and if they can just get through it
+maybe that in and of itself is a win.
+Okay, so you agree with those who say
+the downside risk in that name
+specifically could be more limited
+because of the chart that we just showed you more recently?
+So much so that we were buyers of it.
+So it went from a $5.50 repricing
+down to $3.50.
+We were buying in the $3.70s.
+There's not that much to show for it at $3.90.
+But this isn't a stock to your point, Scott.
+I absolutely agree that the bad news is built in.
+So I'm not expecting a 20% sell-off
+but I'm not expecting anything close to a 20% pop.
+I don't disagree that it's washed out.
+Just one point to make tonight,
+watch out the wild card as if Microsoft
+actually steps into the debt market.
+That's the one hyperscale.
+They're AAA rated.
+They haven't sold debt since 2017.
+Everyone else is selling debt.
+Do they look around and say,
+wait a second, free cash flow negative.
+We need to sell some debt as well.
+The street won't like that.
+I don't know if the street will care.
+Let me tell you why I take you inside that.
+Because the others have done it.
+They haven't done it since 2017.
+It's another...
+It's not like the others have been rewarded for doing it.
+It's not a badge of honor in the market these days.
+But my point is they haven't been rewarded for not doing it.
+The stock's done nothing.
+The stock stands.
+Where's the performer?
+Sure, there could be a marginal hit to it
+but I don't look at this being down 10% or so.
+They've already cut back on all their buybacks.
+The buybacks are there.
+But they're not executing on many meaningful ways.
+But it comes down to execution.
+I still go back to first principles.
+What are they spending all this money for?
+When I can see, actually,
+I feel like all of these frontier models
+will ultimately be commoditized.
+That's going to happen.
+I promise you, if OpenAI was a public company last week,
+it would have been down 40% off that Kimming news.
+I think the questions you asked, like the for what?
+Those two words are probably the most important words
+that investors have right now, collectively.
+For what?
+Why are you going to spend, if you're Microsoft,
+$190 billion for the year?
+Why, if you are meta,
+are you going to maybe hit $145 billion for what?
+We think we know what the what is,
+but until we can see it tangibly in front of our faces,
+we'll continue to ask those questions.
+Sorry, go ahead.
+No, I'm just saying with meta, just for what,
+is that they started with open models.
+They started with that,
+and now that doesn't exist anymore.
+All these companies are spending all this money
+hiring all these people in the US,
+spending billions of dollars on these pay packages,
+and I go back for what?
+What is the output?
+Because I will say with Microsoft,
+co-pilot, I wish it were different,
+still feels like teams.
+That's why I use Zoom.
+And like until Microsoft can make teams like Zoom
+and co-pilot like perplexity or Claude,
+even though Microsoft uses Claude,
+they can't filter it right.
+I think Microsoft's going to be in the dog.
+Let's go to meta,
+which is also down on the year.
+It's also down big from its high.
+That is a stock chart that represents questions, right?
+The volatility of a spend for what?
+Are they going to have now a cloud business too?
+I don't know.
+Weiss?
+Yeah.
+So look, first of all,
+through all this,
+I violated one of my personal investment tenants,
+which is that never get in front of a CapEx cycle.
+And here I've been in front of the CapEx cycle
+on meta, on Microsoft,
+and it hasn't worked out particularly well.
+I mean, I'm not suffering in stocks,
+just not performing in them.
+So that's the first thing.
+So look, with meta,
+I have a lot of faith in Zuckerberg.
+I do think he is a visionary.
+I do think he looks long-term.
+I do think he's the best navigator of troubled waters
+and the quickest to say,
+you know what, I made a mistake.
+We saw that time and time again.
+Going back to mobile, right?
+Way back, what was that almost a decade ago?
+So I'm comfortable with there.
+It doesn't mean that your term,
+the stock's going to do well.
+I think there's still challenges,
+but I do believe that.
+And this is another one we're watching to CDS,
+like we used to watch,
+like you talk about every day,
+the oracles of the world.
+Yeah, and I'm not really concerned about CDS to me.
+To me, CDS, you know,
+if you're looking at a Lehman type situation
+and a Lehman in particular,
+the risk there.
+Well, I don't think we're talking nearly.
+No, no, we're not.
+My point is that I don't see the correlation
+to where the CDS trades
+as to what's happening with the fundamentals here.
+No, no, no, not at all.
+But if nothing else,
+what we just showed you, the CDS,
+is a representation of where investor concern
+has risen to.
+You might as well have
+meta investor concern
+rather than meta five-year CDS.
+Because that is what that chart represents, doesn't it?
+It's like what the VIX used to do
+for the market, right?
+Here's the VIX and, you know,
+volatility and the markets going down.
+But also, the CDS is also,
+there's a huge hedging aspect,
+which we have to all,
+like that's complicated.
+I do think where what meta does so well
+and I think it's great, right?
+They're going to start leasing out,
+like Elon did with their data centers,
+leasing out some of that capacity
+because it's not being used.
+What they do so well is their targeted ads
+on Instagram and Facebook, et cetera.
+They're Ray Vans.
+They're now expanding that.
+That product is a home run.
+And it's like as they were more focused on,
+I promise you their Instagram,
+their ads are going to be awesome
+because that AI is working.
+But this other aspect where they're spending this money,
+I think that's where the jury's still out,
+is what am I getting for all this money?
+Just focus on what you're amazing at.
+I think the stock would go much higher.
+How about this fact?
+Outside of Apple, which I've, you know,
+you've listened to all the conversations
+about what their valuation has risen to.
+A lot of these valuations for these names
+are at multi-year lows.
+Yeah.
+Met, I think, is a forward of 15 times in videos.
+Met is like 19.
+Microsoft's 21.
+Nvidia is 19.
+Amazon, 27.
+Alphabet, 25.
+They are certainly on sale
+when you look at valuation.
+I think the conversation tonight from Metta
+is really going to try and pivot towards the cloud
+and the introduction of the cloud.
+Let's remember something.
+Last quarter they beat on earnings.
+They beat on revenue.
+Stock went down.
+Why?
+Market didn't like the CapEx.
+So they're going to try their best tonight
+to steer the conversation away from CapEx
+towards, guess what?
+We brought on Dave Brown.
+He led Amazon's cloud business.
+He's an executive here now.
+He's going to lead our attempt to lease out our compute.
+We potentially have a relationship with Anthropica.
+They're going to try and steer it away
+from the CapEx as much as they want.
+Every analyst's question is going to be about the CapEx.
+Yeah.
+Can I take a second on the valuation?
+Like, do not get, you don't like PEs,
+but do not viewers get lured into these lower PEs
+because Google, since 2015, has been positive free cash flow.
+They're negative free cash flow.
+These companies for 15-plus years have been capitalite,
+high-margin, buying back shares.
+These companies have fundamentally changed their stripes.
+And so I think you have to look at the valuations
+in a whole new lens because we don't know.
+Like you said, you don't want to get from a CapEx cycle.
+You don't know when that's going to turn.
+I mean, Google Cloud lost money for years until it didn't.
+But it was one vertical.
+These companies are putting all their chips on.
+And that's why Oracle has been one of the worst performing stocks.
+They put all their chips on open AI.
+And so I don't think you can look at the valuation
+of any of these hyperscalers and have any lens
+on what the future performance will be based on history.
+But the rest of the world is telling you that, I mean,
+semis and memory that the CapEx cycle has peaked
+and it's going to receive.
+Well, that's what some are looking at the activity in semis
+and trying to suggest that.
+Yeah.
+You could look at the charts and make the argument
+that those are signs of a top.
+Yeah.
+Yeah.
+But the spending would have you believe otherwise?
+Well, there's always a disconnect between when,
+let me put it another way.
+The stocks always trade down in advance
+when the spending peaks.
+So spending can keep going up for another year,
+maybe in two years.
+But the stocks will peak anticipating that.
+And that's why I sold those that I sold,
+because I didn't want to be the last one out.
+I mean, the Korean market just continues to get hammered.
+All right.
+Pick your appropriate word.
+I was, you know, looking at Hynix earlier,
+which I think had turned green.
+Now it's down almost 4%.
+A lot of the other names in the group,
+did you see Micron now was down 7%.
+AMD is down 7%.
+Why is the NASDAQ getting weaker as we were coming
+on the air today?
+Well, that is largely a representation of that.
+KLA beat.
+Shares were not higher on that.
+There's the stock down almost more than 9%.
+What's up with that?
+As Lam reports today too,
+which has been overshadowed by all the hyperscalers
+that are in the news.
+At 9 o'clock Eastern tonight,
+we're going to hear from Samsung
+that already had the preliminary report.
+We get the full report tonight.
+So in the case of KLA corp,
+they are in the midst of their worst month
+since 1987.
+The stock is now 38% this month.
+Guess what though?
+The stock is up still 50% on the year.
+This is a subsector of the AI trade
+that went parabolic.
+We've talked about that.
+And positioning and sentiment
+went in the direction of just being extreme.
+We're working off those extreme conditions right now.
+If you want to look at the overall market,
+you can make an argument that as long as oil
+stays under control,
+you get the broadening out narrative
+and it's healthy for the market.
+I understand that,
+but at a certain point
+when capital moves away as significantly as it has,
+you can't expect a V-shaped recovery
+in a lot of these semi-equipment names.
+So in the case of KLA corp,
+the quarter was okay.
+It wasn't as good as it needed to be
+when you have such high expectations.
+I'm looking at a revenue 7%
+on foundry and logic division.
+That's not enough.
+They need to be in high double digit territory.
+Can we talk about another AI stock?
+That being Caterpillar.
+You guys want to go there
+because it's been treated
+as kept smiling over there,
+but it's been made an AI stock, hasn't it?
+The stock's down 25% in the last month.
+It got downgraded today to neutral
+at bear target goes to 900 from 1200.
+What's that a sign of?
+What does that chart a sign of?
+I don't think your analogy
+could have been any better
+because if you look at the explosion,
+it paired an AI trade,
+and here are the similar sell-off.
+You sold it steep.
+Congratulations.
+I think that was the right goal.
+I think the $900, $1,000 price range
+is still there for the investment thesis.
+But if CapEx is peaking,
+and that doesn't mean it has to roll over or come down.
+If it's not increasing exponentially,
+that's why we're seeing all of these things
+that are cyclical in nature,
+selling off to the extent that they are.
+So Caterpillar's not a one-trick pony.
+We're going to hang on to it.
+But I think the call is correct,
+and I don't see the stock going back to 1200 anytime soon,
+but I think 900 certainly in the cart.
+You think CapEx is peaking?
+All of the numbers would suggest otherwise.
+Most of the commentary still thinks,
+you know, when you ask people,
+well, there's a third inning, fourth inning.
+I don't think it's the third inning.
+I think it's the seventh inning.
+I don't think it is peaking
+to the extent that it won't go higher
+because I do think over the next year
+it will appreciate.
+Is this the stretch
+and we have a song
+and then we resume the game or what?
+We should stand up and take our hats off
+because this is the seventh inning stretch.
+They're going to go a little bit higher
+but not exponentially.
+And then to Steve's point,
+they're going to come back.
+You have Kat.
+I do.
+Yeah, I'm not sure what I make of this note
+because within the note
+they talk about the government restrictions.
+They mentioned New York State,
+the moratorium on building out
+for the data centers.
+I don't know enough about that to...
+Don't hold any...
+Don't go elsewhere.
+That's not to me the impediment
+to continuing CapEx.
+Want to turn to the CDS market?
+Yeah.
+That's the impediment
+because of yields.
+Put yourself in a precarious position
+where it's not advantageous
+to access the debt market.
+Then you're going to pause on the CapEx.
+I think the order book for Caterpillar
+it needs a reset.
+I think the entire industrial sector
+and you could go to GE Vernova.
+You could look at Vernav.
+Same type of example here.
+It needed a reset.
+The order book still has demand there
+but to the extent of which
+we were paying the premium
+for these stocks just six to eight weeks ago
+I don't think it's warranted.
+Oh yeah.
+There's a Fed meeting
+and I mean a Fed decision at 2 o'clock
+this afternoon
+which is intriguing
+for all the reasons other
+than what actually happens today
+with rates despite a market
+that has 20, 30%
+or whatever it now is built in
+that there's going to be
+a hike today.
+Descents we'll see.
+Forward guidance.
+Does it totally go away?
+Comes by the Fed?
+Task Force?
+More on that.
+Goldman today says
+we're set up for the biggest Fed day
+surprise since 97, whatever they do.
+Right?
+Because usually if there's going to be a move
+up or down
+the market has so anticipated it
+that you're not at 30%.
+And now if they
+don't make a move
+well how could you be at 30%
+and then they're not going to make a move?
+How do we see what happens this afternoon
+is impacting this market?
+I think there's a very low probability obviously
+they raise rates.
+His first meeting.
+I think we have to give
+Kevin some rope.
+He's in a new position.
+He's obviously a veteran.
+And I think you can give no guidance
+but you have to like
+build out your case.
+And so I just think it's going to be interesting
+that all of us are going to be listening.
+There's low probability
+of a rate hike.
+And also if you think through
+the inflationary pressures
+there's really nothing the Fed raising rates
+is going to do about oil prices.
+Raising rates is going to do about data centers.
+When you actually go into a rate hiking cycle
+and you're trying to slow the economy
+it's a lot of it's to do with lending.
+And I think everyone would know this.
+Lending is not easy right now.
+It's not easy to buy a house right now.
+So at the end of the day
+no rate hike
+but we're going to have to get used to
+his green span type
+you know of commentary
+where it's lack of commentary
+and we're all left guessing
+which I think it makes it more interesting
+as a market
+and we'll see what like the Jeff Gunlocks
+have to say
+you know after he speaks.
+He'll join the three as always.
+What happens
+if there's just going to be less commentary
+that you all are going to have to make
+many of your decisions
+if not you know in the dark
+at least with less light.
+You know what I've always been a fan of that.
+I don't want them to constantly
+talk about the sauce
+how the sauce is being made
+and it's being made differently every week
+depending upon which Fed head talks.
+So I'm in favor of that
+because I also think that what they talk about
+in between meetings
+is why this is what they say
+or do at the meetings.
+So I'm in favor of that
+the markets are just going to have to get used to
+figuring out
+figuring out for themselves.
+So could it cause more volatility?
+I actually think it'll cause less volatility
+in the market between Fed meetings.
+As you get closer to the meeting
+the volatility will increase
+but I think it's a good thing for markets
+to have them just
+you know keep some things to themselves.
+Here's a different take on why I agree
+there'll be less volatility
+because I think that the market is very appreciative
+of an independent Fed
+and there was a lot of concern with Kevin Warsh going in
+that maybe this is more of a puppet
+and clearly if a few weeks is any indication
+that's not the case
+and I think it's a fantastic person
+the right person and the right policy.
+Yeah but some are saying well
+wouldn't he you know
+initiate a shot of independence
+by actually hiking today?
+Good.
+No but the other side of that
+is well then you like you
+cut off your nose despite your face
+because then you've surprised the market
+so much that
+the market reaction would be so negative
+then what do you really get out of it?
+You raise your hand and say hey I'm independent
+see?
+I don't think that the Board of Governors would vote for it
+but I'll bet you he'd like to do it.
+There could be some interesting dissents today.
+I think they would like to raise.
+Some probably.
+I don't think he cures the problem so
+because if they relate to oil
+and the flow through for oil
+the rates really just isn't going to do anything
+that's all about a ramp.
+If they keep the market on the edge of its seat
+that maybe a rate hike is coming
+not today but at a future meeting
+what's the effect on the dollar
+I'd love to hear from Jeffrey when you talk to him today
+the dollar has been rising
+the consequence of that
+is capital moves out of the emerging markets
+and developed international
+you realize the Nikkei is down 12% this month
+the emerging markets are down nearly 10%
+so a higher dollar is going to have that punitive effect
+on capital and leverage moving
+out of those markets.
+Let's squeeze a break in.
+Let's do that.
+And then we will talk about a payment pop
+one half time committee member is making a move
+in a name that's rallying today on its results
+we will reveal that
+we got a lot more ahead too after the break.
+Your data lives everywhere
+on-prem in the cloud across apps
+bring it all together with EverPure
+the platform that acts like a living system
+delivering the latest in data performance
+security and innovation
+without ever slowing you down
+sophisticated enough to anticipate
+your ever-changing data needs
+yet simple enough to feel like second nature
+tame your data chaos with EverPure
+and make storage and data management
+the simplest part of your business
+visit everpuredata.com to learn more
+normally in these ads you'd expect someone like me
+to ask you to buy something
+but I want to ask you to do something different
+I'm Dave Ferenthal and I'm a reporter
+for the New York Times
+I'm an investigative reporter which means that I follow the money
+inside of government and outside of government
+the point of my job is to find things
+people are trying to hide
+it involves talking to lots of people
+it involves looking through lots and lots of documents
+and if there weren't folks like me to go
+beyond the surface to understand
+who is really shaping what the government does
+the public will be left in the dark about what the government's doing
+with your tax money
+what the government's doing to you through regulations and spending
+if you're like me
+and you think this kind of journalism is important
+seek out a news source that does firsthand
+fact-based reporting
+if that's the New York Times
+thank you if that's your local paper
+that's great too because where you get your information
+matters
+when you partner with CDW
+you get more from technology
+with AI powered tools that turn complexity
+into clarity
+CDW experts are simplifying workflows
+with Microsoft solutions
+uniting teams with on the go connectivity
+speeding workflows with exceptional performance
+and protecting assets
+with chip to cloud security
+make amazing happen
+learn more at cdw.com
+slash modern work
+show you the Dow here we were down by more than
+900 paired that just a smidge
+but you've got weakness today we mentioned
+Caterpillar is causing
+a lot of pain within the Dow today
+Boeing's down Goldman is
+a significant loser
+there too down more than 4%
+so JPM is as
+well we'll continue to watch that
+this is trading down I believe
+in addition to market being down
+because now there's some doubts about
+the IPO cycle
+and about M&A
+with the uncertainty
+in the market with rates going back up
+10 years now
+at 4.6
+so I think that's
+influencing the trading golden
+under a thousand now
+it took a minute to get above
+give me a little longer
+review of that like a month if you could guys please
+well they had unbelievable earnings
+but a lot of people owned it
+and let's face it was
+it did have premium valuation all these banks
+did to what their historical trading range
+had been
+but to me that's what's driving it
+you can't keep having technology go down
+day after day after day
+when that's supposed to be the hardest cycle
+particularly after you had SK
+Phoenix fail
+and SpaceX fail
+how many people are questioning is this the right time
+will they be able to generate these fees
+SpaceX was a
+success
+the stock is at 112
+your points
+I know what you're making is that
+it's below the IPO price
+to me that's failing
+short term
+the average return for an IPO one year later
+the average return for an IPO
+one year later is negative 50%
+it's like on par
+it's only trade well after the IPO
+so to me it was a successful IPO
+on par with bad performance the first year
+all right so let's get to some moves that Kevin
+or man Kevin has
+you bought more Visa
+so they had earnings
+the target today at B of A goes to 430
+from 410 why'd you buy more here
+I mean that's an aggressive price target
+we were thinking 400 I'd love to see it go there
+we picked this up before earnings
+and this is a story I think of the entire
+earnings season Scott it's have and have nots
+you deliver you're going to be rewarded
+so many companies have it
+but this report was unbelievable
+payment volume was up 10%
+process transactions up 10%
+cross border volume up 13%
+and most important for us
+revenue grew 14%
+it's also a tale of the consumer
+consumers not slowing down this is a great story
+for the economy a great story
+for Visa, Britain I own it it's fantastic
+okay from penthouse
+to outhouse Netflix
+so this isn't you bought more
+so full disclosure this is our growth strategy
+where we tend to take a little bit more risk
+and my thought process here is
+sometimes good things happen to cheap stocks
+and I look at this like a year into the
+future we may all turn around and say
+man we could have bought Netflix in the
+60s why didn't we and this is a
+story where right now in the summer none of the top
+shows that I think any of us are watching are on
+Netflix but this is a story that I think
+it's getting cheap enough that I look at the
+turnaround over the next six months maybe
+quarter so we broaden that out
+please
+to show what I'm talking about right
+this thing was at the top of the mountain
+and now
+there's very few people
+love this name or it's certainly
+a hot debate stock
+within the market and I feel like the
+naysayers have been winning more than the
+the boosters yes
+tight leash but I think it's a good buy at 70 bucks
+what do you think
+I've tried to buy the stock several times
+I've traded around it gone in gone out I
+think as it relates to all the streamers
+costs are going to remain elevated
+competition is as intense as
+we've ever seen and there seems to be
+the fixation on live entertainment
+and live sports and with
+that comes a significant price
+tag that they all are going to be competing
+for access to the market had rewarded
+those moves
+by Netflix before it loved
+the idea that it was having
+a foothold now in the
+in the NFL and that it was expanding
+into other live sporting events
+now we're questioning
+that because of what it costs
+I think over the last 18 months
+and that's where you really have to look back at Netflix
+it peaked out in June of
+2025 that's when you began
+to see the
+moderation in the revenue growth
+that's where you began to see that the earnings reports
+were coming in just
+good enough not exceeding the expectations
+like they were prior to June
+of 25 I thought prior to June
+of 25 you had some really blockbuster
+earnings results but if you look at it today
+though it's recovered its earnings fall
+from last week so I mean to me
+from an entry point Netflix reminds me
+of Uber like if you price it if you
+buy it right in the low 60s sell it in the
+mid 70s you can make money but I think
+like Uber and Netflix from a long
+term hold you really need to trade these
+names because I agree with every what everyone said
+but I think at these levels it could easily
+be a $80 stock on no news
+that's up 1% when the dial is down
+what 850 points to me is
+like a good defensive outside of AI
+outside of all these other things that's working
+I think the biggest issue
+for me and I sold it mostly
+out of boredom I didn't see it anywhere I
+want to be more cash the company said
+we're worried about growth
+so there's got to be a reset of
+how the market thinks about number one
+and to your to your point about the NFL
+they haven't seen
+any major uptick and subscriber
+growth since they
+went into the NFL and they're going to spend
+more so that's become more of a cost
+of admission well then a growth drive
+maybe investors are also
+somewhat questioning what their quote
+unquote game plan exactly is
+because you know if you're involved in the
+bidding for Warner Brothers
+and then I think there was another
+another you know story that they were
+maybe you know interested in something else
+that well what are you getting at what
+are you after here what was a
+stated
+grow organically rather than
+by acquisition that the company
+even laid out in its own words
+at one point in time has
+that changed like what is
+the end game it's a legitimate criticism
+because the identity has shifted
+we're not going to make an acquisition
+well now we're going to now we're going to make
+it say that yeah I mean they said it for years
+and then they changed
+but they also said they were never going to do ads
+and they changed and that became very profitable
+this next acquisition is going to cost
+an arm and a leg they have it
+and can you imagine
+Sunday night football and Netflix
+I think that's coming they're not
+clearing their own strategy for example now the rumors
+are they're going to be
+to be offering the ability to subscribe
+to other streaming services on their site
+try to clip pennies there
+so until they know their strategy until they
+can express it I'm just not going to
+talk Apple TV Amazon pride
+the market share leadership
+that Netflix had two years
+ago is not the same today
+we'll take a break
+Centoli's on the other side he has midday word next
+it's smart to always have
+a few financial goals
+and a really smart one you can set
+earning cashback on what you buy every day
+and with Discover
+you can get this
+Discover automatically matches
+all the cashback you've earned at the end of your first year
+seriously all of it
+and we trust you to make smart
+decisions after all
+you listen to this show see terms
+at discover.com slash credit card
+you know it's not a great
+use of time getting data
+ready for AI that's why
+IT leaders turned to CDW
+we help unify data and
+government building the foundation for your
+AI and agents to deliver results
+because when your data is ready
+AI stops being an experiment
+and becomes an advantage
+we configure optimize and deliver
+the tech that runs business
+CDW make amazing
+happen
+what made you confident that you could do something
+that hadn't been done before
+I have no fear of failure
+trailblazing women changing the game
+one of my favorite pieces of advice
+think about what your boss's boss needs
+leadership can look in
+many many different forms
+it really does come down to just trusting yourself
+life is short and you just gotta think big
+to accomplish big things
+we're back on Halftime Report
+I'm Mackenzie Stegales with the CNBC news
+update a new report says President
+Trump overruled his own agencies
+when he denied disaster aid to
+four Democratic-led states this month
+emails and documents obtained by
+Politico showed FEMA and NOAA officials
+agreed that New York, New Jersey
+Rhode Island and Massachusetts met
+the necessary thresholds for
+receiving federal relief
+but it's not a big deal
+it's not a big deal
+for receiving federal relief
+the White House defended its denials
+and would not answer Politico's questions
+about why the aid was denied
+Texas Republican Senator John Cornyn
+said he is not prepared to vote yes
+on acting Attorney General Todd Blanche's
+nomination to permanently lead
+the Justice Department
+Cornyn called off a meeting with Blanche
+today as he pushes for the DOJ to make it clear
+that it won't establish a $1.8 billion
+anti-weaponization fund
+a DOJ official told MSNOW
+they provided Cornyn with a proposal yesterday
+and Waymo announcing
+that it's rolling out Google Gemini
+in its new Ohio Robo Taxi
+to give passengers the option to talk
+to the vehicle. Writers will be able to
+ask the AI assistant to turn on the AC
+or for suggestions
+on nearby restaurants or coffee shops
+passengers will also have the option
+to request a pullover but Waymo says
+Gemini does not control any other
+aspect of the vehicle's movement or routing
+Scott, sending you back to here
+Alright Mackenzie, thanks Mackenzie Cigales
+Alright senior markets commentator
+and overtime co-anchor Michael Santoli
+joins us for his midday word
+this feels like a buffet
+you got high oil mic
+you got rates up the chips are getting
+smashed again
+fed looming this afternoon how do you see it
+Yeah I mean look the established
+pattern Scott is when there is
+continued pressure on semis
+the market can broaden out
+and usually take up the slack
+yields are down and oils down so we
+found that all up then you have the I think
+understandable tension build up ahead
+of the Fed and ahead of Meta Microsoft
+this evening absolutely have to
+leave open the possibility that those
+can be clearing events within two hours
+time that we've sort of done enough
+to get worried about these things no
+matter how they break maybe we can have
+an attempt at relief that being said
+you know I've always been a skeptic
+of broadening is salvation
+for the market and I'm surprised
+that the semis are down 25%
+in like four weeks or five
+weeks and the S&Ps within a couple
+percent of its all-time highs they give credit for that
+but the weakness in banks today is a
+little bit of a different story so I think
+that is all about you know the Fed kind
+of the what if trade about what might happen
+with that decision today what are
+you thinking about the Fed
+and what may happen later the
+biggest intrigue not really
+about what they're going to do on rates
+today but almost everything else
+on the menu well I mean I think
+there's actually more
+intrigue about the rate decision than
+you would ever expect to see a few hours
+ahead of time you know one third chance
+is pretty high I still
+don't necessarily think the logic chain
+gets them to a hike if you look
+at where things were in June oils
+really not be hired went much
+lower in the interim you had better
+CPI print so it doesn't really follow
+that they would move today it would
+be a gesture would be a let's get it over with
+type of a move in establishing by
+the way almost all Fed chairs
+have hiked aside from Janet Yellen
+within like two months of when
+they got there because that seemed to be
+the thing to do so I don't think they're going to do
+that I think it's much more
+about you know the market wanting to have
+some way to get its arms around
+what decision-making process
+is down the down the down the line
+obviously have Jackson hold before
+the next meeting is a lot that
+we're going to have to process but
+my bottom line is if worse
+thinks that the markets been too dependent
+on the Fed and the Fed has calmed Wall
+Street at the expense of Main Street he wants
+a more volatile market maybe that doesn't
+you know appreciate quite as quickly I mean
+I don't know that seems to be the
+what you might get here in the short
+think the markets probably want to you know little
+rules of the road just to understand
+what's what it's going to be like
+in the in the meetings in years ahead
+Michael we'll see you this afternoon
+thank you Mike Santoli calls of the
+day next welcome back to calls of the
+day take a look at Disney target
+gets cut today to 135
+at City to 123
+at Morgan Stanley
+they both either
+reiterate a buy or reiterate overweight
+so they they like the name
+they just have their expectations taken
+down ahead of an earnings report
+next week City says
+they see some risk to the guide we think
+I think I probably agree this company
+is clearly in the midst of an identity
+crisis we've talked in the last
+several weeks about the fact that
+they really need to identify
+what the catalyst for growth ultimately is going to be years
+ago I was told it was streaming
+in the last five years the single biggest
+catalyst has been the activism
+itself we added it to the ETF
+at the end of April I always say
+when you add something recently
+it is guilty until it proves
+itself innocent and it has not
+done so we're in it 103 and change
+it's a losing position as we
+get set to rebalance on Friday okay
+enough enough said as they
+say Coca-Cola
+killed it with the earnings
+the target goes to 100 from 95
+reiterated by the event
+you almost think it's too low a price target
+at this point here we have the Dow Jones
+down 800 900 points
+Coca-Cola is at a new high quietly
+with you factor in the dividend the stocks
+up almost 20% on the year
+and the earnings were great they beat on the top
+they beat on the bottom they increase their guide
+global units sales were up
+5% at Coke zero up 16%
+on the quarter CBR
+their earnings and revenue beat
+they reaffirm their guidance bring you on the stock
+yeah this is one of those great names we don't
+buy stocks before earnings we try not to
+two quarters ago the stock was at
+175 earnings came out they were great
+it went to 135 because the world
+put their hair on fire that AI
+was going to take over CBR
+that's where we entered the stock around the
+130s their earnings were up core
+earnings were up 30%
+data center earnings data center
+revenue was up 68% this stock
+just crossed the 200 a moving average it should
+be $170 stock you want to
+I do this is quality earnings
+a recent addition so this
+one is proving itself to be more innocent
+than guilty for sure we'll see what happens
+on Friday what about GE healthcare
+they had earnings too yeah so Scott while I
+talk if we could pull up a chart of the
+IHI a one-year time frame
+that's medical devices please
+see GE healthcare medical
+technology having a little bit of a
+lift here as well off of these earnings
+I don't trust medical devices
+enough you see it there over the last
+year it struggled it's down 13%
+the one name we all used to talk about
+Brent I think you had it was intuitive surgical
+intuitive surgical
+with robotics and DaVinci and the expectations
+AI would be beneficial
+intuitive surgical as struggled as well
+so I'm not so sure just right
+now that the medical devices
+are where you ultimately want to be it's more
+biotech big-former Bristol Meyer
+what about the hurdle for devices
+and hospitals has
+increased dramatically because the buying
+is now with the administrators
+and hospitals are not making
+any money so the
+first thing they do is delay purchases
+of devices what about Garmin
+wow they had earnings to yeah quite
+a move and that's really about the
+diversity of the products the wearables
+it's an aviation it's in marine
+auto golf all of it
+I think it's at a record high today
+correct me if I'm wrong it probably is
+happy to maintain that position
+it provides a record higher you're probably wrong
+which were you
+welcome back
+it's up 19% you should no matter what
+you should be happy oh I'm always happy
+I just want to clarify make sure I know where you were talking about
+yes thank you just wanted to make sure
+all right options action on Meta
+and Microsoft ahead of those big earnings
+and overtime we will have the Korean from Chicago
+next
+all right we're back let's get to Oliver
+Renek he is live at the SIBO in Chicago
+he's been tracking some options
+action ahead of Meta and Microsoft
+what do you see
+hey Scott options
+flows lean bullish for both Meta
+down 15% the past year
+and Microsoft down 23%
+traders bought at least twice as many calls
+as puts in both names but looking
+at Microsoft there was also a lot of selling
+of puts particularly the 392
+and a half strike put expiring Friday
+meaning many traders
+are fading the downside risk associated
+with what is a very big
+implied move 6%
+currently baked into earnings from
+Microsoft which usually only moves about
+4% the top four contracts
+by volume in Microsoft were calls
+ranging from the 400 strike all the way
+up to the 460s now
+in Meta the implied move is bigger
+almost 8% but by Meta
+standards it's actually smaller
+than the average 11% swing
+the past year bulls there
+are targeting the 590 and 595
+strike calls expiring Friday
+but flows were a bit more mixed
+in this stock with actually a lot of bearish
+speculators picking up
+long shot 500 strike puts
+expiring Friday that go for
+about a buck and a half and need a 14%
+drop to works guy
+good stuff Oliver thank you I'll see you later
+on three o'clock as we head into these
+earnings that's Oliver Renek at SIBO in Chicago
+that matches with exactly
+what we talked about the top of the program doesn't
+fading the downside risk
+the stocks have been punished a lot
+which is why according to what he sees
+in the options market traders are bullish on both
+yeah I think with Meta
+huge call premium I think
+Meta could be positive by the way
+if what Joe is saying they're talking
+about file those catbacks I
+think if you were going to buy a stock before earnings
+buy the stock and then sell the call
+to get that premium because that gives you a hedge
+on the downside I would not be buying
+calls that's like just pure gambling
+if they're going to fire Friday I would be selling
+those calls and buying the stock
+we've said on numerous occasions
+right that it and it's proven to be true
+not what we've said but how
+investor activity has
+turned out that there's
+an unwillingness
+to let these stocks fall too far
+because this if you're
+telling me you're increasing your catbacks
+and people still think you're in there
+you know early to middle innings despite your
+you know seventh inning earlier
+than
+how far could these stocks
+truly far famous last words
+obviously but that's been
+the I think the psychology around it
+twice yeah and the truth is
+the buy the dip mentality in these
+names yeah I think you buy the dip depending
+on your time frame you'll be rewarded
+but I also think you trade
+on what good news like I bought Meta when they came out
+announced that they were going to sell
+their cloud right stock traded up to
+650 it was a great trade
+got nearly got out so
+it depends really depends okay
+finals next
+3 o'clock eastern we react to
+bed chair worst news conference with Jeffrey
+gunlock see what happens I mean
+nobody really knows
+what all is going
+to unfold and how the markets are going to react
+so we'll see what's your final my final
+Scott is steel dynamics we've had a lot of success
+with this in our growth portfolio
+I'm going with the 10 year I can't tell you yields
+aren't going to go higher but it's good entry point
+CBR 8 should be a 170
+stock Tim Cook goes out on top Apple
+tomorrow we'll be looking forward to that too
+I'll see you three you've been
+listening to CNBC's halftime
+report the podcast you can
+always catch us live weekdays
+at 12 Eastern only on CNBC
+all opinions expressed
+by the halftime report participants are solely
+their opinions and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated by them
+on television radio internet or another medium
+you should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular
+investment or follow a particular strategy
+but only as an expression of opinion
+such opinions are based upon information the halftime
+report participants consider reliable
+but neither CNBC nor its affiliates and or subsidiaries
+warrant its completeness or accuracy
+and it should not be relied upon as such
+to view the full halftime report disclaimer please visit
+CNBC.com forward slash halftime report disclaimer
+something amazing is happening in networking
+organizations are scaling
+with less stress
+that's because CDW
+is designing and implementing intelligent
+HPE Aruba networking solutions
+that simplify and secure operations
+with automation at the center of your data center
+growing pains can be a thing of the past
+HPE Aruba networking
+and CDW
+make amazing happen
+learn more at CDW.com
+slash Aruba
+CDW.com slash Aruba
