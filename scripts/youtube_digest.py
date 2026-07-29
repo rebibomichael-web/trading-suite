@@ -21,6 +21,7 @@ import json
 import os
 import re
 import sys
+import urllib.parse
 import urllib.request
 
 from halftime_pipeline import ask_claude, preflight_auth
@@ -162,6 +163,18 @@ def transcript_path(video_id):
     return os.path.join("transcripts", "youtube", f"{video_id}.txt")
 
 
+def ask_claude_link(label, title, body):
+    """A tappable "ask a question" shortcut. GitHub issues can't host real
+    buttons, but a pre-filled new-issue link is one tap away: the @claude
+    mention, video context, and links are pre-filled — the reader only types
+    the question. The Q&A workflow (claude.yml) triggers on owner-opened
+    issues containing @claude, with the full transcript archive available."""
+    repo = os.environ.get("GITHUB_REPOSITORY", "rebibomichael-web/trading-suite")
+    return (f"*[{label}](https://github.com/{repo}/issues/new"
+            f"?title={urllib.parse.quote(title)}"
+            f"&body={urllib.parse.quote(body)})*")
+
+
 def fetch_transcript(video_id):
     """Return the transcript text for a video.
 
@@ -253,9 +266,14 @@ def summarize_video(channel, v, now):
 
     if not summary:
         return "retry", None
+    ask = ask_claude_link(
+        "💬 Ask Claude about this video",
+        f"Q: {v['title'][:70]}",
+        f"@claude Regarding \"{v['title']}\" by {channel} ({url}):\n\n",
+    )
     return "ok", (
         f"### [{v['title']}]({url})\n"
-        f"**{channel}** · {date}\n\n{summary}\n"
+        f"**{channel}** · {date}\n\n{summary}\n\n{ask}\n"
     )
 
 
@@ -365,7 +383,12 @@ def main():
                 print(f"WARN: overview generation failed: {e!r}")
         digest = "Daily summaries of new videos from your followed channels.\n\n"
         if overview:
-            digest += f"**Today's read:** {overview}\n\n---\n\n"
+            ask_all = ask_claude_link(
+                "💬 Ask Claude about today's digest",
+                f"Q: YouTube digest {day}",
+                f"@claude Regarding the {day} YouTube digest:\n\n",
+            )
+            digest += f"**Today's read:** {overview}\n\n{ask_all}\n\n---\n\n"
         digest += "\n---\n\n".join(sections)
         open("digest.md", "w").write(digest)
         print(f"Digest written: {len(sections)} videos for {day}"
