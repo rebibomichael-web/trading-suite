@@ -61,6 +61,15 @@ jobs:
           fi
           DAY=$(date -u +%Y-%m-%d)
           if [ -n "${{ github.event.inputs.date }}" ]; then DAY="${{ github.event.inputs.date }}"; fi
+          # Narrate (best effort) — before delivery so the issue can link it
+          if [ -f summary.md ] && [ "$(cat summary.md)" != "NO_EPISODE" ]; then
+            pip install --quiet edge-tts
+            python scripts/make_audio.py --input summary.md --kind halftime --date "$DAY" \
+              || echo "narration failed (non-fatal)"
+            if [ -f "audio/halftime/$DAY.mp3" ]; then
+              sed -i "1i 🔊 [Listen to this summary](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/halftime/$DAY.mp3) · [Podcast feed](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/feed.xml)\n" summary.md
+            fi
+          fi
           # One-tap Q&A shortcut: pre-filled new-issue link (@claude + context);
           # the reader only types the question. claude.yml answers with the
           # full transcript archive.
@@ -77,6 +86,7 @@ jobs:
           git config user.name "halftime-bot"
           git config user.email "actions@github.com"
           git add summaries/ transcripts/
+          git add audio/ 2>/dev/null || true
           git commit -m "Halftime summary $DAY" || exit 0
           git pull --rebase origin "${GITHUB_REF_NAME}" || true
           git push origin HEAD:"${GITHUB_REF_NAME}" || echo "archive push failed (summary still delivered via issue)"

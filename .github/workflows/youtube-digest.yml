@@ -44,6 +44,14 @@ jobs:
           WEBSHARE_PROXY_PASSWORD: ${{ secrets.WEBSHARE_PROXY_PASSWORD }}
         run: python scripts/youtube_digest.py
 
+      - name: Narrate digest (best effort)
+        run: |
+          if [ -f digest.md ] && [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
+            pip install --quiet edge-tts
+            python scripts/make_audio.py --input digest.md --kind youtube \
+              || echo "narration failed (non-fatal — text digest unaffected)"
+          fi
+
       - name: Deliver digest
         env:
           GH_TOKEN: ${{ github.token }}
@@ -68,6 +76,7 @@ jobs:
             git add "summaries/youtube/$DAY.md"
           fi
           git add transcripts/youtube/ 2>/dev/null || true
+          git add audio/ 2>/dev/null || true
           if ! git diff --cached --quiet; then
             git commit -m "YouTube digest $DAY"
             n=0
@@ -92,9 +101,14 @@ jobs:
                  --json title --jq '.[].title' | grep -qxF "YouTube digest — $DAY"; then
               echo "Issue for $DAY already exists — skipping (idempotent)."
             else
+              BODY=digest.md
+              if [ -f "audio/youtube/$DAY.mp3" ]; then
+                { echo "🔊 [Listen to this digest](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/youtube/$DAY.mp3) · [Podcast feed](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/feed.xml)"; echo; cat digest.md; } > digest_body.md
+                BODY=digest_body.md
+              fi
               gh issue create \
                 --title "YouTube digest — $DAY" \
-                --body-file digest.md \
+                --body-file "$BODY" \
                 --repo "$GITHUB_REPOSITORY"
             fi
           else
