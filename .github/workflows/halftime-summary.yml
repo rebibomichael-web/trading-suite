@@ -61,6 +61,10 @@ jobs:
           fi
           DAY=$(date -u +%Y-%m-%d)
           if [ -n "${{ github.event.inputs.date }}" ]; then DAY="${{ github.event.inputs.date }}"; fi
+          # One-tap Q&A shortcut: pre-filled new-issue link (@claude + context);
+          # the reader only types the question. claude.yml answers with the
+          # full transcript archive.
+          printf '\n\n*[💬 Ask Claude about this episode](https://github.com/%s/issues/new?title=Q%%3A%%20Halftime%%20%s&body=%%40claude%%20Regarding%%20the%%20%s%%20Halftime%%20Report%%3A%%0A%%0A)*\n' "$GITHUB_REPOSITORY" "$DAY" "$DAY" >> summary.md
           # 1) Email delivery: open an issue — GitHub emails it to you.
           gh issue create \
             --title "Halftime Report summary — $DAY" \
