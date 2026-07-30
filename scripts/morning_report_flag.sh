@@ -34,7 +34,7 @@ export DBUS_SESSION_BUS_ADDRESS="${DBUS_SESSION_BUS_ADDRESS:-unix:path=/run/user
 LEAD=$(sed -n "s/^\*\*Today's read:\*\* //p" "$DIGEST" | head -1 | cut -c1-220)
 [ -n "$LEAD" ] || LEAD="YouTube digest for $TODAY is in — check your email or the repo issues."
 
-notify-send -u normal -i document-open "📰 Morning report ready" "$LEAD"
+notify-send -u critical -t 0 -i document-open "📰 Morning report ready" "$LEAD"
 touch "$MARKER"
 # keep only the last 14 markers
 ls -1t "$MARKER_DIR" 2>/dev/null | tail -n +15 | while read -r f; do rm -f "$MARKER_DIR/$f"; done
