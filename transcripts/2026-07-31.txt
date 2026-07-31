@@ -1,0 +1,1185 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+When you partner with CDW, you get more from your devices
+with solutions that take modern work to the next level.
+CDW experts are delivering powerful productivity with Lenovo AI PCs,
+helping users block out distractions, access virtual support anytime, anywhere,
+and share content seamlessly between devices.
+Make amazing happen.
+Learn more at CDW.com slash Lenovo.
+I'm Scott Wopner and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+And welcome to the Halftime Report.
+I'm Mike Santoli in for Scott Wopner today.
+The tech trade front and center this hour as we track major moves from Apple and Amazon.
+The investment committee is standing by to break it all down.
+Joining me for the hour, Jim Labanthal, Amy Raskin, Rob Siechen, and Stephanie Lank.
+Great to see you all. Let's get a quick check on the markets.
+I actually started a good deal higher today on the S&P 500,
+more than half a 1% higher.
+Did go negative. Now we're rebuilding a little bit.
+Modest moves, 7450-ish on the Dow Jones Industrial.
+Small caps continue to underperform.
+It's a bit of a mega cap-led day to the upside.
+Amazon, in particular, surging following its earnings.
+Up 14%, of course, follows yesterday's 15% gain in Microsoft.
+So clearly, guys, we have a lot of these spring-loaded stocks.
+There were doubts surrounding many of them.
+We'll talk about, you know, Apple down the road,
+pulling the other direction on its reaction.
+But talk about Amazon.
+Jim, you want to get us started about what was clarified,
+if anything, about the underlying story
+and whether it's going to have legs.
+Yeah, I mean, I'm going to simplify this
+and leave room for the rest of my colleagues to join in here.
+But there's two things, really.
+First off, the growth in Amazon Web Services, 37%.
+A touch below Microsoft Azure at 43% reported yesterday
+or the night before that.
+Nonetheless, these are breathtaking numbers.
+And every sign is that those numbers are going to continue
+in the quarters to come.
+So that's number one, top-line growth
+at Amazon Web Services.
+The next thing is overall path to profitability.
+One of the key data points that I took away from last night's call
+is that, on average, it takes less than three years
+for the investment by Amazon in one of its data centers
+to pay off.
+That's a very short time frame,
+especially compared to the depreciable lifetimes
+of these data centers, which are 30 years.
+And maybe people are going to say they're not going to last that long.
+Regardless, the path to recover that cost is less than three years.
+And that's the path that we're looking for.
+The profitability at Azure was, of course, terrific.
+And these are in contrast to, say, a meta.
+And I don't want to pick on meta. That's not my point.
+But where the path is less clear to profitability.
+So I really think it's just that simple.
+I'm not going to make it harder than that.
+I mean, another simple piece of this, Amy,
+was that Amazon was almost literally dead flat for a year
+before going into this.
+And Microsoft was down for the year.
+So you're seeing this rotational narrative in AI.
+And the losers are now beat expectations
+that had been beaten down.
+And the winners missed expectations that got too high.
+I actually don't think this quarter answers a lot
+of the long-term questions with regard to the profitability
+of AI.
+Yes, we know AI is generating a lot of data.
+But still, it's being financed through equity offerings,
+circular deals, and debt offerings.
+It's not being financed through AI revenue yet.
+So I don't think we really have the ultimate answer.
+I think we're going to continue these circular narratives
+for the next quarter.
+And there will be at some point that people will be worried
+that Amazon's spending too much money.
+And Apple will get the benefit of the doubt
+for not spending the money.
+And we're just going to keep on this loop.
+It is Amazon had a great quarter, obviously cloud growth.
+They're the leader in cloud.
+Cloud growth was amazing.
+I expect that to continue.
+But I don't think it answers the long-term questions.
+And I don't think we're going to get answers
+to those long-term questions anytime soon.
+It's somewhat familiar, Rob, in the sense of
+for Amazon's entire history, it's unlike some
+of the other competitors has had this pattern
+of, hey, we're in investment mode.
+Long-term, it's going to be fine.
+But for now, we're going to take some financial pain.
+The other piece of it, though, just market-wise,
+is just enormous percentage moves
+in multi-trillion-dollar market cap companies,
+which, I don't know, does it tell us something
+about the underlying kind of jumpiness of the market
+or fickle positioning?
+Or these are not great charts necessarily,
+the ones where they're now getting the benefit
+of some of this buying?
+What's interesting is I think it was a story of clarity.
+Those that provided a lot of clarity
+on how they're going to monetize AI
+and provided that path, those stocks did well.
+Those that were a little murky on that
+and were continuing to spend,
+the stocks had a more difficult time.
+I think if you look across the board,
+all these earnings are really, really good.
+Andy Jassy helped quiet the capital intensity
+monetization questions yesterday.
+I thought he did a great job there.
+Highlighting the surging backlog,
+attractive ROI that they're already seeing
+in their businesses,
+and the long-term growth potential
+was clearly outlined.
+So you had a stock that lagged
+and ultimately what ended up happening
+is you're playing catch-up because of the vision.
+Clear articulation of the vision,
+which obviously Meta didn't do his great job of,
+and frankly maybe our new Fed chair didn't either.
+So those are things that I think the market
+is looking for right now is more clarity.
+Ultimately, Steph, a lot of these equate,
+a lot of the calculus comes down to
+do you trust a given CEO to be
+a good steward of capital as they go through this
+kind of headlong investment process?
+Presumably, Jassy and Amazon have kind of
+gotten the benefit of the doubt on that to some degree.
+On the other hand, these backlogs
+that all these companies are touting,
+it is contingent on financing down the road, right?
+The money's not in the bank to actually pay for all of it.
+Well, first and foremost,
+Amazon's quarter was spectacular,
+like everyone is talking about.
+They saw acceleration across every business line,
+AWS, retail, advertising,
+and profitability hit a record high
+with operating margins at 13.7%.
+And we all care about AWS
+and we talk a lot about it
+because it's 60% of operating income at the company
+and expanding at a rapid pace.
+And so we better see better growth, right?
+So they at 37% saw acceleration.
+The question is can, to your point,
+and your question, can they continue to see
+this acceleration?
+They have doubled capacity
+and I think the visibility is strong
+because it's not just the backlog
+of $496 billion for AWS,
+but it's other parts of their businesses as well.
+If you add Tranium in terms of commitments,
+that's another $225 billion.
+If it works and they can convert,
+you'll see at least 25% AWS growth
+for the next five years.
+Yeah, it does depend on financing.
+And I think Andy Jassy would spend more
+than he's already spending
+just given that he's already starting to see
+these ROIs come through.
+I think he's measured,
+but he did a very good job
+in terms of explaining why they're spending
+as much as they are.
+But you saw ROIs at AWS, Azure,
+and Google Cloud.
+They are absolutely the winners.
+I don't care what the stocks have done
+up until this point,
+there's a lot of momentum here.
+And even if you cut the backlogs in half,
+you're still going to see
+outsized growth and market share gains.
+And I think that this gives me
+so much more confidence
+in the whole AI food chain narrative.
+Because all this spending,
+I mean we've thought $800 billion
+at the beginning of the year,
+this is going to be like $900-$950 billion
+and it's probably going to grow
+to $1.6 trillion next year.
+That's way more than people think.
+They're not putting the brakes on,
+but if you can see the returns,
+I think the market gives
+the benefit of the doubt.
+Versus Meta, as Rob mentioned,
+they don't get the benefit of the doubt.
+So just a little bit further,
+Steph, I love the way you set that up
+because you started with,
+hey, of course we're talking about AWS
+because of its profitability
+and let's not forget that the overall company
+grew 20% revenue year over year.
+That's about $35 billion,
+just in the quarter,
+extra $35 billion of sales.
+Obviously, annualize that,
+you get to $140 billion. That's a big number.
+That's why the stock can add so much
+market cap in a day like it does today.
+And I think another important detail
+is they are talking about
+building their own large language model.
+Now, one of the stocks that's done extremely well
+we know over the last year, year and a half
+is Alphabet, Google. Why?
+Because it's been a triple threat, right?
+It's got the web services of its own.
+It's designing its own chips
+and it has Gemini.
+Amazon is now talking about putting
+the third part of that stool into place.
+It already has the chips.
+It already has web services.
+Now it's talking about a large language model.
+So these are the sort of
+under the hood things that once we get
+through the numbers and look at,
+I think our reason why Amazon
+and Google are definitely the leaders
+right now. Microsoft looking
+pretty good. Obviously they don't quite have
+the large language model. They've kind of
+co-opted that with OpenAI and other things.
+Nonetheless, that might be
+the least important of the three legs
+of the stool. I don't know. It doesn't seem
+as if the market right now is thinking
+that the overall pie is
+growing and we need more players
+in there necessarily. We don't.
+That's why it's an arms race
+right now.
+And you're not going to see the spending slow.
+I think this is
+a disjointed notion that the financing
+is not going to be there
+if you start to see operating leverage
+from this. It will be there.
+You know, you talk to any of the private
+credit players while they're largely
+exposed.
+They're going to be there
+to finance these things. And these guys
+have told you we don't care
+what the market is saying about this
+spending. We're going to be measured.
+We're going to be more clear.
+But we do not care. We need to spend
+to win. And by the way,
+who's to say that Meta at some point
+isn't going to decide to sell
+compute, monetize, compute when
+they're trading at 15 times. You got
+you got Amazon right now
+trading at 22, 21 times
+down from a 10 year average
+of 50. Yeah. I mean, come on.
+Stafford said you said
+it kind of reinforced your faith
+in the AI food chain
+trade. You know, obviously that
+has just been massively whipsawed. And
+you look at micron, we thought
+yesterday kind of the fever broke. We had
+these forced liquidations. That trade
+was right in the crosshairs of it. Massive
+rally yesterday. You know,
+micron is going to pace for a 10% weekly
+loss. It's like 100 bucks off the
+intraday high. I just wonder, you know,
+kind of what settles things down, if
+anything, because what we did see is
+those highs were printed on
+lots of leverage and momentum and
+now we have to figure out what the
+real levels are. Oh, yeah, sure.
+I mean, and I don't know if we're out
+of the woods, but I am confident in
+this, the whole cap X numbers.
+And like I said, if you if you think
+we're going from 900 billion to 1.6
+trillion, you know, it we're going
+to have ups and downs in a variety
+of different sectors. But the capital
+is there. The spend is
+there. And therefore
+the there's so many different
+industries that benefit. It's not just
+semiconductors as well, Mike. As you very well
+know, across the board and
+industrials, they were rock stars. Look at
+quantum services yesterday and
+G Evernova and Eaton today,
+a lot of different industrials
+that are doing really well. Even
+Valero, Sherwin Williams,
+I mean, there's there's so many companies
+out there in sectors that are benefiting from all
+of this cap X semiconductors are
+part of that. There's no question
+and micron is very volatile.
+But I do think they have $100 billion
+in commitments between
+now and 2030.
+And those are take or pay, right?
+So they got to take them or they have to pay
+anyway. So the point being is
+that's visibility. They have 22 billion
+in cash up front now
+and they have pricing power because we're
+a short compute. We're short memory.
+We're short everything for that matter.
+And so I think what I was
+looking for validation in these quarters from
+the hyperscalers was, yeah, the
+commitment to spend because I would be
+more nervous about a lot more things
+if we saw a cut
+in cap X. So while we weren't really happy
+with all of this spend up until now
+because we weren't seeing ROIs,
+well, by the way, now we're starting to see ROIs
+so we should feel better overall.
+Amy, you don't think the financing
+ultimately will be there for 1.6 trillion
+of financing? I mean, the cash flows
+are going negative. The 10 years going
+interest rates are going up. They're having a
+harder time every time they do secondary
+coming to the equity markets are
+they're a little less bid. So
+it might be there, but it's going to be
+more expensive, which makes the return hurdles
+more. And the more people that get
+into the fray,
+the lower the overall returns are for everybody.
+So it's a good point. The juries
+out. We're going to ask the way we see.
+We're not going to find out for any time.
+But I think there's a big technicality
+that's being overlooked here. And I didn't watch the show
+yesterday. So maybe we covered it then.
+There are margin calls all over the place.
+Oh, that's what we were saying about the forest liquidation.
+Two weeks ago, you had 1.2 million
+Korean retail accounts liquidated
+yesterday or the day before you had
+situational awareness basically
+punting its equity portfolio. But the story
+yesterday was they're out
+now we're safe to buy. Well,
+yeah. Or who's next?
+I mean, that's the question. I mean, I don't think we stop
+there. But this is
+something that will pass. And by the way, we don't know
+what Citadel's doing with the portfolio that
+applied. If I were Citadel, I would
+hang on to it. I mean, Amy, maybe if you're
+feeling a little bit more suspect about the
+financing, maybe you wouldn't. That's okay. Neither one
+of us are Ken Griffin. They're doing any
+every which thing you can imagine with
+that portfolio. No, they're hedging part of it.
+They're selling part of it. They're taking part of it.
+It doesn't, you know, but if you look
+at if you look at micron, notwithstanding
+the suspicions that you're voicing, okay,
+roughly six times forward earnings
+next year has a free cash flow.
+Let me just finish it. I know there's questions
+to this. Next year's free cash
+flow yield is about 14 percent.
+And in December, they reach the anniversary
+of the CHIPS Act, after which they can
+start buying back shares. I mean,
+they can buy back a meaningful number
+of shares with that free cash flow. So
+I, look, of course there's going to be some
+questions about whether those contracts are
+rock solid. Okay, those are reasonable questions.
+But I think it's unreasonable the valuation
+that we're seeing at Micron. And I try to
+explain it. You can explain it by
+questions about the financing. That's fine.
+I explain it by questions about
+who else is delevering. I'm not commenting
+on Micron, or I'm just saying
+the market is now discounting
+a very, very, very large
+AI spend in perpetuity.
+At least out to 30.
+At least out to 30.
+And maybe it happens, maybe it happens
+more slowly. I think at some point people are
+going to say, overall, I need
+returns on this. I think the cloud guys
+get the returns. That's
+where all the data is.
+But whether
+everybody can get the returns, we saw
+that.
+I think there's going to be a lot of
+questions about what they're spending
+and what their revenues are.
+We'll get more numbers. Open AI
+has now said they're not going to come
+to 20, 27.
+So I do think there's a lot more
+cards to unfold. But we do have to
+acknowledge that the financing
+environment is getting harder.
+Staff, you are going to weigh in.
+Sorry.
+There are winners and there are
+losers.
+And the companies that are profitable
+are going to make more money
+generate free cash flow.
+And, yeah, they're going to spend the free
+cash flow. But it's not
+like they're not getting free cash flow
+because they're starting to see the returns.
+So we're going around and around in a circle.
+And there are winners and there are
+going to be certainly losers.
+But I think the companies that just reported
+this week, Alphabet
+and Microsoft and Amazon
+are in the cat bird seat because
+we are seeing not only record
+growth, but record profitability.
+That's the most important thing
+because that generates free cash
+flow and they can use that. So maybe
+they don't have to do as much financing.
+And that's a really important point.
+Well, I think it's all, I mean, it gets
+pretty complex. But the financing, a
+lot of it's happening on the project level.
+And so the economics you're talking about,
+if you're putting up money for this box
+in the desert is the rent. It's not
+AI and what it's going to give Microsoft
+and open AI. But Rob, what you were going to say?
+I was just going to say that
+these businesses
+we haven't derated the story.
+This is not because of a growth
+scare. This is a positioning
+unwind. We got way
+overbought, massively
+overbought. And
+a lot of the structure that has underpinned
+these businesses from
+an earning standpoint, from
+an investment standpoint is maintained
+with risk. But give me those risks
+all day because
+that's what causes markets to
+climb is the slow removal
+of negatives and uncertainties
+is what allows markets
+to climb walls away.
+I agree with that. But here's what's always funny
+about that is it's only
+positioning on the downside.
+Maybe the last 40% of the upside
+was just people
+re-levering and super torque positioning
+and a stampede into momentum.
+It wasn't like the fundamentals driving it.
+I think that's where we were in late May.
+Remember we were in the storm of parabolas
+we were all talking about it. And I think
+we were talking about positioning then. And I think
+literally every one of us on the desk
+said, hey, now's a good time to check
+your position sizing. But are you going to
+chase something without price
+momentum? The answer is no.
+So of course that happens.
+But a little more on this. Look,
+in case I'm not clear
+I think this is more about technicalities
+of the market than that we are
+at peak spending or the market is really worried
+about peak spending. And I just want to give a little
+more of that because you mentioned SpaceX.
+Let's not forget there's been a ton of
+supply of stock to the market
+over the last month and a half. I mean there
+is a digestion period that goes on.
+Let's also not forget that
+we're entering August
+a traditionally low liquidity
+time in the market, a time
+of the year when you get this sort of
+volatility. So I think
+this is far more about market
+structure and tactics than it is
+about the fundamentals of the trade.
+We'll have to hear the kind of 180
+degree other version of all of this. We'll
+talk about Apple a little bit at some
+point. But up next we want to get to the great
+rate debate. Treasure yields
+breaking out in a big way this week.
+How the committee is playing it, that's next
+after the spring. Good morning
+students.
+soccer teaches us teamwork, leadership,
+geometry, art, physics and a
+lifetime of lessons we can take with us
+long after we leave the field.
+That's why Bank of America and US
+soccer are committed to helping bring
+soccer to every school.
+Soccer is officially in session.
+What made you confident that you could
+do something that hadn't been done
+before? I have no fear of
+failure.
+Trail blazing women changing the game.
+One of my favorite pieces of advice,
+think about what your boss's boss
+needs. Leadership can look
+in many, many different forms.
+It really does come down to just trusting
+yourself. Life is short and you just
+got to think big to accomplish big
+things. Julia Borstin hosts
+CNBC Changemakers and Power
+Players. New episodes every Tuesday
+wherever you get your podcasts.
+We are back on Halftime.
+We continue to follow this big
+backup in yields. Oliver
+Renek tracking the action live from
+Sebo Global Markets in Chicago.
+Oliver. Hey guys, bond
+market options flows are definitely
+more bearish than earlier in the week
+when traders were loading up on TLT
+calls before the Fed decision.
+Maybe those bullish treasury buyers
+didn't realize that no hike would
+be higher yields, but based
+on options trading today in the
+10-year futures, more pain for
+bond bulls might be in store.
+Traders bought more than seven times
+as many puts as calls and with
+the 10-year yield highest since
+Jan 2025, those puts are working.
+Looking at TLT, the top
+five contracts by volume right
+now are all puts and the most
+actively bought is the 75
+strike expiring in June
+next year. That's a trade that needs
+to return Treasury ETF to slide
+another 10%. Oh, and by the way,
+in the corporate bond ETF,
+LQD, 121,000 total
+options traded today,
+120,000 were puts.
+Interesting.
+TLT, of course, is
+Treasury's 20 years and longer
+in maturity, so that's where the
+action has been. Oliver, you
+mentioned that going into the Fed
+meeting, it was all about calls,
+so playing the upside in the
+market, which means downside and
+yields. I mean, I guess we have to be
+on alert for the idea that this put
+frenzy is another contrary signal.
+Mike, it's interesting because it
+really depends on whether or not
+traders see this as what I've been
+calling the bizarro bond world.
+It's really been going on since
+late 2024 when yields
+and interest rate decisions actually
+move inversely to one another
+since Powell started cutting and the
+back half of 24 yields went up during
+calls thinking that this was actually
+going to lean dovish and yields would
+come down. You were wrong, but you got
+the dovish part arguably right.
+That's right, exactly. Yeah, the
+relationships shift around.
+Oliver, thank you very much. I mean,
+is anybody tempted here to say, look,
+the market's giving you highest real
+inflation-adjusted Treasury yields
+in a long time? Yes. You are?
+Yeah, I mean, I think this is just
+getting used to a new
+little communication style from
+a new Fed chair. We're having a zoo
+steepener right now where short
+term yields are falling, long-term
+yields are rising. That indicates
+diminishing confidence
+in Fed credibility.
+I think it's tough to make
+that judgment after one meeting.
+Well, it's two meetings, and after
+the first meeting, you had a flattening
+and everybody said he established credibility.
+Right. But that being
+said, it's early,
+it's early, and he's trying to
+let the bond market do some of the
+work for him and rest
+assured that this guy has not gone
+stupid. He didn't get the seat
+for that reason. You only had
+three dissenters. On the surface
+this would have been a
+benign meeting had there been more
+communication with it. So you have a
+market that's adjusting to a new
+style, I think. Now, I think
+some of the inflationary pressures
+are real. Many may be
+transitory. Right.
+And so the story's yet to be
+written, and so far, any time
+you had these pickup and yields
+it's paid to take it back. But here's
+the thing. I mean, because if you're
+going to let the market kind of figure it
+out and then signal
+the Fed on what to do, whatever that might
+look like, really from the beginning
+his idea, Kevin Warsh's
+idea of a less transparent Fed
+is based on a premise that
+a transparent Fed has muted
+volatility in the markets. It's been too
+predictable and therefore markets
+have done better than they otherwise
+would have because of a big balance sheet
+in the transparent Fed. So by definition
+if he wants to change all that he wants
+more fixed income volatility and maybe
+markets don't maybe do as well, Amy.
+Yeah, no. I'm really worried
+about yields moving up. I think this
+is something to be concerned
+about if you look at graphs like
+yield equity matrix
+we're in red territory
+we're in dangerous territory
+where higher yields will impinge
+on equity.
+So it hasn't
+happened yet. I think
+if yields keep going up, I do think it will
+happen and I think we're at risk.
+From an equity perspective
+this transparency and
+leading the market in the Fed, I don't think
+it changes any equity investors
+in a way
+of investing. And certainly
+I don't look at it
+for fixed income I think it's a different story
+but I do think the relationship between fixed
+income and equities is very important
+and it's broken down
+and we'll see if that reverts.
+So there's this concern that there was
+a huge contradiction in the press conference
+of inflation is a problem
+but the Fed did not raise rates.
+Not only that, inflation is a choice, he said
+so he's basically choosing
+right. Good point. Let me just continue where I'm going
+which is to say
+what did the market really want? Did they want
+Chairman Warsh to say, oh I
+voted in the minority to raise rates
+and I got voted down?
+No, I mean that counterfactual
+is worth thinking about
+like what would that have done to the yield
+market had we had a dissenting
+Fed chair? Oh no, if the chair said
+we should go now, it's a majority
+going now. No, my point
+is that that's not, absolutely
+not what I'm proposing.
+I'm saying it would have been that.
+If the chair said we go now,
+who's with me?
+You had the majority with the tightening bias
+going into dots last quarter.
+I get your point
+but I just, I'm saying
+I don't think that's a fate of conflict.
+I agree with you that I don't think the market
+would have preferred a hike and by the way
+it was a two thirds chance it wasn't going to be a hike
+so it wasn't really the decision.
+I think the 10 year would have preferred a hike.
+I don't think the equity market would have preferred a hike.
+You got the big swoosh up the day after
+but I think the 10 year would be lower if we height.
+Oh that's certainly fair.
+This would be down thousand.
+I don't think it would be down thousand.
+We would look like the UK guilt market
+had we had a dissenting fed.
+Again, I don't know that it really would have been
+a dissenting fed because that's the chair's job
+like the former majority.
+That's the point, it would have been
+a failure of that job.
+I don't think the markets would have celebrated
+his attempting to get credibility
+with a rate hike in that meeting.
+Fair enough, we'll see
+if 5% is in sight
+for the 10.
+Coming up, the Apple Aftermath
+shares tumbling its memory prices way on guidance
+we'll get the committee's take next.
+This is a Monday.com ad
+the same Monday.com designed for every team.
+The same Monday.com with
+built-in AI, scaling your work
+from day one. The same Monday.com
+with an easy and intuitive setup.
+Go to Monday.com
+and try it for free.
+What made you confident that you could do something
+that hadn't been done before?
+I have no fear of failure.
+Trailblazing women changing the game.
+One of my favorite pieces of advice
+think about what your boss's boss
+needs. Leadership can look
+in many, many different forms.
+It really does come down to trusting yourself.
+Life is short and you just got to
+think big to accomplish big things.
+Julia Borsden hosts CNBC
+Changemakers and Powerplayers.
+New episodes every Tuesday wherever
+you get your podcasts.
+Welcome back to the Halftime Report.
+With your CNBC News update, a new report says China's military tapped US AI models to train
+its defense systems.
+A Reuters review of more than 80 Chinese academic papers and patents showed researchers tied
+to the People's Liberation Army and other military institutions used the powerful American
+AI models to train their own more specialized systems.
+The practice, known as model distillation, is widely used across the AI industry, but
+of course China and the US are fierce competitors in the AI race.
+The Pentagon reportedly is considering eliminating tenure for civilian instructors at military
+academies and overhauling the curriculum, according to CBS News.
+Top officials have not yet approved that plan, but it would apply to all service
+academies and other institutions, such as the Army and Navy War Colleges, if it
+eventually is implemented.
+When Tony Romo has been put on leave until further notice, CBS Sports said in an announcement
+this morning.
+A week ago, the retired Cowboys quarterback and current NFL analyst was arrested near
+Milwaukee on suspicion of drunk driving.
+Romo has yet to address the incident.
+That's the news for now, Mike.
+I'll send it back to you.
+Contessa, thank you.
+Well, President Trump just wrapped up his cabinet meeting.
+Let's get to Amon Javres in Washington with the details.
+Amon.
+Mike, that's right.
+A very low-for-TV cameras inside Camp David, the presidential retreat.
+This was the first-ever live televised cabinet meeting inside Camp David.
+The president had a lot to say on a variety of topics, including some
+bellicose comments on Iran, suggesting that while he is negotiating, he said,
+We just want to win.
+We'll be hitting them very hard, the president said.
+So signaling ongoing confrontation with Iran, no sign of a let-up there.
+And Ukraine, interestingly, we heard these comments from President Zelensky of
+Ukraine where he came out of his meeting earlier this week suggesting that maybe
+there had been some agreement with the president on licensing patriot
+missile technology for the Ukrainians to build those missiles in Ukraine
+themselves.
+The president here said, No, not so fast.
+We've not agreed to license that patriot missile technology.
+The president expressing concerns about technology proliferation and saying
+that's something that the United States wants to keep a hold of, is that the
+secrets to the patriot missile construction and technology.
+On the Minnesota cyber attack, we have a U.S. official now saying that the
+U.S. official believes that it was probably Iran conducting the
+cyber attack into water facilities in Minnesota.
+The president, however, said at this cabinet meeting, he disagrees with
+that.
+He says he doesn't believe it was Iran, said Iran should be so lucky, said
+they have other problems.
+They're not focused on Minnesota.
+He blamed the Minnesota cyber attack on Minnesota and its governor there.
+And finally, on FIFA, Mike, the president said he has not spoken to
+Gianni Infantino on that multi-billion-dollar private equity
+investment plan that's turned the world of global soccer upside down.
+So the president's saying he had no involvement there.
+Back over to you.
+All right.
+Covered a lot.
+Amen.
+Thank you very much.
+Let's turn now to Apple.
+Really, the other huge story of the day.
+It's actually pulling as much out of the S&P 500 as Amazon's gain is
+contributing.
+Jim, you lightened up ahead of the numbers.
+I did.
+I sold about half of my position yesterday.
+I actually let the team know here.
+So I don't want anybody thinking like, hey, I'm backdating a trade here.
+Sometimes I get it right.
+And on this one, I just thought we were priced for perfection.
+It had had a tremendous run.
+We all know that trading still in the mid-30s on a forward
+multiple.
+Many who's owned this stock since, I think, 2010, I know that's rich.
+And finally, we had Qualcomm report a couple of days earlier.
+It wasn't a great look for the smartphone market.
+So what did we get from Apple?
+We got supply constraints.
+We got price increases on their raw materials, i.e. chips from the likes of Qualcomm.
+It just seemed like a good time to lighten up.
+And so that's what I did.
+I still have now half the market weight in the name.
+And I'll keep that for the foreseeable future.
+The market weight is, like, what, 7.5%?
+6.5%?
+6.5%?
+6.5%?
+Rob, you as well?
+Well, we sold a bunch of it on Wednesday, kind of going into the number.
+Story of rich valuation, quality, quality business.
+We went to neutral to the market.
+We've really never been underweight Apple.
+It's really hard when a company has that pre-cash flow generation, the ecosystem,
+the product cycle upgrades.
+And it has these blasts.
+And you don't expect them to have blasts because it has an unbelievable management team.
+So we went to neutral.
+It's funny, Amy, every time Apple seems like the obvious, like, why would I ever have doubted
+that this could lead the market?
+And because it's defense and also participating in the big tech trends, maybe it is time to
+question, you know, whether it's an over-owned.
+Well, it certainly has had a great run.
+So any pullback here is normal.
+I don't think they're losing their moat in the smartphone market.
+I do that, you know, obviously supply issues and price increases are going to dampen demand.
+But I will say their incoming CEO, John Turnis, is a pen engineering grad, which I'm a pen
+engineering grad.
+So I fully believe in the future of the company.
+All right.
+Well, I'm sure that's pretty commonly held view among the alumni community.
+Maybe that's a big bonus.
+Steph, at some point, does this pull you in?
+Does it entice you on an evaluation or fundamental basis?
+No, not really.
+Not at 32 times forward estimates, which is actually close to a peak.
+And we just don't know when gross margins are going to trough.
+It's the next quarter.
+Is it the quarter thereafter?
+And services is slowing.
+And that's troubling as well, because that's higher margin business.
+But overall, I think the quarter was fine.
+It's just, it's a rich stock, a lot of high expectations.
+It's just not cheap enough for me.
+But it has to correct further for me to even take a look at it.
+Is there anything that, for Turnis, for example, guys, like that you would put top of his list
+in terms of course correction, setting priorities, or is it just kind of grab the baton and business
+as usual?
+Yeah.
+I take the latter.
+I mean, I think the parlor game that has gone on for years, Mike, is should Apple
+buy another company?
+And I've always hated that.
+I mean, you may remember, remember when they were supposed to buy Fitbit, they were
+supposed to buy Disney.
+And as I said, it was a parlor game.
+I hope he doesn't go down that route.
+If he did, I mean, maybe the thing he does is buy a chip company just to control that part
+of the supply chain.
+But again, to be clear for everybody listening, I hope he doesn't do that.
+I hope it's business as usual.
+Yeah.
+I don't think he will.
+I think he is a no-nonsense hardware guy who's going to continue to focus on making
+sure they have the best hardware and hardware software integration out there.
+Obviously, a huge Mac corner, we didn't cite that, but that was a big piece of it.
+All right.
+Up next, more trades from the committee.
+Stephanie, Rob and Amy have all been making moves.
+They'll break down their latest trades next.
+Welcome back.
+Let's get to some more committee moves.
+We're going to start with Steph.
+And Steph, you bought more Starbucks.
+Why is that?
+Yeah.
+I mean, I started buying this in January.
+So I've had a nice gain, but I think we're at the operating margin inflection
+point at this company.
+And at the same time, same-store sales are accelerating.
+So the Green Apron program is working.
+They have better, either have easing coffee costs.
+They have cost savings that they're seeing.
+They had some benefits from tariffs and all that stuff.
+But a comp of 7.9% and North America of 8.1%.
+North America is about 80% of their revenue, so we care mostly about that.
+But the operating margin is what really piqued my interest and why I bought more.
+At 14.4%, it beat by 240 basis points.
+And I would simply say the peak, the last peak in operating margins in North America
+was in the third quarter of 2021 at 20.4%.
+So if we go from 14% to 20% over the next couple of years, I think it's a shoe-in that they
+can do something like $6 in earnings power.
+I mean, the revival does seem to be building here.
+Is anybody else taking a look?
+No?
+Too rich for my blood.
+Yeah.
+Although I will say as a consumer, Steph, I think the experience has been really, really
+improved since Mr. Nichols took over.
+You like what they write on your cups, you know what I mean?
+They're just nicer, okay?
+It was getting really kind of petty, the interactions with the baristas, and they're
+just, they're kinder now.
+Well, see what happens now that you say you don't want to buy the stock and you won't
+get it.
+Right, right.
+Rob, SK Hynex.
+I mean, what, you like the calm, steady stories?
+Is that what you like?
+That's it.
+No, what we liked is this is at the epicenter of the AI Unwind, specifically related to
+memory.
+It was down 50% from its highs.
+In our international portfolio, we wanted to build a position in that alongside of
+TSMC and high bandwidth memory is one of the highest value added parts of that
+segment.
+The volatility might not be completely over.
+There's a lot of underlying structural uniqueness to the way people buy these
+names, whether it be through levered ETFs or hedge funds with leverage that
+may or may not be unwinding still, right?
+But we thought that re-rating was enough to get us interested again.
+Staff, does your enthusiasm about the memory story extend to South Korea in this
+way?
+Well, look, I own a little bit of Micron, but I own a lot of bit of NVIDIA and
+Broadcom, which are much less volatile, and they're going to play and they're
+going to win as well.
+So I'm going to hold on to a very small position in Micron for now.
+We got some energy earnings today, Exxon and Chevron.
+Amy, you've been moving things around on the energy side.
+Yeah, we're very overweight energy.
+We continue to really like the sector.
+We trimmed a little bit at sort of at the height of the Iran war
+conflict and energy getting really high.
+We bought that trim back recently.
+I just think if we look at inventory levels, they're getting really low.
+If we get any weakness in energy prices, I do think it will get bid
+and you'll get oil, every government around the world increasing
+their inventories and replenishing.
+So I think there's a floor under the commodity and the stocks.
+All right.
+We do want to get to a news alert on NXP semiconductors.
+Let's get to Christina Porto-Nevelis for that, Christina.
+Yeah, the Financial Times right now is reporting that NXP semiconductors
+is in talks to inquire Amborella, and they're citing people
+familiar with the matter.
+The report says discussions are ongoing right now, but warns this
+deal is not a guarantee.
+Amborella, for those that don't know, designs low-powered vision
+processors, so chips that really help cameras understand what they're seeing.
+Its chips are used in advanced driver assistance systems,
+so autonomous vehicles, security cameras, robotics, et cetera.
+And so the fit seems to be relatively clear,
+because NXP is already one of the biggest suppliers of auto chips.
+Out there, you add Amborella to the mix.
+It would just give it more of the compute needed for camera-based AI,
+allowing it specifically to sell a broader platform to automakers
+just as vehicles become even more software-defined.
+We know that everybody from NVIDIA to Qualcomm are competing in this space.
+And so that is why you're seeing Amborella up 18%.
+Just reached out to NXP?
+No answer, because I just reached out moments ago,
+but that's why you're seeing such a stock reaction.
+All right.
+Yeah, Amborella, about a $4 billion market cap, NXP around 59.
+Stock's reacting for sure.
+Thank you, Christina.
+The setup is straight ahead.
+Welcome back.
+Let's get the setup on some key committee names reporting next week.
+eBay comes out Wednesday.
+Jim, you own it.
+And at first I got to get an apology and a clarification out of the way.
+So we talked about eBay.
+It was a final trade of yours on Monday.
+And you mentioned the GameStop offer, which is still on the table.
+And I said, oh, there's also a rival bid from Stripe and Private Equity,
+because in my brain, which is 20 years out of date,
+eBay and PayPal are still the same company.
+So PayPal got the bid.
+eBay didn't.
+But talk about what we're looking for with eBay.
+Yeah, no problem, Mike.
+I didn't go back and look at exactly how
+bad my deer in the headlight stare too was.
+But it was clearly that.
+The other guys ridiculed you.
+They need to apologize you after, but go ahead.
+All right, so listen.
+I like the stock and going back to what we said on Monday.
+I think the GameStop offer has some potential.
+Obviously, there's a lot of doubt.
+But I think it has some potential.
+And if it doesn't come through, we've
+got a strong consumer that is gravitating more and more
+to eBay.
+You've got an attractive valuation.
+You've got share buybacks going on.
+So I like the name.
+And a focus on high margin, high ticket items,
+which is a strategic focus.
+And if they deliver on that, I think shareholders are like.
+Absolutely, including collectibles, by the way.
+A relatively new category for them.
+As well as we were talking earlier,
+tickets to the Odyssey and IMAX on eBay as well.
+So other stuff for next week.
+I mean, I'm just going to pick one out for you, Amy.
+What, EOC resource, or EOG?
+EOG.
+I mean, we like the energy space.
+I think it's going to be a good quarter.
+Obviously, they'll get a lot of questions on oil prices
+and Iran.
+But we like the long-term setup.
+Not the cheapest of the energy names,
+but still around 10 times earnings.
+It's going to be interesting on energy.
+I was looking exxon before the Ukraine invasion.
+The stock was lower than it was from 2006 or something
+So there's kind of a different sense of weather.
+In fact, we're in a new range here.
+I think we are.
+I actually do.
+I think everybody was so worried about this glutton oil.
+Hydrocarbons are still a really efficient way
+of getting energy.
+And I think a lot has been taken offline.
+And so I like the setup for oil.
+All right, we have one more move from Stephanie to get to.
+We're going to get details on that trade.
+Market grinding higher from a little bit of a morning dip.
+S&P up half a percent.
+Let's get to one more move.
+Stephanie, you brought more verdict on this pullback.
+Yeah, I mean, the stock, they reported a very good number.
+And the stock fell 17% on the day.
+This is for a company that beat earnings.
+They raised guidance.
+They raised organic guidance in the second half of the year.
+And their backlog increased from $15 billion last year
+to $20 billion currently.
+And I think that this is a company that
+is the market leader with incremental 30% margins
+between now and 2028.
+They're doing great in terms of cost cuts.
+They have pricing power.
+And the whole reason the stock was down
+because they only grew organic growth 18% versus 24% expected.
+But again, as I mentioned, they did raise organic growth
+for the back half of the year.
+This is a conversion problem, not a demand problem.
+And I only feel better after hearing, again,
+from the hyperscalers and all the investment spend
+that they're going to continue to do.
+These guys are a huge beneficiary of it
+and a great management team.
+Yeah, as we're looking still, stock up 52% year to date.
+Kind of a key player in the huge backlog trade.
+Thank you, Steph.
+Final trades are up next.
+We are back with final trades.
+Steph, get us started.
+Sure, Target is trading at 17 times earnings.
+And the turnaround is definitely working.
+Comps are running at 5.6%.
+Traffic is the most important thing for this company.
+And it grew 4.5% last quarter.
+I think that bodes well for the upcoming quarter.
+All right, Rob, monolithic power, something what?
+The people that work for you think you like?
+Or go ahead.
+We don't have time to get into it.
+We do have a power regulation.
+It continues to be an important part of the AI story.
+They're a little expensive.
+But obviously, with this turnaround,
+they're also turning around.
+9% today.
+SLB.
+Yeah, continuing with the energy theme.
+And we think there's going to be a lot more exploration
+coming out of these wars.
+Including on the water.
+Yeah, exactly.
+Transition, deep water.
+We'll get an update next week in earnings call
+about their merger with Valeris.
+That'll be interesting.
+Oh, there you go.
+All right, energy theme.
+Well, that's it for Halftime.
+Thanks to you all.
+The exchange starts right now.
+You've been listening to CNBC's halftime report,
+The Podcast.
+You can always catch us live weekdays at 12 Eastern
+only on CNBC.
+All opinions expressed by the halftime report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated by them
+on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+that halftime report participants consider reliable.
+But neither CNBC nor its affiliates and or subsidiaries
+warrant its completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit CNBC.com forward slash halftime report disclaimer.
+Real talent is defined by what people can do,
+not where they learn to do it.
+So by stopping at the education section of a resume,
+you might throw away the perfect hire.
+Skills first hiring helps you see talent others miss,
+like more than 70 million stars
+skilled through alternative routes.
+Let their story unfold and gain a competitive advantage
+because hiring managers who start with skills
+are 60% more likely to find a successful hire.
+Hire skills first.
+Learn why at tetherpapersealing.org.
+Brought to you by Opportunity at Work and the Ad Council.
