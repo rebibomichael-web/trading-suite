@@ -1,0 +1,85 @@
+name: Guru call ledger
+
+# Daily: extract market calls from new video transcripts into
+# ledger/guru_calls.json and score them at 7/14/21 days against
+# prices/daily_closes.json (fetched daily by the Dell). Fridays (and manual
+# dispatch with report=true) also post the scoreboard as an issue.
+on:
+  schedule:
+    # 10:37 UTC — after the digest (~07:00) and coverage check (09:07).
+    - cron: '37 10 * * *'
+  workflow_dispatch:
+    inputs:
+      report:
+        description: 'Also post the scoreboard issue'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: guru-ledger
+  cancel-in-progress: false
+
+jobs:
+  ledger:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Claude Code CLI (subscription auth)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Extract calls + update outcomes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: python scripts/guru_ledger.py
+
+      - name: Commit ledger
+        run: |
+          set -euo pipefail
+          git config user.name "halftime-bot"
+          git config user.email "actions@github.com"
+          git add ledger/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No ledger changes."
+            exit 0
+          fi
+          git commit -m "Guru ledger $(date -u +%Y-%m-%d)"
+          n=0
+          until git push origin "HEAD:${GITHUB_REF_NAME}"; do
+            n=$((n + 1))
+            if [ "$n" -ge 4 ]; then
+              echo "ledger push failed after $n attempts"
+              exit 1
+            fi
+            git pull --rebase origin "${GITHUB_REF_NAME}" || git rebase --abort || true
+            sleep $((n * 3))
+          done
+
+      - name: Post scoreboard (Fridays or on request)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          DOW=$(date -u +%u)
+          if [ "$DOW" != "5" ] && [ "${{ github.event.inputs.report }}" != "true" ]; then
+            echo "Not Friday and no report requested — skipping scoreboard."
+            exit 0
+          fi
+          python scripts/guru_ledger.py --report > scoreboard.md
+          gh issue create \
+            --title "Guru scoreboard — $(date -u +%Y-%m-%d)" \
+            --body-file scoreboard.md \
+            --repo "$GITHUB_REPOSITORY"

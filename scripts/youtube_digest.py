@@ -33,6 +33,8 @@ CHANNELS = {
     "Fundstrat Capital": "UCQxFhbPxp6VtAMGEF8OWG5g",
     "Mr. FIRED Up Wealth": "UCqqHGGPbhISeKkpEx8676sw",
     "Kaspa Silver": "UCv8-2oyrfqDigJAKjZ_RCzQ",
+    "Wicked Stocks": "UCQSiWKh7o9oRtApc4YjRssg",
+    "Traders Helping Traders (Peter DiCarlo)": "UCL3GYYWrvQ8pS8Q8eN__Xag",
 }
 
 STATE_PATH = "summaries/youtube/state.json"

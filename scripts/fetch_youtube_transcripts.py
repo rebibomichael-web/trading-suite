@@ -61,10 +61,66 @@ CHANNELS = {
     "Fundstrat Capital": "UCQxFhbPxp6VtAMGEF8OWG5g",
     "Mr. FIRED Up Wealth": "UCqqHGGPbhISeKkpEx8676sw",
     "Kaspa Silver": "UCv8-2oyrfqDigJAKjZ_RCzQ",
+    "Wicked Stocks": "UCQSiWKh7o9oRtApc4YjRssg",
+    "Traders Helping Traders (Peter DiCarlo)": "UCL3GYYWrvQ8pS8Q8eN__Xag",
 }
 
 TRANSCRIPT_DIR = os.path.join("transcripts", "youtube")
 FEED_SNAPSHOT = os.path.join("feeds", "youtube_feed.json")
+PRICES_PATH = os.path.join("prices", "daily_closes.json")
+LEDGER_PATH = os.path.join("ledger", "guru_calls.json")
+# always priced, on top of whatever tickers appear in the guru ledger
+DEFAULT_TICKERS = ["BMNR", "PLTR", "TSLA", "NVDA", "SPY"]
+
+
+def fetch_daily_closes(ticker):
+    """Six months of daily closes from Yahoo's chart API (works from a
+    residential IP; GitHub runners are hit-or-miss, which is why the Dell does
+    this). Returns {\"YYYY-MM-DD\": close}."""
+    req = urllib.request.Request(
+        f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}"
+        f"?range=6mo&interval=1d",
+        headers={"User-Agent": "Mozilla/5.0"})
+    data = json.load(urllib.request.urlopen(req, timeout=30))
+    result = data["chart"]["result"][0]
+    stamps = result["timestamp"]
+    closes = result["indicators"]["quote"][0]["close"]
+    out = {}
+    for ts, c in zip(stamps, closes):
+        if c is None:
+            continue
+        day = datetime.datetime.fromtimestamp(
+            ts, datetime.timezone.utc).strftime("%Y-%m-%d")
+        out[day] = round(float(c), 4)
+    return out
+
+
+def update_prices(repo):
+    """Fetch daily closes for the guru-ledger tickers + defaults and write
+    prices/daily_closes.json for the GitHub-side outcome checker."""
+    tickers = set(DEFAULT_TICKERS)
+    ledger_file = os.path.join(repo, LEDGER_PATH)
+    try:
+        ledger = json.load(open(ledger_file))
+        tickers.update(c["ticker"] for c in ledger.get("calls", [])
+                       if c.get("ticker"))
+    except (OSError, ValueError):
+        pass
+    prices = {}
+    for t in sorted(tickers):
+        try:
+            prices[t] = fetch_daily_closes(t)
+            print(f"prices: {t} ({len(prices[t])} closes)")
+        except Exception as e:
+            print(f"prices: {t} FAILED ({type(e).__name__})", file=sys.stderr)
+    if not prices:
+        return None
+    dest = os.path.join(repo, PRICES_PATH)
+    os.makedirs(os.path.dirname(dest), exist_ok=True)
+    with open(dest, "w") as fh:
+        json.dump({"fetched_at": datetime.datetime.now(
+            datetime.timezone.utc).isoformat(), "closes": prices}, fh, indent=0)
+    return PRICES_PATH
 
 
 def fetch_feed(channel_id):
@@ -182,6 +238,14 @@ def main():
 
     print(f"Done: {len(written)} new, {skipped} already present, "
           f"{no_caps} without captions.")
+
+    # Daily closes for the guru-ledger outcome checker (best effort).
+    try:
+        prices_rel = update_prices(repo)
+        if prices_rel:
+            to_add.append(prices_rel)
+    except Exception as e:
+        print(f"prices update failed (non-fatal): {e!r}", file=sys.stderr)
 
     to_add.extend(written)
     if args.no_git or not to_add:
