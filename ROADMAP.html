@@ -39,7 +39,7 @@
             height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden;
         }
         .progress-fill {
-            height: 100%; width: 60%;
+            height: 100%; width: 58%;
             background: linear-gradient(90deg, #10b981, #60a5fa);
             border-radius: 5px;
         }
@@ -119,12 +119,12 @@
     <div class="container">
         <h1>Trading Suite — Roadmap</h1>
         <p class="subtitle">Full-system board: suite app · automations · dashboards · swing &amp; LEAP research<br>
-        Refreshed <strong>2026-07-06</strong> from a review of all four repos (stock-tracker · trading-src · trading-suite · trading-data)</p>
+        Refreshed <strong>2026-07-06</strong> from a review of all four repos (stock-tracker · trading-src · trading-suite · trading-data) · leverage cards added <strong>2026-08-02</strong></p>
 
         <div class="progress-wrap">
             <div class="progress-label">
                 <span>Overall progress</span>
-                <span>21 of 35 items done</span>
+                <span>22 of 38 items done</span>
             </div>
             <div class="progress-bar"><div class="progress-fill"></div></div>
         </div>
@@ -134,7 +134,12 @@
             <div class="column col-backlog">
                 <div class="column-header">
                     <span class="column-title">Backlog</span>
-                    <span class="count">8</span>
+                    <span class="count">9</span>
+                </div>
+                <div class="card">
+                    <h3>Leverage follow-ups (from the 08-02 research)</h3>
+                    <p>Open threads from the margin/short/L-ETF work: (1) Aug 20 FINRA July print — deceleration trigger check (one-shot Routine armed in-session); (2) signed-volume control test (ETF vs plain underlying volume spike); (3) margin-to-market-cap lens beside YoY; (4) options-chain snapshot logging or Alpha Vantage backfill of the ~550 signal dates; (5) after ~3 months of nightly leverage logs, profiler decision on days-to-cover + L-ETF attention; (6) dedicated study of the inverted regime-bucket finding (DANGER regimes were the BEST bounce cells — the bull 1.10 → danger 0.65 multiplier may be backwards for the mean-reversion signature).</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-leap">leap</span></div>
                 </div>
                 <div class="card">
                     <h3>Phase 2 — risk controls before any capital increase</h3>
@@ -182,7 +187,12 @@
             <div class="column col-next">
                 <div class="column-header">
                     <span class="column-title">Next Up</span>
-                    <span class="count">4</span>
+                    <span class="count">5</span>
+                </div>
+                <div class="card">
+                    <h3>Install frenzy flag + nightly leverage log on the Dell</h3>
+                    <p>Delivered 08-02 to trading-src/inbox/ (leverage_monitor.py + LEVERAGE_MONITOR_PATCH.md). One Dell session: copy the module to ~/Desktop/swing_project/, apply the 2-callsite patch (swing_trader.py:3872 and :4342, live scans only — backtest path and score_and_assign untouched, golden tests unaffected), add the 20:55 nightly-log cron, then attic the inbox files. The validated asymmetry (veto only when frenzy fires in BULL/NORMAL) is inside the module — do not re-derive it.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-priority">priority</span></div>
                 </div>
                 <div class="card">
                     <h3>LEAP logger persistence fix</h3>
@@ -228,7 +238,12 @@
             <div class="column col-done">
                 <div class="column-header">
                     <span class="column-title">Done</span>
-                    <span class="count">21</span>
+                    <span class="count">22</span>
+                </div>
+                <div class="card">
+                    <h3>Leverage research + monitor shipped (stock-tracker PR #11)</h3>
+                    <p>08-02: margin debt &amp; short selling investigated end-to-end — backtests over 2,381 bounce signals 1998–2026, episode/streak/sector deep dive, L-ETF gauges, four-camp steelman, and two post-steelman validation tests. Kept: margin-YoY LEAP-sizing dimmer (×0.75 at ≥40%; now +49%, streak 3mo) and the L-ETF frenzy flag (z≥2 in BULL/NORMAL → bounce WR7 33.7% vs 56.5%; confirmed non-redundant with the regime filter — only ~33% of frenzy days are regime-warned). Rejected honestly: margin as a swing gate (froth months were the BEST bounce months) and the Rapach aggregate short-interest signal (flat terciles on the free-data proxy). leverage_monitor.py (18-check selftest) wired into the legacy app; frenzy hook delivered to trading-src/inbox. All docs + runnable scripts in stock-tracker/docs/.</p>
+                    <div class="card-tags"><span class="tag tag-swing">swing</span><span class="tag tag-leap">leap</span><span class="tag tag-infra">infra</span></div>
                 </div>
                 <div class="card">
                     <h3>Swing scan TZ bug fixed — dual scans + regime break annotated</h3>

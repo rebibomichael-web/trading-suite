@@ -86,7 +86,8 @@ repo**: `docs/SYSTEM_MAP.md`. Keep it current when the system's shape changes.
       fixed with a strip step and verified live on issue #15.
 
 The full-system board (suite + automations + swing/LEAP research threads) is
-`ROADMAP.html`, refreshed 2026-07-06. Deep research/status detail lives in
+`ROADMAP.html`, refreshed 2026-07-06; leverage cards (margin dimmer, frenzy
+flag, Dell install task) added 2026-08-02. Deep research/status detail lives in
 `trading-src/docs/planning/` (MASTER_STATUS_BOARD.md, ROADMAP_swing_trader.md,
 LEAP_ROADMAP.md) — trading-src is an hourly-synced mirror of the Dell; edit
 those docs on the machine, not on GitHub.
