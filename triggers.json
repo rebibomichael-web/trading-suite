@@ -373,6 +373,9 @@
    "source": "narrative"
   }
  ],
- "fired": {},
+ "fired": {
+  "AA|below|54.2": "2026-08-03",
+  "GOOGL|above|355.0": "2026-08-03"
+ },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
