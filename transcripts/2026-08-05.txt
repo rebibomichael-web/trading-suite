@@ -1,0 +1,1247 @@
+At Edward Jones, we believe rich is more than caring about the latest and greatest.
+It's also taking care of what gives your life meaning.
+That's why your dedicated financial advisor meets you where you are, with personalized
+financial strategies that help protect what matters, so you can preserve your progress
+while creating a path forward.
+The key to being rich is knowing what counts.
+Let's find your rich together.
+Edward Jones, member SIPC.
+Something amazing is happening.
+Despite a city-wide blackout, this company is still up and running.
+That's because CDW deployed and managed a cost-effective Eaton Triplight Series SmartPro UPS
+to safeguard equipment easily and reliably.
+Keep the power on and protect your IT equipment from electrical challenges.
+Triplight by Eaton and CDW.
+Make amazing happen.
+Remember at cdw.com slash triplight.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Thanks. Welcome to the Halftime Report. I'm Scott Wapner.
+Front and center this hour, the record run for stocks.
+Whether 8,000 is the next stop for the S&P.
+We'll debate that with the investment committee joining me for the hour today.
+Joe Ternova, Liz Thomas, Jason Snipe, Farmer Jim, Lavin Thall.
+Let's check the markets here. We are losing a little bit of steam.
+Dow is still green though. We're red otherwise.
+We are extending record highs for the most part.
+And there's a fair amount of bullish commentary that I want to lead our show off with today.
+Not just from our very own Josh Brown yesterday on Halftime,
+who said this was one of the healthiest tapes that we've ever had.
+Wolf Research today. Is the next stop 8,000?
+Ed Yardeni yesterday on Closing Bell with me, 82.50.
+He said that might look too conservative thanks to strong earnings.
+And here's Goldman's President John Waldron with Andrew Ross Sorkin today in Aspen.
+Pretty positive as well.
+I would say the most important factor right now is earnings, earnings growth.
+You know, earnings growth continues to be really strong.
+The second quarter was the seventh consecutive quarter
+in the S&P of double-digit earnings growth.
+So we've had very consistent and significant earnings growth,
+which is propelling markets. That's ultimately the most important fundamental driver.
+And I would say recently it's broadening.
+Okay. So it's strong, it's broadening,
+and until that changes, you want to get negative?
+No, I don't think you want to get negative at all.
+I think you want to understand where capital is flowing to
+and then understand what the potential risk is accordingly.
+We've seen in the last several days
+a return of the momentum factor in particular,
+isolating memory, semiconductor, and even the MAG-7 itself.
+A really strong day today from Nvidia kind of coming out of nowhere.
+So where is the risk in all of that?
+Over the last several days, you are seeing the S&P market cap weighted
+outperform the S&P equal weight by 4%.
+So I would believe the risk as you move through the entirety of the summer
+is you lose the broadening narrative
+if the market's got gets concentrated again.
+You do not want a concentrated market.
+That's a marketplace where portfolio managers like myself will underperform.
+It's a very challenging marketplace,
+and it pushes all the chips in a very isolated direction.
+That's the risk in the market.
+Yeah, but what's the realistic risk?
+Because if you listen to Waldron and others,
+if the earning story itself is broadening,
+and it's strong outside of tech,
+there's not an indication that your biggest risk is going to happen.
+No, no, no.
+You're always sitting there saying to yourself,
+what can go wrong?
+I hear you.
+So I'm sitting here today, my strategy, JOTETF, all-time high.
+I'm sitting here saying to myself,
+okay, what can possibly go wrong?
+Where does that begin to reverse itself?
+What if we're, though, entering a market
+where you need to start thinking about what else can go right?
+In terms of if you're getting a broadening earnings,
+Jimmy's shaking his head.
+He's smiling.
+If you're getting broadening earnings growth,
+like Waldron's talking about,
+and others are obviously focused on
+to why stocks can continue to go up from here,
+maybe that's the more apropos question today.
+I feel like you and I had this conversation
+maybe two weeks ago.
+I remember the other 493 versus Mag7's on earnings growth,
+and as we look in the second half,
+we're going to see that other 493 companies,
+their earnings growth,
+probably surpass that of the Mag7.
+But you're seeing it in the stock price reaction.
+Let's consider things like Delta Airlines
+or the airlines in general.
+I'm just kind of pulling that out of thin air.
+But when you have a good economy,
+when you have broadening profit growth,
+a company like Delta is going to be approaching
+new highs as it is right now,
+and not just new highs,
+but a re-rating of the multiple.
+Or Joe, as you and I spoke about yesterday,
+you know, financials.
+If we weren't having this tear the cover off the ball
+rally in semis,
+we'd be talking about the rally in financials generally.
+We're going to be talking about that
+because they have made a nice move
+and there's some kind of stealthy moves
+that have happened within the private equity prism.
+I'll get to all that in a minute.
+I do have some news that I do want to get to.
+Mackenzie Segalos, it's regarding Alphabet.
+What is that?
+So Scott, we're seeing Google shares down around 3.5% now.
+The company reshuffling the leadership of DeepMind
+as Demis Hisabis moves into a new chairman role
+that's going to be focused on frontier research
+and then the broader implications of AGI.
+Hisabis will remain active,
+but with more time now devoted to A.I. safety
+and policies, scientific research,
+and medicine, including a bigger role in isomorphic labs.
+That's the drug discovery side of the company
+that he launched after DeepMind's alfalfold breakthrough.
+Now, also as part of this reorg,
+you have Kari Kabukoglu,
+who will take over day-to-day leadership
+as the new head of Google DeepMind.
+He has already been running much of the lab's model research
+since becoming Google's chief A.I. architect last year.
+So the company is framing this as a natural transition
+after getting Gemini back on track.
+And then separately, we're also seeing some departures.
+Long time Google chief scientist, Jeff Dean,
+is leaving after nearly three decades
+to start a new company with several other employees.
+Google plans to invest in that startup,
+which will also partner with Google Cloud.
+So the department, this departure, rather,
+is said to be amicable, and Google doesn't plan
+to replace Dean as chief scientist
+that position was really created for him specifically
+to report into Sundar Pachai.
+What I will say, though, Scott,
+and perhaps why we're seeing shares move lower
+is that this comes after a series of departures
+from Google DeepMind, including John Jumpert anthropic,
+Noam Shazir to open A.I.
+before he left.
+Shazir was working on Gemini.
+So that's how investors are doing this.
+Well, it's good context.
+Yeah, thanks, Scott.
+Yeah, appreciate that.
+Mac, thank you.
+Okay, that's Mackenzie Segalos.
+We'll watch that, obviously, with shares down
+a little more than 3%.
+I want to get back to our conversation, though,
+on where this market is going to go.
+82.50 conservative, potentially,
+according to Yardeni, because of the earnings story.
+It's no longer FOMO.
+It's FEMO.
+It's the earnings momentum that this market has.
+And that's what he has been hanging his hat on.
+And as you heard, John Waldron suggests, too,
+we're in a broadening earnings story.
+Don't just tell me about what tech is doing.
+I get that the numbers are enormous
+in terms of the earnings growth.
+But if you're talking about 12%
+for other areas of the market,
+that's pretty darn good, too.
+I think it's very difficult to get pessimistic
+about this market.
+You've got internal strength.
+So 73% of the S&P above its 200-day moving average.
+We've had this huge rebound after a momentum washout,
+momentum that Joe is the expert in here.
+But I think the risk on this momentum rebound
+is that it is just that, a really swift rebound.
+And you could see it come back off
+of this strong momentum right now.
+There's probably talked about that today, too, by the way.
+And that usually happens, right?
+I mean, semis went down almost 30% in that washout.
+So momentum died for a while
+and I'm sure was very frustrating for Joe
+in some of that.
+But you usually do get a swift bounce.
+This is actually one of the swift bounces we've ever seen.
+You had one of the fastest declines
+and then one of the fastest bounce backs
+that we've ever seen, also.
+So the risk is that it cools off, right?
+That it came back a little bit too strong.
+But there are a lot of other things to be positive about.
+Financials are still strong.
+I always look at financials as confirmation of a rally
+and confirmation of cyclicality.
+We've got almost 90% of financials
+above their 200-day moving average.
+That's huge.
+So I do think that for the rest of the year,
+we see a return to large caps.
+I don't see small caps outperforming large caps
+for the rest of the year.
+Well, I made small caps speaking of
+or the Brussels is up 22% year-to-date.
+Right.
+And that's a good performance year-to-date.
+I think that in the second half of the year
+we see a return to large caps
+because I do expect volatility.
+But I also do expect this market to continue moving higher.
+I mean, 8,000 is only 3.5% per year.
+Yeah, I know.
+What's funny asking is 8,000 the next stop.
+It's like now, okay, it's literally around the corner.
+It looks like it's almost a, dare you say, a formality
+at this point.
+But if the earnings continue to live up to the hype,
+why wouldn't you get there?
+Then you have to start asking the yardenny question.
+8,250, whether Jason Snipe, that's a little too conservative
+and maybe part of that hinges
+on where the momentum trade does go from here.
+I think Liz made some really great points
+that are being talked about elsewhere on the street today.
+Jonathan Kerinsky says the reflex continues,
+but shades of 2,000 continue to pop up.
+How quickly things change, he says.
+A week ago, semis were in a 30%,
+around 30% drawdown.
+We called time on the momentum unwind.
+Fast forward to today.
+We've seen the largest four-day rally for the socks since COVID.
+The S&P has surged 5% over the last four trading days
+and do a 52-week high in the last 30 years.
+That's only happened three other times,
+including March 21st of 2000,
+which was dead highs of the dot-com bubble.
+The graph of Renaissance macro,
+he's going to be on closing bell with me today,
+says time and drift are typically momentum's enemy from here.
+What do you think?
+Yeah, no.
+I mean, it's been a very interesting last few days
+and I think the setup has been interesting to me
+in the sense that July was a down month,
+there was a lot of churn, violent churn.
+You talk about the drawdown in semis
+and when we look at the map,
+obviously the impact on the market from that perspective.
+But when I think about what earnings growth is,
+I know this has been the theme
+and this is what we've been talking about all week.
+29% earnings growth, 65% rate have reported so far
+and 85% beat rate.
+I mean, these are very significant numbers.
+And to Liz's point,
+there are other sectors participating.
+Financials, health care took a little bit of a step back
+in these last few days, but they have been participating.
+Can you get to 82.50?
+Sorry to interrupt you.
+Can you get to the Yardeni number
+if momentum does sort of roll over again?
+Because then it's a heavier lift.
+Even if you get some of the bigger financial names
+to participate more, it's going to be much harder, isn't it?
+There's no doubt.
+And I think because of the math,
+I think momentum has to play a significant factor
+in us getting to 82.50.
+And I think that story continues
+because of the earnings growth that we've seen thus far
+and the guidance, right?
+It's not like the spending is slowing down.
+The spending is only increasing.
+We're seeing profitability in the cloud numbers,
+you know, from the hyperscalers
+and the downstream effects into other sectors.
+So I'm very interested to see how this continues to play out,
+but I'm excited about what I've seen thus far.
+Kritski goes further.
+He says the bigger issue we see
+is the market's been playing musical chairs
+as money is sloshed from momentum to value
+and now back to momentum.
+At some point, the music stops
+and participants might not be able to find a chair.
+All right, here we go. Let me explain this.
+The market does not need catalysts
+to continue to move higher.
+We know what the catalysts are.
+Remember clearly, back in the late 90s,
+sitting on a trading desk,
+sitting there quizzing other traders
+and everyone was giving you the bullish conditions.
+We know them.
+Tell me what can go wrong.
+And I am not saying by bringing forth
+what can go wrong, it happens.
+But it's the momentum factor.
+Where is momentum right now,
+today, the first week in August?
+Is it in memory?
+Is it in semiconductors?
+Is it in the AI infrastructure?
+No, it rotated into the 493, Jimmy.
+It went into energy.
+It went into industrials.
+It went into other areas of the market.
+So where the narrative falls apart
+is if the 493 and the broadening out
+falls apart as we move forward.
+It shouldn't happen.
+It shouldn't happen.
+I'm with you on that.
+I'm telling you how it falls apart.
+If the market concentrates back to NVIDIA,
+if the market concentrates back to
+Micron and Marvell and Corning,
+the momentum factor is not there.
+That's where the market has a challenge.
+Let me say two real quick things.
+The macroeconomists on the desk
+will point out that the ISM numbers
+that we've gotten today and on Monday,
+services and manufacturing are really, really high.
+Who are those by the way?
+The macroeconomists.
+They are not me.
+The invisible person here is playing that role.
+Honestly, I mean,
+I thought it was Liz,
+but I didn't want to know
+because I didn't want to exclude everybody else.
+I think I'm more signing than a macroeconomist.
+Dude, you need to read the bios.
+I'll take it for today.
+You need to read the bios.
+Okay.
+I'll play one on TV.
+Does she actually think that you're a farmer
+even though I call anyone?
+I think I might yodel to you.
+You're so far away.
+I feel like...
+My design.
+If you keep going down this road.
+Number one, my eyes just meet you immediately.
+My eye on you at full time, full show every day.
+I know because I could go off the rails.
+Not right now though.
+The ISM surveys, there's a very strong correlation,
+particularly the ISM manufacturing,
+when it's as high as it is right now
+that earnings broaden and continue to grow.
+But the second point I want to make is your question,
+Scott, of can this get to 4250
+if momentum bows out of the equation?
+I'm sorry, 8250.
+If momentum bows out of the equation,
+the simple math says that's not likely to happen.
+We're about 5% away from that 8250.
+Now if you look at the top 10 stocks
+in the S&P 500, most of which are momentum,
+if those stocks went 5% higher,
+most of them would not hit an all-time high.
+NVIDIA 5% higher from here is not an all-time high.
+Microsoft 5% from here is not an all-time high.
+Same with Apple, same with many of these stocks.
+I'm simply pointing out that the math is very favorable.
+I don't think momentum's going to swoon again,
+but you don't need much from momentum
+for those records to be hit.
+Let's throw up Google, Alphabet, Intraday,
+because we had the news of, you know,
+around departures related to deep mind.
+Stocks at the lows of the day down 5%,
+so that's a significant move.
+How are we thinking about that
+as we're trying to assess company by company
+who's got it and who doesn't?
+Who's going to be a winner and who may not be?
+You know, certain companies that are deemed to be
+in leadership roles at certain periods of time
+have then had their roles questioned.
+I wonder what you all, who's in this name?
+What do you think about this?
+I think Google Cloud revenue growth, 82%.
+I think revenue growth, 24%.
+That's what's important to me.
+I think this is a knee-jerk reaction.
+I think the market is reacting to a little bit
+of a shifting in intellectual capital.
+That's normal.
+We're in an environment where the stock has had
+a really strong rally off of earnings,
+but I don't think this is anything more
+than a near-term reaction.
+I mean, the chief scientist is leaving after
+27 years.
+Okay, and I'm sure that there is,
+I know you play on the other side,
+but there is a very strong team that's in place,
+and I don't think that means the cloud revenue growth
+is going to slowly deteriorate
+because we're seeing
+an executive leave the company.
+I think this move to the downside
+is an overreaction.
+Again, and Joe, you said that.
+I'm surprised by it.
+I think that there is a lot more talent
+in the overall AI industry
+than just one or two or three individuals.
+Clearly, these are important individuals.
+Nonetheless, I mean, Gemini has now gone
+through many versions.
+This is not a one-man show or even a three-man show.
+I am surprised by this.
+Joe, you pointed out the web services.
+I would also point out the chips at Google.
+I would point out Search.
+I would point out YouTube.
+I would point out Waymos.
+This is an overreaction.
+We're talking about one of the architects
+of the AI strategy.
+This is not a desk filler.
+I know.
+There's no doubt.
+And I think continuity at this level
+of leadership is extremely important
+as we kind of fight through this AI race.
+And there's obviously some other significant players.
+But to Joe's point,
+I said earlier in terms of visibility on profits
+with all the CapEx,
+and we've seen 82% cloud growth.
+Last quarter was 60+.
+I mean, this is a significant runway.
+I know the stock traded down
+because of negative free cash flow,
+but it retraced back.
+This, to me, is a viable opportunity.
+The deputy is taking over.
+So it's someone that's sitting right there
+alongside of an executive
+that has led the AI architecture strategy.
+Let's look at SpaceX.
+Another big story today,
+for obvious reasons on the other side
+of the earnings report, stocks down
+about 9%.
+It was down more than 10, I think.
+So it's a little bit off of that level.
+Their AI costs are soaring.
+I don't know if anybody is actually surprised
+by that.
+The conversation I think going in,
+in part, was how is this company
+going to be defined by those internally
+and how are investors going to define it
+on the outside?
+They're more viewed as a
+hyperscaler type business
+investing heavily
+into the AI future.
+Well, their AI costs are soaring
+and I guess the market's not happy about that,
+but you also had the lockup
+which comes tomorrow.
+And then you have a stair step as well
+which is going to be significant
+in terms of the supply coming on the market after that.
+You do have a number of target
+raises and lowers today
+which is interesting, the battle on the street
+of this company, at least in the near term,
+is going. Kevin Simpson's
+been a shareholder. He joins us now.
+We wanted to get his take here from somebody
+who's got some skin in the game on this.
+So what's your feeling after
+the report knowing the lockup
+is coming? I've got three targets
+that are lowered today and then a couple
+that are going up.
+So where would you come down on it?
+Yeah, I mean, I think that there's
+a good reason to be
+oscillating back and forth in terms
+of the stock market, Scott,
+but if we break it down, just looking at
+the operating report,
+I thought it was fantastic.
+Now, the stock reaction was a completely
+different story. These things
+are not moving in lockstep.
+And I think that makes sense because
+my enthusiasm for this business
+hasn't waned at all,
+but it's far different than my enthusiasm
+in the stock in large part, Scott,
+because of the lockup that you mentioned,
+the first of which we're going to see
+is the stock market.
+So we're going to see a lot of
+different rates as we see how
+these shares are absorbed into
+the float. But if we look at it
+just as the headline, the report
+was good. I mean,
+revenue group
+92% to 7.8
+billion.
+Starlink revenue was up
+66 billion.
+AI revenue group
+247%.
+Microsoft, Meta, Amazon, Alphabet,
+now SpaceX.
+If you're going to spend this kind of money,
+you need to show the shareholder that
+there's some path to a return on investment.
+And I'm not sure that that's a story
+for the next quarter or two,
+but I think as an investor, if you're
+two, three, four years into the future,
+this is an incredible business.
+We're going to own it, but interestingly,
+we have not added to it. We put
+a half a percent position in the Q-Devo
+growth ETF at 160
+because it was included in the ETF.
+And we've watched it come down patiently.
+And just because a stock pulls back
+doesn't mean you need to add to it.
+I imagine that we will, but I want to see
+how it trades with these new shares
+as part of the marketplace. How much
+of the lockup do you think
+is already in the stock?
+You know, it's come down obviously a tremendous
+amount from the IPO. A lot.
+I mean, I'll be surprised
+if this thing sells off a lot tomorrow because
+of it. You're talking about a stock
+that's down 100 bucks, almost 50 percent
+from the highs going from the low
+200s down to the low 100s.
+A lot of this has embedded
+into this price action. This is no
+surprise. I mean, it is the talking point.
+I think you even led with it in the introduction
+here to the name. This is a 24
+year old business. It was an inaugural report.
+It was really, really good
+in one hand, but that CapX
+is a big deal. This lockup is a big deal.
+And I'm sure that Jimmy's
+sweating from a valuation standpoint saying,
+you know, I can't value this stock and I
+don't disagree with them, but I feel like
+this is such a revolutionary
+generational change in business
+if it works down the road. We know
+about Starlink. We know about the AI
+investment. Can they monetize it?
+And boy, it can make starship a reality.
+The sky's the limit.
+Yeah, we'll have to wait and see on that.
+We know that. Kevin, thanks. Kevin Simpson joining
+us with his commentary around that.
+Nvidia's up today. It is
+the only of the mega cap
+names that actually is green now,
+and it's nearly a 4% move.
+We think in part because
+Elon Musk gave the company an endorsement
+as part of the
+SpaceX earnings call, said they have
+the best AI computer. That's
+a quote. So
+Nvidia's up on that. Mellius
+is talking about, they love the endorsement.
+How could you not
+given what he said? What do you think?
+About Nvidia or SpaceX? Yeah.
+I mean, Nvidia, I think this
+you can buy it right here just to cut to the chase.
+Buy Nvidia right here.
+Yep, I do. New money
+that comes into accounts at our firm.
+We're putting in Nvidia. We're not hesitating,
+by the way. It's about
+6-7% away from an all-time high.
+I think it will get there.
+May not be in August when we get this
+light liquidity, but news like
+we get where Elon Musk is endorsing it
+just continues to show that
+Nvidia will have more demand
+than it can supply
+for the foreseeable future. And it's
+multiple, roughly 19 times
+20 times forward earnings
+is to me attractive, given you
+the earnings per share growth rate, that is
+around 30-35%.
+The other semiconductor name that I
+want to look at is AMD
+because I see it down almost 6%.
+Despite what was a good earnings report,
+I don't know what you could pick at
+and not like. What do you think?
+I think Elon Musk spoke
+at length about Vera Rubin chips
+and the relationship with
+SpaceX and Nvidia. We didn't hear very much
+about AMD. Now, AMD
+has relations with Meta,
+OpenAI and Anthropic, but in return
+there are warrants on
+160 million shares there.
+A much different relationship. You could also
+look at Nvidia relative to
+AMD. By the way, nothing, like you said,
+nothing wrong with AMD's
+earnings except what we
+heard last night from Elon Musk.
+If it was happening another day,
+you'd get a better reaction out of AMD,
+but it does remind people, when you look
+at the forward multiple, you're looking at
+AMD mid-40s, you're looking
+at Nvidia at somewhere around 19.5%.
+And I agree with Jimmy.
+Nvidia, it is literally
+a hanging curveball down the middle.
+I bought it at $1.99. I got stopped
+out at $1.93 while you were on vacation.
+I said it's the next Apple.
+I'm 100% right in what I saw
+and I handled the position wrong.
+It's going a new all-time high.
+Now away from tech, Disney,
+let's take a look. That's a nice winner today.
+What was that?
+Was that, now you love it again?
+It's the share price. The share price is driving me nuts.
+What? You love it again?
+I don't love it. No.
+I don't hate it. Here's where
+my conundrum is.
+Is the operating results from the company,
+in my opinion, are pretty darn good.
+I don't care if you look at
+entertainment, theme parks,
+streaming, and I think there's great potential
+by the way in the studios.
+We've seen what Spider-Man
+has done in terms of its box office.
+Now that's part Sony, that's part Disney,
+but nonetheless, the box office
+in general as an industry is coming back.
+And yet, what are we up to?
+2% stock trades.
+I'm not going to look right this minute, but about 14 times
+forward earnings. You think it should be a more
+is that what you're suggesting? I do.
+Of course it should. Here's my conundrum.
+I think the company itself
+is doing really well, but the stock just
+isn't. And it leaves me where I was
+yesterday considering
+how much of a mistake am I making here?
+Am I being patient or am I being stubborn?
+Now, I'm not selling it today
+but clearly in my language
+to answer your original question. No, I don't
+love it because I don't love what the share prices do.
+You think it should be up to?
+100%. And it has nothing to do with earnings.
+This is a market
+that wants to get behind the underdog.
+This is a market that wants to get
+behind the underperformance.
+Look at what happened in Microsoft.
+Look at what happened in Palantir.
+Now you see Disney today
+and it's only up 1.9%.
+The stock is down.
+Double digits on the year, double digits over the last
+52 weeks. This is a good earnings report, Jimmy.
+I'll take your word for it. Good earnings report?
+It absolutely is. So where are all the buyers
+rushing in to buy the underperformance?
+Tells you everything you need to know about this.
+I think we have to expand the discussion
+and I'm going to bring Netflix in, not
+because I want to make myself feel better,
+but I think we have to look at the industry
+streaming and broadcast overall
+and say that maybe there's going to be
+more M&A, maybe that's what's holding this stock
+back. We know there are obviously
+some cable channels, including our fine
+company, that have spun out recently
+and will be spinning out and maybe the
+market's worried that Disney's going to
+enter that
+scrum, if you will, and pay too much for
+something. They did with Fox five, six
+years ago whenever that was, so maybe that's what's
+holding it back. Okay, we have some news
+about Shake Shack. Brandon Gomez
+has those details for us. What are we
+learning here, Brandon? Hey, Scott. Yeah, that's
+right. That's right. Jeff Smith on Bloomberg
+just now saying he's taken a steak in Shake
+Shack, calling it, quote, too cheap.
+I said it's a several hundred million
+dollar steak and that they may
+now be the largest shareholder, not yet
+confirmed. We know as of Q1, they
+didn't hold the stock. We'll get 13Fs
+next Friday. More details possibly
+then that will indicate timing of the steak
+that he's taken, but you can see shares now
+about 8%. Company also had earnings this
+morning, but right now reacting
+to that news. Okay, we
+appreciate that. Stock's getting a big jump.
+We're making a call to Josh Brown as
+we speak for obvious reasons.
+He might be a Shake Shack.
+Probably if he's watching right now,
+he's feeling pretty good and I'm sure he
+would agree with Jeff Smith
+who thinks it's too
+cheap. We'll see if we can get him on the line.
+See what he has to say about that.
+Let's do quickly. I mentioned financials.
+Having this move
+over a month, private equity has been great too.
+Shake Shack is up almost 10%. We'll try to get
+Josh on the horn and see what happens.
+Apollo reiterated overweight today. Jason,
+you want to take that? This has been a nice
+move for private equity. Yeah,
+it has and I think
+as it relates to Apollo, Apollo is still down
+around 10%. Fee related
+earnings are up to 785
+million, up 25%, which is
+a record quarter for them.
+Insurance spread income has really drove
+some of these results and private equity
+has been performing better.
+I think for me,
+I need to see those monetizations
+continue to pick up
+to see the stock move further.
+I think one of the reasons why private equity
+is trading better is because
+software is trading better.
+There's a very strong correlation
+between the two. We identified that previously.
+I think that's important.
+I also think it's benefiting from this environment
+where the market loves the underdog
+performance and private equity
+certainly characterizes itself as such.
+That's probably a good observation.
+Let's take a break. We come back,
+booking holdings on the move.
+We just had a bunch of rebalance
+travel related moves
+in Josie TF.
+So we need to discuss that relative to
+what booking holdings is doing today.
+Some calls of the day related to the consumer as well.
+We're back right after this.
+With the Discover Cashback card,
+it's payback time when you earn cashback
+and purchase.
+Activate and earn 5% cashback
+at different categories each quarter
+on up to $1,500 in purchases.
+That's 5% cashback
+at different places each quarter
+like grocery stores, on gas,
+and at restaurants.
+It pays to Discover.
+Terms Applying, see discover.com
+slash 5 for details.
+Normally in these ads, you'd expect someone like me to
+ask you to buy something,
+but I want to ask you to do something different.
+I'm an investigative reporter,
+which means that I follow the money
+inside of government and outside of government.
+The point of my job is to find things
+people are trying to hide.
+It involves talking to lots of people.
+It involves looking through lots and lots of documents.
+And if there weren't folks like me to go
+beyond the surface to understand
+who was really shaping what the government does,
+the public will be left in the dark about
+what the government's doing with your tax money,
+what the government's doing to you
+through regulations and spending.
+If journalism is important,
+seek out a news source that does first-hand
+fact-based reporting.
+If that's The New York Times, thank you.
+If that's your local paper, that's great too.
+Because where you get your information
+matters.
+Josh Brown's on the phone.
+We wanted to get his take on this news
+from Jeff Smith of Starboard.
+A new position in Shake Shack
+calls it too cheap.
+The company had earnings today.
+Stock's up now almost 11.5%.
+Josh, what's your take on learning of this news?
+Look, as a long-term shareholder,
+it's very clear
+that this is a company
+that has a long-term shareholder.
+It's very clear that this is a company
+that has a long-term shareholder.
+It's very clear that this is a company
+that has a stated
+trajectory of getting to 1500
+stores.
+They're going to open 65 stores this year.
+They have a great royalty business
+internationally.
+They have an unbelievable product
+and a loyal customer base. What's missing?
+It's a $2 billion market cap.
+So clearly
+the potential does not
+match the progress in the share price.
+And when you think
+about Starboard and some of the success they've had,
+whether it's Papa John's
+or Darden, just in this
+specific field,
+their track record is unimpeachable
+and I can't imagine this being a negative.
+So I don't have any more details
+than what's out there, but I would
+tell you, I think this may be
+exactly what the doctor ordered.
+What, I mean
+if this was going to be
+which certainly
+at times it has been obviously with
+Smith, if it turns
+out to be an activist
+related play,
+what are some potential
+moves that you think would be
+wise for this company
+to perhaps do.
+And I don't know, frankly,
+I don't have enough information to know
+if this is a pure
+activist role, if it's
+a more passive position that he just
+thinks the stock is cheap.
+I'm not exactly sure, but have you thought about
+a bigger picture, if an activist was
+to get in this name, and let's look at
+a longer term chart, by the way
+as we answer this question, just to see
+what the stock has done, let's say over
+we can move to a longer chart, guys,
+please. So like, I don't know,
+three years give me as you answer
+that question, Josh.
+Yeah, so we know what needs
+fixing and what doesn't.
+Let's start with what doesn't need fixing.
+I'm sure Starver looks at this
+and says, okay, they have
+locations everywhere that you would
+want them. They're in every major
+shopping district. They're in the
+airports. They're in every major city
+at this point. They're near
+ball parks. They're in places with
+heavy consumer foot traffic, and
+they've done a great job picking site locations.
+I would give them an A.
+I'd give them a B on
+getting the drive-throughs opened,
+getting enough users on the app
+and just building that digital
+future, but it's a work in progress.
+I wouldn't say it's an A, but it's not a C.
+They're succeeding there.
+What are you doing wrong? What could Starver do?
+The first thing to understand is
+why did this stock come down
+from 130 to the 50s?
+They shocked the
+street last quarter with a surprise
+loss. Why did they have a
+surprise loss? They claim
+that the price of paper goods
+surprised them to the upside
+and the price of red meat.
+I think they were paying
+$75 a pound at one point
+this winter. Now, some of that
+is just the whole daisy chain of events
+because of Iraq, excuse me,
+Iran and the military
+action and the price of crude oil and blah, blah, blah, blah.
+But in the end
+you should not have a business this mature
+that shocks Wall Street
+to this extent where they go from
+a profit to a loss. There's obviously
+operational things
+that could be improved
+and I would bet they're not
+buying several hundred million dollars
+worth of stock to just sit back
+and hope things get better. I would bet
+that there are constructive conversations
+taking place already and that
+those conversations could end up with a board seat
+and I think you're a shareholder
+this is exactly what
+you would like to see.
+Every company needs help from time to time.
+This business has huge potential
+and anyone that wants to come
+here on the equity side and help them
+reach that potential should be
+welcomed with open arms.
+It's not the first rodeo either
+for an activist
+engaged. I've got Joe
+I'm going to bring into the conversation. I mean engaged
+was here a few years ago
+about three years ago
+and was pushing for the same
+sort of operational improvements
+that Josh suggests
+are still needed. Maybe
+something's not resonating.
+I don't know.
+I don't know enough about
+operational improvements they were pushing
+for and what may still
+have to happen if there's some kind of
+disconnect over what some investors
+think needs to happen
+and what hasn't and that's why the chart
+looks the way it does. I think it's at
+thirty five percent year to date
+but over the longer period of time
+of the chart that we had thrown up
+it's you know you draw a line straight across
+from where you were to where you are.
+Yeah this is a paradigm shift though this is important
+because Jeff Smith and the starboard
+team have excelled
+in quick serve restaurant
+activism. We go back to
+2014 with Darden. They
+replaced the entire 12
+member board. In the five
+subsequent years to their activism
+Darden went up a hundred forty three percent
+and Jeff and his team Scott
+they are very engaged. I'm not being
+comical I remember this distinctly
+from ten years ago as it related
+to Olive Garden. This is how
+how active Jeff and the team gets
+they changed Olive
+Garden's cook strategy
+and as an Italian I know this
+boiling the pasta they weren't
+using salt they weren't
+using salt in the pasta Jeff
+and starboard made them boil
+the water the pasta water with
+salt that's how engaged they were
+he did this at Papa John's
+were they doing it al dente or no
+I'm sure after Jeff got involved they were
+but Jeff had to turn around as well
+at Papa John's he was the executive
+chairman after COVID
+and he was able to turn that
+around he will be active here
+he will be engaged and I would imagine
+he's going to be on the board.
+Josh I'll give you the last word then I got a bounce.
+All right the last word is I'm just
+picturing Joe in the joint slicing
+the garlic with a razor blade.
+Yeah.
+All right that's all I got.
+All right we'll leave it I appreciate you
+we just had to get your take obviously
+stocks up 11 percent Seema's got
+the news update for us hi there.
+Hey Scott here are the stories we're watching at this hour
+the FAA says it's preliminary
+review found a momentary loss of separation
+between the president's helicopter
+and a commercial aircraft near
+Reagan National now controllers
+were communicating with both
+pilots as the aircraft moved apart
+the agency says President Trump was never in danger
+and is reviewing possible corrective actions.
+The Vatican says
+in a video the 14th will make his
+first trip to Latin America in November
+visiting Uruguay Argentina
+and Peru the first U.S.
+born pope spent decades in Peru as a missionary
+and bishop and holds Peruvian citizenship
+and live golf says it has secured
+an outside investor to keep the circuit
+operating beyond the season CEO Scott
+O'Neill did not identify the investor
+or the amount the league is seeking
+250 to 300 million dollars after Saudi
+Arabia's sovereign wealth funds
+stop financing it and plans to make
+the move as the U.S.
+investors and other members
+the majority equity holders
+Scott that's the latest back to you
+Seema thanks so much Seema Modi up next
+we'll talk about some movers again
+I mentioned booking holdings up a bunch
+on the earnings and how Joe
+just got rid of a bunch of names in that group
+there's other ownership on the desk
+we'll do it coming up.
+With the discovered cash back card
+its payback time when you earn
+cash back on everyday purchases
+purchases. That's 5% cash back at different places each quarter, like grocery stores,
+on gas, and at restaurants. It pays to discover. Terms apply. See discover.com slash 5 for details.
+You know it's not a great use of time? Getting data ready for AI. That's why IT leaders turn
+to CDW. We help unify data and govern it, building the foundation for your AI and agents to
+deliver results. Because when your data is ready, AI stops being an experiment and becomes an advantage.
+We configure, optimize, and deliver the tech that runs business.
+CDW make amazing happen.
+The GLP-1 pill you've been waiting for is now on-row. Yep, it's finally here,
+with the same clinically proven ingredient. Now in a pill, and now on-row. It's the first FDA
+approved GLP-1 pill for weight loss. At the lowest price available, that's one daily GLP-1 pill for big
+results. Now on-row. Go to row.co slash listen to see if you qualify. Rx only go to row.co slash safety
+for serious side effects and boxed warning associated with GLP-1s. All right, let's get to that
+booking holding story that we were talking about before the Shake Shack news crossed up. 6%
+is booking on earnings, and it just made us think of the moves that you made in your ETF
+in which you got rid of Expedia, LVS, Royal Caribbean. Expedia is a record high today, so talk to me.
+Yeah, the one that's painful is Royal Caribbean, because as I've mentioned on this show
+over the last several years, the one area, the one sector in which I don't think momentum is
+very successful is consumer discretionary. It's a lot of fits. It's a lot of starts.
+It's a lot of quick entry into positions in a couple of quarters later. You're out of it.
+Royal Caribbean is a name we have had in the portfolio for the better part of the last two
+years and done really well with it. So I'm disappointed to see this move to the sidelines.
+It is moving to the sidelines specifically on price performance in the near term. A lot of that
+are attributable to what's going on in the Middle East, so that could reverse itself
+very quickly. Las Vegas, Sands, that's price momentum. And then Expedia is the interesting
+one, because if you pull up Expedia and pull up a one-year chart, Scott, you're going to be like,
+well, what are you talking about? There's great momentum for Expedia. Look at that.
+The problem is one of the metrics that we're using for quality is debt-to-equity.
+Debt-to-equity could be distorted by a company that does significant buybacks,
+as you know, Jimmy. The debt-to-equity ratio for Expedia just got uncomfortably high.
+It's up-sitting right now at 500%. So that disqualified it, and that's the reason why we sold it.
+You look at it from a momentum perspective, it looks good. Was that a quality metric by choice?
+So when the rules were created by myself before we introduced the strategy in November of 2020,
+I selected three quality criteria, revenue growth, return on equity, and debt-to-equity.
+Let me just say this. In this business, the market is always teaching, and you're always learning.
+So you're always learning something about what you've done with the rules,
+and you're willing to pivot accordingly. And I think when I look at debt-to-equity,
+there might be something there that in the future we'd have to pivot on.
+Can I just make a suggestion on this? Very quick, very quick.
+If you say high debt for share buybacks, I hate it. However, high debt for doing
+productive investments that are going to generate free cash flow,
+that's where you might look and see is there a way to distinguish it.
+Great example of a catapult.
+All right. Oliver Renwick's coming up next. He's flagging a rare event that's happening
+within this record-setting rally. He's playing options action next.
+Let's play some options action with Oliver Renwick at the Cebo Global Markets in Chicago.
+What do you see from there?
+Hey, Scott. We're watching VIX, which is sometimes called a fear gauge.
+This week is a perfect example of why that term is a generalization.
+The VIX rallied a full point during yesterday's breakout 2% rally in the S&P
+and extended gains in the first hour of trading today as stocks tried to rally.
+Now, with equities flirting with red, the VIX is two.
+That's because about 20% of the time, VIX and S&P move in sync.
+Right now, it's because of huge call buying.
+More than 4 million SPX calls traded here at Cebo yesterday, a new all-time record.
+And at the NASDAQ, the price of one standard deviation out of the money calls on queues jumped 40%
+the biggest single-day move in five years. Here's what this means.
+One, bulls clearly have a newfound conviction in this market.
+But two, usually when the price of something goes up 40% overnight,
+it's probably not a great deal at this moment,
+which creates the risk of leakage in call prices,
+which is precisely how I describe what we're seeing today, Scott.
+Okay, Oliver, I appreciate that very much.
+That's Oliver Renick. You got a quick thought on that?
+VIX up? Stocks up?
+Yeah, I think a lot of it is attributable to the activity that we're seeing with high frequency trading,
+algorithms, things of that nature.
+I think it's more of a short-term dynamic than anything else I think.
+Now we're down, obviously.
+Yeah, I don't think it extrapolates anything about the future.
+I think it's more a short-term mechanic of the market.
+Well, you're talking about the market wanting underdogs right now.
+The NASDAQ has been an underdog.
+At some point, if momentum keeps moving in this direction,
+there's no underdogs left.
+And then the market has to sort of slow down and come off of that.
+All right. We'll talk about Uber.
+Next, it is moving on the other side of earnings.
+Do we have ownership on this desk?
+We discuss, we debate, we do it next.
+The stock's in Uber.
+The stock is lower by near 7%.
+They did have a weaker than expected bookings,
+which is, what's your read?
+Because I just pulled up an analyst report that moved
+at $1240, so not that long ago at all from truest.
+The results in the guide reflect very healthy demand for mobility
+and delivery, and the autonomous vehicle rollouts
+are going to accelerate.
+So what's your take relative to the stock move
+and then that kind of commentary?
+Yeah, so it was a revenue miss, clearly.
+EPS was in line.
+You know, revenue was up around 12%.
+I think the street was expecting 14.
+I think when I'm looking at this stock,
+and again, they have free cash flow of $10 billion,
+they're going to continue to invest in the AV market,
+but there's no real catalyst to move this stock forward.
+I think that's really what my concern is.
+So for me, this is kind of like in the waiting seats,
+off 7%, down 17 for the year,
+but I think that's kind of what my focus is,
+is like, what is the next catalyst for this stock?
+You have an answer to that?
+I don't, and it's the reason why I'm not in the stock
+and I want to be in the stock
+because I believe in the long-term business model,
+but it hasn't proven itself.
+And if you're focused on price, you're going to be out.
+Okay, we'll step away.
+We'll come back and we'll do finals.
+All right, I'll see you closing bell,
+three o'clock Eastern time,
+if we can extend these record highs.
+With Chris Harvey, Abby Yoder, Courtney Garcia,
+Jeff DeGrap, I mentioned one of his notes
+on momentum earlier,
+so we'll dive a little bit deeper into that.
+The former US soccer star, Alex Morgan,
+is going to join us as well.
+She's teaming up with JPM today at an event
+and we'll hear from her live,
+a couple of World Cups to her name
+and one of the best female soccer players ever,
+for that matter.
+So we're happy to have her on our show today
+and hope you'll join us.
+What is your final trade, Farmer Jim?
+Win resorts, good earnings last night,
+so, and I'm sorry, you're going to win with win.
+Okay.
+I hate myself.
+I won't even make another comment.
+Jason's night.
+Microsoft, Azure restaurant,
+Co-Pilot's time to show some life.
+Liz.
+I'll go next.
+As the macro economist on the desk today,
+commodities as inflation.
+What do you got?
+Arrest the network.
+All right, Kelly, take it away.
+You've been listening to CNBC's
+halftime report, The Podcast.
+You can always catch us live weekdays
+at 12 Eastern, only on CNBC.
+All opinions expressed by the halftime report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated
+by them on television, radio, internet,
+or another medium.
+You should not treat any opinion expressed
+on this podcast as a specific inducement
+to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon
+information the halftime report
+participants consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its
+completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer
+please visit cnbc.com forward
+slash halftime report disclaimer.
+Something amazing is happening
+when power outages strike.
+Teams are powering through them.
+That's because CDW Solutions Architects
+are building more resilient IT
+and electrical infrastructures
+with Schneider Electric.
+With EcoCare Remote Monitoring Services
+and 24-7 support,
+your organization can do more
+than keep the lights on.
+Schneider Electric and CDW
+make amazing happen.
+Learn more at cdw.com slash Schneider Electric.
