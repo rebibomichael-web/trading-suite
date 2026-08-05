@@ -383,7 +383,9 @@
   "CSCO|above|118.5": "2026-08-04",
   "SNPS|above|400.0": "2026-08-04",
   "WOLF|above|25.96": "2026-08-04",
-  "MCHP|above|80.5": "2026-08-04"
+  "MCHP|above|80.5": "2026-08-04",
+  "NVDA|above|216.07": "2026-08-05",
+  "AA|above|47.63": "2026-08-05"
  },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
