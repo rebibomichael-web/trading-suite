@@ -2,374 +2,87 @@
  "manual": [],
  "narrative": [
   {
-   "ticker": "ISRG",
-   "when": "below",
-   "level": 317.44,
-   "note": "loses stop - exit per plan",
-   "source": "narrative"
-  },
-  {
-   "ticker": "ISRG",
+   "ticker": "DKNG",
    "when": "above",
-   "level": 400.34,
-   "note": "clears tp1 - guidance fears fading",
+   "level": 23.43,
+   "note": "hits tp1 - take partial profit on the bounce",
    "source": "narrative"
   },
   {
-   "ticker": "ORCL",
+   "ticker": "DKNG",
    "when": "below",
-   "level": 129.88,
-   "note": "owner's stop level - price already testing it, close below confirms breakdown",
+   "level": 21.76,
+   "note": "erases post-earnings relief bounce - lose conviction",
    "source": "narrative"
   },
   {
-   "ticker": "ORCL",
+   "ticker": "DKNG",
    "when": "below",
-   "level": 114.99,
-   "note": "July 24 low - next support if the stop fails to hold",
+   "level": 19.3,
+   "note": "stop loss - exit, thesis bounce failed",
    "source": "narrative"
   },
   {
-   "ticker": "ORCL",
+   "ticker": "DDOG",
+   "when": "below",
+   "level": 195.34,
+   "note": "loses stop level - exit if held",
+   "source": "narrative"
+  },
+  {
+   "ticker": "DDOG",
    "when": "above",
-   "level": 143.58,
-   "note": "reclaims pre-downgrade level - would flip the bounce into a real reversal",
+   "level": 272.02,
+   "note": "reclaims tp1 - thesis intact, take profit",
    "source": "narrative"
   },
   {
-   "ticker": "PFE",
-   "when": "below",
-   "level": 24.15,
-   "note": "swing stop - exit if held, this setup has failed on PFE before",
-   "source": "narrative"
-  },
-  {
-   "ticker": "PFE",
+   "ticker": "DDOG",
    "when": "above",
-   "level": 26.31,
-   "note": "clears TP1 - setup finally working",
+   "level": 291.2,
+   "note": "reclaims pre-earnings range at tp2 - full profit target",
    "source": "narrative"
   },
   {
-   "ticker": "CDNS",
+   "ticker": "F",
    "when": "above",
-   "level": 371.82,
-   "note": "clears TP1 - Kimi K3 scare fully priced out, guidance raise thesis confirmed",
+   "level": 14.94,
+   "note": "clears TP1 - momentum/trend confirmation catching up to the oversold bounce signal",
    "source": "narrative"
   },
   {
-   "ticker": "CDNS",
+   "ticker": "F",
    "when": "below",
-   "level": 317.33,
-   "note": "loses owner's stop - moat-threat narrative would be back in control",
+   "level": 12.9,
+   "note": "loses stop level - exit per plan",
    "source": "narrative"
   },
   {
-   "ticker": "CSCO",
+   "ticker": "VRTX",
    "when": "above",
-   "level": 118.5,
-   "note": "reclaims pre-selloff high - AI order thesis reasserting into Aug 19 earnings",
+   "level": 513.08,
+   "note": "clears TP1 - existing target",
    "source": "narrative"
   },
   {
-   "ticker": "CSCO",
+   "ticker": "VRTX",
    "when": "below",
-   "level": 111.14,
-   "note": "hits position stop - exit if held",
+   "level": 458.16,
+   "note": "loses existing stop - exit",
    "source": "narrative"
   },
   {
-   "ticker": "CSCO",
-   "when": "below",
-   "level": 109.66,
-   "note": "breaks July 16 swing low - support failing",
-   "source": "narrative"
-  },
-  {
-   "ticker": "NVDA",
-   "when": "below",
-   "level": 181.47,
-   "note": "loses stop - exit the position",
-   "source": "narrative"
-  },
-  {
-   "ticker": "NVDA",
+   "ticker": "MO",
    "when": "above",
-   "level": 209.15,
-   "note": "clears TP1 - trim/take profit",
+   "level": 72.18,
+   "note": "clears tp1 / reclaims pre-earnings support - momentum confirmed",
    "source": "narrative"
   },
   {
-   "ticker": "AA",
+   "ticker": "MO",
    "when": "below",
-   "level": 42.88,
-   "note": "loses the July 29 low - oversold thesis fails",
-   "source": "narrative"
-  },
-  {
-   "ticker": "AA",
-   "when": "above",
-   "level": 47.63,
-   "note": "reclaims your average cost basis - position back near breakeven",
-   "source": "narrative"
-  },
-  {
-   "ticker": "AA",
-   "when": "above",
-   "level": 54.2,
-   "note": "reclaims the marked stop/resistance zone - trend repair confirmed",
-   "source": "narrative"
-  },
-  {
-   "ticker": "IBM",
-   "when": "above",
-   "level": 227.55,
-   "note": "reclaims the post-earnings recovery high - momentum resuming",
-   "source": "narrative"
-  },
-  {
-   "ticker": "IBM",
-   "when": "below",
-   "level": 205.0,
-   "note": "retests the earnings-crash low - thesis concerns reassert, exit consideration",
-   "source": "narrative"
-  },
-  {
-   "ticker": "META",
-   "when": "above",
-   "level": 600.0,
-   "note": "reclaims pre-earnings gap - momentum turn confirmation the swing scanner currently lacks",
-   "source": "narrative"
-  },
-  {
-   "ticker": "META",
-   "when": "below",
-   "level": 529.19,
-   "note": "breaks the July 30 swing-signal low - arb dislocation setups on this name have a losing track record, don't average down",
-   "source": "narrative"
-  },
-  {
-   "ticker": "TSLA",
-   "when": "below",
-   "level": 298.32,
-   "note": "breaks the post-earnings low - downtrend resuming, thesis still broken",
-   "source": "narrative"
-  },
-  {
-   "ticker": "TSLA",
-   "when": "above",
-   "level": 330.0,
-   "note": "reclaims pre-crash-continuation zone - momentum actually turning",
-   "source": "narrative"
-  },
-  {
-   "ticker": "UBER",
-   "when": "above",
-   "level": 78.0,
-   "note": "reclaims pre-selloff level - Delivery Hero/Waymo overhang would be fading",
-   "source": "narrative"
-  },
-  {
-   "ticker": "UBER",
-   "when": "below",
-   "level": 67.0,
-   "note": "retests 52-week low - thesis break confirmed, not just a dip",
-   "source": "narrative"
-  },
-  {
-   "ticker": "NKE",
-   "when": "above",
-   "level": 43.8,
-   "note": "reclaims late-July range high - momentum improving",
-   "source": "narrative"
-  },
-  {
-   "ticker": "NKE",
-   "when": "below",
-   "level": 40.99,
-   "note": "loses the July 23 low - support break, watch for acceleration",
-   "source": "narrative"
-  },
-  {
-   "ticker": "SNPS",
-   "when": "above",
-   "level": 400.0,
-   "note": "clears post-selloff range - market shrugging off Kimi K3 threat",
-   "source": "narrative"
-  },
-  {
-   "ticker": "SNPS",
-   "when": "below",
-   "level": 372.0,
-   "note": "breaks multi-week low cluster - next leg down if Aug 26 earnings disappoint",
-   "source": "narrative"
-  },
-  {
-   "ticker": "RBLX",
-   "when": "above",
-   "level": 40.0,
-   "note": "reclaims broken $40 support - suggests panic low is in",
-   "source": "narrative"
-  },
-  {
-   "ticker": "RBLX",
-   "when": "below",
-   "level": 32.0,
-   "note": "fresh low with no support left - avoid catching the knife",
-   "source": "narrative"
-  },
-  {
-   "ticker": "UPST",
-   "when": "below",
-   "level": 26.6,
-   "note": "breaks July 29 low - momentum breakdown, no support left above mid-20s",
-   "source": "narrative"
-  },
-  {
-   "ticker": "UPST",
-   "when": "above",
-   "level": 29.51,
-   "note": "reclaims mid-July breakdown level - signals the slide has stabilized",
-   "source": "narrative"
-  },
-  {
-   "ticker": "NVMI",
-   "when": "below",
-   "level": 366.91,
-   "note": "loses the July 29 flash low - sector selloff resuming, no support left overhead",
-   "source": "narrative"
-  },
-  {
-   "ticker": "NVMI",
-   "when": "above",
-   "level": 437.0,
-   "note": "reclaims mid-July consolidation zone - selloff likely over, score should ease off alert",
-   "source": "narrative"
-  },
-  {
-   "ticker": "WOLF",
-   "when": "above",
-   "level": 25.96,
-   "note": "reclaims late-July high - oversold bounce confirms",
-   "source": "narrative"
-  },
-  {
-   "ticker": "WOLF",
-   "when": "below",
-   "level": 20.0,
-   "note": "breaks July 29 low - dip-buy thesis fails",
-   "source": "narrative"
-  },
-  {
-   "ticker": "CAT",
-   "when": "above",
-   "level": 900.0,
-   "note": "reclaims Baird's revised price target - would signal data-center fear is overdone",
-   "source": "narrative"
-  },
-  {
-   "ticker": "CAT",
-   "when": "below",
-   "level": 782.71,
-   "note": "loses the July 29 oversold low that triggered the ARB buy signal - exit if held",
-   "source": "narrative"
-  },
-  {
-   "ticker": "LMND",
-   "when": "above",
-   "level": 60.71,
-   "note": "reclaims pre-earnings level - would signal the selloff was overdone",
-   "source": "narrative"
-  },
-  {
-   "ticker": "LMND",
-   "when": "below",
-   "level": 47.0,
-   "note": "loses the post-earnings low - no structural support confirmed, exit signal",
-   "source": "narrative"
-  },
-  {
-   "ticker": "MCHP",
-   "when": "above",
-   "level": 80.5,
-   "note": "reclaims mid-July pivot zone - signals stabilization",
-   "source": "narrative"
-  },
-  {
-   "ticker": "MCHP",
-   "when": "below",
-   "level": 71.37,
-   "note": "breaks July 29 low - support the scanner is scoring on fails",
-   "source": "narrative"
-  },
-  {
-   "ticker": "ASML",
-   "when": "below",
-   "level": 1550.0,
-   "note": "loses the July 29 low - DUV threat narrative re-accelerating, exit",
-   "source": "narrative"
-  },
-  {
-   "ticker": "ASML",
-   "when": "above",
-   "level": 1800.0,
-   "note": "reclaims pre-selloff range - China threat being priced back out, confirms the dip was overdone",
-   "source": "narrative"
-  },
-  {
-   "ticker": "TSM",
-   "when": "above",
-   "level": 430.0,
-   "note": "reclaims pre-selloff range - AI-capex fear unwinds further",
-   "source": "narrative"
-  },
-  {
-   "ticker": "TSM",
-   "when": "below",
-   "level": 374.67,
-   "note": "retests the July 29 rout low - momentum broken again",
-   "source": "narrative"
-  },
-  {
-   "ticker": "GOOGL",
-   "when": "above",
-   "level": 355.0,
-   "note": "reclaims pre-earnings consolidation zone - capex fears fading, confirms thesis intact",
-   "source": "narrative"
-  },
-  {
-   "ticker": "GOOGL",
-   "when": "below",
-   "level": 317.69,
-   "note": "loses the July 23 post-earnings low - arb buy setup failed, capex thesis concern deepening",
-   "source": "narrative"
-  },
-  {
-   "ticker": "WMT",
-   "when": "below",
-   "level": 108.4,
-   "note": "loses the July 23 low - support break, re-assess thesis",
-   "source": "narrative"
-  },
-  {
-   "ticker": "WMT",
-   "when": "above",
-   "level": 114.95,
-   "note": "reclaims late-July high - oil/inflation fear fading",
-   "source": "narrative"
-  },
-  {
-   "ticker": "RIOT",
-   "when": "above",
-   "level": 23.86,
-   "note": "clears the July high on data-center momentum - flip to buy on strength",
-   "source": "narrative"
-  },
-  {
-   "ticker": "RIOT",
-   "when": "below",
-   "level": 18.1,
-   "note": "loses the July support shelf - exit if held",
+   "level": 63.12,
+   "note": "hits owner's stop - thesis crack, exit",
    "source": "narrative"
   }
  ],
