@@ -102,7 +102,9 @@
   "PFE|above|26.31": "2026-08-07",
   "DKNG|above|23.43": "2026-08-07",
   "NEM|above|112.29": "2026-08-07",
-  "TSLA|above|330.0": "2026-08-07"
+  "TSLA|above|330.0": "2026-08-07",
+  "VRTX|above|513.08": "2026-08-10",
+  "VRTX|above|526.81": "2026-08-10"
  },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
