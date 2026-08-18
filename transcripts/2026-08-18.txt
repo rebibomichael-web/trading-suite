@@ -1,0 +1,1107 @@
+I'm Scott Wapner and you're listening to CNBC's Halftime Report, the podcast, the most profitable
+hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Alright guys, thanks so much.
+Welcome to the Halftime Report.
+I'm Scott Wapner.
+Front and center this hour.
+The backup in yields.
+What it means for the record-running stocks.
+NASDAQ weaker.
+Growth names are among the hardest hit today.
+Trading all of it with the investment committee.
+Joining me for the hour, Jason Snive, Joe Cheranova, Stephanie Lincoln, Talkington.
+Thank you to the markets, you probably know, right across the board.
+It is very much a yields story backing up really everywhere here, Germany, Japan.
+So we'll follow that as Ed Yardeni says today, the bond vigilantes are stirring.
+Fundstrat's Mark Newton, he's the technician with Tom Lee, says the bond market is starting
+to show its hand and equities won't ignore it for long.
+Are these the early stages of the paying more attention to the backup in yields or not?
+No, I think it absolutely is, Scott, and I think for me as I think about the yield
+story over the last couple of weeks and the acceleration there, you know, the story
+for me is we are the 10 years approaching 5%.
+And I think it's really a real rate story.
+Once the real rate yields are between 2% to 3%, I think that's where we start to
+see some disruption in the equity market because I think now there's a reasonable
+alternative to not take on risk and be in fixed income, especially for the baby boomers
+who, you know, we know there's a lot of them out here that are that are looking
+for opportunities like this.
+And I think it's an interesting place.
+And I think the other point I will make China is no longer a buyer, right?
+Japan is it's expensive.
+They're not buying right now.
+So that's why we're seeing some of the acceleration plus inflation
+expectations, obviously what's going on with the conflict in Iran, you know,
+that story, I think plays a role.
+So, you know, it's it's it's a it's a time to kind of reflect on this.
+But I think that is the story.
+It's really about the real thing.
+That's a story right there, the 30 year, right?
+Look at that move that we've had recently.
+It's the speed in which the 30 year yield has continued to extend
+the highs that it hadn't seen since 07.
+So it's been a minute since it's happened.
+Why are yields rising?
+Do you have to ask that question to decide, Joe, whether it's going
+to have a broader impact on the stock market?
+Because you could find a number of reasons that people keep pointing
+to debt and deficit, the incredible amount of issuance that is coming
+on the market from the likes of the hyperscalers, obviously, as they
+look to build out their infrastructure, the price to be paid,
+perhaps as Steve Leesman has framed it for a lack of communication,
+if you will, from the Fed.
+So it's a confluence of events that have led to this backup in yields.
+As we said, it's not just a US story, but it needs to be focused on
+perhaps a little bit more.
+The market kind of wants to.
+Edgar Denny says the bond vigilantes are.
+What do you think?
+Well, I think you listed some reasoning, which is fair.
+I think you want to add upon that, that the demographics
+of the investor base has changed.
+I think you have an investor base, a generation now that's grown
+up on equities and is less inclined to purchase bonds even
+when they recognize the value.
+You asked the question yesterday, Scott, you asked me sitting
+on this desk, you asked others on closing bell, when will
+rising yields matter?
+Last night, they became a fundamental trigger for rotation
+within the market, which most impacted momentum overnight with
+this breakout and identify whatever geographic region you
+want, whether it be Germany, the UK, France or the US.
+There's your fundamental trigger, the macro funds and the
+algorithms now have to de-risk.
+They have to de-risk.
+They have to look at exposure, where there's excessive leverage.
+They begin to take that down, where there's overweight
+positioning.
+They take that down and initiate an algorithm process,
+which we're seeing throughout this morning, where you're
+rotating into different baskets.
+It's growth versus value.
+It's semis versus software.
+It's long duration versus real economy stocks.
+In financials, it's money center banks versus insurance
+companies.
+It's a basket rotation.
+I don't think it's a one day event.
+It broke the fever and momentum, which is what we were
+looking for as an indicator.
+It was a good fever.
+I mean, you had a five day win streak for momentum, the MTUM
+anyway, and it is going to break that today.
+You mentioned your ETF, was it a record high?
+It's like tracks the same sort of thing, at least to
+some degree, the DRAM, memory ETF, which is about as close
+a look as momentum as you can ever get.
+Same.
+It's about to snap a five day win streak.
+So those steps seem to be the epicenter of the pain of this
+trade of rising yields.
+The question is, like Mark Newton says today, that the bond
+market is starting to show its hand and equities won't ignore
+it for long.
+There has to be a price at some point.
+For a swift backup in yields, correct?
+Well, yeah.
+And I think Jason hit it the 10 year if it gets to 5% for a
+long period of time, not just touch it and then go down.
+It's got to stay there for a while.
+You'll have some switchers.
+I do think it's interesting, Scott, in the past year that
+we have seen the range in the 10 year 80 basis points with
+all this news, with all of this commotion that we've had
+all year long in terms of uncertainty, right, with
+private credit, with Venezuela, with SCOTUS and tariffs,
+with the war, and yet we're in an 80 basis point range.
+I find that fascinating, actually.
+So going back to the why, absolutely AI issuance,
+debt deficits, war, but you also miss something.
+It's better growth.
+We're seeing better growth here too.
+Well, I believe that's one of the reasons, not the only
+reason, and that's important.
+We just printed 1.5 for GDP, right?
+In normal times, you'd say, well, is that really a
+great representation of higher growth?
+I'm not so sure it is.
+Well, the Atlanta Fed tracker is running at 4.8%.
+I know, but that could change, like, in 10 minutes,
+the way that that thing changes.
+It can, but all of the data points that we've seen
+since last quarter, we've seen an acceleration.
+Retail sales weren't good.
+You average, you have to average the two months
+retail sales, Scott.
+Absolutely.
+You had to pull forward in Prime Day at Amazon,
+and that skewed the number to 8%.
+The jobs number wasn't good.
+The last jobs number wasn't good, I mean.
+Well, the weekly claims are historically low.
+You can pick whatever you want to look at.
+What do you mean I'm talking about
+like the most critical of economic data?
+Retail sales and jobs reports,
+and maybe I'll fault the last three,
+haven't been good.
+And the two-month average is 5.5% for retail sales,
+and the consumer has a job.
+If you look at the weekly jobless claims,
+that's real-time data.
+The non-farm payroll numbers get revised
+so many different times, it's not consistent.
+Lately lower.
+To me, I think that the economy is much healthier,
+and it is one of the factors on the rising yields.
+Not the only factor,
+but you have to take into consideration growth.
+And better growth, by the way,
+will help debts and deficits.
+That's fine, but you can't tell me that,
+I'm sorry, but you can't tell me that,
+you know, as we were sitting here,
+not you and me, but as I was sitting here
+listening to the Fed chair in the last meeting,
+we hit 5.20 on the 30 year.
+As we saw that start to spike
+on some of the uncertainty,
+and the more hawkishness that they definitely,
+what do you mean, it was happening in real time?
+Well, it's all of these things.
+And now we're 10 basis,
+but then we're 10 basis points higher than we were then.
+There has to be a cause and effect somewhere.
+It's not just one thing.
+No, I listed three things.
+Well, I just listed four things,
+and I added growth to what your other three were.
+So I'm just saying that there's a lot of things
+that are having an impact in the bond market,
+and at the same time, we haven't seen,
+like, we're not at five yet on the 10 year, right?
+And we're in this 80 basis point range,
+which I think is really very, very important.
+And the growth in the economy is leading to better earnings,
+and the AI story is not going away anytime soon,
+and the consumer continues to consume.
+So maybe if we're growing, are we growing 4%?
+Are we growing five?
+Are we growing three?
+We're not growing one and a half.
+We're accelerating from one and a half.
+Bryn?
+Yeah, I think to lean into what Steph is saying
+on this 80 basis points,
+I mean, we have these conversations once a year.
+If you go back and look at that 10 year yield chart,
+going back to 2023, we hit this range,
+if not higher in 2023 and 2024 and 2025.
+And every time, it's like, is this time different?
+Is the 10 year gonna go above five and stay?
+And every time, it has come right back down.
+And so I think if you take Steph's commentary
+about the 80 basis point move this year,
+you can actually go back to 2023
+and you have almost the exact same dynamic.
+And so I do think that the direction right now
+clearly of global yields, this is not about wars,
+this is like global yields are going higher is real
+and then you don't wanna ignore it.
+But if you would have actually sold into it in 2023, 2024,
+2025, that would have been a terrible decision
+for an equity investor.
+So I think everyone needs to settle in here,
+see if we trade back down.
+Obviously, we just intervened in the end,
+joint intervention.
+We'll see what happens globally.
+But I think this is just a little tantrum here
+and that if we look back a few years,
+we have always come down off of that.
+Maybe this time is different,
+but right now I would just say the past three years
+is gonna be my base case for this year.
+Yeah, we're on CDS watch a little bit.
+Again, show me NVIDIAs guys please
+because there's some focus on that today.
+It has now topped the late July high.
+So we continue to watch that.
+There was all that focus on Oracle and its own CDS,
+but you have to pay attention at least a little bit
+to what's happened with NVIDIAs.
+You're to date up 100% for the CDS.
+You do have talk about crowded trades in semis
+from the fund manager survey at Bank of America.
+Long global semiconductors is the most crowded trade
+around.
+What do you think?
+I think that's where the conversation
+really finds a sweet spot.
+I think we're making maybe a little bit more.
+I agree and disagree with both of you on this.
+I don't think yields rose overnight
+because it was this dramatic growth,
+but yet to your point, the economy's good enough.
+Consumer discretionary stocks are higher today.
+So they would actually be lower in this.
+I think the yields rising is a trigger
+for working off leverage.
+I think macro funds are the dominant players today.
+I think the algorithms are in charge.
+I think there's 251 trading days in 2026.
+Today is day 157.
+They all don't look the same.
+And I think this is one day in a grand journey
+of an overall seculable market.
+I think if you see yields continue to rise
+at a precipitous pace, another 25, 50 basis points,
+I don't think anyone is not going to acknowledge
+we have a problem for risk assets, okay?
+But I think what you have in front of us today
+was a fundamental trigger to reallocate
+and take down leverage exposure.
+It depends to where you're obviously looking.
+Higher rates at the long end
+are not good for the housing trade.
+Pending home sales did miss
+down in all regions of the country.
+The home construction ETF coming off its sixth down week
+in the past seven.
+Stephanie Link expressing, I think,
+what many are thinking about,
+but what was your, at one point at least,
+your favorite trade, I think, in this market, housing?
+It was like two years ago, and I've made 15%,
+which is not great.
+But you haven't really changed your tune on it much recently,
+but now you've sold DR Horton and Toll Brothers,
+so that's a statement in of itself, isn't it?
+I know, I made some money, but the reality is,
+and what I've been saying for two years,
+is you need the 30 year fix,
+something close to five, five and a half percent
+for us to see better demand trends.
+And we're at 6.8% today on the 30 year.
+Even if rates come down, we're not gonna get to below six.
+And I just think that's the overhang on these stocks.
+Should I have recognized it earlier?
+Of course, but I still made money in these names.
+They're still very cheap.
+They're still doing incredibly well, given the macro.
+But when Home Depot says that the housing market is frozen,
+that's a reality.
+Now, I sold these stocks last week,
+but the reality is what they're telling us today.
+Well, I mean, the housing market's been frozen
+for the last few years.
+Right, well.
+Nothing's changed.
+The freeze has gotten deeper.
+Of course, of course.
+And I got these stocks when they were trading
+at one time's book value, and I'm up a bit.
+Not crazy, but I'm up.
+I'm gonna take my gain so I don't lose it all,
+and I'm just gonna call it a day.
+And you know what?
+I will revisit this trade when there is better visibility
+with regards to the 30 year fix,
+because I still very much believe
+that there is not enough supply out there.
+There is pent up demand.
+We have five million homes short in this country,
+and that's not changing anytime soon.
+In fact, it might even get worse
+given the interest rate environment.
+So eventually, I think this pent up demand
+is gonna find a home, yes, pun intended,
+but that's when I will probably go back.
+Told reports today, by the way.
+It'll be fine, they're at the high end, they'll be fine.
+DR, you own DR Horde.
+What do you think of the move of just like,
+okay, I've made some money here.
+The freeze doesn't feel like it's thawing anytime soon,
+so I'm out.
+There's just other things to do.
+I mean, I get it.
+This trade is hard, right?
+I mean, we were talking about earlier in the show,
+you know, with a 30 year, close to 7%.
+It's a hard move to make.
+Hey, hold on one second, too.
+I'll come right back to you,
+because Diana Ollick has updated mortgage rate information.
+I think that just crossed.
+What do you see here, Diane?
+Well, the average rate on the 30 year fix
+mortgaged inched up again this morning to 6.75%.
+That's according to Mortgage News Daily.
+Now, as you guys have been talking about,
+rates have been hovering around the higher end.
+Highest levels in over a year, in fact,
+and that's hitting affordability once more.
+You know, we got the numbers
+on pending home sales this morning,
+and they were well below expectations.
+That's signed contracts on existing homes.
+The realtors noted higher mortgage rates
+specifically in their report.
+We also just got single family housing starts in July,
+and that was an even bigger drop
+than expected, down 10% from June,
+down 16% year over year.
+So guess what stocks of the builders are not loving that.
+The home builder ETF, ITB is in the red so far today.
+We do get quarterly earnings later,
+as I heard you guys talking about,
+from luxury home builder, Toll Brothers.
+Toll has been performing better than its peers,
+because of course the high end is doing better.
+And again, in that report on builder sentiment yesterday,
+the NEHB noted that custom builders,
+more on the high end, were doing much better
+than the big production builders.
+So once again, it's all about rates and affordability.
+Scott?
+Yeah, no question.
+Perfect timing for us.
+And Ola, thanks so much for that.
+Sorry to cut you off.
+I wanted to get that in now.
+Oh, it's important.
+It's important.
+So what I would say is obviously affordability
+is the issue, right?
+The average single family home in America is $515,000, right?
+And obviously DR Horton focuses on the lower end.
+Their average selling price for over the last 12 months
+at the end of their fiscal in June of this year
+is $362,000, right?
+So the problem is they continue,
+they're giving all the incentives away,
+which are cutting into their margins.
+That's why the stock's only up 2%.
+It's a hard trade.
+I'm going to hang on to this,
+but it's definitely a removed vote for us.
+Home builders you will be okay with
+because they're able to focus on their margins.
+They're smart enough to know when housing starts
+for single family homes or at the lowest level
+since 2022 and mortgage rates are rising,
+there's no new construction that's happening.
+They're going to focus on protecting their margin.
+They know that the construction costs are rising.
+So that's awful for home buyers in this country.
+We are in a housing recession.
+We're doing nothing to resolve it.
+We're moving into a midterm election
+with mortgage rates rising,
+extrapolate the outcome however you choose,
+but that's problematic.
+So for a home builder,
+you're sitting very disciplined
+in what your cost management is going to be
+and that's going to protect your margin.
+And I think that's a hard stock to own
+based on what you just said.
+I don't think you're going to see the stocks re-rate.
+I don't think you're going to see estimates go higher.
+In fact, they could actually go lower.
+And I just think that that's not a good recipe
+for action in the stock.
+And that's opportunity cost.
+Tole is sort of benefited from the,
+as you guys already said, the K-shaped economy, right?
+The luxury home builder is going to do better.
+It's up 9%.
+That stock is over the last 12 months,
+whereas a Lunar is down 34%.
+And some of the other names, KB for example,
+is down more than 12.
+Nothing else in that space has really done anything
+other than Tole.
+We have Pulte in the ETF.
+The momentum has now flattened out.
+It's basically unchanged to your point
+over a 12 month period.
+So it is a difficult environment,
+but you can make the argument
+that unchanged over a 12 month period
+in a housing recession is actually relative
+outperformance to some degree.
+But there's opportunity costs
+in terms of owning these stocks
+that I'd rather put my money elsewhere
+or I can have a better return.
+Yeah, all right.
+Financials, maybe you want to put your money there
+because they've been on quite a run
+and if you're going to have
+a more pronounced bear steepening in the curve,
+then obviously you're going to look at financials
+as a place that could benefit from that.
+You've come off 11 straight weeks of gains for that space.
+It's the longest ever.
+We hit a record high last week.
+That's where a lot of the activity, Bryn, has been,
+within the financial universe.
+And now people like it, I think, a little bit more
+because as Steph said, the economy's still good.
+And higher rates are just better for net interest margins.
+Right, because you can have the short end
+that you're lending, you have that huge delta
+between the short and the long end,
+which is great for banks.
+I also think you need to think
+what type of bank are you buying?
+So we're Goldman, people are buying Goldman,
+I think for trading and IPOs.
+Bank of America is like the consumer.
+JP Morgan is like all of all together.
+And so I do think that if we were going to keep
+this steep yield curve,
+I think you could actually get that baked into earnings
+over the next few quarters.
+But I still think there's gonna be a lot of volatility
+and I still go back to my original commentary
+about looking at the tenure over the past three years.
+We've been incredibly range bound and it's been very volatile.
+And so I think ultimately if rates come back down,
+then this trade per se doesn't have that many,
+that much legs, I'll say from a trade long-term,
+though the financials have been a great asset class to own.
+Yeah, look, Bank of America stuff up 26% in three months.
+A record high yesterday.
+State Street, Joe, record high yesterday.
+M&T Bank, record high.
+Schwab hit a record high.
+You've got JP Morgan's up 20% in three months.
+Yeah, I'm overweight, the banks.
+And I also own Capital One too,
+which I think is the best bargain out there
+at this moment in time.
+But in Bank of America,
+they've really had such a great quarter.
+I mean, I haven't seen 15% revenue growth, ROTCE, 17%,
+operating leverage, 660 basis points.
+They win from net interest income,
+but they also win from fees.
+And that's what we've all been talking about.
+And fees, investment banking fees were up 50% last quarter
+for Bank of America alone.
+And M&A is on track to do $4 trillion this year.
+So far a year to date, 2.8 trillion,
+up 44% year over year.
+That's amazing for all of the banks.
+Let's see the trajectory and the duration
+of this momentum rotation.
+The Money Center banks are down today.
+Goldman Sachs is down.
+Because JPM and Goldman are within the momentum.
+Yes, absolutely, they are.
+JP Morgan is in JOT, Goldman Sachs I own personally.
+They are clearly financial momentum stocks.
+You're seeing the rotation, Money Center Bank,
+we're going out of those today.
+We're going where there's actually been some relative
+underperformance last few months,
+which is the insurance companies.
+First thing that always comes to mind for me
+on a day like today in the market
+is I want to own the exchanges.
+I want to look at your CME, I want to look at your ICE,
+I want to look at your NASDAQ.
+This is the type of day that's very good for their business.
+But you're talking about like an extremely tactical move.
+Look, you don't have any more information
+on the market, Scott,
+than really the last 24 hours of price action.
+That's where you've seen the paradigm shift
+in the way that the macro funds are accepting risk,
+in the way that the algorithms rather are allocating.
+I think the good thing about what we're seeing
+is that it's a basket rotation
+and not just a flush completely to the exit door.
+Let's see where it goes from here.
+It's 24 hours.
+Yeah, Jonathan Krinsky writes today
+that financials look vulnerable.
+That strength often begets strength
+but with financials at the top end
+of a nearly decade long trend channel.
+Again, he's a technician.
+And combined with all of the other warning signs,
+it's not, not the spot to chase.
+And in fact, looks like a timely area to reduce risk.
+Think about that.
+Is it a timely area to reduce risk
+after, again, will remind you again,
+11 straight weeks up, longest ever for this group.
+So I don't think so.
+The way I played it in our portfolios, obviously,
+I'm in the investment banks
+and Goldman Sachs is the primary name that we hold.
+To Steph's point, I mean, investment banking,
+50% for Bank of America, 55% for Goldman Sachs,
+M&A, capital markets, activity trading,
+all of those are distinct positives
+that are continuing to accelerate, not decelerating.
+So the way we play it, I continue to like where we are.
+I see the run that has happened
+but I think it's more of the breath story
+that I think can continue to give legs to this market.
+Private equity is where I agree with him.
+Private equity has had a nice recovery rally.
+Because software has too.
+Software.
+Exactly.
+I'll take the other side of that rally.
+I'll agree with Jonathan
+that if you're looking at financials
+and you don't want to say, okay, enough is enough,
+I think it's in private equity.
+I know we ask like, you know,
+at the very top of the program
+are backing up yields, rising rates,
+a problem for the market
+or at some point will they be?
+It's not showing up in surveys from fund managers.
+I cited the B of A1 earlier.
+As part of theirs today,
+they just had the third most bullish survey ever.
+So actually since 22, I'm sorry.
+The third most bullish survey
+of investor sentiment since 22.
+All right, so a number of years.
+But you get my point.
+Cash levels are down to a low 3.5%.
+Global equity allocation surges
+to its highest level since November of 21.
+You know what the targets are doing on the street, Bryn.
+Yardeny goes to 8,400 this week.
+You've got, including him,
+one, two, three, four, five, six, seven,
+like at least eight or nine targets
+that are with a floor of 8,000.
+There was a note yesterday
+that you could do 9,000 in the next 12 months.
+So people are pretty bullish
+despite whatever question marks you have
+about yields, growth, and whatever else.
+Right, because if you go back to earnings,
+which in the short term are a horrible indicator
+of like a one year return.
+Long term, they're a very good indicator.
+But earnings take out the anthropic gains,
+take out the SpaceX gains of the hype, the Googles,
+et cetera.
+Earnings are still incredibly strong across the market,
+not just with 10 names.
+And so I think as long as earnings growth,
+profit margins or operating margins are going higher.
+And so when you just like take a step back,
+the economy is doing well also,
+I'll say less from the consumer,
+more from all of the data center spending,
+which is just massive.
+And so I think you just have to anchor
+on those key fundamentals
+and not get to whipped up about
+where rates are the past week,
+let them settle out,
+because as long as those earnings fundamentals are there,
+then you have that backdrop where the market
+will continue to climb today's wall of worry
+of yields creeping up.
+All right, let's squeeze a break in.
+We're gonna do calls of the day.
+We've got committee stocks on the move.
+We will definitely touch this landmark meta trial
+that's taking place in California.
+What some are calling the most consequential case yet
+over child safety issues on that company's platforms.
+The damages, if the states that are suing win,
+you won't believe the number.
+Tell you next.
+All right, meta has been down today
+as this trial gets underway in California.
+Some, as I said, calling it the most consequential one yet
+over child safety issues on that company's platform.
+29 states are seeking damages,
+which could hit, could a whopping $1.4 trillion.
+So as you know, they already lost two pivotal cases this year.
+Those were viewed largely as test cases,
+but there's gonna be a lot of attention
+on this landmark case.
+Nobody owns it currently here.
+Steph, though, I come to you.
+You sold it recently.
+Just yet another thing for people who own this name
+to be concerned about.
+Yeah, I mean, this is, right, one more thing.
+I mean, I sold it because of fundamentals.
+I sold it because they're spending like drunken sailors
+and I just don't know when they're ever gonna see.
+Operating profits.
+I mean, I really don't like the leverage right now,
+not the profits.
+And this has issues potentially with the algorithm
+and the damages and all that,
+whether you believe it's gonna turn out
+in the worst case scenario or even close.
+It is an overhang.
+It's definitely an overhang
+and I think it's not gonna go away anytime soon.
+And so you have this overhang,
+you have them spending crazy.
+You don't get the margin growth at the same time.
+It's not expensive.
+I mean, it's a 16 times forward estimate,
+but I think for a reason.
+And so I suspect they're gonna settle on this
+and we'll find out in months from now,
+maybe even years, who even knows, right?
+So I don't know, just for me,
+I think that there were other places
+I wanted to put my money.
+I actually put the money back into Amazon.
+I wanted to come to you on SpaceX also
+because you have the next lockup expiration this week
+on Thursday as many as 319 million shares
+or 7% of the total amount.
+How are you thinking about that?
+Because you've been adding to that name.
+And I'll continue to add to it.
+Even with these lockups and these stair step lockups,
+you're undeterred by that.
+Because I'm taking a very long-term view on it
+and I'm averaging down, and my cost base is unfortunately,
+it sucks down 28% from its high, Scott.
+So I mean, I will continue to add,
+it's actually rallied nicely in the last week or so.
+It has, it's back above,
+remember it got below the 135.
+The IPO price.
+The IPO price and now it's back above that.
+I really thought the quarter was great.
+We talked about this when I added to it last week.
+I mean, total revenue of 91% and EBITDA up 191%.
+And they're doubling their subscriber base
+and the space business,
+they have such a huge advantage on cost
+and first mover advantage.
+I think there's a lot of ways to win.
+And of course the renting of AI
+that's really in the compute
+is really something very powerful.
+It is a long game.
+You're not buying this for this past quarter,
+the next quarter or the one
+or the one or the one or the one after that.
+When I retire.
+Yeah.
+But look, given what you said about Meta
+and the spending,
+SpaceX is a hyperscaler.
+Yes.
+No question.
+There's no question about that.
+No question.
+They're gonna be spending
+and you're gonna be okay with that.
+And they increase spending in their AI division by 65%.
+But they said the payback period would be in one year.
+And so that at least I'm willing to hang my hat on
+in terms of believing what they're gonna say.
+They're gonna continue to spend.
+They may even have to do another secondary for all I know.
+I just think this management team has it.
+There's many ways to win.
+And like I said, call me when I'm 65.
+All right.
+Software calls today.
+I wanted to hit a few.
+Snowflake goes to 408 from 325 outperform at Citizens.
+I'll give you this one.
+Steph owns it too, but let's hear from you.
+Yeah.
+So I mean, Snowflake's been phenomenal.
+It's up 47% so far year to date.
+EPS revenue, well revenue was up 33%.
+EPS growth up 68%.
+I like the deal that they just did with AWS.
+I think the consumption model is interesting
+because it can produce inconsistent results.
+But I continue to like this data warehouse storage game.
+I like this name in the softwares.
+Okay, then I'll go to Steph
+because you and Steph both own service now.
+What do you think about this one
+as the target goes to 150 overweight at Capital One?
+And it's had a nice rally off the lows,
+but it's still down 22%.
+I still can't get my arms around this company
+growing 24% subscriptions.
+They're growing revenues of 20%.
+RPOs are growing 20%.
+The stock's trending 25 times.
+I mean, it's really pretty attractive here.
+Great management team.
+50% of their business is consumption based now,
+which is also very important.
+And I think that's only going to increase
+and that will help over time to earnings and multiple.
+Cyber's been great.
+Everybody knows that.
+CrowdStrike Joe 250 from 230 by Benchmark.
+Yeah, let's get a little bit more of a correction here
+in front of earnings.
+I think that would be healthy.
+I would like that.
+CrowdStrike, I believe reports the middle of next week.
+Palo Alto, Steph, I think is the week that follows.
+They need to, they're going in with really high expectations
+to this earnings report.
+It's a little bit of an adjustment in price,
+maybe for CrowdStrike below 200 back towards 190 area.
+Let's do Brent on Uber.
+Outperform 112, Mizzuho.
+You own that name still, right?
+I do.
+I've been in and out of this name.
+I think I've traded it pretty decently.
+You've been able to buy this name
+in the high 60s, low 70s,
+and then right now we're at resistance.
+If it can break above this 76, 77,
+I think the stock can just easily drift into the mid 80s
+where I'll probably sell and do this again.
+But I think at this point, the fundamentals are there,
+but it needs to get above this 76, 77
+or at risk going back down into that low 70 price range.
+Okay, Frank Holland, he has a CNBC news update for us.
+Hi Frank.
+Good afternoon, Scott.
+Two workers are accounted for after two explosions
+tore through an industrial recycling plant
+in Toledo, Ohio, earlier this morning.
+Officials say a few other suffered minor injuries,
+the blast erupted during a shift change
+of Brent Industries.
+Firefighters are now battling the flames,
+hazardous chemicals and contaminated runoff.
+A former Department of Justice lawyer says
+a Trump administration anti-semitism task force
+pressured Ivy League schools to settle
+despite rushed or incomplete investigations.
+The whistleblower alleges outcomes involving
+Harvard, Brown and Columbia were politically predetermined.
+The administration says its campaign is aimed
+at combating anti-semitism on campus.
+An ICE is considering subsidizing liability insurance
+for state and local officers deputized
+to make federal immigration arrests.
+The proposal will cover up to $500,000
+in legal fees, settlements and judgments.
+Supporters say liability concerns
+discourage police partnerships.
+Critics warn the plan can reduce accountability
+for misconduct.
+Scott, back over to you.
+All right, good stuff, Frank.
+Thank you, Frank Collins.
+Up next, Retail's Big Week.
+We get the setup on some key names
+reporting in the coming days.
+Wow, Target targets up 54% year to date.
+Can it hold that momentum or not?
+We'll ask Stephanie Ling next.
+Target's having its best year since 2019.
+It's up 54%.
+Back the chart out though.
+Let's do a five year.
+How about that?
+Because it tells a different story.
+There it is.
+Steph, you own it.
+So I'm trying to figure out what to make of this rebound.
+In many ways, there was only one way to go.
+Is this sustainable or is this everything about
+it was just gonna rebound at some point?
+Did the fundamentals match the chart year to date?
+I mean, I think you have a new CEO
+who's doing really well in terms of operations
+and changing the company and changing the product mix
+and just doing a really good job
+in terms of supply chains and cost controls
+and spending to grow.
+So the expectations are high, but to your point,
+you go back five years.
+I mean, this thing was the 266 back in 2021.
+So it has a long way to go,
+but I do think they are making progress.
+And I think the most important number to me
+is going to be the operating margin number
+because it's at 4.5%.
+It's at a trough.
+They got to 8% plus back in 2022.
+And so I think if you can start
+to gradually see operating margins increase,
+I think the sales are gonna be there
+because they're getting the traffic in the door
+because of all these changes that they're making.
+Remind me of, did you sell half this position
+or some of it within the last year?
+Oh yeah, I did.
+Yeah, absolutely.
+I sold it and then I bought it back
+once I saw what he was doing.
+And you sold the whole thing and bought it back or just some?
+I saw a half of it and then I bought more
+because he's doing a really good job.
+Now tomorrow the whisper numbers for comps are 3%.
+That's gonna be down from 5.6% last quarter.
+The whisper number for earnings, 240 with a plus sign
+and then a guide of $9 this year, 10 next year.
+So there's a lot of high expectations
+and if they fall short on any of these things
+would not be a surprise to see it pulled back.
+But I would probably be a buyer if it pulled back a lot
+because I still think there's more room to go longer term.
+Joe, who's in Walmart, who reports later this week.
+Yes, TJX, Rust stores as well.
+When we first incepted the ETF in 2020,
+Target was a momentum stock that we owned.
+It now could be characterized based on price
+as a momentum stock.
+Fundamentally I think you're gonna need to see
+a continued improvement, Q1 to Q2
+because a lot of people will point to Q1 and say
+it was the tax refunds and it was the calendar
+that they benefited from.
+They have to show that there's sustainability.
+One thing that's interesting.
+Okay, so they haven't hit the quality metric.
+They have not.
+Which would get it back into the ETF.
+Exactly, and I think one thing that's interesting
+about this is the analyst community.
+Only 34% of the analyst community has a buy rating
+and the actual average price on it is 145.
+So prices, the analyst 12 month price target
+is below where the actual price is today.
+Only 34% of the analyst community like the stock
+from a sentiment perspective that's very interesting.
+Because we got burned for so many years.
+And the analysts generally with that type of formation
+continue to get burned.
+What about Estay tomorrow?
+So Estay, Beauty Reimagined is the concept
+that the CEO put in place about a year ago
+and that's going to lead to better organic growth.
+I think you will see good organic growth
+in the quarter tomorrow.
+More importantly, what do they say for fiscal 27?
+Because this is their fourth quarter tomorrow.
+So I think they have to say 3% to 5% organic growth.
+I think they have to say 12.5%, 13% operating margins
+and that this program is leading to better growth
+and better dynamics at the company.
+So it's still down a lot year to date.
+So the expectations are much lower
+and I feel pretty good at least on the long-term.
+Okay, Mike Santoli will join us after this break.
+While we're back seeing the markets commentator
+and overtime co-anchor Mike Santoli
+is here for his midday word.
+And look, I've been asking you almost every day
+about this backup in yields
+and maybe the markets finally paying attention to this.
+No doubt it's paying attention.
+It's sort of a yellow flashing light.
+Obviously not necessarily breaking out aggressively today.
+So we're able to stay on the rails
+in terms of the equity market response.
+I still read it as the bond markets around the world
+saying there is voracious appetite for new paper,
+public sector, private sector,
+and we have to ration it at some level.
+So higher real yields.
+Interesting how the equity market's trying
+to keep it on the rails.
+I think we bounced off of like 77.01,
+the S&P 15 times today.
+And it's again, another one of these days
+where you have memory down, semis are hurt,
+but the average stock is doing fine.
+And not great, but it's hanging in there.
+So we're preserving the equity index breakout.
+I don't know how much longer we can keep
+the choreography going in this way at some yield level.
+I think it does create a bit of a broader test.
+Right now, I don't know,
+I don't know how much lower we think 10 should be
+than four seven given economic growth,
+nominal growth where it is and all the rest of it.
+It can go lower if the Fed's cutting,
+but if we're here, the yield curve
+is not like very dramatically wide at this point.
+I wonder how much attention this move in yields,
+especially the backup at the long end
+is getting inside the Fed.
+In terms of if at least a small part of that move
+is due to this new communication regime
+or lack thereof, whether it forces the chair's hand
+to rethink at least some part of that strategy.
+Yeah, I don't think it forces,
+it is an opportunity to rethink it,
+but I think what you might have them say is
+the market-based inflation expectations component
+of yields is not actually what's flaring up here.
+It's really much more the real yield side now
+is that market demanding term premium
+because a wider range of policy options down the road.
+We don't really know how this Fed communicates.
+Maybe that's what it is, but I don't know
+if they're willing to necessarily say,
+hey, this is all us because it's happening
+around the world and it's just unclear
+what message you would take except,
+hey, growth's probably gonna be solid.
+We have this massive investment
+and consumption of capital cycle
+and this is the outgrowth.
+I think it does, if nothing else,
+raise the stakes for the Jackson Hole speech
+in that it in that sense forces the chair
+to deal with this issue and several more questions
+about the backup in yields than he otherwise
+might entertain. I think if you were making a list
+of things you might hope to learn from that speech,
+maybe it is, he loves to say the market
+should be determining these things.
+We should be taking the signal from the market.
+What signals are you taking?
+It's just sort of my point.
+And just how are we reading the current backdrop?
+Right, is the market reading it right?
+And what do we get out of that?
+I don't know, but that makes it all the more intriguing.
+I'll see you later.
+Mike Santoli up next.
+Oliver Renek has options action for us from SIBO.
+Options action time, Oliver Renek joins us live
+from the SIBO global markets in Chicago.
+We're talking about NVIDIA.
+That's right, Scott, earnings next week for the stock
+I think are most interesting when viewed in context
+of the company's relationship to its sector.
+NVIDIA has underperformed the SMH
+by 35 percentage points this year,
+but its volatility has also been lower.
+And at this point, some stability in the sector
+would be welcome.
+Options pricing suggests a roughly 5% move
+after earnings, but the implied move
+has a consistent history of overpricing
+the actual swing.
+NVIDIA has moved just 2.5% on average
+after its past four reports.
+More encouraging for bulls is that options flows right now
+lean towards calls.
+About 2 thirds of options premium today
+was tied to calls, and more than twice as much money
+was spent buying calls than puts.
+That is notably more optimistic than what
+we see in the sector ETF where put buying dominates
+the tape today, two to one buy volume versus calls,
+including the second day in a row
+of some big outright speculative put buying, Scott.
+Interesting.
+All right, Bob, we got earnings in, I guess,
+a little more than a week.
+Oliver, thanks.
+Oliver Renwick, how are you feeling about these earnings
+coming up?
+I mean, the stock's had a nice run to say the least.
+It's certainly woken up.
+And what that means perhaps for where the bar is
+going into the number now.
+Yeah, that's up 20% in the last month.
+And I just think that massive investment they've made
+into the alt managers are just
+going to change the dynamics in terms of investing
+into the space.
+So I really like Nvidia here and on a going home basis.
+Yeah, Bryn, quick.
+Yeah, I mean, I still think 228 is going to be tough
+to get through.
+The stock should be higher, but the market's saying it should
+not be.
+Yeah, well, it's going to be one heck of a week next week.
+We can't wait for that, obviously.
+We'll take a quick break.
+We'll come back and we'll do finals.
+All right, I'll see you on closing bell, 3 o'clock.
+Adam Parker, Kevin Gordon, Shannon Sikosa, Gene Munster,
+Michael Zanian going to join us as well on the Bus Family
+Drama regarding the Lakers.
+New developments, of course.
+On that story, we'll follow it.
+Bryn, what is your final trade today?
+INFL, I like this for offense and defense.
+It owns the exchanges with Joe Likes, Metals,
+and Low CapEx energy names.
+Oh yeah, OK.
+Elanco Animal Health.
+Yeah, I don't own this, but the stock is down 12%
+from its highs.
+You're seeing insider buying very strong fundamentals
+with market share gains.
+Very interesting.
+Well, you used to own Zoetis, right?
+I own both of them.
+And now you don't own this one anymore?
+No, not yet.
+OK.
+OK.
+Teaser coming.
+Tease.
+All right, you'll give us the details.
+We know where that's going.
+Eli Lilly.
+Yes, sir.
+Joe T. Eli Lilly about to make a new all-time high.
+That's what I see in front of it.
+All right, Netflix.
+Netflix ad revenue is going to double again in 2026.
+Nice mover today.
+Thanks, everybody.
+I'll see you on the bell.
+The exchange is now.
+You've been listening to CNBC's Half-Time Report,
+the podcast.
+You can always catch us live weekdays at 12 Eastern
+only on CNBC.
+All opinions expressed by the Half-Time Report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated
+by them on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy.
+But only as an expression of opinion.
+Such opinions are based upon information
+the Half-Time Report participants consider reliable.
+But neither CNBC nor its affiliates and or subsidiaries
+warrant its completeness or accuracy,
+and it should not be relied upon as such.
+To view the full Half-Time Report disclaimer,
+please visit cnbc.com forward slash
+Half-Time Report disclaimer.
