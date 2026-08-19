@@ -107,7 +107,8 @@
   "VRTX|above|526.81": "2026-08-10",
   "DKNG|above|24.47": "2026-08-10",
   "NEM|above|116.06": "2026-08-10",
-  "XYZ|above|83.18": "2026-08-13"
+  "XYZ|above|83.18": "2026-08-13",
+  "TJX|below|147.1": "2026-08-19"
  },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
