@@ -34,7 +34,7 @@ CHANNELS = {
     "Mr. FIRED Up Wealth": "UCqqHGGPbhISeKkpEx8676sw",
     "Kaspa Silver": "UCv8-2oyrfqDigJAKjZ_RCzQ",
     "Wicked Stocks": "UCQSiWKh7o9oRtApc4YjRssg",
-    "Traders Helping Traders (Peter DiCarlo)": "UCL3GYYWrvQ8pS8Q8eN__Xag",
+    "Traders Helping Traders": "UCMno7bbQKigk6RxiO0uv78g",
 }
 
 STATE_PATH = "summaries/youtube/state.json"
