@@ -1,0 +1,953 @@
+Trading at Schwab is now powered by Ameritrade, bringing you an expanding library of education
+with even more ways to sharpen your trading skills.
+Access new online courses, insightful webcasts, articles, engaging videos, and more.
+All curated just for traders.
+Plus, guided learning paths with content designed to fit your unique interests.
+And no sifting to find exactly what you need, so you can spend your time learning to
+trade brilliantly.
+Learn more at Schwab.com slash trading.
+Time for a quick break to talk about McDonald's.
+Listen up, McNuggets lovers.
+McDonald's has some juicy news for you.
+Now you can get a 20-piece chicken McNuggets for $6.
+That's right, 20 crispy golden chicken McNuggets for just $6.
+Perfect for sharing or keeping them all for yourself.
+We won't judge.
+Be sure to order ahead on the app and save time picking up your meal.
+Available for a limited time, $8.03 to $8.30, $26.
+Price and participation may vary.
+Cannot be combined with any other offer or combo meal.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report, the podcast, the most profitable
+hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Carl, thanks.
+Welcome to the Halftime Report.
+I'm Scott Wapner, front and center this hour, the state of the markets, with one of the
+biggest investors on Wall Street declaring the environment one of the most exciting,
+most fun ever.
+We'll discuss and debate whether, in fact, it is with the investment committee.
+We'll document a new move from Josh Brown as well, so you don't want to miss that.
+Joining me for the hour today along with Josh, Jim Labanthal, Rob Siechen, we'll go to the
+markets here.
+We do have an issue today.
+We are red and it's largely because yields are back up, oils back up, threats are back
+up from the White House and the president regarding Iran.
+Markets obviously don't love that.
+Still, as I said in the open, many big investors say the environment's bullish.
+Black Rock's Rick Reader, he told me on closing bell we could get another 5% to 10% out of this
+market this year and that there's so much going on, it is almost overwhelming.
+I will say, Scott, this is the best, most exciting, most fun investment environment
+and then I go home at night and I fall asleep immediately.
+It is exhausting.
+Wow.
+It is.
+There's so many.
+I mean, like today alone like you came, you sat at the open.
+The cross currents, we spent a bunch of time today on healthcare.
+This maternal news is significant.
+So we started to look at the tools, businesses.
+We looked at different parts of healthcare, like boy, every day there's a new menu to look
+at.
+I will say one thing.
+I've never in my career felt like every day I come in and I feel like I'm prepared
+and I go home and I feel like I'm behind and it's incredibly exciting time but it's
+stressful because we're learning so much every day.
+We thought that was a great jumping off point for us today to have a really robust discussion.
+We'll start it off with you, Josh, when you hear that from the gentlemen at the world's
+largest asset manager who is the CIO of not only global fixed income but heads their
+global allocation team, he's as plugged into the bond market and the stock market
+as you'll find anywhere on Wall Street and that's what he had to say.
+Rick Reader, what do you think?
+Exciting is not always great, I guess would be, I totally agree with everything you said,
+especially in fixed income.
+I don't think most people are allocating the fixed income portion of their portfolio
+hoping for excitement.
+I think you guys are probably agree.
+I think we get enough excitement from the equity side but to his point, longer yields
+are back up today.
+So we did a little bit of jaw boning exercise, a little messaging, let's call it, from the
+Treasury.
+Yesterday, now we're back up six basis points which is the biggest mover of all durations.
+The big picture here is this is not Trump specific or Besen specific or US Fed specific.
+What we're seeing at the long end of the bond market is happening literally all over
+the world everywhere except for Switzerland.
+Why not Switzerland?
+Very disciplined with their debt.
+Everybody else, it's been a free for all, especially since COVID accelerated, what's
+been going on for 15 years.
+No political party in any developed country around the world wants to make any tough decisions
+and so in the absence of any kind of fiscal discipline, what we essentially have is
+deficits growing.
+Now you couple that with political dysfunction and you see this happening in the Japanese
+bond market, you see it happening here, it's happening in France, the UK.
+This is a global phenomenon.
+I don't mean to scare people because the good news is, yes, we are now approaching one to
+one on debt to the size of the economy, it's a little bit scary, however, who owns the
+debt?
+In the case of the United States, we're paying interest to ourselves, investors own most
+of the debt.
+So long as that equilibrium is in place, we can keep kicking the can, we can do
+this into another administration and then maybe even another one after that.
+So the stock market has been able to hold in the excitement that Reader is talking
+about.
+Absolutely.
+That's going on on the bond side of people's portfolios.
+But I don't think-
+He's talking about on the stock side too.
+Let's not just judge him by his title.
+He's not talking about, oh, there's so much excitement on the credit side.
+Forget about what's happening on the stock side.
+He's using the Moderna Merck News yesterday to say this environment is incredible.
+Look at what's happening in AI.
+Look at what's happening in healthcare.
+Look at what the beneficiaries are going to be in XYZ areas, and it's so hard to keep
+up that it's almost overwhelming.
+And who could disagree?
+Right.
+Yeah.
+I mean, what do you think?
+I mean, there's no question that there is so much going on right now.
+There's genuine enthusiasm there, there's enthusiasm because of the GDP trajectory.
+One of the challenges that we see is in the very short run, it's gotten a little lopsided
+with sentiment.
+It's got-
+It's definitely-
+People are too bullish?
+Yeah.
+There's definitely a start.
+We're entering a seasonally weak stretch mid-October, mid-August through mid-October
+are historically seasonally choppy, maybe not weak periods in the market.
+And ultimately though, I think if we do get some type of re-rating on this scare, that
+you have to be a buyer of this, I would also say-
+On what scare?
+The backup in yield.
+Yeah, the backup in yield, which I think's- I think's you're fighting policy, the White
+House, the Fed, well, Treasury, maybe the Fed, we'll see next week, but the reality
+of it is that has been the worst bet to make in markets since the new administration took
+place.
+Every time there's an issue, making a bet against that, extrapolating, look at what happened
+when Yellen did this, Scott.
+She again did the operation twist, right, issued short end to buy long end, and yields
+fell 100 basis points over the following 12 months.
+I'm not saying you're going to see that, because I think we're entering a systematically higher
+yield environment, but it's well supported by what's happening economically.
+And that's what Rick is citing.
+And by the way, earnings are not just terrific.
+Rick is not suggesting that the economy's booming.
+In fact, it's the alternative.
+It's good, but it's not great.
+And then if I layer on to you that maybe the biggest reason that yields have backed
+up is because, and I don't even know if it's a maybe, because I think people are
+in agreement, and even the Treasury Secretary himself said it on the air this morning, the
+amount of issuance that you have had enter the market because of the AI buildout is having,
+he used the word asymmetric in terms of the kind of information that he thinks he has
+versus what the markets have.
+But it has had, some say, an asymmetric impact on the move in yields maybe more
+so than anything else.
+Well, it's also had an impact on equity valuations as well.
+We entered it 23 and a half times and we're at 19 times right now.
+Well, thank you, earnings.
+Well, of course, but you could have maintained that pace of play and could be up even more
+just because earnings have been so powerful.
+I get your point, but there's another point in that, that we've had some multiple compression
+and some of that is due to rates.
+You can't ignore that.
+It's not just due to pure earnings power.
+No, but you're suggesting that, and he said the Treasury Secretary did, of course.
+We can do more if we have to, if we want to, but the point is just like the Fed, by moving
+interest rates, can't really deal with oil-induced inflation or tariff-induced inflation.
+Can the Treasury really do anything by intervening in a market that is being asymmetrically
+driven by the tremendous amount of issuance that's coming on the market related to AI?
+I think it's a fair conversation to ask, fair question to ask.
+Really a fair question to ask, but I think when you get yields at these levels and you
+see the issuance, yes, you've got a hyperscalar issuing at 10 to 15 basis points more expensive.
+Big deal when you have that type of growth coming out of this area.
+I do not care, honestly.
+No, I do not care, but the long end of the Treasury market cares.
+The long end is caring until there's clarity, more clarity around how they're going to do
+it.
+And the first shot across the bough was yesterday that we want to control long-term rates, because
+that's prudent.
+We don't want it to become unhinged.
+And by the way—
+I thought you were talking about more clarity from the Fed, because even President Mussolam,
+who was just here, said, you know, you can still not give forward guidance if you
+don't want to.
+He's not—I don't think, you know, most people at this point are not great
+fans of forward guidance, but that doesn't mean you give no idea of what your framework
+is to get to the target that you suggest that you, darn right, will get to, and you need
+to communicate that to some level.
+And I agree with you, and we might have forced that communication, and that's why Jackson
+Hole becomes so important.
+But I can tell you from a portfolio standpoint, when I hear the amount of banter on how
+fearful people are about higher rates right now, you know what it makes me want to do?
+Buy.
+Buy duration.
+Always works.
+Maybe not today.
+Maybe we get a little more extended.
+How much do we ship?
+How much?
+The 10-year, not the 30-year.
+Yeah.
+I was going to say—
+Yeah.
+Here's the portfolio benefit.
+One more thing.
+Josh, you know this.
+I'll buy a 5%.
+I'll buy a 5% 10-year.
+Exactly.
+So for the first time in a long time, fixed income now can actually hedge if
+we become unhinged, because there will be demand for that price.
+So I agree.
+This is a key point.
+I agree.
+And to your point, there are no iron laws in finance.
+Almost nothing really works all the time, every time.
+The closest we have to an iron law in investing, asset allocation, is that the starting yield
+on a treasury, if you hold for that period of time, and then you dial back and say,
+what was my return, my total return, very important, not just the yield, the starting
+yield is almost perfect.
+So hypothetically, if they get the 10-year up to 5%, everyone on the network is freaking
+out, and clients are calling, what do we do, what does it mean?
+If you buy that 10-year and you take that 5%, you take that 5% print, and you hold
+it for 10 years, you're going to get 5%.
+Like within 95% range of probability, you can't say that about anything else you
+can do in a portfolio.
+You can't say it about PE ratios.
+You can't say it about really anything.
+But if that's where they're going to take the 10-year, I'm going to go to 5%.
+I'm a buyer, too.
+I think Rob's exactly right.
+Josh, I'm so glad you brought in asset allocation because the three of us do that
+for our clients.
+And we all know that if we went back five years ago, it wasn't 4.7%.
+It was like 1.5%.
+And what we were telling our clients was, put these bonds in because it will stabilize
+your overall portfolio.
+And that's all you're getting.
+I mean, I'll speak for you guys.
+We actually like this because we can give volatility dampening in our client's portfolio through
+bonds while still giving them a real after inflation return.
+Now, of course, this means that somebody who is buying a 4.7% Treasury or a 5% 10-year
+or a 5-year corporate bond might be taking that money from equities.
+But to Rob's point, we have a strong economy.
+We've got good profit growth.
+And people who are thinking about selling their equities in order to go into fixed income
+are considering, do I really want to give up on this market?
+I don't think most people do.
+I don't think that's where the debate, people aren't thinking about selling their
+equities and going into fixed income.
+I think if there's, what, $9 trillion in money markets sitting out there, people
+are wondering, should I take the cash?
+And what asset class should I put that to work in?
+It's not necessarily, there's been articles written lately about fixed incomes being as
+a hard if not impossible sell by what you guys are trying to do for your clients.
+There's no interest.
+Well, that's because it depends on each individual and their risk tolerance.
+I happen to be an equity portfolio manager at heart.
+So given the choice between, let's say, a 5% 10-year bond and the equity markets
+right now at 20, 19 times earnings, which is a corresponding 5% earnings yield, I'll
+take equities all day long, not because those numbers are equal, but because I've got that
+growth rate in earnings that I feel very confident about seeing the earnings reports
+coming in.
+Okay.
+Debate number two, which I thought was really interesting from this morning as well.
+So we're all thinking about and talking about probably, you know, endlessly the
+momentum trade.
+It's being closely watched every day.
+It has not traded all that great lately.
+Now, FactSet today mentions some talk of disappointment around the recent numbers we got from annual
+recurring revenues from both Anthropic and OpenAI, that some of the expectations around
+those numbers were a bit higher than we got, especially for Anthropic as amazing as they
+seem to be on paper.
+They also mentioned the data center backlash.
+Is that starting to have an impact in this area, on this trade in any way?
+You know it's only going to get louder as the midterms get closer and then the 28th election
+starts to creep on us as well.
+So semis today are looking to snap a two-day losing streak.
+Memory names as we've seen are higher.
+Micron is, SK Hynex is, at least they were.
+Let's take a look at those.
+So Micron's CEO Sanjay Mahotra was on Squawk on the street earlier this morning and
+said this.
+Memory is no longer a component in a system.
+Memory is that strategic infrastructure for AI.
+It's no longer a commodity, it is a high value.
+This is enabling value for our customers.
+Without memory, you cannot make AI smarter.
+You cannot make AI faster.
+You cannot scale up AI.
+You know, AI is advancing, lot of context is getting generated.
+All of that context has to be stored, has to be processed through memory.
+Okay.
+The line that jumped out to me the most.
+It's no longer a commodity, it is a high value.
+Is that gentleman right there suggesting that what has always been viewed as a cyclical
+trade should not be anymore?
+That it's now secular because of how valuable chips will be in the continued build out?
+Because then you need to have a valuation conversation about things that were traditionally
+seen as priced here, which have now been priced here, and maybe the here is where it's supposed
+to be given what he just said.
+So let me start by saying I'm long Micron, I would add to it here with new money
+so I think it's a buy.
+That said, I'm going to sort of tamper what he was saying a little bit.
+Right now we're in a position where demand is exceeding supply by a lot.
+I still think this is a cyclical area, a cyclical sector, a cyclical commodity, but this cycle
+is very drawn out because of the artificial intelligence build out, which is measured
+in trillions and going on for years.
+So then he says the guy who's running Micron says it's no longer a commodity and yours
+...
+I can't believe he said that.
+Exactly.
+Exactly.
+Okay, so fine.
+He's talking his book.
+Let's just say he's right.
+He's not being disingenuous.
+That's not what I'm saying.
+What I'm saying is this is a cycle.
+It's a long game.
+Cycles can be much longer than historical.
+Yeah.
+And when that happens, of course it feels like, hey, this is specialty.
+You know, remember when like there was specialty chemicals, like it's nothing special
+about it.
+All right?
+It's supply versus demand.
+Right now we've got limited supply.
+It takes a long time for supply to come on.
+You've got demand not just for the artificial intelligence build out, but think about
+Apple who's waiting to get chips wherever it can or even, you know, more pedestrian things
+like washing machines or cars.
+He's suggesting that the long-term demand equation has been completely reset.
+And it has.
+He's 100% right.
+Here's why.
+Data centers have been around for a long time.
+I happen to spend the weekend in Carmel with two executives, CEOs of data center
+companies that'll be unnamed.
+They said we are in the first inning of these build-outs, the first inning.
+And when you did a data center years ago, it required basically one-twelfth of what is
+required in the current data center.
+So not only have you built more, they're 12 times as big and it's going to be a longer
+cycle.
+And by the time you get to the end of the cycle, you're rebuilding at the beginning.
+It is core infrastructure, full stop period.
+Let's look at Micron's current forward PE guys, please, if you can put that up
+while Rob is talking.
+Thanks.
+Go ahead.
+I just think that's, I was shocked to hear that we are in the first inning in some of
+these data center builders' eyes.
+Okay?
+It's just unreal demand that they're seeing and it's a visible, visible demand.
+In some of these cases, they're building out 12 units on these campuses.
+And they're done with one.
+It's remarkable.
+So we own all these stocks in our momentum portfolio, Porterhouse.
+I think to move the conversation to, okay, so let's say you agree with Rob or you
+agree with Jim or you think the truth is somewhere in between, which is kind of
+where I am.
+What do you do?
+So the problem with the way that people have historically played momentum, they
+buy MTUM for example, which is up 8% from its low on 729.
+We had that momentum wash out in July and then everyone went back to the
+game like it never happened.
+The problem is that's 48% technology.
+So you're not just betting on momentum and market leadership.
+You're making a de facto memory chip bet with that portion of your portfolio.
+The top five holdings, MU, AMD, Broadcom, Intel, Caterpillar, they're all AI bets.
+And so that's half the fund, even the non-tech stocks tend to be AI bets.
+I think there are so many other stories in the market that are not AI related that
+do have momentum.
+And I thought I'd share a couple because I don't think we talk about them enough.
+JB Hunt is a market leader, not AI, really in any way, shape or form.
+Marathon Petroleum, which we've talked about a million times, INCY is part of
+this biotech rally.
+Expeditors International, these are not AI plays.
+Valero is working, East West Bank Corp is working.
+Now you could make the argument, there's like this indirect thing where yes,
+they're in another sector, but they're doing business with AI companies.
+Okay, fine.
+I'll spot you some of that.
+I just don't think you need to have this portion of your portfolio.
+I'll drill down on that.
+50% AI.
+I want to drill down on what you said because I think it's really important.
+The businesses are fundamentally sound, right?
+But price doesn't always fund the business.
+Price doesn't always mirror the business.
+And what's happening is a lot of these momentum names have moved so fast,
+they've attracted fast money.
+And if that fast money sees another place to put their fast money,
+you could get a price re-rating without a business re-rating.
+Right, we just have one.
+Exactly.
+And that's the challenge.
+But Rob, in a lot of these sectors, if we're talking about energy or health care,
+which you didn't mention, when you're talking about price re-rating,
+these are not expensive areas to begin with.
+No, I'm talking about microns.
+SK Hynex is those type.
+That's what I was talking about.
+The argument is whether it's cheap or expensive.
+Well, the bearers want to point to momentum as a theme, which is leading the market.
+And they want to say it's $19.99.
+The problem with that is the forward-weighted average PE for MTUM is 19 times.
+It's really, really difficult to make that case.
+We just so happen to have these gigantic companies that used to be price-like cyclicals.
+They started out at very depressed PE multiples.
+They've gotten some multiple expansion.
+But they're not selling at $19.99 levels.
+Josh, since you brought it up, the $19.99 levels, what's the big distinction here is in $19.99,
+two things were going to happen.
+2000 was going to come, Y2K hits, the tech spending goes down immediately.
+The other thing is all that fiber optic spending was speculative.
+There was no revenue associated with that.
+That is a 180-degree difference to say Andrew Jassy, CEO of Amazon,
+talking about recouping the investment in a data center today in less than three years.
+Those data centers that are being built are profitable.
+The demand is there and spoken for key difference.
+Let's run through, I think, some stocks that we need to get to.
+SpaceX, another lockup expiration today.
+Could get as many as 300 and almost 320 million more shares hit in the market.
+7% of the total amount.
+You own the name.
+How are you navigating yourself through this?
+We do privately, but we're getting stock off in lockups.
+Our recommendation has been to trim.
+The way they've designed the lockups is really intelligently because they're
+staged lockups, expirations, so you can manage the flow on to the market.
+You guys holding or selling?
+We are mostly selling, but we do have clients.
+Remember, we don't own this in a portfolio.
+We own this directly in a private, each client owns this.
+So if the IPO is 135, you are saying trim at 131?
+Because they're getting 6% of their total exposure out.
+It's 15%.
+So you're keeping much because you have to, a bunch because you have to.
+And so we're recommending trimming the balance.
+Kind of taking your basis out, Scott, if you can think about it like that.
+You're taking the win.
+Okay.
+CrowdStrike, CTO's leaving to start an AI cybersecurity fund.
+Stock down a bit on that.
+What did you take, Josh?
+So I'm long the name and I don't typically react to things like this.
+I don't think it's existential.
+The jockey that's riding this horse is George Kurtz and in George We Trust.
+This is one of the best performing software stocks of the era.
+I really don't see that changing.
+Walmart down after what some are calling a messy quarter.
+X fuel comps missed.
+Seems to be a lot of focus in that area today, which is probably the principal reason the
+stock's down nine and a third percent.
+They did raise their guide.
+TJX got downgraded from a buy.
+So how are they, by the way, the analysts who did that, cites a quote unquote execution
+misstep.
+Are we thinking about these?
+Well, here's how we're not thinking about it, at least from my perspective.
+I don't think the consumer is in trouble.
+I know there's a narrative out there.
+People want to believe and have wanted to believe for five years that the consumer
+is going to fall out of bed sometime soon.
+That's not what it is.
+If I look at Walmart, I simply see a stock that was priced for perfection even after
+a recent slide and a slight mis here or a slight execution issue, same with TJX, by
+the way, causes the stock to go down.
+And as a proof on the other side, look at what Target's been doing, where they've
+been executing well and it's been a cheap stock in the sector.
+My point being is in retail, be selective with your stocks.
+Pay attention to valuation.
+But don't throw in the towel and think that the consumer is giving in after five
+years of hanging in there through everything, whether it's COVID, whether
+it's pandemic spending, whether it's student loans starting up.
+The consumer is just fine.
+The street wanted 3.7% same store sales.
+They did 2.6%.
+That's a great quarter for Walmart.
+I'm sorry, off the size base that this company has, they beat on earnings,
+they beat on revenue.
+It's just slower growth than what they had been doing in previous quarters.
+It seems like an overreaction.
+I think this is a top five worst single day for Walmart ever.
+I don't know.
+You probably buy it before you sell it.
+All right.
+Let's just do a quick checkup on, pardon the pun, on Moderna and Merck, because
+obviously it was such an extraordinary day yesterday with that announcement of
+the positive phase three on a skin cancer treatment.
+Moderna was up just tremendously yesterday, so it's given a little bit back
+today, 23% back again.
+Take the context fully, though it was up like 140 something percent yesterday.
+Merck, a couple of calls on today, upgraded to overweight at Morgan Stanley.
+They're looking at the cancer pipeline, so that's important.
+Downgraded though at RBC, they look at the momentum continuing, but say the
+valuation is now full.
+They go to 150 on the target from 142.
+We're back with a trade alert from Josh Brown.
+Just added a name.
+We will discuss next.
+Trading at Schwab is now powered by Ameritrade, bringing you an expanding
+library of education with even more ways to sharpen your trading skills.
+Access new online courses, insightful webcasts, articles, engaging videos, and
+more, all curated just for traders.
+Plus, guided learning paths with content designed to fit your unique interests
+and no sifting to find exactly what you need, so you can spend your time
+learning to trade brilliantly.
+Learn more at Schwab.com slash trading.
+When you partner with CDW, you get more from your devices with solutions that
+take modern work to the next level.
+CDW experts are delivering powerful productivity with Lenovo AI PCs, helping
+users block out distractions, access virtual support anytime, anywhere, and
+share content seamlessly between devices.
+Make amazing happen.
+Learn more at CDW.com slash Lenovo.
+Time for a quick break to talk about McDonald's.
+Listen up, McNuggets lovers.
+McDonald's has some juicy news for you.
+Now you can get a 20-piece chicken McNuggets for $6.
+That's right, 20 crispy golden chicken McNuggets for just $6.
+Perfect for sharing or keeping them all for yourself.
+We won't judge.
+Be sure to order ahead on the app and save time picking up your meal.
+Available for a limited time, 8.3 to 8.30, 26.
+Price and participation may vary.
+Cannot be combined with any other offer or combo meal.
+Welcome back, let's talk about this new move from Josh Brown today.
+Making moves, what's up?
+Buying Spotify.
+Yeah, listen, I think this is maybe the best media business on the planet.
+It's hundreds of millions of paying users and music is like
+elemental to the human race.
+For as long as there have been people, there has been an interest in music.
+It's extremely powerful and Spotify is the best business within the space.
+Like by far, way better than anything Apple is doing on Apple Music.
+All of their other competitors are knocked out of the box.
+There's no more really.
+XM Sirius, nobody talks about it.
+Pandora is gone.
+It's really Spotify's race to win.
+Very similar to Netflix, and I own both of these names.
+Stock is 31% below its highs.
+Has not made a new high since June of 2025.
+It bottomed at about 419 in May.
+I think that's probably where you'd want to set your stop on a trade.
+I'm in the stock at about 520 as of earlier this week.
+And quite frankly, I think we may have seen this tradable bottom.
+And I like the way it's acting off that low.
+It's very gradual, slow and steady.
+Looks like it wants to break out here of recent resistance.
+I'm going to hang on to it, watch this trade develop.
+I'll be moving my stops up accordingly.
+Okay.
+Thank you very much for that.
+Speaking of tradable bottoms, let's discuss Netflix for a moment.
+If we could.
+Stock, guys, please.
+Thank you.
+So we're flat today.
+Now, TradingView has a question.
+Time to buy Netflix.
+Netflix shares have corrected by more than 50% since reaching their all-time high in June
+of 2025.
+Since the end of last July, the stock's been attempting to stabilize after rebounding
+from its 200-week moving average.
+Can we conclude that a major bottom is currently being formed?
+They ask.
+They answer.
+The combination of a major long-term technical support level and a much more attractive valuation
+creates a significantly more favorable environment for long-term investors like this guy.
+Yeah.
+So I bought the sell-off in the high 60s, low 70s.
+Here's the bottom line.
+I understand we don't have to spend 10 minutes talking about competition.
+Everybody understands there are other streamers.
+The reality is Netflix is expecting 42% earnings growth for this year, 6% growth next year.
+It's trading 21 times earnings with a .9 price-to-earnings-growth ratio.
+I know you got your attention with that.
+You are not paying up.
+You are not paying a premium for their leadership position.
+They're now in live events.
+They're in sports.
+They're doing great.
+They're getting into podcasts and other things that make the service even stickier.
+And quite frankly, I think the stock was cheap at 90.
+So down here at 80, I still like it, and I'm going to stay long and see how this recent
+rally develops.
+By the way, we're looking at five weeks in a row for this name, which you haven't been
+able to say that in a while.
+That's the best streak since October of 24.
+And we have Bill Atman in it, and you absolutely know he's calling management every 24 hours
+just blowing up their phones.
+So I think more good things can happen than bad things from these levels.
+This was $140 stock not that long ago.
+The wild card is if they make a run at Universal, which absolutely is a thing that could happen.
+I expect the stock would halt.
+I don't know if the street takes it positively or negatively, but that's like the wild
+card out there.
+All right.
+So Alibaba is spending a lot, as you know, on cloud infrastructure, just like seemingly
+everybody else is.
+Street not that happy about that.
+75% drop in net income.
+You own the name.
+What do you think?
+No kidding.
+They're not that forgiving to anybody that spends money.
+But as you know, it's an arms race.
+And this company has a fast growing cloud business, solid AI models, a dominant e-commerce
+business, and reasonable valuation and a double digit growth rate.
+I still think it's a pretty attractive bet, and we remain long the stock.
+Let's talk about some Marriott.
+The target gets cut today, not by a lot, $395 from 412 UBS.
+They're neutral on it.
+They did issue a weaker than expected profit guide.
+You've had it a couple of times, I think, on best stocks most recently at the end
+of July.
+Yeah.
+How do you think about it today?
+I like it.
+I own it.
+It's trade.
+I do have a stop in here.
+We're not anywhere near it.
+I like most of the large travel stocks.
+They've all been doing really well.
+We've talked about best stocks in the market.
+We've talked about Hilton, Expedia, Marriott.
+We talked about the airlines.
+This is the strongest part of consumer spending.
+I just don't see that changing between now and the end of the year.
+I like the stock here.
+I bought it on this dip.
+I think it's got some pretty decent support, and I'm going to stay long for now.
+You know, I'll just point out, if you want to throw up a chart of Disney, because
+I remember Scott, you and I were talking about Disney just before earnings, and we
+were comparing its lackluster performance to a great performance from Marriott.
+It seems, if you look there at the end in the month of July, like we're getting a
+little recovery here, I don't know why these two stocks should be negatively
+correlated.
+Frankly, I think they should move together, but I'm taking some comfort from
+the fact that Disney has a little bit of a bid here, and I could easily see
+myself giving up on Disney if it doesn't continue, and maybe getting
+into your Netflix, or maybe even a Marriott.
+Wow.
+All right, you'll let us know.
+So let's get your take, because we didn't have you yesterday or the day
+prior.
+Lowe's in Home Depot, okay?
+So they both had earnings.
+The Home Depot CFO talked about the housing market being frozen, their word,
+not mine.
+Targets today cut for Lowe's, pretty much across the board.
+From 267 to 260 at City, down to 191 at BMP, 240 at Gordon-Haskett, 270 at
+Goldman, 260 at Jeffery.
+So a lot of numbers in the same sort of ballpark.
+What do you think about both these stocks here?
+I mean, I don't think they're going to move anytime soon.
+I mean, you're a hostage to rates and the implications for the consumer
+and the housing market.
+So we've owned them for a long time.
+We have no intent of changing that, because we do think there will be a
+day when the sun shines again.
+However, that time is not now.
+Okay.
+Let's go to Frank Holland, who has a CNBC news update.
+Frankie, how are you?
+Hey, good afternoon, Scott.
+The FBI reportedly raided former Congressman Eric Swalwell's California
+home as part of an investigation into sexual assault allegations.
+That's according to CNN.
+Swalwell resigned from Congress in April after multiple women accused him of
+misconduct.
+He denies those allegations.
+No charges have been announced.
+The Drug Enforcement Administration has joined the investigation into actress
+Hayden Panettiar's death, according to sources that are familiar with
+the matter.
+The 36-year-old was found unresponsive Sunday in Greenville,
+South Carolina, and autopsy found no contributing trauma, but authorities
+have not determined a cause of death.
+Toxicology results are pending.
+And three of the biggest bodies in world soccer are reportedly considering a
+no-confidence vote aimed at removing FIFA president Gianni Infantino.
+That's according to Reuters.
+The groups are discussing the unprecedented move after Infantino's
+failed plan to sell private investors a stake in World Cup profits.
+FIFA so far has not commented.
+Scott.
+All right, Frank.
+Appreciate that.
+Thank you.
+That's Frank Holland.
+Coming up, Josh Brown.
+A new name on the list.
+It's up big this year.
+I'll tell you what it is next.
+Trading at Schwab is now powered by Ameritrade, bringing you an expanding
+library of education with even more ways to sharpen your trading skills.
+Access new online courses, insightful webcasts, articles, engaging
+videos, and more.
+All curated just for traders.
+Plus, guided learning paths with content designed to fit your unique
+interests and no sifting to find exactly what you need so you can
+spend your time learning to trade brilliantly.
+Learn more at Schwab.com slash trading.
+When you partner with CDW, you get more from technology with AI-powered
+devices that turn complexity into clarity.
+CDW experts are modernizing workplaces with Microsoft's surface,
+empowering your teams with innovative accessibility, delivering
+repairability for your IT staff, and protecting your data with built-in
+security.
+Make amazing happen.
+Learn more at CDW.com slash surface.
+Time for a quick break to talk about McDonald's.
+Listen up, McNuggets lovers.
+McDonald's has some juicy news for you.
+Now you can get a 20-piece chicken McNuggets for $6.
+That's right, 20 crispy golden chicken McNuggets for just $6.
+Perfect for sharing or keeping them all for yourself.
+We won't judge.
+Be sure to order ahead on the app and save time picking up
+your meal.
+Available for a limited time, $8.3 to $8.30, $26.
+Price and participation may vary.
+Cannot be combined with any other offer or combo meal.
+Best stocks in the market time.
+Josh Brown's spot like today's on what?
+We're going to do the shark ninja.
+Okay.
+Let's do it.
+Might as well.
+All right.
+True story.
+I'm walking across Glen Cove Road.
+I'm on my way to yogurt and such.
+They mixed the sprinkles into the yogurt into the middle.
+All right.
+So it's not just on the top.
+Got it.
+Anyway, this guy yells at me from a car.
+He says, hey, I heard you on CNBC talking about shark
+ninja.
+I said, all right.
+What do you want from me?
+He said, that's the family business.
+My brother runs a company.
+It's been on my radar ever since.
+I have traded the stock before.
+This has been an absolute home run since it was spun out back on to the New York Stock
+Exchange in 2023, added to the best stocks in the market list on August 5th.
+Q2 Shark Ninja posted its fastest quarter of top line growth since two years ago.
+It's sort of re-accelerating.
+It looks very different from other companies that sell into the housing ecosystem.
+But it's vacuum cleaners.
+It's blenders.
+It's appliances.
+They've just cracked the code on making the consumer happy with what they bought and maintaining
+that loyalty.
+And the stock reflects it.
+At 182, it's now 28 times the midpoint of the adjusted earnings per share guidance
+that they've given out.
+That's like 22% to 24% EBITDA growth, and that is very rare in this space.
+The company is taking share.
+It's gone international.
+It's a huge home run.
+The problem is we've missed a lot of the run in the stock.
+So what we did at CNBC Pro for the column is we gave people the levels at which they might
+want to wait.
+I think the most obvious level here is 155, which is that rising 50 day.
+This stock could consolidate to that level at any time.
+That's where you want to initiate a new position.
+But I want people to know the story.
+So we went a little bit deep on the fundamentals.
+You can read it at the website and put this stock on your monitor because these guys
+are doing a lot of the hard things very well.
+Long Island based company?
+Needham, Massachusetts, and actually spent a stint being based in China before coming back
+public here in New York.
+But the workforce is in New England.
+How is the yogurt?
+It's yogurt and such, so you know it's the bomb.
+What flavor?
+I do this thing, banana and peanut butter, Swirl.
+Kind of sprinkles.
+I mean, this is like a little bit personal.
+I mean, you mentioned it.
+They do rainbow sprinkles with the chocolate crunch.
+So yogurt mixed with sprinkles.
+Yeah.
+No, it's like low-fat yogurt.
+Oh, yeah.
+Yeah, but then you got to balance it out.
+They will put the sprinkles inside of it.
+Yes.
+I mean, we have to make it edible, is what I'm saying.
+All right.
+Sintole's next with this midday word.
+All right.
+Senior markets commentator and overtime co-anchor Mike Sintole is here for his midday word.
+Is this about yields or what do you think, oil, what do you think is happening?
+Well, I think it's about all of it.
+I'm not going to make too much of, you know, down a third of a percent on the S&P 500, but
+I do think we are a little bit on edge in terms of what enabled the market to stay near the
+highs in the absence of semis being able to do the work.
+And that had been banks, that had been industrials, both of them are down 3% a week to date.
+So I think it's just kind of the rotation, a little bit of slippage there.
+Yields, I don't think there's any kind of hard trigger threshold that we're threatening
+or somehow the fiscal thing spills into being irretrievable or we, you know, valuation math
+gets onerous, but it is nagging.
+And I do think if you talk about 3% and very long-term real yields, that's supposed to
+be a restraint on capital on some level.
+Maybe it's supposed to be a restraint on growth.
+So I don't know that it's something that today the market's reacting to the fact
+that we could not keep yields suppressed, but it is definitely going to stay on our
+minds for a while.
+It's also a thin market as Treasury Secretary was talking about today.
+It's like from the last whatever significant moment there was, we're on this long flight
+towards NVIDIA's numbers next week, and we've been hit with a little turbulence along the
+way by the rising yields and rising oil prices, but I feel like we start to descend
+into that moment next week and maybe we have a little wait and see for that.
+I mean, it could be another little moment of, you know, spin forward the high conviction
+that the whole spending story remains, but, you know, NVIDIA hasn't been a market mover
+for like three or four quarters at least.
+It's been just kind of, we know the story, the story gets confirmed.
+I think Walmart's numbers today really kind of marks the, you know, informal end
+of earnings season.
+We think we know what we got.
+Earnings did all they could do, and I think it's, I think it's fine.
+Like the market's not doing anything besides digesting the gains that we have, up
+to 6% in 12 trading days coming into this week.
+I think it's surprising that the yield sensitive sectors in the stock market have not reacted
+as negatively as you would have expected them when we're talking about 30, we almost
+never talked about the 30 year bond in the stock market.
+So once that talk starts, typically you'd see them whack the dividend names and they
+didn't really do it.
+Not the dividend names.
+I mean, yesterday, like home builders flew and they haven't given it all back or
+anything like that.
+I mean, spreads are so tight.
+You know, if you even look at the index for investment grade debt, the yield is not at
+the highs.
+It's not going back to the highs of 2023 and four because the spreads were so wide
+then.
+So I feel like there's not really an emergency on that front.
+And it's not suggesting that, you know, the economy is going to hit a wall.
+But yeah, you're definitely restrained.
+And just to buttress the point, the 10 year is still in the range of the last
+three years, 4% on the low and 5% at the upper end.
+I don't like it at 4.7 zero, but I'm not freaking out.
+I don't think we need to.
+We spent over those three years, 10 weeks above 4.6.
+Total.
+Total.
+Okay, I'm still not freaking out.
+You still have to maybe have to register a little bit of a higher range, but that's
+fine.
+I know.
+We'll see you on closing bell.
+Yeah.
+All right.
+Good stuff.
+Look forward to that.
+That's Mike Santoli.
+We'll talk to Oliver Renick next.
+Play some options action.
+He's following what's been going on in Bitcoin.
+They'll give us the trays next.
+All right.
+We're going to play some options action now.
+Oliver Renick joins us live from the SIBO global markets in Chicago.
+Are we talking Bitcoin specifically?
+Yeah, Scott.
+And hyper liquid.
+Bitcoin bulls are getting some relief this week after a tough year with BTC up 15%.
+The big question is if Bitcoin's up on a treasury intervention that missed the mark
+or President Trump's push for the SEC to create a path to compliance and legalization
+for decentralized exchange hyper liquid whose token hype is up almost 200% this year
+and owned in part by publicly traded per PURR.
+Right now, options traders are buying up calls across the board in a hurry.
+Five times the 30 day average in iBit.
+But look at per where options trading is 16 times normal.
+That looks more like a structural, perhaps permanent shift in this stock's options
+market.
+15 of the top 20 trades by dollar amount and per were neutral to bullish today
+with traders thinking it will get back and stay above $10 by Friday's expiry and some
+others buying the 15 strike calls expiring mid-October looking for another 50% move in
+the stock over the next eight weeks.
+Scott.
+Interesting.
+Oliver, thanks.
+I'll see it three.
+That's Oliver Renick from the SIBO.
+What do you think about what Bitcoin hasn't done and then where it has maybe woken
+up to?
+Look, it's like the type of asset where there doesn't actually have to be a reason
+sometimes it just rips 30% higher out of nowhere and then we look back at the reason
+headlines and we say, oh, this is why.
+And it works unfortunately for bulls in reverse.
+It can do the exact same thing.
+I do think yesterday there was a catalyst though and that's the treasury trying to
+suppress the long end.
+It rallied right then.
+Wait, I'll take it.
+I'll argue.
+I'll argue no question.
+The others are right back to where they were the day before yesterday.
+There's another thing happening and it's the speculators may have pivoted, may have pivoted
+back.
+From what?
+From AI?
+No, from the chip, the hyper moving AI, the real momentum stuff.
+For a little bit.
+I mean, we've been in this kind of trend, you know, I think the fast money moves
+quickly.
+Yeah.
+Well, it's also a cheap PUA show and I know that's why you like it.
+Josh, I'm with you, honestly.
+Bitcoin reports earnings next week after Nvidia.
+I'm very excited.
+It's a random number generator.
+All right.
+Finals are next.
+All right.
+Three o'clock.
+Chris Harvey, Gabriella Santos, Brian Levitt, Dan Ives, Mike Ozanian, Mark Newton, got
+a good crew at three hours.
+Nice lineup.
+I like it.
+Okay.
+Thank you very much.
+Okay.
+Final trades.
+Rob Siechin.
+Service now.
+You can't say why.
+There's only like that.
+Well, you could have, but well, there's multitudes of dead air.
+You blew it.
+Jim.
+Thanks for our suitable quietly putting up a nice year.
+Okay.
+Josh.
+Don't tell anyone, but Uber's Apollo Go with Baidu went live in Dubai, driverless cars
+on the Uber app in Dubai soon coming to the rest of the world.
+The exchange is now.
+You've been listening to CNBC's halftime report, the podcast.
+You can always catch us live weekdays at 12 Eastern only on CNBC.
+All opinions expressed by the halftime report participants are solely their opinions
+and do not reflect the opinions of CNBC or its parent company or affiliates and may have
+been previously disseminated by them on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast as a specific inducement to
+make a particular investment or follow a particular strategy, but only as an expression
+of opinion.
+Such opinions are based upon information the halftime report participants consider
+reliable, but neither CNBC nor its affiliates and or subsidiaries warrant its completeness
+or accuracy, and it should not be relied upon as such.
+To view the full halftime report disclaimer, please visit CNBC.com forward slash halftime
+report disclaimer.
