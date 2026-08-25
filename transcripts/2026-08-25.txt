@@ -1,0 +1,1054 @@
+I'm Scott Wapner and you're listening to CNBC's Halftime Report, the podcast, the most profitable
+hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Thank you very much guys.
+Welcome to the Halftime Report.
+I'm Scott Wapner, front and center of this hour of the state of the AI trade is the
+biggest earnings report in weeks, looms large.
+The committee setting the stage for Nvidia and what it means for the broader market
+joining me for the hour.
+Joe Taranova, Stephanie Link, Harry Firestone, Josh Brown, let's check the
+markets.
+We are green across the board.
+Dow's trying for three updays in a row.
+Tech is leading and on that note we set the stage.
+Nvidia tomorrow.
+Stock's been down for seven straight days coming into today.
+It's the longest losing streak since September of 22 and it comes right on the
+back of one of the longest winning streaks that it had in some time.
+So what's riding on this?
+What do we think?
+Well, Nvidia's next leg, obviously riding on it.
+What about the semi-trade itself?
+That's probably riding on it.
+The hyperscalers near term direction, probably, right?
+So you got a lot at stake.
+There's no question about that.
+Josh Brown, you agree with our list and do you have more things that you
+think are riding on this report tomorrow?
+So Sean and I took a look at exactly what you're talking about.
+Not just what the narrative is going into the report and what's riding
+on it, but the reaction.
+And this is not a great earnings stock.
+It really never has been.
+I don't mean to say the earnings aren't great.
+What I mean is there's always a lot of buildup, a lot of anticipation,
+but most of what the stock is going to do typically in a given quarter is
+dictated by what their top five customers say.
+And we got those reports two to three weeks ago.
+So if you go back to Q1 of 2020, I think that's a lot of time that we can
+judge the average return for Nvidia at the close of the next trading day
+after reporting is plus 2%.
+That's not much.
+There are two massive reactions that are skewing that average up.
+One of them was a 24% move in May of 2023.
+I think we can all agree those days are over.
+The next biggest one was plus 16% in February of 2024.
+If you strip those two out, the average return for Nvidia,
+the day after earnings, is literally flat.
+Of the 26 reported quarters in that timeframe,
+only on 12 occasions has the stock gone up or down by 5%.
+So it's really not, I think, about what the stock itself
+is going to do, although I would love a post earnings
+rally as a long, again, and we talked about this last week,
+and it was very important.
+Nvidia, Jensen Wang in particular, is the AI Fed.
+And we absolutely need to hear confirmation
+of all of the things that we think
+are going to go on in the next five months
+and to the end of the year and in 27.
+The guidance matters to hundreds, maybe 1,000 stocks,
+more than it probably matters to the Nvidia share price
+itself.
+And I think for that reason, this
+will be the most watched earnings report of the entire season.
+Yeah, I just don't see how anybody is really
+going to disagree with that.
+Joe, I thought there was an interesting story today
+on Nvidia's dependence on the hyperscalers,
+faces a big test in this earnings report.
+That's the headline.
+The company's hyper growth has been driven largely
+by tech hyperscalers, which have purchased GPUs in bulk.
+But those companies are seeing their free cash flow
+erased as they pour money into CapEx.
+Everybody knows that.
+Here's the question.
+Can Nvidia rapidly diversify its business
+by providing financing options to a wider swath of customers?
+Can't have this dependence on the hyperscalers
+be your only game forever?
+Do they need to do that?
+They become the banker to the AI boom,
+says the Wall Street Journal today,
+putting it on dangerous ground.
+That's sort of the similar thing.
+What does that mean?
+I think it's dangerous ground.
+I also think that you have to acknowledge
+that prices are going to continue to rise
+and what Nvidia is charging is only
+going to move incrementally higher.
+So at what point do you hit the ceiling
+where you see the elasticity as it relates to what
+demand ultimately looks like?
+So I think that's one of the reasons why the valuation
+has cheapened so significantly
+because people understand this financing dynamic
+has an endpoint to it.
+I think that's in front of us.
+I think that's obvious.
+I just want to add, I really think that this call,
+this earnings call on Wednesday is going to be critical
+for Jensen Wong to be the voice that pushes against
+the data center pushback that we are seeing
+around the country.
+I think it is going to intensify as you move into the fall.
+It's an interesting statistic that was brought
+to my desk this morning.
+Data center construction is now 2.5%.
+That is bigger than infrastructure construction
+in the entire country.
+Think about that.
+We are now building out data centers
+more than we're building out infrastructure.
+So I think this has to be the beginning
+of that conversation where he engages
+because to Josh's point, if he's the central figure
+in the AI construction, he needs to address that.
+He needs to address that element.
+Also, one other point, we'll get into this later in the show.
+Let's not forget, we have two really important
+earnings reports this week.
+Marvell follows on Thursday.
+We'll talk about that more in a little bit.
+Oh, I thought you were going to finish the thought.
+We'll talk about that more in a little bit.
+We're staying on in the video.
+All right, thank you.
+Thanks for the tease.
+Yes, we're going to talk about Marvell.
+I thought you liked there were more words coming.
+At any rate, stuff.
+So B of A talks about this coming report.
+Beat and raise expected, right?
+Check, check, we agree.
+They talk about a buyback.
+A bigger buyback could defend EPS quality,
+similar to what Apple did post 2012 with its own playbook.
+I think many people view the massive buyback
+that Apple initiated as somewhat of a floor under.
+You can't get too negative on Apple
+because of the massive buyback.
+They're always buying back their stock.
+You made the case yesterday with me on closing bell.
+I don't want a buyback, you said.
+And you were pretty demonstrative about it.
+I do not want a bigger buyback.
+Well, I don't mind a buyback.
+Well, you said it.
+I don't mind a dividend.
+I don't mind a dividend increase bigger than what they did
+when they initiated.
+I don't mind that at all.
+What I mind is if their growth is slowing
+and it's not slowing.
+But if the growth is slowing and then they do a buyback,
+that's what Apple did.
+Their growth went from 20, 30, 40% growth down to low teens.
+And that's when they started initiating a buyback.
+So if the growth is slowing at NVIDIA,
+that's the indication that we get from the company.
+That's the reason why that they're doing more
+in terms of shareholder returns.
+Your case yesterday with you want them to spend,
+spend, spend, and spend.
+I think they will continue to spend, spend, spend number one.
+I think the fundamentals are going to be great.
+I think they're going to see more compute backlog higher
+because we're short compute, we're short memory.
+And hyperscalers are spending all their money,
+cat-backs right now on memory.
+So I think you're going to see good backlogs,
+free cash flow getting back to your point,
+200 billion this year, 300 billion next year.
+They already committed to returning 50%
+of their free cash flow to shareholders.
+So if they make an announcement today,
+okay, they make an announcement.
+I don't think they will because they've already committed
+to, they are going to over time.
+My biggest question is if they do it,
+is it because the growth is slowing?
+And I don't think that is the case.
+Apple's growth wasn't really slowing
+when they had to buy back, didn't they?
+Yes, it was slowing.
+I mean, their services, their services business
+was almost in the still nascent stage,
+just growing into this behemoth
+that it now wants to advance.
+But it's only 20% of their revenues right now
+in terms of services to Apple.
+So I mean, it's been growing, sure.
+But the overall growth rate has been slowing
+at the company for years.
+Josh, what did you just say?
+You don't want a dividend?
+We do not, no, no, no, no, no, no.
+Speaking on behalf of long-term Nvidia shareholders,
+we do not want increased dividends.
+The tax treatment of dividends is absurd
+relative to the tax treatment on buybacks.
+The tax treatment on buybacks is 1% the company pays.
+Dividends are double taxation,
+meaning Nvidia is paying the tax on earning the profit
+and then distributing it to us,
+and we pay another tax.
+Nobody wants that.
+Nvidia is not gonna yield 4% to the point
+where the dividend's gonna attract a new shareholder base.
+So of all of the things that they can do to me, for me,
+and I think I'm speaking on behalf
+of many Nvidia shareholders, institutions and individuals,
+please reinvest into robots, automation,
+get involved in space.
+Anything but paying me a 0.5% dividend.
+What am I supposed to do with that?
+What are we collectively gonna do with that?
+I think the most important thing on the conference call
+is the earnings path to $15 a share by 2027
+and eventually getting to $20 by 2028.
+And what happens to gross margins in that scenario?
+Do they stay in the mid-70s or if they decline?
+If they decline, the market is not gonna like that?
+Let's talk about raising price, right?
+Wasn't that story yesterday?
+Right, that's why I don't think that that's the case, Scott.
+The reason I bought this thing is because it's 18 times earnings
+growing 85% with gross margins in the mid-70s, period.
+Raise prices defend margins.
+So I think so, and they can raise price, that's really...
+But I wanna get a little more detail on the earnings power
+because my goodness, $20 in earnings power
+in by 2028 makes this even cheaper than 18 times.
+Well, I was just gonna say that
+everybody knows this is gonna be a great quarter.
+What we really need to hear is
+what he's thinking about the third quarter
+and what he's thinking about next year.
+And if we can do a guy that's 110 billion revenue plus
+for Q3, that possibly could move the stock.
+If there is something that really excites the market,
+which has not generally been the case,
+as Josh pointed out, there are many people
+who don't own NVIDIA even close to the market weight.
+They might not own it.
+They owned it.
+They sold it when the stock was down.
+There were a lot of sellers during that period
+when everybody was saying, oh, kind of it's washed up
+and you've got all of these low-cost suppliers
+and competitors.
+So competition is gonna be a question
+people wanna hear and discuss and what's happening.
+Can we get to 110 billion or higher in the third quarter
+and will that maintain the gross margin
+because the customers are willing to pay the price?
+Do you think that all of those things
+that we put on the list are genuinely
+what's riding on this report tomorrow evening?
+Obviously, if NVIDIA's next move,
+how could you say otherwise?
+But the semi-trade itself hasn't been great.
+Yeah, I think that the semis
+are a slightly different animal right here.
+Everybody knows that this is gonna be a good report.
+Is it gonna change what happens
+with other semiconductors with micron or looking at TSM?
+Think about, aim at all of the whole universe
+of stocks that have been up anywhere
+from 50 to 500%.
+Is that gonna change because of this NVIDIA report?
+I don't really think so.
+I think it just got overheated and tired.
+It's a little tired right now.
+It could ignite, but I wouldn't be betting on it.
+All right, so let's then move to Marvell.
+What Steffa says is the second most important report this week.
+I think that's fair.
+I do.
+That's Thursday, the target to 300 at Rosenblatt,
+the target to 265 at Susquehanna.
+The stock's up like 170% year to date.
+So there's a lot, Steff, riding on this.
+Then Joe, after Steff.
+Yeah, I mean, there is a lot riding on it,
+and that's actually one of the reasons
+why I sold a lot of it to begin with,
+because I made a lot of money in it,
+but I still like it very much
+because I think at the end of the day,
+this company has a chance to get to $10 in earnings power,
+not only from optical, but also the custom chips.
+There's two ways you can win with this company.
+Hey, let's clarify something real quick too.
+When you were on yesterday with me on closing bell,
+you said, when I asked you,
+which would you rather own for the next year,
+Marvell or NVIDIA, you said, well, I own both.
+Our audience knows of you as having sold Marvell
+in your main fund, but I still have it.
+It's small, though, but I still have it
+because I wanna participate in earnings power.
+I just wanna make sure we're all on the same page here.
+Oh, sure, absolutely.
+So you still own it, albeit in the smaller fund,
+a smaller size than what you originally did
+when you sold it, either in June or July.
+Yeah, and I wanted to hold on to a little bit
+because I do think that they have strong growth overall,
+and I do think they can, again,
+get to $10 in earnings power.
+That all being said, you asked me which I prefer.
+The reason I prefer NVIDIA,
+simply because of the valuation
+and the sentiment on NVIDIA versus Marvell.
+I mean, Marvell's had a heck of a year rightfully so.
+Look at that move today, again.
+Rightfully so.
+They are hitting it on all cylinders.
+But by the way, I also think Broadcom
+is a better buy here for the next year.
+Again, the same reasons for NVIDIA valuation.
+They participate in custom ASICs.
+Marvell and Broadcom have an 80 share in custom ASICs,
+and everyone thinks that Broadcom
+is losing market share to Marvell.
+They're not.
+They can coexist, and I think that's the disconnect.
+So I think the report is gonna be great tomorrow.
+I think numbers are gonna go higher.
+And again, I think that they have a chance
+of getting double digits in terms of earnings growth
+between now and the end of 2027.
+I just think a lot is priced in.
+Do we need to have a bigger conversation,
+by the way, about Broadcom itself
+and the fact that if you look at the CDS
+and their credit risk is way up,
+and that's getting a lot of talk today.
+And it probably will continue much in the same way
+that how many days in a row did we show you the Oracle CDS?
+Became a story in and of itself.
+Do we need to focus as a Broadcom holder on that?
+I think we need to focus on what's going on
+in the Treasury market and the effect of rising yields
+on the ability for hyperscalers to continue to issue debt
+at levels that are favorable to them.
+And I think that's becoming more and more a real issue.
+I think that's why Marvell is critically important
+on Thursday.
+It is a high beta AI trade.
+I said yesterday that AI trade needs a shot of adrenaline.
+Marvell is clearly the company that can give it to them
+and also can really speak towards
+what the outlook ultimately is going to be.
+Is there going to be sensitivity at a certain point
+if yields continue to rise,
+where the hyperscalers step back and say,
+okay, these are yields that are unfavorable for us.
+We're gonna go out, we're gonna sit back,
+we're not going to go out and issue the debt.
+And therefore you begin to see that liquidity flow
+into building out the infrastructure slow.
+Yeah, so on Broadcom,
+I think we should pull up a chart
+because we all know that the stock has been,
+I would say drifting downward over the past few months recently.
+There we go.
+What's going on fundamentally?
+The business is great.
+What's the issue that's weighing on it?
+It's about debt.
+And to Joe's point, we have this dynamic
+where the Fed seems to be unclear
+about raising or holding rates,
+but the debt market keeps pricing interest rates higher
+because there's so much demand for debt.
+The amount of debt that has been issued
+by the hyperscalers is 14% of the entire amount
+that the Treasury issues in a year.
+It would be a relief to Broadcom
+if the Fed actually raised rates,
+which seems likely because then they'll be addressing
+inflation, the market will ease that.
+No, what do you mean it seems likely
+the Fed's gonna raise rates?
+Not right now, but I think if you go out a few months,
+I think they will.
+Yes, I think that they will
+because there'll be more inflation than they would like.
+What if they don't
+because it seems unlikely that's gonna happen.
+I think that's well far out on the curve
+of what we think is legitimately gonna happen here.
+If they don't, then we've got a few more months
+where we're feeling this pressure in the market
+of higher rates to borrow at very large scale.
+In other words, I don't see a scenario
+in which Sheryl Worson company hike rates
+a month before the midterms or days.
+Yeah, no, no, they're not gonna do it.
+I'm not talking about November.
+I'm talking about a meeting after that.
+There's a likelihood that we'll see a higher rate
+just because there's inflation
+and it will be good.
+We believe it'll be a relief to the market
+if the Fed removes that obstacle and pressure.
+Right now, they have to go out and borrow
+and there's pressure to raise rates in the private market,
+which is what's been going on,
+which is why you're seeing some of these stocks
+like Broadcom and Oracle.
+All right, Broadcom's up 4% year to date.
+Oracle's decidedly negative, obviously.
+But the Oracle also has negative free cash flow.
+Broadcom has 40 billion dollars of free cash flow.
+That's growing, right?
+And they're gonna do 56 billion dollars in AI revenue,
+which is going to be up 180% to this year.
+Why is the stock then?
+So one of the reasons why Broadcom is under pressure
+is because of the relationship with Alphabet and TPUs.
+100%, that's why I mentioned Marvell.
+But Marvell is not taking 100% market share from Broadcom.
+Not directly now, but potentially in the future,
+they could take market share, the possibility is there.
+All right, but Broadcom is a five year deal with,
+no, okay, say Broadcom has a five year deal with Google,
+with Alphabet, until 2031.
+So you're gonna all of a sudden start selling the stock today
+because maybe the deal that doesn't get extended in 2031.
+I mean, I think that they have a lot going for them.
+Why has it lagged?
+It's like the same thing, why has Nvidia lagged?
+I feel like they both got very over-owned.
+They had phenomenal years last year
+and I think there's other things to do
+in the semiconductor space.
+The virus and bond.
+Like applied materials or land research.
+Or Marvell, et cetera, et cetera.
+You and I could disagree with the price reaction for sure,
+but there clearly is an obvious one to that relationship
+that was announced between Alphabet and Marvell.
+Josh.
+Guys, this is not complicated.
+Marvell is coming on.
+I know Stephanie knows that.
+I know she wouldn't argue.
+Marvell was not in this company's lane
+as recently as three years ago before the AI pivot.
+It's $91 billion in debt in an environment
+where the cost to continue that is going higher,
+probably not going lower,
+even if it just stays static.
+It's a decent-sized debt load
+relative to how well this company's doing.
+And it's 30 times forward
+and I can buy Nvidia for less.
+And I think that's why the stock is struggling.
+Those are not reasons to sell it,
+but if you're asking why is this company
+laggard in the space
+considering how great their business is,
+those are the three factors.
+More competition, very high debt load,
+and a challenging valuation
+for people to get bold up on it at today's prices
+relative to other stocks they could buy.
+You guys worried about,
+I want to talk about data center related stocks
+like the Power Players now.
+Are you guys at all worried about the backlash
+on data centers and this existential threat
+of some kind?
+I think we're going to disagree today on a couple of things.
+I don't have that.
+I just, well, listen.
+Because by the way,
+let me just say over the last week,
+Coana's down 14,
+Verna's down 13,
+Vernova's down 12 and a half,
+Eaton 10 and Cat,
+if you want to place it as that, it's down eight.
+So the market trades off perception.
+A lot of times it doesn't trade off reality.
+So you and I are going to agree on this.
+I think the reality of the conversation in the long term,
+I think we're going to land in the same place
+that it's not an obstacle.
+I think over the next couple of months,
+it's going to intensify dramatically the conversation.
+And I think companies like Nvidia
+are going to have to address it.
+In particular, how fast the growth has been
+for data center construction in this country.
+I'm not saying that that's a negative.
+I think it's actually economically a positive thing,
+but there is this element of not in my backyard.
+It's going to get built elsewhere.
+11 states have restrictions, 11 states.
+Yeah, but it's growing.
+It's going to get built elsewhere.
+It is growing.
+Where the states accept it,
+they'll continue to be building in those states.
+I know, but there are states that are now opposing it
+that you at the beginning wouldn't have thought
+that they would be on the list.
+So the companies are going to pivot.
+In fact, I think it's good news in a way
+because it extends the cycle.
+You're not going to overbuild.
+If you can't build in 11 states,
+maybe it goes to 20 states, maybe it goes to 30 states.
+I don't know.
+It's going to get built though.
+And it takes three years to build one of these things
+and $40 billion, by the way, to build these things.
+This is why the hyperscalers are spending crazy.
+But at the end of the day,
+quanta services is still up 45% year-to-date.
+Vertive is up 60%.
+GE-Vernova up 43%.
+The backlogs are enormous and growing.
+Margins are accelerating.
+Earnings are growing in areas and growth rates
+that I've never seen.
+Earnings growth at quanta services at 70%.
+That's huge.
+That's huge.
+So my point is, the pullbacks are a buy in my mind.
+So I own all the names that you...
+Oh, I know, we do.
+We're on the same page.
+But is there justification?
+Can I make the assumption that potentially
+a lot of the commitments that have been made
+to build out data centers
+because of the regulatory backlash
+and the conversation that intensifies,
+growing into the election day,
+we get a pause on that.
+We're getting a little bit of a pause right now
+from these companies.
+They aren't pulling back.
+Right, but I think Steph's point is like
+two or three months, it doesn't change the story.
+If it becomes a more durable thing.
+I said that at the beginning of my remarks.
+Plus, I mean, what is Jensen Wong gonna say
+on the call to a bunch of analysts that's gonna be,
+what is he gonna have to go out
+and do town hall appearances around America?
+No, he's not gonna have...
+Talking about the virtues of data centers.
+But I think at some point,
+he could offer a degree of comfort
+about the economics of a data center build out
+in your backyard.
+I think clearly he's the one person that could do that.
+I'm not saying he's going out around the country.
+No, it's crazy.
+But he can comfort...
+No, I know you're not saying that,
+but I'm suggesting that that's far different
+from talking to a bunch of analysts,
+singing the virtues to the analyst community
+and Wall Street of data centers.
+That's talking your own book.
+What do you think he's gonna say?
+I think that tomorrow night on the conference call,
+I'd like one analyst to ask him the question.
+I'd like him to give me what I expect
+will be a very comforting and comforting answer
+that maybe offers some relief to the conversation
+that over the last several weeks is intent to find.
+At the end of the day,
+hyper scalers are gonna spend a trillion dollars this year
+and probably 1.6 trillion dollars next year
+and probably two or three trillion dollars
+in the next couple of years.
+They're not slowing spending
+and we listened to the CEOs of all the hyper scalers,
+Andy Jassy in particular at Amazon,
+who has said he would spend even more if he could.
+And so therefore that is not changing.
+And if you believe that,
+if you believe that,
+then you have to believe what we've talked about.
+The whole food chain will benefit.
+The data center builders, the grid manufacturers,
+the power companies, we don't have enough power.
+So all of that continues
+as long as we get the spend.
+The biggest risk is if we don't get the spend,
+but that's not what the companies are saying right now.
+And the cost of capital doesn't rise significantly.
+Josh, real quick, make your point
+because I gotta take a break.
+I'm with Stephanie on this.
+We, all of us on the desk have been around a long time.
+They did the same thing with the cell phone towers.
+It was a huge political backlash.
+It was in every district, every state.
+There was for, there was against.
+In the end, there was federal legislation
+that stopped the madness.
+We built the cell phone towers.
+People didn't grow a third ear on the back of their head
+and life went on.
+I don't think that you'll really be able to stop
+the spending that we're expecting.
+You might just have to move the venue.
+All right, let's do this.
+Let's take a break.
+We'll come back on the other side with several moves.
+A couple from Steph, we got one from Kerry.
+We'll document them next.
+And we were back on Hatton Report.
+I am Frank Holland with the CNBC News Update.
+A federal judge has rejected
+just Lane Maxwell's latest attempt to overturn
+her 2021 sex trafficking conviction
+and 20-year prison sentence.
+Judge Paul Engelmeyer called her claims mirrorless,
+saying newly released Epstein documents
+either incriminate Maxwell or support
+the rulings that she's challenging.
+Brazil's data protection regulator
+has fined TikTok parent company ByteDance
+nearly $30 million over alleged failures
+to protect the personal data of minors.
+Officials say the platform collected information
+without adequate safeguards.
+TikTok must delete data gathered illegally
+and can appeal within 10 days.
+And two astronauts are spacewalking outside
+the International Space Station today
+to finish replacing a space-to-ground communications
+antenna.
+Anil Menon of NASA and European Space Agency
+astronaut Sophie Adnott removed the fail unit last week,
+but they didn't have time to replace it.
+Today's spacewalk is expected to last six and a half hours.
+Scott, back over to you.
+All right, Frank, appreciate that.
+Thank you.
+We do have some committee moves to hit
+and we begin with Kerry.
+You bought Vertex.
+And when you buy anything in the healthcare arena,
+we sit up and we take notice.
+So why this? Why now?
+The main reason now is that the stock
+has basically de-risked the concept
+that there'll be competition in cystic fibrosis.
+Today, all in the cystic fibrosis market,
+they created the drugs that have worked
+to keep people alive who used to die very young.
+You can live a full life with CF because of Vertex.
+And there was a competitor was doing a phase two,
+Sienna, the drug failed in the phase two.
+That released, I think, an awful lot of pessimism, gone.
+It's now gone.
+And so Vertex has sort of free-selling.
+So what else?
+They do 13 billion a year in CF,
+very highly profitable drugs.
+Then they have drugs for, a drug for,
+it's a pain medication, it's not an opioid,
+non-addictive in the traditional sense.
+And we think even though it's had a slower start,
+it can be a multi-billion dollar drug.
+Then you've got drugs in renal and autoimmune disease.
+The Holy Grail, which is an insulin
+in a drug for diabetes,
+they can really solve the problems
+of daily insulin requirement.
+We see 15% roughly earnings growth
+over the next 10 years.
+And the stock at that level at a 20 multiple
+can double for us.
+That's a chart, isn't it?
+Five years.
+Put that guys back up, please.
+Don't pull it away.
+There it is, thanks.
+Five years, 175%, right?
+That's a move, record high.
+Last Friday, you highlighted this name
+as part of a few of the names that you said
+you liked the best of all.
+You said it's in sight, it's Vertex, Sam, Jen, Lily.
+Tell me more.
+Why did you include Vertex?
+I mean, just so eloquently stated, Carrie, as usual.
+But they have dominated the cystic fibrosis market.
+They have clearly established itself
+as the singular destination in terms of treatment.
+They also have improved their balance sheet
+dramatically from where they were in 2024.
+Correct.
+So their free cash flow has gotten 2024 goes negative.
+Their free cash flow is back to levels
+that we have seen in prior years
+and approaching all-time high.
+So the revenue growth rate is remarkably strong.
+Everything you've described, the market share,
+that's anchored, it's a momentum stock as well.
+So it's a little bit of a tease as well
+to Josh's best stocks,
+which is coming up in the same space.
+Joe has a move in the same sector,
+but we're gonna hold those till we get there.
+So bear with us.
+All right, Stephanie Link, you have a couple moves.
+So you trimmed Palo Alto.
+Yeah.
+Why did you do that?
+I mean, this is no reflection whatsoever on fundamentals.
+This is a stock that is up 145%
+from February 24th to low levels.
+And I just wanted to take some profits.
+It actually, because it's rallied so much, Scott,
+it's become a huge position in my portfolio.
+Almost 150% in six months.
+I mean, but look, the fundamentals are strong.
+They have 10% of the market share
+in a $300 billion total addressable market.
+You know how I feel about cybersecurity.
+I just needed to take a little bit off
+and it helped to fund the new position that I had to.
+Joe, you on it?
+I do.
+Coming up on earnings,
+it's next week for Palo Alto
+and its CrowdStrike is today, is today or tomorrow?
+I think it's tomorrow.
+Okay, I know CrowdStrike is first in the lineage.
+I think both of those names
+have had a little bit of a pullback.
+If you could show CrowdStrike here over the last three months,
+you'll just see a modest retreat
+back into what I think are the supportive moving averages.
+I think it's a great spot to actually get ownership.
+And I think you're gonna hear a consistent story
+that we've heard from cybersecurity about CTOs
+not limiting their budgeting and their spend
+in the direction of enterprise security.
+I think that's gonna be the dominant thing.
+This just became 6%.
+Yeah, no, I get it.
+Yeah, that's a big one.
+Okay.
+And you can include Fortinet there
+as one of the names you wanna own as well.
+So you mentioned, you know, funding a new buy.
+Yeah.
+That's EQT.
+Yeah.
+Why?
+I actually have never owned it.
+So we just talked about it.
+Joe owns it, so tell us why you bought it.
+Well, it's flat on the year
+and it trades at 5.8 times Eva dot,
+so it's super duper cheap and it's lagged.
+But we just talked about the AI infrastructure
+and how you need the food chain
+and power is part of it and we're short power.
+And I think natural gas is gonna be the winner.
+We just don't have enough pipelines,
+but we have enough natural gas
+and these guys are the largest US natural gas producer.
+They have size and they have scale,
+high quality assets
+and kind of a disciplined operating model,
+low cost and just the leader.
+And if any time I can get a leader that's lagged,
+I kinda like that.
+Natural gas prices are down 25% year to date
+and EQT has had relative outperformance to that.
+Why?
+The bull scenario is exactly what you said.
+They are the number one natural gas producer
+in the Appalachia, which is close to Virginia.
+Virginia is the dominant data center
+geographic region in this country right now.
+They are providing the power via the natural gas.
+That's the bull story.
+The bull story is winning out for this company
+despite soft natural gas prices.
+If natural gas prices get going into the winter,
+I think this is a $70 stock.
+Okay, getting a little bit of a lift here.
+We'll take a break.
+I told you Josh has best stocks in the market.
+The focus is in the healthcare space.
+So we've teased that.
+We'll give you the names that he is looking at
+and highlight Joe's move there as well.
+When we come back.
+Sprouts, best stocks in the market.
+Spotlight on, Merck and Amgen.
+Give us more.
+Yeah, let's do it.
+I wanna start by saying
+the best stocks in the market list
+is loaded with healthcare right now
+and a ton of biotech in particular.
+And I know we've been talking about a bunch of names
+like inside, et cetera.
+We've talked about Merck and Amgen before.
+So this is sort of an update.
+Everyone saw the Moderna news on the phase three trial.
+Unbelievable, almost miraculous result.
+And obviously most of the gains went to Moderna
+up 175%.
+But Merck went up 10%.
+The stock is now up 15% from our July 6th write up.
+It's up 30% year to date.
+Closed at an all-time high this week, 154%.
+What's happening here is a re-rate of the entire pipeline.
+Investors are thinking bigger
+about the other things Merck has besides Ketruda.
+We have a breakaway gap here technically
+out of that 137 area.
+That was a one year long base.
+This is the kind of gap that doesn't fill quickly
+because institutions are buying the urgency, not the price.
+So the gap is held.
+The stock has extended up here into the 150s.
+You got a rising 50 day at 128,
+200 day all the way down at 115, but both are rising.
+The one negative for new buyers here, elevated RSI.
+77 RSI is a very overbought stock.
+But on breakaway gaps in particular,
+stocks can stay overbought for a long time.
+So if you're in this name,
+I think you're using 145,
+the top of the gap is your reference on a closing basis.
+If you're a longer-term investor,
+use that 50 day at 128 and trail it.
+You wanna do Amgen real quick?
+Real quick, cause I wanna kick it on the desk too.
+All right, you got six growth drivers
+underlying Amgen's future.
+70% of product sales already growing 26%,
+a group of products.
+Management raised for your guidance, we like that.
+RSI 73 also elevated the whole sector is on fire.
+But the old resistance, 390 to 400,
+back from February and March,
+that is now your pivot point as a trader.
+A weekly closing low below 390,
+that's when you might wanna change your mind here
+and do something else.
+So long as this stock stays above,
+I think you wanna be long.
+I like both, they've both been on the list all year
+and they both remain.
+Karen?
+Yeah, I just would say in a support of the biotech trade
+that this is finally the beginning
+of when we see the AI benefits
+to pharmaceutical development
+and the creation of drugs that can target
+very, very specific sites in the body
+that treat particular conditions
+and find the patient population for whom that will serve.
+Amgen has, as Josh pointed out, many irons in the fire.
+Meritel, the diet drug, the Glyph1, Glyph2 drug,
+is at the top of people's list.
+But it's also a company that has deep, deep roots
+in oncology and hematology and immunology.
+So there's a lot of potential there.
+But this is a sector, if you pulled up the BTK,
+that has been on a streak this year
+and should continue because the numbers
+are coming out better.
+There've been positive clinical trials.
+We think this can continue and should continue
+over the next few years.
+Joe, Amgen?
+Amgen.
+And you sold Merit recently.
+So it's Amgen, it's Gilead, it's Vertex.
+Those are three giants that we hold in Jotae.
+It's interesting.
+And look, this could lead to a big debate.
+I totally support what Josh is saying
+in terms of owning Merk.
+I've owned Merk personally and in the ETF.
+But the problem and the reason why it was removed
+from the ETF was on the quality factor.
+Believe it or not, Merk fails in that regard.
+The valuation is a little bit extreme.
+The revenue growth is not there to support it.
+I love the biotech trade.
+Well, you bought more of the XBI.
+That's your move.
+Absolutely, I did.
+I began building a position last year at 101 for the XBI.
+I have been building the position higher and higher.
+Back in June, I shaved a little bit of the position.
+I'm now positioning for a break
+above the February of 2021.
+If you could show a five-year chart,
+you'll see the all-time intraday high
+at 174.79.
+A lot of people always ask why XBI and not IBB.
+IBB is market cap weighted
+and you get your Amgen, your Gilead, your Vertex there.
+So I don't need to travel in that vehicle.
+I'm going to be in the XBI.
+Keep in mind, XBI, a little more high beta,
+more volatility exposed to the biotech trade.
+All right, love all that.
+Thank you guys.
+Mike Santoli, he's next to this midday word.
+All right, we're back.
+Mark, it's commentator and overtime co-anchor.
+Mike Santoli here at post nine for his midday word.
+Here we go.
+About to get interesting, huh?
+And the market is, it's really trying to do
+as little as possible.
+Just stay right there between the lines
+until we get both PCE and NVIDIA, I think.
+I heard the discussion about what the tendencies
+have been with NVIDIA's move
+and it hasn't really been a massive swing factor
+for the whole market and all the rest.
+Maybe evaluation is compressed,
+expectations are low enough
+and the AI skepticism story seems to be
+a little bit saturated right now.
+Maybe you have a little bit of a window.
+What I find most interesting is every single day
+we find a way to kind of stay almost flat.
+You still have crazy stuff happening,
+like microns trading in the $30, $40 range today
+on no news, you know, 3, 4% range
+just because the market's open.
+But everything else is very much kind of under control.
+We've stayed above the prior high of this trading range.
+And so I think until it changes,
+you're not really drawing any big conclusions.
+Marvell's good for five and a quarter percent,
+so you got your way.
+I mean, look, Semi did give back a lot of their bounce,
+but now they're trying to kind of firm up again.
+I'll see you at three.
+Mike Santoli, Oliver Renick, he's next.
+Options action coming up.
+Welcome back, kick sporting goods down.
+Wow, almost 30%.
+We said going in that this space has been challenged
+to say the least and you looked at almost any name
+around the either athletic footwear, sporting goods.
+What happened here?
+Well, it was all Foot Locker.
+So actually, Dix itself posted pretty good results,
+but Foot Locker was a disaster.
+They had to spend 65% more in SG&A for integration.
+They've got product issues.
+They've got legacy stuff that nobody wants.
+Same source sales came in at negative three, six.
+We were thinking maybe negative one.
+And they lowered guidance.
+Gross margins, oh, by the way, fell 200 basis points.
+So Foot Locker is a mess.
+Foot Locker is 30% of total revenues to Dix.
+Flipside, Dix actually posted a 4.9%
+same store sales number.
+Transactions up 1.3%.
+Ticket up 3.6.
+And they maintain guidance in Dix.
+So they're doing fine in Dix.
+I like that piece of it.
+Obviously I thought that the Foot Locker integration
+was going to be better than expected,
+but now this is pushed out.
+And I honestly don't have a timeline for the recovery.
+I mean, look, you think about like looking Nike.
+I mean, there's a lot of things down in sympathy,
+I think, today.
+Look at Nike.
+Oh, everything.
+Remember on after adjournings got crushed
+almost to the same degree, I feel like.
+I think for me, though, I thought, well,
+first and foremost, this is a phenomenal management team.
+They really are very, very good.
+The Dix side of it.
+And I think they have done a really good job
+with the Dix side of it.
+And I really thought that they were going to be able
+to bring Foot Locker along.
+And in the last two quarters, if you remember,
+they actually improved same store sales
+better than expected at Foot Locker.
+So it just fell off a cliff.
+It's a macro call, but it's also an integration call.
+And honestly, I don't know what I'm going to do, Scott.
+I think 30% down is way overdone,
+but this is going to take a long time to fix it.
+And I don't want another target.
+It took me a long time to get paid for target.
+I just don't know if I want to do that again.
+All right, you update us if you do anything with that name.
+That's Stephanie Link, of course.
+We'll take a break.
+We'll come back with finals.
+We'll do finals.
+Josh Brown, please kick us off.
+I added to Delta.
+This stock has pulled back right into the low 80s
+where it's found support before.
+I still think travel is the best part of consumer spending,
+and that will not change between now and year end.
+Here.
+Thermo Fisher, it's having around up 43% this year,
+but it's the leader in high specialized equipment
+and health care.
+Target.
+Interactive brokers.
+See you at three.
+You've been listening to CNBC's halftime report,
+The Podcast.
+You can always catch us live weekdays at 12 Eastern
+only on CNBC.
+All opinions expressed by the halftime report participants
+are solely their opinions and do not
+reflect the opinions of CNBC or its parent company
+or affiliates, and may have been previously disseminated
+by them on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy, but only
+as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants consider reliable.
+But neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy,
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit cnbc.com forward slash halftime
+report disclaimer.
