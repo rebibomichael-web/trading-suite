@@ -1,0 +1,611 @@
+Prep for a busy week with Whole Foods Market.
+Start your day with fully-cooked breakfast sausages from Amy Lu,
+365 brand frozen waffles with no-bleached flowers,
+and of course, Whole Foods Market Eggs, which are all cage-free or better.
+In the evening, bring home a build-your-own family meal that feeds four for just $35.
+Choose one entrée in two sides.
+Shop smarter, not harder, at Whole Foods Market.
+This episode is brought to you by Schwab Market Update,
+an original podcast from Charles Schwab.
+Join host Keith Lansford for this information-packed daily market preview
+delivered in 10 minutes or less, including projected stock updates,
+monetary policy decisions, and key results and statistics that may impact your trading.
+Download the latest episode and subscribe at schwab.com
+slash market update podcast, or find Schwab Market Update wherever you get your podcasts.
+I'm Scott Wopner, and you're listening to CNBC's Half Time Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+All right guys, thanks so much. Welcome to the Half Time Report.
+I'm Scott Wopner, front and center this hour.
+Only the future of the AI trade, the next leg for NVIDIA,
+the momentum trade, all of it, and more.
+We're setting you up for that NVIDIA Report with the Investment Committee,
+joining me for the hour today, Joe Taranova.
+Kerry Firestone, Bill Baruch, and Rob Siechen.
+Let's go to the markets. We're read across the board, but of course,
+none of that seems to matter, does it, until what happens later today when NVIDIA does report.
+The stock just broke its longest losing streak since September of 2022.
+It was down seven straight days, was up a little yesterday.
+It's down today. What is riding on that?
+Is it everything that we just suggested?
+What NVIDIA does next?
+Where the momentum trade and the semis go next?
+What the hyperscalers do next?
+Does Jensen Wong hold the key?
+One issue. The company usually beats and raises.
+That's not the problem.
+The stock, though, usually falls after earnings,
+declining in each of the last four sessions,
+immediately following the earnings report.
+Everybody owns that stock today.
+That's why you're all booked.
+Joe, you first.
+And over the last eight quarters, the stock has fallen six times.
+So I think the expectation is you need a blowout quarter.
+How exactly do you get there this evening?
+I think the Q3 guidance is going to be critical.
+The whisper numbers are moving higher.
+UBS is at 110 billion right now.
+Jeffries is at 108 billion.
+How do you get to 115?
+How do you get to 120?
+I think the way you get there is the fact that NVIDIA has telegraphed.
+They are going to have to raise prices.
+Nearly 15%.
+Why? Because they're responding to what they're seeing going on in memory.
+If, in fact, that's the case,
+do you pull forward significant demand,
+getting in front of those price hikes?
+If that, in fact, is the setup that Q3 revenue number beats,
+then I think what you do is you give the shot of adrenaline
+to the momentum and the AI trade,
+and you hit the refresh button.
+Kerry.
+I think there's very little chance
+that there'll be a big disappointment.
+If we're looking at the spectrum of what NVIDIA could report,
+there's a 75% chance that they report what people expect,
+which is something better than 209, which is the estimate.
+And they talk about a good third quarter, 110 billion.
+But they can really talk about the fairer Rubenship,
+which is the next one, the next generation,
+because we hear there's an awful lot of demand for that chip
+at higher prices.
+If they can do that, beat the quarter,
+raise the guidance and talk about what's coming next,
+we get a big move on this stock
+because people have been waiting on the sidelines.
+Baruch.
+Yeah, the Ruben Ramp initial deliveries,
+and that's obviously there,
+is the Blackwell, the success,
+the demand continuing to stay there.
+But watching the margins and what the memory costs
+have done to the margins,
+what comments they have on the financing deal.
+But I think outside the box, non-GPU products,
+the AI models, the CPU products,
+I think there's going to be some comments around there
+that could really shake things up a bit,
+I think in a positive way.
+To give you an idea, Rob,
+just how dramatically this name
+has underperformed others in the chip space,
+year-to-date, Sandisk, 520%.
+Micron, 227%.
+Marvell, 185%.
+Western Didge, 168%.
+AMD, 126%.
+Nvidia, 13.5% year-to-date.
+Let me make it that.
+And what an opportunity on that relative re-rating,
+I guess, a relative rating.
+You know, when I think about this
+in the overhang that's been on this space,
+it has been all around whether the monetization
+of this infrastructure,
+this $1.5 trillion infrastructure
+is going to be able to happen.
+I think it's still very early innings.
+And when you, I get a lot of investors to say,
+this is just like Cisco in 2000.
+Cisco is the equivalent of cords
+being plugged in at data centers.
+It was a very commodity router business
+that was driven by volume.
+When you're talking about Nvidia,
+it is a high value-added product.
+These are the brain surgeons of this space.
+They are going to be able to maintain pricing power
+and increase pricing power.
+And so we are going to get tested.
+It's not really about the stock itself.
+I think they are the AI trade.
+They are the center of the AI trade.
+That's why Josh Brown refers to Jensen Wong
+as the Fed Chair of AI.
+And he's going to speak with Jim Kramer tonight
+after they give their report.
+He'll be on Mad Money.
+So you'll hear from the AI Fed Chair
+as Josh Brown has coined, which I love, this evening.
+And that could have a dramatic impact
+on quite literally dozens, 100 stocks in the orbit,
+in the universe.
+Think about wireless and how many different
+ways there were to play wireless
+and who the winners were.
+What ended up coming out was that
+yes, you had AT&T, yes you had Verizon,
+yes you had the towers, yes you had the spectrum.
+What ultimately won in that space was Apple
+who controlled the customer.
+We came out with the iPhone.
+That's kind of the equivalent of the application layer here.
+Speaking of, Apple just sent an invite out
+for a special event at Apple Park.
+I got an invite, as I'm sure many others did too.
+September 9th, 10 o'clock AM Pacific time.
+September 9th, iPhone event always happens in September.
+Steve Jobs Theater in Apple Park.
+So anyway, I don't want to get that out there.
+Just finishing that thought, when I look at our spend
+as a company and I see the data, and we are customers of Anthropic,
+ultimately what I'm seeing is increased using
+and increased cost associated with that.
+At the margin, I think it's enabling our employees
+to be more productive.
+And at the margin, it's likely reducing the number of employees
+that I'm going to need to have because of that productivity.
+And I think there's still a lot more room to run.
+I don't want to scare anybody like we're going to start cutting jobs.
+That's not what I'm talking about.
+What I'm talking about is the need for incremental employment
+and the efficiency that comes from that.
+That is why I think it's very early innings
+and their pricing power is exceptional.
+Okay, so how about, hang on, how about this stat?
+Bidia trades at a forward PE just above 20 times.
+That is its lowest level going into earnings in more than five years.
+Christina Parts of Novelos joins us now
+to try and answer the question that others are asking.
+Why has the stock gone almost nowhere?
+What's up with that?
+The PE, it's lower than Marvell at 52, lower than AMD as well in the 40s.
+The stock, to your point, what, up 13%?
+You listed all the other competitors,
+but look at the stocks index.
+That's up 70% in the same timeframe.
+One of the widest gaps between NVIDIA and its own sector on record.
+The worries, though, are elsewhere.
+Wall Street is afraid NVIDIA is losing ground as Amazon
+and Google build their own chips.
+And the credit market is, dare I say, uneasy.
+Morgan Stanley opening coverage of NVIDIA's debt this month said
+its bonds now trade more like triple B credit than the AA at its balance sheet
+actually implies as NVIDIA takes on more of the financing
+propping up its own customers.
+Investors will want management tonight to put a number
+on the commitments piling up off its balance sheet.
+The multi-year deals are designed to lock down supply, power, and demand.
+And quantifying that won't necessarily erase the risk of the AI build out,
+but it lets the market price it properly.
+Watch how NVIDIA shows diversification.
+NVIDIA has started breaking out sales beyond the four big cloud buyers
+into AI startups, enterprises, governments, sovereign AI.
+Proof, it's going past that handful of customers now building chips to compete with it.
+And to Joe's point, buy side whisper numbers is at $5 billion above estimates.
+So that's a very, very high threshold right now.
+There are, of course, the usual boxes to check holding gross margins
+in the mid-70s as memory costs bite, the pace of the Rubin ramp,
+and any move to lift the buyback, if anything.
+But those are all priced in.
+All of your panelists listed them with the exception of the buyback.
+What isn't is how much of the build out NVIDIA is now funding itself
+and how the non-hyperscalar business is going to lift revenue into the future.
+I love the fact that you brought up the issue of diversification
+because I thought that was a really interesting piece today
+in the Wall Street Journal that talks about, at least in part, just that.
+They ask the question, or they raise the issue,
+the $1.5 trillion question NVIDIA's earnings cannot answer.
+They make the point, $1.5 trillion is the total revenue needed for all of the AI investment
+the hyperscalers and others are making to make good financial sense.
+And they write, quote,
+ultimately NVIDIA and other AI chip makers are living on borrowed time.
+At some point, big spenders will reach a breaking point
+where their cash piles are smaller and they're unable or unwilling to raise more money
+from debt or equity investors.
+If AI turns out to be worth less than it costs, that is inevitable.
+The point being, if and when that does happen,
+they better have a more diversified stream of customers than just the hyperscalers
+because there is, they think, an inevitability to all of this.
+Scott, that is exactly why they rushed to get that $500 billion from the financiers,
+the investing pool, that will cater to the crowds that maybe don't have as good ratings
+to get debt like the neoclouds, like the sovereign AI.
+And NVIDIA is essentially lending its balance sheet,
+lending its credit ratings so these smaller players can compete and buy the GPUs down the line.
+So that is adding an entire big layer, an enterprise layer,
+a sovereign AI layer that NVIDIA hasn't really tapped into to be able to buy their hardware,
+buy their software, buy their open AI models, but just buy every single layer of the stack
+so that NVIDIA is no longer relying on those hyperscalers who are said to spend what,
+$1 trillion in CapEx that can't keep on going, especially with memory prices going,
+especially with NVIDIA raising anywhere between 15% and 17% per Rubin or Blackwell rack.
+That's a lot of money which is going to continue to eat into the free cash flows
+of these hyperscalers, so they have to diversify,
+which is why they're deploying their free cash flow across the board and acting like a VC.
+Expert insight. I really appreciate that, Christina. Thank you.
+Thank you. Christina Partsinovalos.
+Okay, another question. Is a bigger buyback coming?
+Because it appears as though the talk on that very topic is starting to heat up.
+Bank of America mentions it today in their reiteration of the stock as a buy 350 is
+the price target. They say, and I'm quoting from their note,
+the balance sheet, not the beat, is the real tell.
+Better commitment disclosure caps the perceived liability,
+and a buyback pivot towards an Apple-style payout is the under-appreciated catalyst
+to re-rate this stock trading at such a depressed multiple.
+That's become a bit of a controversial take.
+Stephanie Link on the show the other day said she doesn't want a bigger buyback.
+She wants them to use the cash in other ways. What do you think?
+I don't think they need the buyback to retain the shareholder.
+I think people will be there for the long term based on the fundamentals of the company.
+So I don't know if you're initiating a buyback on the belief that you're putting
+some form of a put underneath the market. I think that exists already.
+How does it, how does it exist already?
+Because of the solid fundamentals because of the historic fundamentals.
+The stock is still up 13% year to date. It has not rivaled the performance that you're
+seeing in memory and optical and let's call it some of the other chip names like an AMD.
+I acknowledge that but the stock has still given you 13% so far year to date.
+You want a bigger buyback?
+I don't think a buyback is bad. It wouldn't be my first use of that cash but he knows
+what he's doing with this cash. He's got 360 billion a year in free cash flow at the current
+run rate. If they announced a much larger buyback and they got into what again
+Bank of America talks about as an Apple style payout, what do you think that would mean
+for the stock? Is that the thing that gets this stock moving?
+No. Simply because of that at this point?
+Absolutely not because it's not at the mature level that Apple was when they started to
+do this. Apple being a dividend was how many years old as a very major company in the technology
+field. I think NVIDIA has more opportunities but I don't think it's a bad idea and it gets
+included in more portfolios and institutions. I would just like to say that between October of
+2022 and October of 2025 NVIDIA's stock went up 1700%. In the last year it has been a much lower
+growing stock price but that's not bad for setting up a base from which it can start to accelerate
+and it's at its 100-day moving average now.
+I was going to highlight the 2023 returns up 240%. That was when the stock became top
+5 market cap. When is the last time you've seen Apple up 100% a year? NVIDIA is not competing
+for the returns that you have in a Marvell, a Sandisk and a Micron. They've laid the groundwork
+for those companies and that's why you need to be agile and add those to your portfolio
+within that. You hold NVIDIA for the stability talking about a put below the market. I do
+like the idea of the buybacks. I think as an operator of a company you look at that
+multiple and this is when you want to buy it back. You map out throughout the year at what
+multiple do you want to be pulling the trigger. I think it's in that wheelhouse so I wouldn't
+be surprised to get it. I think that could be the tailwind and then really addressing
+the competition that's coming from these other chips that are being developed. You see the
+jalapeno which is part of OpenAI's launch, it's getting a lot of traction. The competition
+that's being evolving right now I think it's going to bring a more zesty Jensen into the
+mixture and that's where we can see the stock break out. So we've addressed what we think
+around what NVIDIA's next move is going to be. Remember we laid out multiple things that
+we think are at stake tonight. The momentum trade is it? Do you think hanging in the
+balance? Tony Pascarello-Goldman today says as long as the AI buildout remains on track,
+client exposure to this factor, momentum, will run on the structurally high end of history
+but with that comes a more volatile path. Is that trade hanging in the balance tonight?
+I don't think so because I think they're going to do what they always do. So I don't
+think the trade is hanging in the balance tonight unless they give some forecast for 28
+that's shockingly surprising. I do think that they need to for NVIDIA do some things
+but for the industry their messaging is going to continue to be on point and so the answer is
+yes it matters but I don't think it's going to matter. There is a side of the momentum
+trade these smaller companies the ALabs, the Credo's, the Luminten, Tickerlite those names
+responded off of NVIDIA's earnings last quarter. They were all up 10 to 20 percent
+and the following data- That's why I said at the outset you know we're talking about dozens
+if not hundreds of names, some of which people haven't even heard of because they don't get talked
+about all that much. So they're much more volatile obviously. They're high beta momentum. Let's move
+away from high beta momentum for a second. Let's just look at the single factor of momentum.
+It's upgraded than 20 percent year to date. It's down in the current quarter somewhere
+around 10 percent so it does need that shot of adrenaline. Now you're going to get
+multiple looks at the goal. It's not just NVIDIA. It's also OCTA. It's Salesforce. It's CrowdStrike.
+It's Marvell. It's all coming within the next 24 hours but I think it's a matter of kind of
+pick your basket in terms of positioning Scott because 2026 has been a year where if you've
+tried to concentrate in one direction you've really been punished for it. Right now the
+better basket appears to be Microsoft, Amazon, Alphabet, Financials, Health Care,
+the broadening out narrative, right? That's what the market's telling you. Right,
+that's what the market's telling you. So don't be surprised tonight if once again
+the market is kind of caught off sides with that positioning and the market says
+wait a second let's make that return to optical, to memory, to micron, to NVIDIA.
+I think it's important to always understand how the market is positioned
+going into these big amounts. How do we think the hyperscalers in general are positioned
+and whether that trade itself is hanging in the balance here. One month over the last 30 days
+they've certainly traded better with the exception of Meta which is just settling today
+as we know about with the state AGs over their child safety issues. So that stock's been an
+underperformer over the last month. There's been that overhang and then questions about
+spending and where the money is going to and all that but Microsoft's up almost 30%
+over the last month. Amazon's up 12 and a half percent. I thought there was an interesting
+piece in the journal today about Microsoft quote leaving investors flying blind on its AI
+businesses from capex to its flagship cloud platform. Microsoft stands out for lack of
+transparency. So year to date the stock's done nothing. As I said though over the last month
+it's up almost 30%. It was right after earnings where that stock started to take off care.
+I mean does that stock continue to build on those gains based on what happens tonight in any way?
+Yeah I think it's possible. The Microsoft store was really they're flat because they're behind
+the curve on AI even though they own about 50% of open AI. Nobody could figure out what the
+benefit was in terms of their own use of it and co-pilot has been really a bust since they
+introduced it. But we're seeing right now that they are employing an open source Chinese. I think
+it's coming in the next few months to co-pilot and that's expected to be very very strong
+and available to all of the users. So that's an attractive low price product that could expand
+there. I would say the opinion that people have on Microsoft within the whole
+universe of AI. Give me Oracle guys. I thought there was a really interesting call today
+please from Citi. They go in on this name and maybe that stock moving higher today
+is a result of what they say. So Citi adds it to its positive catalyst watch.
+Historic sell-off they say is an opportunity. They call it one of the most extreme
+dislocations and drawdowns in the stock's history. They believe shares can work as
+continued robust AI demand trends and margin pricing read-throughs from the Neocloud set the
+stage for positive estimate revisions into earnings and investor day in later October.
+So shares are down 25% year to date up 25% over the past month. Software's done better.
+Oracle's done better. Is that historic sell-off now an opportunity? We added to Oracle about
+two weeks ago Kim on the show and talked about it. They have a significant backlog.
+I think too from the debt issue inside no new debt is expected from them in 2026.
+They've had better points on rates prior when they've issued. So I think there's a real
+strong case for an Oracle to continue and if AI succeeds Oracle is going to succeed.
+I mean they're growing EPS 20% plus. So I mean you have to like it down here. This has been
+a level we've been talking about on the show for a while 125 to 145, 150 and we've
+been just digging in there for a couple months now. All right. Give me into it guys please because
+that stocks down after a disappointing revenue outlook cut to neutral today B of A cut to neutral
+today JPM one price target to 360 the other to 331. So somebody obviously temporary now their
+expectations to where they were. They still think it's higher than where it is now.
+But again, 331 JPM you made it just your final trade on Friday. Thanks.
+Yeah. Nice timing. Poor timing. But we bought it at the end of July. We're up 10%
+still in the name. When you buy a name that's heavily discounted this name's off almost 50%
+in the last year. Sometimes you have to endure some volatility as you own it.
+And we just think this is a business that has industry dominance in consumer and personal
+finance. And you know software has actually proven to be a really effective hedge against the AI
+momentum unwind as we just saw. So it's weight on the other ski and we think this is an inexpensive
+way to play it. How are we feeling about CrowdStrike, Okta and Salesforce because they all report
+after the belt excuse me as well. CrowdStrike hasn't traded all that well lately. If you
+take a look at crowd let's say over a month I suppose we'll probably do the trick. It's
+having a great year. It's up 58% year to date but you see what I mean. Over the last couple of
+weeks it hasn't traded Bill all that well. I mean I think that definitely some profit taking. Now
+we did not trim it. We looked at our portfolio. There's a couple of names we did trim.
+CrowdStrike is hanging around now just outside the top five. It's a large holding for us.
+I like the long-term story. We just kind of battled through this volatility.
+Their Chief Technology Officer departed. That was a bit of pressure to the stock
+but their customer retention remains extremely strong. Gross retention held at 97%. Platform
+expansion gains traction. I think we'll continue to see more on that and ARR continues to be
+tremendous. So I think that this name it's going to find its way higher. It's just
+getting through this earnings report. It doesn't meet the high expectations that were built
+but now that it's pulled back I think the bar is lower than where it was three weeks ago.
+Guys give me Akta please. Let's take a look at that one for a number of reasons. So as we said that
+reports as well. Stocks up 50% year to date. The information reporting that Nikesh Arora,
+he's the CEO of Palo Alto, considers deals to buy Datadog or Akta or both. I don't know.
+We'll see but that's their reporting. I'm surprised actually it's not given a
+bump to the stock. You would think that it might but what do you think about the
+earnings going in here? So the challenge for them will be the Microsoft bundling and the effect
+that it's having on Akta's business and its ability to capture market share. I think you
+maintain positioning because at $22 billion with a market cap valuation this company is clearly
+an AI security takeover candidate. Okay, Salesforce. We're going to finish there.
+So it's looked a little better lately. That's not saying much because it's had a terrible year.
+How else do you look at a story that's down 23% year to date? You sold it back in June,
+said enough's enough. Mark Benioff continues to defend their business against continued calls for
+this stock being in the eye of the SaaS Pocalypse. Other stocks have emerged from that spiral though.
+I'm not sure what's happening here. Mark Benioff is going to be on with Jim tonight on Mad.
+What do you think? It says now, listen, a little bit of our exiting the position was
+taking a loss in CRM to offset again some of the gains that we have in the portfolio.
+I think this is an essential business like now, and we own now, we kind of traded out of that
+into service now. And the reality is that I can't see my enterprise running without Salesforce.
+And I think they're going to figure out how to monetize some of the enterprise
+relationships that they have as we figure out the application layer that sits on top
+of all these infrastructure and AI ecosystems. All right, so we're going to take a break and
+when we come back, we're going to talk about a landmark deal today in the wealth management space
+could influence where and how you manage your money or how others do it for you.
+Our Josh Brown calling in next. We're back. Prep for a busy week with Whole Foods Market.
+Start your day with fully cooked breakfast sausages from Amy Lu,
+365 brand frozen waffles with no bleached flowers, and of course Whole Foods Market eggs,
+which are all cage free or better in the evening. Bring home a build your own family meal that
+feeds four for just $35. Choose one entree and two sides shops smarter, not harder at Whole Foods
+Market. There is so much NFL on ESPN right now. Monday night football plus pregame and post
+game, NFL live NFL prime time, everything you need to stay on top of every game every week.
+Unbelievable. And now NFL network is on the ESPN app. More football, more coverage,
+more ways to watch footballs on all season long on ESPN and streaming on the ESPN app.
+Daily market preview delivered in 10 minutes or less, including projected stock updates,
+monetary policy decisions and key results and statistics that may impact your trading.
+Download the latest episode and subscribe at Schwab.com slash market update podcast
+or find Schwab market update wherever you get your podcasts.
+All right, let's talk about this landmark deal today in the wealth management space.
+Vanguard is buying the wealth management platform, Altruist, for $4 billion.
+What is Altruist? Well, it's a wealth management platform founded in 2018, basically an upstart
+that was intent on challenging Schwab, Fidelity and others. So now you have
+the world's second biggest investment firm wanting to expand its reach into that area,
+into financial advice, which is a relatively new area for Vanguard itself.
+Josh Brown joins us now on the phone. He's an advisor and shareholder in Altruist.
+It's notable that if we take a look at Schwab, Raymond James, they're red. They're red because
+of this deal more than likely, which you say is going to rock this industry. Guys,
+I'd like to see those stocks, please, if we could. So give me more information on why you think,
+Josh, this deal is so important. So thanks, Scott. You and I sat with Jason
+Wink at Future Proof this past March in Miami, and we talked about just the idea of AI
+and a tech native brokerage custodian all of a sudden coming in and disrupting the realm of
+wealth management. And what this does is it basically puts, as you said, the second largest asset
+manager on earth and its resources behind Altruist and their AI solution, which is native to the
+platform called Hazel. And I think it's an earthquake because for the most part, Altruist
+is thought of as a venture backed startup. And a lot of wealth managers with billions and
+billions of dollars are hesitant to trust a new platform or a neo custodian with their clients money.
+All of those questions about the brand, about the provenance, those all go away. Now it is
+a wholly owned subsidiary of Vanguard, but with the cutting edge technology of a startup. So
+that's why this has the potential to shake up the industry. And I'm super excited about
+it personally. We do have ownership on the desk. Stay with me, Josh, because I really do
+want to hear from others. So Carrie, you own Schwab. This seems to be the one that the market's
+most fixated on today. Well, if we look at the competition and the two competitors would be
+Schwab and Fidelity in this business. And let's not dismiss them as unexperienced and ineffective
+in fighting competition. So they'll see this. They have a great deal of technology behind them.
+Schwab has been gaining market share. They've made acquisitions that have been extremely accretive.
+I don't doubt that they're going to continue to fight this well. They offer wide platforms to
+all types of asset groups coming in from people who are starting with a thousand
+dollars to the most sophisticated RIAs. And that's true also of Fidelity. So I think it's
+great for Vanguard. Vanguard, as we know, sells index funds. They have not given advice. They're
+going to have to change their image. They're going to have to spend a lot of time to integrate this.
+Well, the new leader of that business, Vanguard's business, made it clear when he took the job
+that that was the next and new frontier for Vanguard. And now they make their offensive if
+you want to continue that analogy there. So you own Schwab and Rage. So give me that
+first. And then I know you want to ask Josh something, but give me that first.
+This is problematic. It's problematic for these giants like Fidelity, like Schwab. But I think an
+interesting angle to take here in the question I have for Josh. Josh, first of all, congratulations
+for being a shareholder. But what do you think the message is here for a traditional
+wirehouse? Let's take a look as you're answering to Morgan Stanley today, which I'm sure is down
+off of this news.
+Thanks, Joe. And you'll have to speak up on the phone from a Rolls-Royce dealership.
+Yeah, the next dinner's on you, dude.
+Harry is right that Schwab and Fidelity have fought off plenty of competitors and full disclosure,
+my firm Custody's client assets at Fidelity, Schwab and Altruist. So all of those platforms
+are incredibly powerful. They all have technology and solutions. And I don't think it's a winner-take-all
+business. But what I will say is this, we've onboarded something like $2 billion in assets
+over the last two years. And I think we're one of the fastest growing firms in America,
+even given our size and the amount of onboarding we do of new customers on a weekly,
+monthly, quarterly basis, I think gives me the authority to say digital first onboarding tools
+are the holy grail for the wealth management industry. The ability to send a link and have a
+client download the Altruist app and onboard themselves, supercharges, fast-growing firms
+like mine and there are others. And now the resources of Vanguard behind that,
+they could go from 500 engineers to 2,000 engineers overnight. So we feel very strongly
+that the wealth management firm of the modern era is multi-custodial and that all of the major
+custodians have things to offer. But this is now a third entrant with some really deep pockets.
+And by the way, Jason Wink is staying. This is one of the most important things.
+He signed a multi-year deal, stick around. The team is not moving from California to
+Pennsylvania. They're going to stay put, the engineers who built this platform.
+And I think now you're going to see bigger firms consider Altruist as a second or third option,
+whereas as recently as two hours ago, they might not have. And that's what's really changed.
+And the reason why you pick Morgan Stanley out is because obviously they've made wealth
+management a key pillar, if not two pillars of the way that they think about the
+some of the growth engines for their business. I'm curious to how you think as New Edge,
+the leader of New Edge wealth about this. Very interested in what happened. We are in kind of
+the middle layer of this. If you think about the industry, there's custodians
+and tech-enabled solutions providers. The idea is to be enablers of advisors,
+elite advisors, as they embark on an entrepreneurial journey of their own.
+And they're starting to realize that no one firm has a monopoly on great ideas. So when you
+create a structural advantage by allowing advisors to partner with different custodians
+to embrace core technologies, you add a layer that basically says we're going to organize that for
+you very much in the same way that an iPhone organizes all the apps and allow you that
+access and supplement that with an intellectual capital overlay in wealth strategy, in investments,
+in an access. It's a real differentiator. No one is going to say, listen, if I'm getting a mortgage,
+I only want it from one place. What do you want the lowest price you can get? And what
+creates better pricing? Competition. And you need organizations that set up for that.
+Our organization is built on a middle layer to do just that for advisors that are starting
+their own firms. And we also have our own advisors. So I think this is the model of the future.
+I bet my career on it. Josh, thank you very much. When you're out shopping, look out for Josh
+in Jericho, New York today, right? Isn't that the, isn't that the stretch?
+Thank you. That's Josh Brown. Now to contest a brewer with a CNBC news update. Hi there.
+Hi there, Scott. 25 Democratic attorneys general filed a new lawsuit today to block
+President Trump's restrictions on mail voting. That new rule requires states to get federal
+approval for their ballot envelopes and provide lists of eligible mail voters. Election officials
+say that just can't be implemented before ballots go out next week. The Supreme Court
+rejected an earlier challenge as premature. The U.S. military says it killed four people in
+a strike on an alleged drug smuggling boat in the Caribbean Tuesday. Southern Command says
+intelligence confirmed the vessel was indeed involved in drug trafficking but didn't release
+any evidence. 68 such strikes have reportedly killed 227 people. And LiveGolf told the majority
+of its employees in the U.S. and the U.K. today their jobs will end the first week of September.
+The Rebel Golf League is scaling back because Saudi Arabia's public investment fund recently
+ended its financial backing. Live says it has a deal with an unnamed investor for the league
+to continue operating after the season. But, you know, the Saudis, Scott invested more than
+five billion dollars to get this thing up and running off the ground. So we'll see what happens
+next. Yep, we certainly will. Contessa, thanks so much for that. That's Contessa Brewer. Mike Santoli,
+he's with us next. Prep for a busy week with Whole Foods Market. Start your day with fully
+cooked breakfast sausages from Amy Lu, 365 brand frozen waffles with no-bleached
+flowers, and of course Whole Foods Market eggs, which are all cage-free or better. In the evening,
+bring home a build-your-own family meal that feeds four for just $35. Choose one entree in two sides.
+Shop smarter, not harder, at Whole Foods Market. With the Discover Cashback card,
+it's payback time when you earn cashback on everyday purchases. Activate and earn 5%
+cashback at different categories each quarter on up to $1,500 in purchases.
+That's 5% cashback at different places each quarter, like grocery stores, on gas, and at restaurants.
+It pays to discover. Terms applied, see discover.com slash 5 for details.
+and statistics that may impact your trading. Download the latest episode and subscribe at
+Schwab.com slash Market Update podcast or find Schwab Market Update wherever you get your podcasts.
+Welcome back to Senior Markets Commentator and overtime co-anchor, Michael Santoli joins us
+with his midday word. Okay, now we've talked every day starting last week about what is at
+stake beginning tonight. What do you truly think is? Well, I mean, I think you need affirmation
+that we have a little bit of a lit up path to basically more of the same, more of the same
+spending that these profit levels and free cash flow levels going to NVIDIA are basically as
+far as the eye can see. What I think market-wide is interesting is we want to get past
+it. And it sounds really ridiculous, but it almost doesn't matter the substance of it.
+What matters is what the market takes from it. In other words, does it just
+release us to do what we've been wanting to do anyway? Now, eight straight days coming into
+today, the S&P 500 SPY ETF closed below where it opened. We're probably not going to be there
+today, but it's been this very low intensity drip of a pullback, but not breaking any trends.
+Somebody really wants to get through August without us going back into the range of
+prevail from May through July. So if we get past NVIDIA, people see room for relief there.
+NVIDIA itself, those shares are pretty compressed at this point. The valuation has obviously been
+de-risked. And you have a weird kind of indifferent sentiment around it on the buy side,
+even though the sell side remains absolutely adoring of the story. So I feel like it's a
+fascinating setup. We got nothing from the macro to change the Fed's, the Fed
+intentions for September. I think that's okay. Yields have been just going sideways.
+So there's every excuse for the market to pick itself up and see if it can go back
+toward the highs. If it doesn't, maybe it's telling you something after today.
+Yeah. We'll just, we'll get over a hurdle. And then we got other things to think about
+over the next couple of days too. Michael, I'll see you at three o'clock. Thank you,
+Mike Centoli. Coming up are top calls of the day. We debate one firm's case for buying one
+unloved sector. We'll tell you what it is. We'll tell you what their case is.
+See if anybody bites. Next. Let's do some calls. Let's start with TJX. It was cut today to hold
+Target 145 from 180. So expectations were a lot loftier than where this firm now
+Jeffries thinks it's going. It's just down 10% over the last month. Earnings weren't
+well received. We all know that. There's the slide. 52 week low over the last month.
+What's up here? 52 week low. Barmax division did not come in with strong earnings here.
+TJ Max Marshall's underperformed surprising. Consumer discretionary remains incredibly
+difficult to gain significant momentum. Now it's Abercrombie and Fitch and Urban Outfitters.
+That's up 35% today, Abercrombie. Okay. So Barons today says utility stocks are
+historically unloved. And the case for buying, getting stronger. So they point out what yields
+have done, right? The yield proxy. Why would they do well when yields are up?
+Backlash against data centers. So you got a two-prong problem at minimum.
+Rob, what do we think? You have NRG, Vistra. Seems everybody loves these names. What now?
+We were early in them, still up a lot. Now I think it represents an opportunity because
+still the main bottleneck is energy in the data center build out. It doesn't appear to me
+despite the political backlash that there's going to be materially less energy needed to power the
+already existing data centers that we have here. You're not buying. You want people to own these
+names for the existing data centers. This isn't the whole point. The growth of these businesses
+is going to come from the proliferation of them. You've re-rated to 11 times in many of these
+cases. What do utilities normally trade at? But not utilities with this type of exposure, right?
+Not utilities with this type of demand profile and exposure. I still think there's a lot of
+room in these names. You want to market multiple for these names? You've got it in your pocket.
+I like Vistra here. I think it's a name that we're actually kicking around adding to.
+I do think yields come down. I don't know if that's the tailwind for Vistra, but they're involved
+in the Helix partnership with KKR, NVIDIA. I think that gives them a good edge in the AI
+infrastructure powering, which we're going to continue to need. You mentioned the word
+bottleneck, exactly that. They've got good positioning, ERCOT, and they have these great
+long-term nuclear and gas contracts. I think this is sort of that year where Vistra is
+going to be quiet. I think next year could be a great year for it. The CEO did buy some stock,
+not much, about a quarter million dollars earlier in the week, something though. I like the name.
+Great long-term business with optionality still. Real quick, because you have Nextera.
+Nextera and American Water. It's all about scarce resources. These are companies that have
+resources, power, water, energy. Coming up, we're going to play some options action,
+as we always do. Oliver Renwick, he's at the SIBO in Chicago. As we count down to those
+NVIDIA earnings, what is the options market saying? Where are the best trades? He knows.
+He'll tell you next. All right, let's play some options action on NVIDIA. Oliver Renwick is at
+the SIBO global markets in Chicago with the trade. What do you got? Hey, Scott, options
+traders are holding their breath a little bit here ahead of earnings. Volume is half what
+we normally see in NVIDIA, but options pricing on the S&P 500 suggests this is the event of the week,
+NVIDIA's results are more of a potential catalyst than Jackson Hole. And it looks like traders need
+NVIDIA to move with a preference to rally. Options are implying a five and a half percent
+move in the shares, which is more than double the stock's median swing over the past four
+quarters of reports. The bias is also quite clearly bullish with calls much more expensive
+than puts right now, including very far out of the money calls whose prices are in the 70th percentile
+compared to the past year. Open interest is very skewed to the upside with most trades concentrated
+around the 220 strike, which is right around that expected move. If we beat that, this thing
+could really take off. On the downside, there's not much trading in options below the 200 strike,
+so that level really needs to hold to make sure things don't fall apart, Scott. All right,
+that's a good look. Oliver, appreciate that very much. Oliver Renick. Finals step to this break.
+All right, how's this lineup? Three o'clock. We're going to surround this NVIDIA thing
+right up to the print. Stacey Raskin, Dan Ives, Anker Crawford, Doug Clinton,
+Brian Belsky, Bryn Taukington, Malcolm Ethridge. By the way, the U.S. Open also starts.
+Patrick McEnroe's going to be right here too. You got to ask him about NVIDIA.
+Can't wait for that. He probably owns it like everybody else. All right,
+final trades. Robbie. How many arrows space? Okay. Mike Ron's building momentum. NVIDIA is
+going to blow out of the water and it's going to lift Mike Ron and beat other names. Okay,
+Karen. Flow, serve, industrial pumps, power plants. Way to look at the clock today, Karen.
+Appreciate that. Thank you. Joe. Valero went through a 10-day consolidation period to work
+off over bought conditions. Time to rebuy it. All right, so we're read across the board.
+We'll pick it up at three o'clock for the final trade on closing bell. The exchange is now.
+You've been listening to CNBC's Halftime Report, the podcast. You can always catch us live weekdays
+at 12 Eastern only on CNBC. All opinions expressed by the halftime report participants are solely
+their opinions and do not reflect the opinions of CNBC or its parent company or affiliates
+and may have been previously disseminated by them on television, radio, internet,
+or another medium. You should not treat any opinion expressed on this podcast as a specific
+inducement to make a particular investment or follow a particular strategy, but only as an
+expression of opinion. Such opinions are based upon information the halftime report participants
+consider reliable, but neither CNBC nor its affiliates and or subsidiaries warrant its
+completeness or accuracy and it should not be relied upon as such. To view the full
+halftime report disclaimer, please visit CNBC.com forward slash halftime report disclaimer.
+Join host Keith Lansford for this information-packed daily market preview delivered in 10 minutes
+or less, including projected stock updates, monetary policy decisions, and key results
+and statistics that may impact your trading. Download the latest episode and subscribe
+at Schwab.com slash Market Update Podcast or find Schwab Market Update wherever you
+get your podcasts.
