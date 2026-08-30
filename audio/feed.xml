@@ -7,6 +7,12 @@
 <description>Narrated daily YouTube channel digests and CNBC Halftime Report summaries, generated automatically.</description>
 <itunes:author>trading-suite automations</itunes:author>
 <item>
+<title>YouTube digest — 2026-08-30</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-30.mp3" length="3437136" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-30.mp3</guid>
+<pubDate>Sun, 30 Aug 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>YouTube digest — 2026-08-29</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-29.mp3" length="5542128" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-29.mp3</guid>
@@ -263,18 +269,6 @@
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-01.mp3" length="2903040" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-01.mp3</guid>
 <pubDate>Sat, 01 Aug 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>YouTube digest — 2026-07-31</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-07-31.mp3" length="4465296" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-07-31.mp3</guid>
-<pubDate>Fri, 31 Jul 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Halftime Report — 2026-07-31</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-07-31.mp3" length="1982448" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-07-31.mp3</guid>
-<pubDate>Fri, 31 Jul 2026 07:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
