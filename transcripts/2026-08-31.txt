@@ -1,0 +1,1287 @@
+At Venture Global, we think about what can be done, not what's usually done.
+Through innovation, Venture Global is not only building some of the largest energy facilities
+in the world right here in the United States, but delivering American energy at a fraction
+of the cost and a fraction of the time.
+So while others are busy talking, we're busy building.
+That's Venture Global.
+That's unstoppable energy.
+This episode is brought to you by Schwab Market Update, an original podcast from Charles Schwab.
+Join host Keith Lansford for this information-packed daily market preview delivered in 10 minutes
+or less, including projected stock updates, monetary policy decisions, and key results
+and statistics that may impact your trading.
+Download the latest episode and subscribe at schwab.com slash market update podcast or
+find Schwab Market Update wherever you get your podcasts.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report, the podcast, the most
+profitable hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+David, thanks so much.
+Welcome to the Halftime Report.
+I'm Scott Wapner, front and center of this hour, the next move for stocks as a traditionally
+tough month looms.
+We'll discuss and debate all of that with the investment committee joining me for
+the hour today.
+Joe Teranova, Shannon Sequosia, Jenny Harrington, Bryn Talkington, Take You To The Markets.
+We'll show you what we're doing, 12 noon in the east, red across the board.
+Rates are up, oil's up, and thus stocks are down.
+Iran and the U.S. trading military strikes, so that's got a little bit of unease in
+the market.
+And as we said, September, historically, the worst month for returns for stocks,
+that's looming large.
+I thought we'd start with what is our takeaway from what happened last week, which was
+such a consequential week going in, Nvidia, what did they do?
+They validated the AI story as much as they had to and where demand is currently sitting.
+And the war speech, he was definitely hawkish, but I mean, that doesn't mean
+September is a shoe in by any means for a rate hike.
+So what now?
+Where does that leave us as we have September looming?
+I still think we're stumbling a little bit as we go into September, specifically related
+to the momentum.
+No, I know you were going to go there.
+You knew I was going.
+I'm glad you did.
+So tell me more and then I'll bring in something to add to that conversation
+because the Wall Street Journal was writing about that today.
+And some of the stats that they have are pretty staggering, but you tell me
+you're watching your mind.
+So I had hope, and I think Bryn can confirm this.
+I had hope that you'd get that shot of adrenaline into the momentum factor
+as a derivative of the Nvidia earnings call.
+You really didn't get it, Scott.
+It was somewhat disappointing in that regard.
+I don't think Micron or Corning really went anywhere.
+The following day, you heard from Marvell, that was a second opportunity
+to kind of restart the momentum trade.
+Yes, right too, because that didn't do anything either.
+It didn't.
+So we kind of had this inability to do that.
+I think that leaves us in a position where focusing on positioning
+as you move into September and October, momentum funds like myself,
+they're kind of getting more confirmation of moving away,
+moving away from that high beta AI exposure into your health care,
+into your energy.
+And by the way, into commodities, we're going to talk a little bit about this
+as the show evolves.
+We will.
+But I will tell you agriculture prices right now are on fire.
+The momentum is clearly intense in that commodity.
+I think strategists are speaking to exactly what you're talking about.
+As for momentum, and I mentioned this piece in the journal by Greg Zuckerman
+and Gunjan Banerjee, I thought it was interesting, the momentum index
+has tumbled more than 9% since July 1st, lagging behind the S&P's 2.8% gain.
+The index is on track for the biggest quarterly underperformance in 25 years.
+July was the second worst month for the momentum trade in around 40 years.
+That's according to Bank of America estimates that they cite.
+The only month that was worse was April of 2009, when we were right in the
+midst of the financial crisis.
+So if you needed more evidence of just how tough it's been shan for momentum,
+say no more than that, because that paints it pretty clearly.
+Wolf points out on Marvell, the rallies come to a screeching halt.
+If that trade has come to a halt, is it a problem or not?
+Well, I think if you look at the proportion of the names that have
+essentially led this momentum rally over the last year or so, then I think that
+if you look at the index itself, that is a challenge.
+And you're looking for some form of catalyst that can drive semis and
+other AI-related momentum plays higher in this environment.
+And the challenge is that just as you and Joe said, Scott, NVIDIA didn't do it.
+And I think that, again, you're looking for some sort of use case or
+tangible change in terms of demand that's going to drive these names higher over
+the course of the next six to eight weeks.
+I'm not even sure what you need a change in demand.
+I mean, demand is off the charts.
+I think what you need is I think you need a new narrative.
+I think somebody, this has been essentially priced in, in my view,
+in terms of what does that demand look like?
+We're not at risk.
+I don't think the AI narrative is at risk.
+But I think in terms of that next step function higher in terms of some of these
+names, I do think it's challenging right now to just look at those as being the
+market leaders.
+The other thing that's happened is that the sectors that have been performing
+better over the course of the last couple of months, the challenge is,
+is that they don't make up enough of the index to really move the needle.
+I'll tell you what's interesting, since you use the word narrative,
+the narrative, if anything, has been negative lately.
+Nothing around demand, Jensen Wong told you as much, but the narrative has been
+negative around data centers to the point where Gavin Baker wrote a long
+piece on Twitter.
+Jensen Wong quote tweeted that, making his own case for the benefits of data
+centers.
+The president this morning on Truth Social with a post on data centers.
+So the narrative has gotten decidedly negative around data centers.
+The polling says as much.
+Maybe that is the narrative that needs to change for this trade to improve
+over anything else, because the fundamentals are as solid as you could
+ever imagine them to be.
+Demand's not going to matter if you can't deliver on it.
+And I think that's where we're hitting at this inflection point.
+Politically over the next couple of months, we are going to see data
+centers and other forms of AI where the benefits of those tech,
+of that investment is accreting to big businesses.
+I think those are going to be assailed in the press as a result of the
+elections.
+And I think that the other challenge here is that there's a lot of
+parts of this trade that are tied up with data centers and with the
+assumption that this delivery can actually be achieved.
+That's my point.
+That speaks to some of this shorter term weakness.
+We haven't talked a lot about the election, Scott.
+The minute we turn the calendar page after Labor Day, that is all we're
+going to be talking about in the two months up to midterms.
+Because there are some political hot button issues that actually
+impact from the perspective of investors whether we can deliver
+on the promise of AI over the course of the next two years.
+The problem is that politicians are going to politic and they're
+going to do their thing leading into the midterms, whether as both
+Baker and Jensen Wong point out that all of the virtues and
+the good things that data centers bring to communities in
+terms of jobs and a whole host of other things.
+And that if you don't take them, somebody else will gladly do it.
+And to the president's point as well, China is more than happy
+to have this social issue unrest being debated because they
+just feel like they get a leg up from it.
+This issue I feel like is central to why these stocks
+haven't worked lately.
+Polling is terrible.
+Well, if you look at the journal had a piece last week,
+everybody's talking about it to the point where Baker has to
+post this long thing about the virtues of them.
+Jensen Wong doesn't have to say anything but does.
+And he sort of adds on top of that.
+So there is a fight back in Silicon Valley about this very issue.
+Yeah, and I see it a little bit differently where I think
+I think we had a huge move into this part of the year.
+The market's up 13 and a half percent following three years
+of near 20% and 20% plus returns.
+So I look at it more like the first six to eight months
+just pulled that positive narrative forward
+and it's okay right now to consolidate
+and it's okay to digest.
+And with respect to the political narrative,
+that's definitely gonna be ugly.
+What we know is that economics always trumps politics.
+So if the money is there to be made in data centers,
+which I think we all believe it is,
+and if money is there to be made in AI,
+that's going to win out.
+And so I don't see between now and the election.
+I don't see whatever noise and it is going to be deafening.
+I don't see that noise disrupting the AI trade, right?
+I just see-
+You don't think it already has?
+I don't really-
+I think it has.
+Here's the thing, I don't think that's what's,
+I don't think that's what's paused it.
+And I don't like-
+What do you think has?
+I think literally Scott that it's already up 13,
+that the market's already up 13 and a half percent
+on the year and that there's already,
+you and I were talking about this a couple of weeks ago
+and we were talking about Cisco, right?
+And you're like, well, if it's had such great earnings,
+why isn't it still flying?
+And I'm like, it's already up 50% on the year.
+It's already trading at 25 times earnings.
+That's richer than it's ever been.
+I think we're just at a pause and a consolidation.
+Like maybe the political noise is an excuse.
+Maybe the societal pushback is an excuse,
+but it's okay to pause.
+I don't think it's anything more than that.
+And I think they're kind of two separate things.
+I just, I don't see however ugly
+the political noise around data centers gets.
+If the money's there, investment dollars are gonna follow
+and they'll run, but at some of the valuations
+and some of the confusion that there's been,
+it's okay to just digest this.
+And I've been, I've just been thinking too
+about like, you know, Salesforce and Adobe.
+Those are impossible to me at least.
+Those are impossible to put a valuation on right now
+because the AI disruption is so overwhelming.
+I think when you think about Caterpillar and GE-Vernova,
+even those are kind of hard.
+You have these huge cues for the gas turbines.
+What if they slow a little?
+What if they don't?
+It's just making it hard.
+And I think that difficulty,
+that's the reason we're pausing,
+but we're, but it's not off track.
+It's just consolidated.
+No, I don't know.
+I think, you know, GE-Vernova over the last month's down
+10%, okay?
+But what's it up here today?
+Vistra, Vistra's down 7%.
+Quant is down more than nine and a half.
+Eaton is red, you know, to your Caterpillar is red.
+I think there's a little more at play than,
+oh, the stocks were just up a lot.
+So now they're consolidated.
+I don't know.
+Because if you get what NVIDIA had to say,
+there's no reason why you would think
+that that trade should be doing what it's doing.
+If you didn't have the whole data center debate
+on the front pages.
+But you still have 36%.
+GE-Vernova's still 36% in a year
+where the market's up 13.
+So it's up nearly three times the market.
+Down 10% is just a rounding error as things just pause.
+10% is a little more than a rounding error.
+But Bryn, what's your take?
+I think we have this confluence of events
+with the data centers.
+I think it's really important last week,
+you know, X or Twitter found a bot swarm
+of 200,000 Chinese bots, you know,
+having misinformation about data centers and energy.
+And I think, unfortunately,
+the politicians on both sides are just eating it up.
+I mean, I know that CenterPoint here in Texas
+just announced $5 billion initiative to pay back
+to residents in large part from the data center buildout.
+PG&E out in California just announced the same thing.
+And so I do think, I agree with you, Scott.
+I think the data center is real
+because not only do we need this buildout to go,
+but also outside of data centers getting pushback
+from people from Abbott all the way to Newsom,
+we also have that, you know,
+60% of the planned data centers
+that have been approved to come online in 2027
+haven't even broken ground.
+So I think this comes this air pocket
+that we're seeing, whether it's GE for an over down 10.
+NVIDIA should have rallied, but didn't.
+I do think you have to like ask the hard questions.
+Why aren't these stocks rallying?
+GE for an over should be over a thousand, but it's not.
+So I think that we are setting up right now,
+especially going into midterms, going back to the 60s.
+The data is really clear from September to November.
+We typically get about a 10% drawdown in most years.
+I don't think this year will be any different.
+That being said, on the other side of that,
+after midterms returns are very, very positive.
+But I do think investors need to like ask the questions.
+You know, going back to what Joe said on NVIDIA,
+you know, I did not like that 60% of their revenues
+this last quarter were account receivables.
+Like why is that?
+Why can't these people just pay their bills?
+Why does that need to be such a big number?
+And so I'm trying to look through the tea leaves
+and just take from the market what it's telling me
+and say, is there something bigger coming on here
+that's gonna call the bigger drawdown?
+I don't know the answer at this point,
+but I think you can't just be Pollyanna about all of this
+and you need to be pragmatic as an investor.
+This is interesting.
+I mean, you get calls on NVIDIA today,
+Mellius, the argument for NVIDIA to go higher
+has strengthened.
+I don't think anybody necessarily takes issue with that
+because if you obviously look at the results
+and listen to the guidance, what was it?
+They guide it to like 70% revenue growth, right?
+Now they looked out to 28, which they never look out
+as far as they decided to this time
+and the street was at 44.
+So they're like, wow, that's an incredible number
+of now you have the buyback hanging out there.
+That's sort of the thing that Mellius is talking about.
+Today I'm not sure if that's been right or not
+because I don't have his name in front of me,
+but it may very well be.
+Wolf, NVIDIA can finally break out.
+We'll see.
+We'll see.
+Yeah, so in an odd way, I think the effect
+of what we heard last week from NVIDIA
+is gonna place managers like myself in a difficult position
+because you potentially lose this narrative
+about the market broadening out
+and finding the suite of opportunities.
+In fact, the opposite over the last several days
+is actually happening.
+The markets going back to being more concentrated.
+Why?
+Because NVIDIA is stepping forward into leadership
+and you're seeing some of the other MAG7 names
+participate in that regard.
+So that creates a little bit of a difficult environment
+as you move forward.
+I think positioning is a really big question right now
+and Jenny highlighted some of the software names.
+Well, the software names, they're benefiting
+because capital is going away from the momentum names for sure.
+We'll talk about that later on,
+but talk about positioning.
+Let me give you something, hold on.
+I'll just hold on a second.
+I wanted to just get more into the positioning thing
+for a moment if you don't mind
+because there are so many different notes out today
+on that very topic which you brought up at the very top.
+UBS is still bullish, but they say diversify.
+Discretionary, financials, healthcare to your point,
+industrials, utilities, they like.
+City today, yep, 8100s come in
+but it's gonna be a broader path.
+Take more cyclical components contributing there.
+Savita Subramanian, she has the lowest target
+on the street for a major strategist
+and is talking about oil, gas, consumables,
+metals, mining, banks, leisure products,
+insurance, consumer finance.
+So there's a lot of focus on areas away from tech
+and away from momentum.
+I think people see the writing on the wall also.
+So the people see that the alpha generation
+opportunity might be pausing in high beta AI momentum.
+There's a limit to the places that you could look
+to generate alpha elsewhere.
+There's the obvious, okay, financials, healthcare.
+I'm not sure we wanna go to industrials
+because that's part of that AI universe.
+So it's financials and healthcare.
+That gives you a significant weighting.
+You could do intra-sector rotations
+which is what I highlighted before.
+We won't dig deeper into that.
+But I think the challenge in that regard-
+But we're gonna dig deeper into it.
+But if you read the document today,
+you know that we're gonna dig deeper into it.
+Let me finish my thought because this is-
+Nonetheless.
+Let me finish my thought because I think this is important.
+If you tell me that you are going to move away
+from Nvidia, move away from Apple to your point
+where Scott, I know I have a buyback, right?
+Underneath the market.
+And I wanna go and I wanna generate the alpha
+and take significant stakes in my energy
+and in my healthcare, in my consumer discretionary.
+I ask all of you a really important question.
+How confident are you that the high earnings expectations
+that we have over the next four quarters
+that that area of the market can meet it?
+Because if you rely on history,
+you're going to be disappointed.
+It's only specifically been in the mega caps,
+in the technology names, the financials, the healthcare.
+They have disappointed you
+when you have anticipated four quarters out
+very high earnings expectations.
+I feel like the next two weeks,
+two and a half weeks are gonna be dominated
+by geopolitical and yields
+before the Fed meets mid month.
+And then we actually get to see whether hawkish talk
+in Jackson Hole becomes hawkish action.
+I'd be surprised, let's put you that way
+at the Fed raises rates in September
+for a variety of reasons.
+But now that earnings are basically passed,
+now you're gonna have a two and a half week
+kind of air pocket thinking about,
+well, September is historically a bad month.
+Yields are elevated, oil's elevated.
+Iran and US are firing at each other again.
+And what is to change the narrative
+from those driving stories?
+What's out there?
+I got the data center issue on top of all that.
+Where's the positive catalyst?
+They're likely over the next few weeks,
+there's not a lot of positive catalysts
+because one, you're pointing at a period
+where without earnings
+and where we're reliant on large macro
+and geopolitical themes,
+there's much less dispersion in the market.
+And so I don't actually argue with Joe's belief
+that this we're gonna see some continued consolidation
+over the next few weeks,
+because frankly, that's what happens
+when you see large macro themes moving the market.
+The other catalyst though, Scott,
+is just what you said.
+If you're looking at the Fed
+and you're anticipating that they're gonna hike once
+or they're not gonna hike at all,
+whatever it is, there's three interest rate hikes
+priced into the market right now.
+And so I would argue with you
+that areas like financials, that small caps,
+you might see pressure in those areas
+anticipating three interest rate hikes,
+particularly out of the Jackson Hole.
+Yeah, yeah, I think that's right.
+That's right, it's rustled down
+more than everything else today and lately.
+But if you don't think that's going to happen,
+which we don't,
+we don't think there's gonna be three interest rate hikes,
+then I would argue with you
+that the catalyst could be a rotation
+into those names on anticipation
+that the bond market in particular has come
+too far too fast in terms of betting on the Fed
+to raise rates.
+Maybe Broadcom's gonna be a catalyst
+this week for something, right?
+It reports on Wednesday after Nvidia and after Marvell.
+Maybe this becomes the next most important thing
+as it gets reiterated today
+sector perform at RBC with 400 bucks.
+You own it.
+I do.
+No, no, I was just gonna say,
+if Nvidia couldn't be a catalyst,
+why would Broadcom be?
+You know, and just one counterpoint or one addition
+to Shannon, if Shannon doesn't think
+there's any positive catalysts coming
+in the next couple of weeks,
+I don't think there's any negative ones coming either.
+Well, I think there's a,
+how much does Broadcom raise its guidance?
+I mean, those things, I think we felt like we knew.
+We already checked all the Nvidia boxes
+before they even reported.
+I don't think this is as cut and dry on that.
+I also don't think it's as broad reaching.
+I just think we were so reliant on Nvidia
+to say exactly what they did
+and let that trickle through, you know,
+and that was there.
+Maybe you're right,
+but I just think it's such a,
+you know, such a small comparison
+as opposed to Nvidia in the broader part of it.
+I actually, I agree with you, Jenny.
+I think it's idiosyncratic with Broadcom.
+I don't believe there's something here
+that's universally gonna lift the high beta
+momentum trade once again
+and move people's current positioning,
+which is away from there back into it.
+Obviously Broadcom could rally.
+They have a lot of questions internally
+that they have to answer.
+One in particular as it relates to
+tensor processing units
+and their grasp on current market share.
+But if you're looking for a lift,
+I think the lift comes specifically in the stock itself.
+Can I clarify something, please?
+I just wanna clarify.
+Lack of a positive catalyst over the next few weeks
+does not mean that you should not put money to work
+in anticipation of positive catalysts in earnings season.
+Okay, thank you.
+Thank you.
+I just wanted to clarify my view.
+And can I add on to that one too?
+No.
+No, you can't actually, because I'm moving on.
+It's Tim Cook's last day as CEO.
+I mean, you asked, so you get the answer.
+I see how respectful I am on the answer.
+You can't please everybody all the time.
+You see, I'm listening to you and I'm afraid.
+So Mackenzie Cigallo's, we're going Mac.
+Hi, Mac.
+This is Tim Cook's last day
+and he just wrote a nice memo
+to the team at Apple as well,
+which I think you have your hands on
+and you'll bring us a highlighter too from.
+But this is a momentous day, obviously,
+not only for Mr. Cook and that company,
+but John Ternus, who officially becomes CEO now.
+Yeah, so we just heard from CEO Tim Cook
+in that goodbye note to employees this morning,
+obtained by Bloomberg.
+And in it, Cook says what he's most proud of
+is what an annual report could never capture,
+writing that culture triumphs over everything.
+He also gives his successor, John Ternus,
+a huge endorsement saying that few people understand
+how to build products that change the world
+the way that John does.
+But he's inheriting, John Ternus
+is inheriting some big challenges from day one.
+Now on costs, Apple's already raised Mac
+and iPad prices by 20%
+and it's signaling that iPhone hikes are next.
+That puts Ternus in a tough spot,
+protecting margins without choking off demand.
+He is also facing soaring memory costs
+and decelerating growth
+in Apple's highly profitable services segment
+as regulators and courts keep chipping away
+at App Store Economics.
+And then on AI,
+Siri is still the obvious consumer test,
+but there's a significant hardware opportunity
+emerging around the Mac.
+It's fastest growing segment last quarter
+as AI labs buy high-end Mac minis and Mac studios
+to run models and agents locally.
+And then there's the all-important iPhone.
+Apple leaks and supply chain checks point
+to the foldable debuting next Wednesday at Apple Park,
+the biggest iPhone form factor change in 20 years,
+but Ternus will have to prove that it's compelling enough
+to keep people upgrading at a much higher price point.
+Scott.
+Mac, thank you very much for that look.
+Another piece of this note
+that Tim Cook has written to the staff.
+I'll misleading you in being with you for every step,
+even as I take enormous comfort
+in handing the helm to someone as brilliant
+and wonderful and capable as John.
+Speaking of John Ternus, of course,
+few people understand what it takes to build products
+that change the world the way John does.
+And I could not be more excited for his leadership.
+Bryn, I toss it to you on that note
+because at the end of the day,
+the products that Apple makes are the bread and butter
+because of the installed base that it has.
+And that will be among the challenges
+that John Ternus has in front of him,
+keeping an iPhone upgrade cycle robust
+along with all of the things
+that Mackenzie mentioned in her reporting.
+I think that they are locked in on their hardware.
+I mean, Android's had a foldable phone forever
+and no one's switching because we're so embedded
+and it's such a great product.
+Ternus is a product guy.
+And so I think someone like Tim Cook is a unicorn,
+Satya Nadella, Larry Kulp.
+There's a few of these non-founder CEOs that are unicorns.
+So I don't think you can replace Tim Cook.
+You just wanna have Ternus feel at a shepherd
+in the next 15 years.
+But I do think from the product side,
+if they can incrementally,
+it does not have to be like exponential,
+incrementally continue to get Gemini inside of the Siri
+where we can just ask questions
+and it pulls up all of our apps.
+We trust Apple.
+Apple's gonna continue to do very well as a company.
+And so I don't think anything's existential.
+No one's switching to an Android.
+No one's switching to any other device.
+We don't wanna open AI device.
+We want the Apple device.
+And so I think he will be the right person
+at the right time.
+And Tim Cook is still there, right?
+He's gonna be obviously chairman
+and do great things, I think, in China, et cetera.
+So it's definitely a big day and I'm definitely long
+and not even thinking about selling it.
+Yeah, Joe.
+So I think this comes at a perfect time.
+In the near term, that entrenched base
+that you're speaking towards,
+they need to deliver on Siri AI.
+That's the first step they have to take.
+But now you're looking at the setup
+and leadership as follows.
+You're talking about John Ternus,
+who has been the chief hardware engineer.
+Every product that we have been blessed with
+from Apple across the board.
+I don't have to cite them all.
+John's fingerprints are on them.
+Next, Tim Cook is not going away.
+He is remaining as the executive chairman.
+He has already indicated
+that he is going to manage the relationship
+as it relates to the president
+and relationship with the Chinese.
+Isn't that the perfect setup?
+Who better than Tim Cook to manage the relationships
+while John is dealing with delivering future products
+AI oriented?
+I don't think anyone should have any concern
+about where this leadership is going for the company.
+Okay, so we'll take a quick break and we'll come back
+and we'll finally get to the segment
+that Joe wanted us to get two minutes earlier,
+but we made him wait.
+You're gonna get a number of software earning reports
+this week.
+You got ones last week.
+They knocked the cover off the ball
+and the sector took off even more so.
+We'll talk about that coming up.
+Never bet against American grit or American energy.
+Through innovation, venture global is not only building
+some of the largest energy facilities in the world
+right here in the United States,
+but delivering American energy
+at a fraction of the cost and a fraction of the time.
+So while others are busy talking, we're busy building.
+That's venture global.
+That's unstoppable energy.
+This episode is brought to you by Schwab Market Update,
+an original podcast from Charles Schwab.
+Join host Keith Lansford for this information packed
+daily market preview delivered in 10 minutes or less,
+including projected stock updates,
+monetary policy decisions,
+and key results and statistics
+that may impact your trading.
+Download the latest episode and subscribe
+at schwab.com slash market update podcast
+or find Schwab Market Update wherever you get your podcasts.
+AI is everywhere.
+Everyone wants it.
+The challenge is unlocking its value.
+CDW helps organizations move from idea to implementation
+with the expertise, technology, and partnerships needed
+to make AI work in the real world.
+Don't just launch AI, land it,
+because when AI delivers results, it's amazing.
+We configure, optimize, and deliver
+the tech that runs business.
+CDW make amazing happen.
+All right, welcome back.
+Here it is, software.
+Joe, let's do it.
+Mea culpa during the break, by the way, from Joe,
+which we appreciate.
+So last week, crowd strike and octa,
+knocked the cover off the ball.
+The stocks, it was like a clean sweep.
+I think that's, I love the way that our producers
+wrote that in the doc last week,
+a clean sweep for what we got last week.
+All we're gonna get a clean sweep this week.
+Palo Alto's tomorrow.
+Do you get a tell from what you already got in cyber?
+Along with some reporting that Nikesh Aurora
+had considered doing some deals in that arena.
+Dell, Bryn, I'm gonna come to you in a minute.
+That's tomorrow.
+Snowflake is on Wednesday.
+That's been key because it's bucked the trend.
+When software was going through a malaise,
+to say the least, Snowflake wasn't.
+Stock's up almost 30% in three months.
+HPE is Wednesday.
+DocuSign is Thursday.
+Jenny, I'm gonna get you on that in a minute.
+Zscaler is on Thursday,
+but Joe, what about Palo Alto tomorrow?
+So I think Palo Alto continues the trend
+that we are seeing.
+We saw it last week with CrowdStrike.
+We see it with octa as well.
+Keep in mind with octa,
+I think that's a little bit more
+than just a story about cybersecurity.
+I think the street really believes,
+given the size of this company,
+that ultimately they are a takeout target.
+Cybersecurity, the trend is resilient.
+The positioning there is being rewarded
+for staying anchored.
+If you move away,
+which in past years I have done,
+you are punished for that aggressively.
+Very difficult to get back in again.
+So I would expect Palo Alto to deliver.
+If in fact they don't,
+I think the buyers show up aggressively
+on any correction.
+Okay.
+Dell, Bryn, is tomorrow.
+As we said, you have that name.
+Yeah, so, I mean, the numbers
+are gonna be great.
+Turnings are supposed to be up 112.
+Revenue is up 48%.
+But with NVIDIA trading down,
+Marvell trading down,
+who knows what the stock will do,
+but clearly with their servers,
+they're in the epicenters.
+Because they do have a big CPU business,
+I'm sure memory will come up,
+but the stock's just been a complete beast
+and has re-rated.
+So who knows what it'll do tomorrow,
+but it's still the epicenter of the AI build out.
+Let me have a look at the IGV guys,
+if you could.
+Just let me see where that's at
+as we think about this,
+because Wolf has a note
+that the IGVs well-positioned over the near-term
+to mid-term to retest its highs,
+and that was 118.
+I don't know if people realize that,
+that it's not that far away from its highs.
+The signature of that move is Palantir.
+Yeah, well, for sure,
+which by the way got a call today too,
+reiterated by Loop Capital 220
+is the price target there.
+So Bryn, I'll come back to you on that.
+If you have a comment on Palantir's robust rebound,
+has meant everything for this space too,
+as Joe points out.
+I think a lot of people mistakenly shorted the stock.
+This has been the original AI software application company.
+They are AI neutral.
+They execute for the government.
+They pivoted their business two years ago
+to go to the corporate side.
+They're growing earnings and revenues exponentially.
+And so I think this is still a great name to own.
+And so be careful what you short,
+because this name continues to go the opposite
+of where the shorts have wanted it to go.
+Yeah, Snowflake, as I said,
+has also been a nice helper
+in the comeback of this trade too.
+It's up more than 11% in a month.
+So now Wednesday, HPE, that's Joe,
+Jenny, DocuSign on Thursday.
+What do we think about that?
+Well, I think that what we've seen so far
+is that the software stocks
+are really differentiating themselves
+and being punished or rewarded individually.
+So at down 6% on the year,
+with a 13 times multiple
+and a 10% free cash for yield
+and double digit earnings growth add,
+I think DocuSign is totally de-risk.
+And I think we really need to pay attention
+to different kinds of software.
+So earlier I picked on Adobe.
+Just to give you an example,
+a couple of, two weekends ago,
+I had a personal pet project
+and I used chat GPT to help me,
+you know, do it, it's whatever,
+creating this calendar.
+But the thing is,
+to have created the calendar that I created,
+I would have needed Adobe
+and some serious graphic design and Adobe skills.
+I can do that easily with chat GPT.
+What I cannot do with chat GPT
+is recreate DocuSign,
+which we use in the office all day,
+every day to send things out.
+So DocuSign's unique.
+They have networks in place,
+security in place,
+pipelines in place to get things in and out.
+That is not easily replicable.
+And I think we're going to start to see that
+in the Thursday earnings report.
+You know, again, like 10% free cash for yield,
+13 times, I think you buy it now.
+Did you have, after you went through
+that personal exercise,
+which we're really thrilled to have heard all about,
+did you have an intervention with Farmer Jim
+about his Adobe position?
+If we're being serious about that,
+I've tried throughout the year.
+It hasn't been like well received.
+Why is DocuSign?
+Why is DocuSign?
+Look at the chart again.
+Yeah, no, it's terrible.
+Like I said, down 6% on the year still.
+No, no, no, but it's not terrible lately.
+That's my point.
+Oh, okay.
+But that's just part of that.
+Like, you know,
+It's a 24% in three months.
+Why?
+Yeah, but that's just bigger.
+At the end of June,
+everything you've seen is the semi stocks plunge
+since the end of June
+and the software stocks recover broadly.
+So there is some of that systemic trade in there
+and I think that's all that it is.
+But it's still, you know, not great for the year.
+I think you need to take a bigger picture.
+Did your project turn out well?
+It's awesome.
+Yeah?
+Yeah, awesome.
+Thanks.
+Hewlett Packard.
+Enterprise is on Wednesday.
+This company has not grown at the pace
+their revenue of 30 plus percent
+since the great financial crisis.
+What does that do?
+That indicates you have to prove yourself
+to other software names.
+App Lovin'.
+It's at a 52 week low.
+Why?
+In early August, the earnings didn't show up.
+Zoom communications, take a look at that.
+That stock reported because of positioning,
+a little bit of a pullback.
+Take the other side.
+You want to be long there
+because of the anthropic relationship.
+Okay, Frank Holland has a CNBC news update for us.
+Hi, Frank.
+Hey, good afternoon, Scott.
+Prediction Market Cal,
+she just handed out its first ever lifetime ban
+to former Congressman George Santos
+in July, federal regulators settled with Santos
+over allegations.
+He profited by placing bets
+on whether he would attend
+the State of the Union Address.
+Cal, she also imposed a more than $70,000 penalty.
+CNBC and Cal, she had a commercial relationship.
+LiveGolf could reportedly fall for bankruptcy protection
+as soon as this week in an effort
+to restructure the tour.
+That's according to the Financial Times.
+Earlier this month, CEO Scott O'Neill said
+he had secured financing for a new lead investor
+to keep the tour going beyond this season.
+And soccer superstar Leonel Messi
+is retiring from Argentina's national team.
+He made that announcement on social media today,
+saying now is the right time.
+Argentina lost this year's World Cup final to Spain.
+Messi played in six World Cups,
+winning it all in 2022 and scored 21 goals,
+one shy record holder, Kylan Mbappe's 22 goals.
+Back over to you.
+Okay, Frank, thank you.
+That's Frank Holland.
+Up next, ETF Edge with the domino.
+What's coming up?
+All right, so Scott, as markets and investors
+get more complex and sophisticated,
+so are the products they're using
+to get those outcomes.
+The ETF business is seeing even more innovation,
+and we're gonna speak with one ETF issuer
+who's pushing deeper and deeper into derivative space funds.
+That story's coming up on ETF Edge
+on the halftime report, so keep it right here.
+Never bet against American grit or American energy.
+Through innovation, venture global is not only building
+some of the largest energy facilities in the world
+right here in the United States,
+but delivering American energy at a fraction of the cost
+and a fraction of the time.
+So while others are busy talking, we're busy building.
+That's venture global.
+That's unstoppable energy.
+With the Discover Cashback card,
+it's payback time when you earn cashback
+on everyday purchases.
+Activate and earn 5% cashback
+at different categories each quarter
+on up to $1,500 in purchases.
+That's 5% cashback at different places each quarter,
+like grocery stores, on gas, and at restaurants.
+It pays to Discover.
+Terms applying, see discover.com slash five for details.
+This episode is brought to you by Schwab Market Update,
+an original podcast from Charles Schwab.
+Join host Keith Lansford for this
+information-packed daily market preview
+delivered in 10 minutes or less,
+including projected stock updates,
+monetary policy decisions, and key results
+and statistics that may impact your trading.
+Download the latest episode and subscribe
+at Schwab.com slash Market Update podcast
+or find Schwab Market Update wherever you get your podcasts.
+All right, we're back on the halftime report.
+I'm Dominic Chew with today's ETF Edge.
+Income generation products have gone
+from niche to more mainstream,
+so much so that one old line bank,
+if you wanna call it that,
+is buying up one of the newest innovators in that space.
+This is another story we've done again.
+Brian Lake, Goldman Sachs asset management,
+chief transformation officer there,
+and co-head of third party wealth.
+Let's talk about Nios.
+Goldman Sachs asset management goes out
+and buys another ETF issuer complex.
+This time it's Nios before it was innovator capital.
+There's a common theme developing here.
+What exactly is Goldman Sachs asset management looking for
+when it comes to ETFs?
+Yeah, no, you nailed it, Dom.
+When we think about Goldman Sachs asset management,
+we are trying to deliver solutions to investors.
+And when we do that,
+we're seeing that they want the ETF wrapper,
+and they're looking for something differentiated
+in the ETF wrapper.
+Innovator, obviously the leader,
+they invented the defined outcome space.
+Nios has obviously come onto the scene
+in an incredible way, a very client-first culture,
+with an incredible range of income products
+that fits perfectly next to the innovator brand.
+So we're showing this Nios NASDAQ 100 high-income fund.
+In essence, what you're doing
+is you're taking the NASDAQ 100 in its performance
+and putting derivative instruments around that core position
+to do an like a defined outcome.
+What exactly is the purpose of this particular vehicle
+and how does it fit into your overall scheme?
+Yeah, so people wanna know the companies that they own
+and obviously you recognize a bunch of the names
+in the QQQ, but investors also really wanna income.
+This derivative income category has been growing
+at 80% a year for the last five years.
+Investors are looking for ways to get income.
+Doing that in an ETF with a covered call strategy
+like QQQI allows them to get that income
+while keeping that exposure in their portfolio.
+All right, it's a big topic for sure.
+A lot of growth in active ETFs
+because of this type of product.
+We're gonna continue this conversation
+over at etfedge.cmvc.com.
+Brian's gonna be joined by Pedro Palandreni,
+who is the global ex-head of product research
+and development, so a big conversation on the future,
+Scott, at the ETF business.
+I'll send things back over to you.
+All right, Dom, thanks.
+That's Dom, too.
+Take a look at Apple shares.
+As we do have more news moving related to this name,
+Mackenzie Sigalos is gonna join us now
+with what is actually happening here at Mac.
+So Scott, Phil Schiller,
+this was the person in charge of the app store,
+a major executive at the company,
+under both Steve Jobs and then Tim Cook,
+is gonna be moving out of that role
+into more of this Apple fellow position.
+It of course comes on the same day
+that Tim Cook is transitioning
+into this executive chairman role,
+shares taking a bit of a hit on this.
+See, this is a very significant figure internally,
+who from his executive chair was also weighing in
+on certain product decisions around the iPhone
+and other major product series,
+including the iPod and Mac models.
+So a bit of a knock of confidence.
+Of course, this comes amid a larger exit of talent
+from the C-suite in particular.
+We saw a turnover, not just in the CEO role,
+but the CFO, the COO.
+So we are seeing this changing of the guard,
+a lot of change at once.
+Perhaps that's why we're seeing those shares
+take a bit of a dip, Scott.
+Yeah, I mean, this is a big deal.
+There's no two ways about it by, I guess,
+my understanding of if nothing else,
+that's the biggest name beyond Tim Cook himself
+to transition out of a current role
+either by leaving altogether
+or as obviously Mr. Cook is doing
+into executive chairman.
+But this is a big deal.
+And it comes at a significant time,
+not just for the App Store,
+but also for the services business more broadly,
+taking a lot of heat in terms of regulators
+around the world,
+a lot of people pushing back
+on that 30% App Store fee
+that was able to provide them
+such robust margins for such a long time.
+Now, we still have Eddie Q
+in charge of the services business.
+There's been a question as to whether
+for how much longer he will stay in that role.
+Services segment was soft last quarter
+and that's really important to their business,
+especially as they're facing this margin pressure
+from memory prices as well.
+And so losing the person in charge of the App Store
+when you've got regulators around the world
+pushing back,
+they've already had to make concessions
+and China bringing that 30% App Store fee down to 25%.
+That's not when you want to see
+a significant leader internally
+move into this more figurehead type of position.
+I will say this, Apple,
+I'm out to them,
+they're not weighing in on the record.
+I'm glad you brought that up.
+The fact that services revenues
+in the most recent earnings period
+missed the street expectations
+in what I think you can say
+if the most important part of their business right now,
+is just relative to where the whole AI rollout is going
+and the services that are gonna augment
+whatever ends up being the finished product.
+Exactly, because at this point,
+the only sort of model that we've seen them float
+in terms of making money from a Siri AI product
+is in the cloud business,
+potentially having these different tiers
+based upon your usage
+or using some of their more advanced models
+you'd have to pay for that
+in the context of the cloud business.
+But there have also been questions around
+whether you might have this special AI part of the app store.
+So, you know, creating this consumer toll booth
+if you want to use Claude in the context of Siri AI
+or some of these other plug-in-your-own-bot situations
+there might be a way for Apple to monetize that.
+But again, this is the person who has been
+just such a product engineer and visionary
+within the app store.
+So to lose them at this moment
+when you really have to figure out how to monetize AI
+because at the same time that you want this to be popular
+you don't have the compute to back it up necessarily.
+So you've got to find another way
+where you're paying for expensive compute
+and then making up for it
+in the services side of the AI business.
+Yeah.
+Great perspective, Mac.
+Appreciate you jumping on with that news.
+That's Mackenzie Segalos.
+You got a comment on this as the owner of these shares.
+I mean, you know, it's again,
+it's you have a gentleman deemed to be a product guy
+taking over as CEO as, you know,
+this gentleman Phil Shiller steps down
+running product events in the past
+but also as you see the app store.
+So the first question is the shareholder.
+If you ask yourself, do you believe the company
+has a strong succession planning in place?
+And I think Apple does
+because I think Apple understands
+that there is going to be a handoff
+from a group of veterans that have stewarded this company
+for multiple decades, three decades.
+Obviously, Phil Shiller is a great example of that
+to a younger generation
+that has only been there several decades.
+And I think that succession planning
+is something that I'm confident in.
+But I think Apple has to deal with that
+and navigate through it.
+A lot of veteran leadership moving to the side.
+And also, you know, look,
+it hardly feels like a coincidence
+that we're having this move announced today
+as John Turnus officially takes over as CEO tomorrow.
+We'll continue to follow,
+but we'll have more on closing bill.
+I can assure you of that at three o'clock.
+Up next, Stoptions Action.
+We're playing it with Oliver Renick.
+We'll be back.
+We're gonna play some options action now.
+Oliver Renick joins us from the Sebo Global Markets
+in Chicago.
+What are you looking at?
+Hey, Scott, Tesla shares are ripping this morning
+ahead of the company's cybercab launch event on Thursday.
+Options trading is 60% above the 30 day average right now
+with just about a billion dollars in premium exchanged
+and roughly 70% of it tied to calls.
+Most of it looks like buying of calls
+which outnumber buyers of puts by almost double.
+It's also interesting that the strike
+with the most open interest is the 400 strike
+which is still 10% higher from here.
+This could be a big moment for the stock.
+It's down about 20% on the year,
+but has almost completely recovered losses
+since its gap down last earnings.
+One trader this morning bought 700 contracts
+of both the 300 strike puts
+and 600 strike calls a more than $5 million trade
+betting on a return to those lows after earnings
+or a huge rally by mid-January, 2028, Scott.
+Oliver, thank you.
+I will see you as well at three o'clock.
+I look forward to that.
+It's so timely because Bryn,
+you just made a move in Tesla, did you?
+Tell us what that was.
+Yeah, I added to my position
+which I haven't added quite a while.
+I'm added about three at 360.
+So the semi event is more ceremonial on the 24th.
+So it's a ceremonial event.
+But what I see is that the robo taxis
+are everywhere in Dallas,
+they're everywhere in Austin.
+The cyber cab, which are still being driven
+by the engineer are also everywhere.
+Like they're on every other street in Dallas.
+So that is ramping up.
+I haven't touched my steering wheel in like weeks.
+And so FSD is getting better and better.
+And so I feel like there's this confluence of events.
+And then we're gonna have towards the end of next year,
+Optimus as the Fremont factories being built out,
+we're gonna just start hearing more and more.
+We're not hearing much about Optimus today.
+And so as Oliver was saying,
+it's recovered so nicely.
+I like the stock above 360
+since it's earnings decline.
+So I just took that opportunity to add.
+So I ultimately do think those multiple catalyst
+will drive the stock price higher over the next 12 months.
+Interesting timing, certainly.
+Bryn, thanks.
+Coming up Merger Monday.
+We have four big deals on four committee names,
+which means we have four committee trades coming up.
+We'll call it Merger Monday.
+We haven't said that in a while, but you got four deals.
+Aion, USI Insurance Services,
+they buy from KKR 17 billion in cash.
+Joe, you hold Aion.
+I do.
+I think the better trade and opportunity here
+is the seller.
+It's KKR in 2017.
+They made this acquisition.
+They're now selling it.
+They're making about 3.3 billion.
+This is a big bite for Aion.
+OK, Lily, making a deal today.
+SLB making a deal today.
+One making a deal today.
+And you think there's going to be a lot more people making
+deals in the days ahead?
+Yeah, absolutely.
+I think that there's a huge opportunity
+for consolidation in some of these industries.
+And I think that we're setting up for, despite the fact
+that rates are a little bit higher, really a ramp
+over the next six to nine months, especially
+against a political backdrop that's still supportive.
+Yeah, I think I wonder if there's a scramble
+between now and midterms.
+Because if we go purple, what does purple mean?
+It means gridlock.
+I'll bet a lot of people are going to try and get deals
+in before then.
+Think about where the deals are.
+Slumberge.
+It's actually a thermal managing unit that they're buying.
+This is getting them into the data center build out itself.
+The one oak deal is about the Permian bases, liquefied
+natural gas, and Eli Lilly, 20 billion in deals in 2026,
+diversifying away from weight loss trials.
+We'll take a quick break.
+We'll come back, and we'll do finals.
+All right, 3 o'clock Eastern time on the closing bell.
+Cameron Dawson, Courtney Garcia, Stephanie Gild, Keith Lerner,
+Alex Cantrowitz.
+He'll be with us as we continue to talk about this transition
+happening at Apple and also the data center debate.
+So we'll do all that 3 o'clock, and I hope you join me then.
+Bryn, what's your final trade?
+GPIQ, one of our favorite equity incomes names,
+and a 1.5% yield.
+Jenny Harrington.
+All right, GXO, the leading supply chain
+outsourcing company.
+It's trading with a 6% free cash flow yield, 14 times earnings,
+and is down 6% this quarter after great earnings.
+Shan.
+Financial.
+Specifically, we just talked about deal making.
+I think that's going to be important for the alternative
+managers.
+I thought you were going to come like software again.
+No.
+Forgot that we did it.
+No way.
+Nutrient.
+I want high exposure.
+I will personally buy this on the close.
+All right.
+Oh, you will.
+OK, good stuff.
+I'll see you at 3.
+The exchange begins right now.
+You've been listening to CNBC's half-time report,
+The Podcast.
+You can always catch us live weekdays at 12 Eastern only
+on CNBC.
+All opinions expressed by the half-time report participants
+are solely their opinions and do not
+reflect the opinions of CNBC or its parent company
+or affiliates, and may have been previously disseminated
+by them on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+the half-time report participants consider reliable.
+But neither CNBC nor its affiliates and or subsidiaries
+warrant its completeness or accuracy,
+and it should not be relied upon as such.
+To view the full half-time report disclaimer,
+please visit cnbc.com forward slash half-time report
+disclaimer.
+This episode is brought to you by Schwab Market Update,
+an original podcast from Charles Schwab.
+Join host Keith Lansford for this information-packed daily
+market preview delivered in 10 minutes or less,
+including projected stock updates, monetary policy
+decisions, and key results and statistics that
+may impact your trading.
+Download the latest episode and subscribe
+at Schwab.com slash Market Update podcast,
+or find Schwab Market Update wherever you get your podcasts.
