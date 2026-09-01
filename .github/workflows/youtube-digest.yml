@@ -46,7 +46,8 @@ jobs:
 
       - name: Narrate digest (best effort)
         run: |
-          if [ -f digest.md ] && [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
+          # Roster-only days (no ### video headings) skip TTS; the issue still fires.
+          if [ -f digest.md ] && grep -q '^### \[' digest.md; then
             pip install --quiet edge-tts
             python scripts/make_audio.py --input digest.md --kind youtube \
               || echo "narration failed (non-fatal — text digest unaffected)"
@@ -59,7 +60,12 @@ jobs:
           set -euo pipefail
           DAY=$(date -u +%Y-%m-%d)
           HAS_DIGEST=0
-          if [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
+          # A bare NO_VIDEOS marker is the old skip path. Current digest.py
+          # always writes a real body (roster of all 8 channels, even when
+          # every channel is Quiet) so the GitHub issue email still lists
+          # everybody. Keep the marker check so a leftover NO_VIDEOS file
+          # would not open an empty issue.
+          if [ -f digest.md ] && [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
             HAS_DIGEST=1
             mkdir -p summaries/youtube
             cp digest.md "summaries/youtube/$DAY.md"
@@ -112,5 +118,5 @@ jobs:
                 --repo "$GITHUB_REPOSITORY"
             fi
           else
-            echo "No new videos — no issue to create."
+            echo "No digest.md (or NO_VIDEOS marker) — no issue to create."
           fi

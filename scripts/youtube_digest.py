@@ -7,12 +7,21 @@ summary (no per-speaker breakdown). Writes digest.md for the workflow to
 deliver, and updates summaries/youtube/state.json so videos are only
 summarized once.
 
+Every run's digest.md starts with a channel roster listing ALL keys in
+CHANNELS as Covered / Quiet / Missing, so a quiet channel never disappears
+from the GitHub issue (and the notification email). Days with no new videos
+still write that roster instead of a bare NO_VIDEOS marker, so the issue
+path can fire.
+
 To keep cost bounded, only MAX_PER_CHANNEL videos are summarized per channel
 per run. Any surplus is remembered in state["pending"] and summarized on a
 later run (oldest first), so a busy day or a skipped run never silently drops
 videos.
 
-Exit codes: 0 = digest written (or NO_VIDEOS marker if nothing new),
+`python scripts/youtube_digest.py --self-check` builds a roster from fake
+per-channel results and checks that all 8 channels are listed.
+
+Exit codes: 0 = digest written (including an all-Quiet roster-only day),
 nonzero = real failure.
 """
 import datetime
@@ -73,6 +82,12 @@ OVERVIEW_INSTRUCTIONS = (
     "counterweight', 'the palate cleanser') but NEVER invent facts that are "
     "not in the summaries. No headers, no bullet lists — flowing prose only."
 )
+
+# Roster statuses. Quiet is never Missing: a reachable feed with nothing new
+# (or nothing due yet) is Quiet even if the channel is absent from the body.
+ROSTER_COVERED = "Covered"
+ROSTER_QUIET = "Quiet"
+ROSTER_MISSING = "Missing"
 
 
 def load_state():
@@ -279,6 +294,187 @@ def summarize_video(channel, v, now):
     )
 
 
+def classify_channel(*, summarized, feed_ok, dropped=0):
+    """One channel's Covered / Quiet / Missing status for today's roster.
+
+    Covered — at least one video from this channel is in today's digest body.
+    Quiet   — feed reachable; zero new videos in the digest window, or all
+              already seen / deferred to pending / still inside GRACE_HOURS.
+              A deferred ("not due") video is Quiet, never Missing.
+    Missing — only a real gap: the feed was unreachable (live RSS and the
+              Dell snapshot both failed), or in-window video(s) were dropped
+              from the pending cap and will never be summarized. That second
+              case is the same "genuinely lost" idea as youtube_coverage.py's
+              MISSING; feed-unreachable is listed here because Quiet
+              requires a reachable feed and the roster must still name the
+              channel.
+    """
+    if summarized > 0:
+        return ROSTER_COVERED
+    if not feed_ok or dropped > 0:
+        return ROSTER_MISSING
+    return ROSTER_QUIET
+
+
+def format_roster(results, window_days=WINDOW_DAYS):
+    """Markdown listing every CHANNELS key. Quiet channels are not omitted.
+
+    `results` is a dict of channel name -> {
+        "status": "Covered"|"Quiet"|"Missing",
+        "n": int,       # videos summarized this run (Covered)
+        "note": str,    # optional; shown for Missing
+    }
+    Channels missing from `results` still appear as Quiet so a partial
+    dict cannot hide anyone from the issue/email.
+    """
+    counts = {ROSTER_COVERED: 0, ROSTER_QUIET: 0, ROSTER_MISSING: 0}
+    lines = []
+    for name in CHANNELS:
+        info = results.get(name) or {}
+        status = info.get("status") or ROSTER_QUIET
+        if status not in counts:
+            status = ROSTER_QUIET
+        counts[status] += 1
+        extra = ""
+        if status == ROSTER_COVERED:
+            n = int(info.get("n") or 0)
+            if n:
+                extra = f" ({n} video{'s' if n != 1 else ''})"
+        elif status == ROSTER_MISSING and info.get("note"):
+            extra = f" — {info['note']}"
+        lines.append(f"- **{name}** — {status}{extra}")
+    header = (
+        f"## Channel roster\n\n"
+        f"{counts[ROSTER_COVERED]} Covered · {counts[ROSTER_QUIET]} Quiet · "
+        f"{counts[ROSTER_MISSING]} Missing — last {window_days} days. "
+        f"Quiet = feed reachable, nothing new (or already seen / not due). "
+        f"Missing = in-window video not summarized and not queued, or the "
+        f"feed was unreachable. Quiet is never Missing.\n"
+    )
+    return header + "\n" + "\n".join(lines) + "\n"
+
+
+def compose_digest(*, roster_md, sections, overview=None, ask_all=None):
+    """Assemble digest.md: intro, roster (near the top), optional overview,
+    then the existing per-video sections. Empty `sections` still produces a
+    short digest with the full roster — never the bare NO_VIDEOS marker —
+    so the workflow can open an issue and the email still lists all 8.
+    """
+    chunks = [
+        "Daily summaries of new videos from your followed channels.\n",
+        roster_md.strip(),
+        "",
+    ]
+    if overview:
+        chunks.append(f"**Today's read:** {overview}")
+        if ask_all:
+            chunks.append("")
+            chunks.append(ask_all)
+        chunks.append("")
+    if sections:
+        chunks.append("---")
+        chunks.append("")
+        chunks.append("\n---\n\n".join(sections))
+    else:
+        chunks.append("No new videos to summarize today.")
+    text = "\n".join(chunks)
+    if not text.endswith("\n"):
+        text += "\n"
+    return text
+
+
+def self_check():
+    """Build roster markdown from fake per-channel results; require all 8."""
+    errors = []
+    cases = [
+        (dict(summarized=2, feed_ok=True), ROSTER_COVERED),
+        (dict(summarized=1, feed_ok=False), ROSTER_COVERED),
+        (dict(summarized=0, feed_ok=True, dropped=0), ROSTER_QUIET),
+        (dict(summarized=0, feed_ok=True, dropped=1), ROSTER_MISSING),
+        (dict(summarized=0, feed_ok=False), ROSTER_MISSING),
+        (dict(summarized=3, feed_ok=True, dropped=2), ROSTER_COVERED),
+    ]
+    for kwargs, expected in cases:
+        got = classify_channel(**kwargs)
+        if got != expected:
+            errors.append(f"classify_channel({kwargs}) -> {got!r}, want {expected!r}")
+    if classify_channel(summarized=0, feed_ok=True) != ROSTER_QUIET:
+        errors.append("reachable feed with nothing due must be Quiet, not Missing")
+
+    if len(CHANNELS) != 8:
+        errors.append(f"expected 8 CHANNELS, got {len(CHANNELS)}")
+
+    fake = {
+        "Brighter with Herbert": {"status": ROSTER_COVERED, "n": 2},
+        "Matt Pocius on Tesla Stock & Money": {"status": ROSTER_QUIET},
+        "Fundstrat": {"status": ROSTER_COVERED, "n": 1},
+        "Fundstrat Capital": {"status": ROSTER_QUIET},
+        "Mr. FIRED Up Wealth": {
+            "status": ROSTER_MISSING, "note": "feed unavailable",
+        },
+        "Kaspa Silver": {"status": ROSTER_QUIET},
+        # Wicked Stocks omitted on purpose — must still appear as Quiet.
+        "Traders Helping Traders": {"status": ROSTER_COVERED, "n": 3},
+    }
+    md = format_roster(fake)
+    for name in CHANNELS:
+        if f"**{name}**" not in md:
+            errors.append(f"roster omitted {name!r}")
+    if "**Wicked Stocks** — Quiet" not in md:
+        errors.append("omitted channel must still list as Quiet")
+    if "feed unavailable" not in md:
+        errors.append("Missing note not shown")
+    if not md.lstrip().startswith("## Channel roster"):
+        errors.append("roster markdown should start with the Channel roster heading")
+
+    empty = format_roster({})
+    quiet_hits = sum(1 for name in CHANNELS
+                     if f"**{name}** — Quiet" in empty)
+    if quiet_hits != 8:
+        errors.append(f"empty results should list 8 Quiet, got {quiet_hits}")
+
+    video = (
+        "### [Fake Video](https://www.youtube.com/watch?v=abc)\n"
+        "**Brighter with Herbert** · Sep 01\n\nHello.\n"
+    )
+    digest = compose_digest(
+        roster_md=md,
+        sections=[video],
+        overview="Tesla tape.",
+        ask_all="*ask*",
+    )
+    if digest.strip() == "NO_VIDEOS":
+        errors.append("digest with sections must not be the NO_VIDEOS marker")
+    roster_at = digest.find("## Channel roster")
+    overview_at = digest.find("**Today's read:**")
+    video_at = digest.find("### [Fake Video]")
+    if roster_at < 0 or roster_at > 120:
+        errors.append("roster should appear near the top of the digest")
+    if not (0 <= roster_at < overview_at < video_at):
+        errors.append("expected order: roster, then overview, then video sections")
+
+    quiet_digest = compose_digest(roster_md=empty, sections=[])
+    if quiet_digest.strip() == "NO_VIDEOS":
+        errors.append("zero-video digest must not be the NO_VIDEOS marker")
+    for name in CHANNELS:
+        if f"**{name}**" not in quiet_digest:
+            errors.append(f"zero-video digest omitted {name!r}")
+    if "No new videos to summarize today." not in quiet_digest:
+        errors.append("zero-video digest should say nothing was summarized")
+
+    if errors:
+        print("self-check FAILED:")
+        for err in errors:
+            print(f"  - {err}")
+        return 1
+    print("self-check ok")
+    print("--- sample mixed roster ---")
+    print(md)
+    print("--- sample zero-video digest ---")
+    print(quiet_digest)
+    return 0
+
+
 def main():
     preflight_auth()
     state = load_state()
@@ -309,8 +505,11 @@ def main():
     snapshot = None
     snapshot_loaded = False
     channels_unavailable = 0
+    roster_results = {}
     for channel, cid in CHANNELS.items():
         carried = pending_by_channel.get(channel, [])
+        covered_n = 0
+        dropped_n = 0
         try:
             videos = fetch_feed(cid)
         except Exception as e:
@@ -326,6 +525,11 @@ def main():
                 print(f"{channel}: feed error {e!r} (no usable snapshot)")
                 channels_unavailable += 1
                 new_pending.extend(carried)  # don't lose the backlog on a feed hiccup
+                roster_results[channel] = {
+                    "status": classify_channel(
+                        summarized=0, feed_ok=False, dropped=0),
+                    "note": "feed unavailable",
+                }
                 continue
 
         carried_ids = {x["id"] for x in carried}
@@ -349,6 +553,7 @@ def main():
                 leftover.append(v)          # deferred/transient — retry next run
                 continue
             sections.append(section)
+            covered_n += 1
             seen.add(v["id"])
             state["seen"].append(v["id"])
 
@@ -357,9 +562,16 @@ def main():
             drop = len(leftover) - PENDING_CAP_PER_CHANNEL
             print(f"{channel}: backlog over cap, dropping {drop} oldest video(s)")
             leftover = leftover[drop:]
+            dropped_n = drop
         elif leftover:
             print(f"{channel}: {len(leftover)} video(s) deferred to backlog")
         new_pending.extend(leftover)
+        roster_status = classify_channel(
+            summarized=covered_n, feed_ok=True, dropped=dropped_n)
+        entry = {"status": roster_status, "n": covered_n}
+        if roster_status == ROSTER_MISSING and dropped_n:
+            entry["note"] = f"dropped {dropped_n} over pending cap"
+        roster_results[channel] = entry
 
     state["pending"] = [
         {
@@ -373,37 +585,42 @@ def main():
     ]
 
     day = now.strftime("%Y-%m-%d")
-    if sections:
+    roster_md = format_roster(roster_results, window_days=WINDOW_DAYS)
+
+    overview = None
+    ask_all = None
+    if len(sections) >= 2:
         # Editorial lead: one synthesized cross-video paragraph. Best-effort —
         # a failure here must never cost the digest itself.
-        overview = None
-        if len(sections) >= 2:
-            try:
-                overview = ask_claude(OVERVIEW_INSTRUCTIONS,
-                                      "\n\n---\n\n".join(sections)).strip()
-            except Exception as e:
-                print(f"WARN: overview generation failed: {e!r}")
-        digest = "Daily summaries of new videos from your followed channels.\n\n"
+        try:
+            overview = ask_claude(OVERVIEW_INSTRUCTIONS,
+                                  "\n\n---\n\n".join(sections)).strip()
+        except Exception as e:
+            print(f"WARN: overview generation failed: {e!r}")
         if overview:
             ask_all = ask_claude_link(
                 "💬 Ask Claude about today's digest",
                 f"Q: YouTube digest {day}",
                 f"@claude Regarding the {day} YouTube digest:\n\n",
             )
-            digest += f"**Today's read:** {overview}\n\n{ask_all}\n\n---\n\n"
-        digest += "\n---\n\n".join(sections)
-        open("digest.md", "w").write(digest)
-        print(f"Digest written: {len(sections)} videos for {day}"
-              + (" (with editorial lead)" if overview else ""))
-    else:
-        open("digest.md", "w").write("NO_VIDEOS")
-        print("No new videos across all channels.")
 
-    # Always persist: even on a NO_VIDEOS day the pending backlog may have changed.
+    digest = compose_digest(
+        roster_md=roster_md,
+        sections=sections,
+        overview=overview,
+        ask_all=ask_all,
+    )
+    open("digest.md", "w").write(digest)
+    print(f"Digest written: {len(sections)} videos for {day}"
+          + (" (with editorial lead)" if overview else "")
+          + ("" if sections else " (roster only — no new videos)"))
+
+    # Always persist: even on a roster-only day the pending backlog may have changed.
     save_state(state)
 
     # A run that couldn't see ANY channel (live or snapshot) must not look like
-    # a quiet success — fail it so the outage is visible.
+    # a quiet success — fail it so the outage is visible. The roster was still
+    # written (all Missing) so a human inspecting digest.md can see why.
     if channels_unavailable == len(CHANNELS):
         print("ERROR: every channel feed failed and no usable snapshot exists — "
               "failing the run instead of reporting a silent empty digest")
@@ -411,4 +628,6 @@ def main():
 
 
 if __name__ == "__main__":
+    if "--self-check" in sys.argv:
+        sys.exit(self_check())
     main()
