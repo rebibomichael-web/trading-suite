@@ -1,0 +1,1233 @@
+Ever finish your to-do list just in time for three more things to get added?
+That's what managing technology can feel like.
+There's always another ticket, another update, another thing demanding attention.
+That's why CDW is here.
+We help run, optimize, and evolve complex IT environments
+so your team can focus on moving the business forward.
+We've been there and solved that.
+When operations stop getting in the way, it's actually pretty amazing.
+We configure, optimize, and deliver the tech that runs business.
+CDW make amazing happen.
+Time for a quick break to talk about McDonald's.
+Tomorrow morning, when you wake up and wonder, what's for breakfast?
+The answer is clear and delicious.
+Two sausage McMuffin with egg sandwiches for just $6.
+That's right, $6 for two savory, sizzling sausage McMuffin with egg sandwiches.
+Save time by ordering ahead on the app.
+Price and participation may vary.
+Single item at regular price.
+I'm Scott Wopner and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Welcome to the Halftime Report.
+I'm Scott Wopner, front and center of this hour.
+Rates down, stocks up.
+The Fed's Waller says he's likely a hold at this month's meeting.
+Snowflake, Broadcom, they're moving in opposite directions.
+We're trading everything.
+With the committee today, joining me for the hour, Josh Brown,
+Jim Labanthal, Jason Snipe, Bryn Tawkington.
+Let's check the market's highs of the day.
+Dow, look at that.
+One and a quarter percent better than 650.
+Tech is doing quite well.
+So Governor Waller, not as hawkish as feared,
+yields down, rate hike expectations down.
+Stocks up.
+I mean, it's pretty simple and we needed this rate relief,
+didn't we?
+Yeah, I guess it helps, Scott.
+I think that's a fair assessment of what stocks
+are keying off of today.
+I really never thought that there was a heavy appetite
+for a rate hike from anyone at the Fed.
+And I think just keeping it on the table maybe is important,
+just to keep the markets a little bit in line.
+But this idea that there's some emergency need or something
+where it's going to impact the price of oil, which
+obviously is up for a very specific geopolitical reason.
+I just don't get what is the rate hike meant to accomplish.
+And if it's just one, then what
+is the signaling value in that?
+I think if and when there is a time where
+they look at services inflation, they look at goods inflation,
+they say, we've got to go right this minute.
+They're not going to be talking about one.
+They're going to be talking about a new cycle.
+Well, I don't know what 125 basis point rate hike means,
+whether they do it or don't do it.
+So this was always the sideshow.
+The main attraction has been the earnings.
+This is what's kept the market where it is.
+It's what's been feeding the rotation.
+And this talk about the 30 year, the 10 year,
+it's really just sort of in its own lane.
+And I think not the main thing for investors to be focused on.
+You know what is?
+Snowflake, let's look at that chart.
+Yeah, let's just do it right now.
+We will do it right now because it deserves to be done right now.
+Look at that.
+21% that stock is up.
+Blowout earnings, that's a new 52 week high.
+I'll stay with you, Josh, for a moment, because you flag this
+in late May when it was 205 in best stocks in the market.
+In late May, the stock was trading at $205.
+UBS today goes to $500.
+Was the highest one that we saw out of the group of target
+increases today.
+This is exactly what you're talking about.
+And this is also playing a big role in why you see green all
+over the place today, especially in software, especially
+in the NASDAQ and tech.
+That's right, Scott.
+And I don't want to downplay the magnitude of this call
+that I made because I'm full disclosure.
+I'm long the stock.
+Obviously, we've been talking about it.
+But in late May, when it came on to the best stocks
+in the market list, it's a very difficult thing
+to come on and talk about a stock that is just reported
+earnings and has gone up 36% in one day, which
+is what Snowflake did.
+I came to it a week or two later,
+and I'm talking about the name as this idea.
+We have all these software stocks
+that have been blown to smithereens.
+A lot of them didn't deserve it, and this was one of them.
+And what's even more gratifying than the fact
+that the stock has almost doubled
+is the reason why it's working is exactly what we laid out
+at the best stocks in the market column on CNBC Pro.
+Net revenue retention, 120% to 130%,
+that is this range this company's in.
+Let me explain to you what that means.
+That is existing customers continuing to spend
+or spend more well in advance of any customers
+who are dropping off, nobody's dropping off.
+And the reason why is because it is becoming
+very obvious the agentic era of AI,
+which we're heading into, requires data governance,
+and this is the data governance layer.
+Why do we think that corporations
+want to move their data elsewhere,
+pull it onto different platforms, duplicate it
+when they can just carry out agentic workflows
+directly in the governance layer?
+That is what Snowflake does.
+They have 9,000 customers currently doing something
+agentic directly inside of their data lakes with Snowflake.
+And that is what the street is woken up to.
+And that's how you get a stock go from 205 to 371
+in the course of a single quarter.
+You've been playing this game in this one too, Jason.
+100%.
+Tell me your thoughts as you see the stock do
+what it is doing.
+Again, 500 bucks at UBS.
+Yeah.
+It's been a standout for sure.
+Yeah, man.
+I mean, what an unbelievable quarter.
+I think the major takeaway for me is product revenue growth.
+Product revenue growth was in the low 20s over the last year.
+It was up 37% this quarter.
+So that's a humongous number.
+I think the other thing as you think about product revenue
+growth in companies like Snowflake who are investing heavily
+in AI, their op margins are also expanding at the same rate,
+similar rate to their growth rate.
+And to Josh's point on net reoccurring retention revenue,
+126%, that just means that folks that are on the existing
+platform are only consuming more.
+Once you get in, you're just buying more products and services.
+That's why Snow is running like it is.
+It's up 50% prior to the print.
+It's now up 70% your day.
+The tide is lifting a lot of boats today in that space.
+I mean, print Palantir is good for 8% today.
+You've got the cyber names working like CrowdStrike is
+up 4.5%.
+Salesforce, which really took off last week
+after its own earnings up 3%.
+Octa plus 3%, Oracle plus 5.5%.
+This is what a blowout report like this
+does in a space that really has been trading well of late.
+Trading so well.
+And I think these hedge funds, so many in addition
+to the situational awareness, have
+been short these names.
+Let's say the software basket writ large,
+that that is the danger here of getting too bearish
+on any of these technology sectors
+and letting the narrative take place of your price.
+And so all of these names have had V-shaped bounces
+off the bottom.
+And I continue to think IGV is about to make
+race back to its highs.
+And so I just think that that software narrative has somewhat
+died, that they're all going away.
+And to Josh's point, and Jason's like Snowflake,
+they are a core part of the agentic ecosystem, which
+is just now getting started.
+Yeah.
+I mean, what's Sasspocalypse?
+Is it fair to ask that at this point?
+Let me get from Jim first.
+Yeah, I think Brin just nailed it.
+And I'm going to quote from Chris Verone, a friend of yours
+on the closing bell, who often says
+that the narrative follows price.
+And that's what happened with software stocks
+earlier this year.
+That's where the Sasspocalypse came from.
+The idea that all of these companies
+were going to basically go to zero.
+The profit picture was going to go to zero.
+And I'm not using hyperbole here.
+I mean, these stocks were trading as if they
+were going out of business.
+What we've found since, and Brin was just saying this,
+is that if you actually track what was causing the price
+to decline, if you actually looked at the cause,
+it was situational awareness with huge leverage
+and other people piling on that bet.
+Now what we're seeing in the earnings report
+is, frankly, what we were seeing all along,
+which is that these companies were doing just fine.
+And this thing got so crazy that even Microsoft was
+caught up in this.
+I mean, if we can remember that, Microsoft
+was below $400 for a lot of the first half of this year.
+I think what we're seeing now is if you actually
+think about what's driving price, i.e.
+the fundamentals, there's a lot of reasons
+to be in these spaces.
+Well, if I told you now, you wouldn't have thought
+this may be possible by this time.
+The IGV year-to-date is now positive.
+It uses the move today that it's
+made because the sector itself is up quite nicely
+as I ran through the list of individual names.
+We're positive year-to-date by a little more than 1%.
+I don't think people had that on their bingo cards
+in the mid-spring when it looked like this was a disaster.
+So I was forced to average down into toast.
+I was forced to average down into service titan.
+I bought into Snowflake.
+I did my best to look for the situations
+where the market narrative had it backwards.
+And this is what I mean by that.
+The disconnect between Silicon Valley and actual businesses
+and actual people who are running business.
+This is assumption and the hedge funds
+brought into the Silicon Valley story.
+The Silicon Valley story was these companies
+are gonna obviate the need for all of these
+quote-unquote middlemen.
+They're gonna rip that layer out.
+Everyone's gonna go direct to Anthropic
+to do all of these workflows.
+And they're gonna have IT people working
+at Fortune 500 companies actively ripping wires out
+and cutting costs.
+It's a great story.
+The problem is it's not actually how the world works.
+Number one, I was reminded recently,
+one of the benefits of SaaS software
+is not just that it does the thing that you need it to do.
+It also gives you somebody to yell at
+and somebody potentially to sue when things go wrong.
+This is a very underrated part of why people
+wanna work with Fortune 500 software companies.
+The other thing is most business customers
+are not themselves equipped to vibe code
+their own solutions.
+And they need 100% uptime to run their businesses.
+So when I looked at Toast and I looked at Service Titan,
+I said, who are the verticals?
+One is bar and restaurant owners.
+Is that who we think is gonna get into
+the software creation process?
+Probably not.
+That's a buy.
+And of course Toast will be the company
+that sells AI to those customers.
+The other one, Service Titan,
+do we think house painters and contractors
+and landscapers are very excited
+to start creating their own software solutions?
+I'd say probably not.
+And in fact, Service Titan is now selling AI services
+to that customer base.
+This was the disconnect that the hedge funds got wrong
+and that Silicon Valley gets wrong.
+But investors who know these companies
+and know the end markets realized this is a no-brainer.
+Scott.
+Yeah, go ahead.
+We can continue to cycle through Titan.
+See it today on that guys, please.
+Go ahead.
+We're gonna debunk and I think we should debunk
+the Sasspocalypse narrative.
+I think there's another narrative
+that went hand in glove with it.
+Can't be separated from it, which is the private credit
+that this was gonna be a systemic risk.
+Now look, you look at these stocks
+that were at the epicenter, Blue Owl, Apollo,
+they're up 30% as well.
+They have done the same thing
+that these software stocks have done.
+And all I'm pointing out here is a lot of times
+where people say, hey, there's smoke,
+there's smoke, there must be fire.
+If you dig a little deeper, maybe there isn't.
+We thought it would be worthwhile
+to have Seema Modi come on.
+She follows this space so closely
+as we, I don't know, tongue in cheek,
+what Sasspocalypse is it fair to bring that up?
+Do you think, given what's happened recently?
+I think, Scott, to your point,
+I mean earnings from a cohort of software names,
+that's proving that there are a number of winners
+in the sector.
+Morgan Stanley in a note today says,
+Prince from the likes of Snowflake
+has softened the AI bear case
+as it's been able to reinforce
+how it complements the big AI labs
+like OpenAI and Anthropic.
+Analysts there are also positive on ServiceNow,
+Atlassium, supported by what they call
+durable moats, improving growth stories,
+rising agent usage.
+And Scott, adoption of AI agents,
+that's been a big trend across companies
+like Workday, Intuit, CrowdStrike,
+which you mentioned.
+We saw that big jump last week
+following its mega beat on earnings.
+I would also flag Palantir,
+which remains one of the biggest gainers
+in the IGV over the past one month
+up again today as Wall Street
+continues to see it playing a pivotal role
+in helping companies use and adopt open source AI models.
+I would say investors note that in order
+to get more bullish, they still need to see
+a continuation and growth accelerating
+for these names that you've been discussing.
+So it's still a show me story.
+I would point out the IGV,
+since the recent low hit in June,
+the ETF is up about 24% compared to the chip sector,
+which is down about 17%
+during that same time period, Scott.
+Yeah, it's been such an incredible reversal, Seema, to watch.
+Thank you so much for that.
+For all of those who were saying chips over software,
+semis over software, it's really been a stark reversal.
+And then that just takes us to Broadcom.
+How can you not go there next?
+Look at that stock today.
+It's not like the earnings were bad.
+Okay, so the revenue guide was
+a little weaker than anticipated.
+Going in, there was a commentary around the street
+that Broadcom needed an Nvidia light quarter
+to erase the big losses that this stock has had.
+So 4% down today.
+Take a look at it over a broader stretch though.
+Look at it year to date.
+It's been one of those names that just has not done well.
+That speaks volumes.
+It's up not even 2% on the year.
+I'm wondering how you think about this name now.
+I think we are all subject to something
+called the recency bias where we look at what's gone on
+in the last six months,
+and we can't help but over index to that
+as though it's some sort of a new reality.
+I think the thing that a lot of people
+are now being reminded of is the fact that historically,
+software stocks have had to hire multiples
+than semiconductor stocks.
+Two very simple reasons for that.
+One is margins for enterprise SaaS historically much better.
+And the second is very little cyclicality.
+If the economy is not great,
+I can complain about my Salesforce bill,
+but there's probably not a lot that I can do about it.
+I'm not exactly gonna sit and spend hours
+sitting with five other providers that aren't as good
+and then going back to renegotiate
+every time there's a downturn and companies just don't.
+So this is the reason why historically,
+software stocks had a better multiple than semis.
+And then that flipped this year.
+We had software giants selling at 16, 17 times earnings
+and semis that we know, no matter what,
+eventually the cycle peaks and then goes into decline.
+All of a sudden we wanna buy these stocks
+for 25, 30 times earnings, no questions asked
+because they're selling into a capex filled out.
+This is a little bit of a comeuppance now
+in the last six weeks.
+A little bit of a rethink, wait a minute,
+what were we doing, what were we thinking?
+I don't think anything is wrong
+with what Broadcom reported.
+I just think the market is coming back
+to the longer term reality
+and shaking off some of that recency bias.
+Yeah, Bryn, so how do you see this now?
+Semis versus software, just the semis in general.
+Momentum obviously plays a huge role.
+Broadcom's part of the MTUM,
+other names today that are in the news,
+HPE, Sienna, NetApp, they're in there too.
+They had earnings, but what was a decided vote
+for semis over software feels like now it's flipped.
+I think that not only semis, but also like IONDRAM,
+and you would think with all of the conversation,
+whether it's Dell, Broadcom, NVIDIA,
+that the Microns, SK Hynex,
+would actually have like picked up momentum,
+but the opposite is true.
+And so I do think there's this rotation
+underneath the semi AI build out.
+I mean, Dell as a juxtaposition continues
+just to get stronger after earnings.
+And so I think people are like picking and choosing.
+And I think Broadcom just like didn't meet
+the expectations on the call.
+I do think that Josh's recency bias,
+if you go back Broadcom a little bit longer,
+one or two, like three years,
+Broadcom's obviously re-rated to the higher,
+but I just think people are skeptical.
+I still say people are skeptical about all of this AI.
+I think that is a wonderful thing
+that actually prolongs the cycle
+because of the skepticism that makes us stay away
+from that 2021 and the late 90s,
+like ambulance that just gets out of control.
+So I like seeing these kind of names pull back.
+It gives to me confidence that the cycle can last longer
+than the other two periods
+where it really just kind of blew itself out.
+Yeah, it's a record high today for Dell, by the way,
+which really took off after its earnings,
+but it's worth highlighting
+which Brynn initially bought back in November of 24.
+You still own it, right, Dell?
+I do.
+You know, I had sold half of it
+before it re-rated to buy Salesforce,
+like in the 170s.
+So that doesn't feel so great,
+but glad to still have some.
+This is another one you highlighted, right?
+Best stocks and not too long ago.
+Was that just a week ago?
+It was Tuesday. Before the print.
+It was Tuesday, were you here?
+I was here. I was here.
+Oh no, I was remote.
+That's probably why it didn't make
+as much of an impact on you as I should have.
+Yeah.
+Yeah, no.
+I was like watching the guitar on the wall
+and everything behind you.
+We wrote up Dell four times.
+So this has been a,
+since we started doing best stocks in the market for pro,
+this has just been a perennial member of the list.
+The stock just acts incredibly well.
+I think people trust management
+and Michael Dell generally.
+I think people like the idea
+that we're back in the business
+of selling physical equipment.
+And the reality is,
+whatever equipment is being bought
+in all these data centers,
+it doesn't have a lifespan of forever.
+It all has to be replaced.
+It's like built in future demand
+for this company's products,
+the chips burn out,
+the servers burn out.
+And if you're doing training,
+it's like twice as bad as inference.
+Dell is going to feast,
+not just on new data center construction,
+but on the replacement parts and equipment needed
+for the total installed base that already exists,
+which is monumental, obviously.
+So they like this stock.
+We wrote it up for best stocks once again
+and a new breakout.
+Here we go.
+Microsoft's back too.
+Let's, guys, we made that chart the other day,
+I think in real time
+of what Microsoft has done
+since that earnings report.
+And that was sort of the mark,
+the line, if you will,
+of when the stock seemed to get a re-rating here.
+Let's look at that.
+Back that up if you could
+from the day that Microsoft reported
+because it's a significant gain from there.
+There it is, 30%, thank you.
+That really says it all.
+Wells Fargo today says it's going to 700.
+They're overweight on that.
+I think that speaks to the renewed optimism
+in what was a name
+that hadn't done a whole heck of a lot.
+They also say Microsoft does.
+They're going to start disclosing Azure quarterly revs
+as they consolidate their business units.
+Jason Snyte, first then Jim.
+Yeah, listen, I mean,
+you're seeing a flurry of upgrades now.
+You saw a flurry of them after the print.
+I think they went from this AI monetization promise
+to proof, right?
+And I think that came as a result of the print.
+Q4 sales rose 18%.
+Azure is now top to $100 billion.
+It's a $100 billion business
+and 30 million paid seats on co-pilot.
+So the other thing for me is commercial RPO
+jumped 84% to almost 700 billion,
+678 billion to be exact.
+So the breadth of the business just continues to be strong.
+Outside of AI as well, Microsoft 365,
+commercial consumer LinkedIn, all up double digits.
+So I really continue to like this stock.
+They're going to stay cash flow positive.
+We obviously heard from Amy on the call.
+So I like this call
+and I think it will continue to see momentum into year end.
+Jason, just a good job of explaining.
+There's multiple shots on goal with Microsoft.
+I think the one that matters the most
+is the Azure business.
+And I say that because I think back
+about two or three quarters ago
+that they reported Azure growth of 38%.
+And the street was disappointed.
+They were looking for 41, 42%, something like that.
+And that was a major part of the decline
+earlier this year.
+What South Canada Dela said at the time is,
+look, this is all supply constrained.
+If we had more data compute,
+we would do more business.
+The market didn't believe them at the time,
+but since then they've been able
+to bring on more data compute.
+And we see that the revenue growth is accelerating
+to the last quarter it was over 40%, just over 40%.
+So the market is believing
+that this is a business that is supply constrained.
+And when you've got Azure with high margins growing as,
+as I said, 40% plus year over year,
+that's something people want to buy
+at a low 20s multiple.
+Jeffries takes a look at their top AI ideas today.
+They say they favor companies positioned
+to capture AI spend across compute,
+data security, and applications.
+We've obviously talked a lot about data security.
+We don't need to do that again.
+But bring their top picks do include Microsoft
+and Amazon and Google and Oracle and CoreWeave.
+Yeah. Well, I think that, I mean,
+kind of like the top holdings of the queues,
+at least the first three.
+You know, I think that Oracle, the jury's still out,
+by the way, cause they went all in with open AI.
+And I think if you look at Microsoft as a,
+as a juxtaposition to Oracle,
+they went open, open model,
+meaning that they have Anthropic now built into co-work.
+And as users of co-work inside of co-pilot,
+it now just is so much more useful.
+And so I think that Microsoft,
+when their next quarter's earnings come out,
+we're going to see incredibly, incredibly strong
+co-pilot numbers.
+Really that benefit came from the benefit
+of putting Anthropic inside of there.
+So I think in the private markets,
+Anthropic's getting stronger.
+Companies that are aligning more than Anthropic
+in the public side are also going to get stronger,
+versus I think open AI is getting weaker.
+And those companies are susceptible, like in Oracle,
+that has a huge partnership, obviously,
+or RPOs with open AI.
+When you think about this, this list from Jeffries,
+favoring companies to capture AI spend
+across compute data, security, and applications.
+Yeah. Look, it's the trade
+that everyone's been doing all year.
+I don't think it's a novel idea.
+Like, oh, they're, they're building
+a lot of data centers.
+Let's figure out which company's going to benefit.
+I feel like that's what we do.
+I continue to think, though,
+the most underestimated part of this software comeback
+that we were just talking about is the cyber.
+Because the more AI we're using,
+the more surface area there is
+for things to go along and for attacks.
+You said underestimated?
+Understimated, meaning a lot of software stocks
+made really big comebacks,
+but the cyber companies really outdid themselves.
+Most of them have doubled off those lows.
+And CrowdStrike in particular,
+we saw an announcement between Jensen Wang
+and George Kurtz this week,
+talking about creating LLMs that are specific
+for cybersecurity, multiple models using Nemotron,
+which is at NVIDIA.
+Like, this is really the area
+where if you're worried about
+will the spending continue, Judge?
+If you're worried about will the profits
+actually be captured by public companies?
+Like, this is the, in my view,
+this is the ironclad version of that.
+We know nobody in their right mind
+is gonna invest a trillion dollars in capex
+over the next few years
+and not spend the appropriate amount of money
+to secure that infrastructure.
+We also know on the customer side,
+companies are not gonna take any chances
+as they experiment with new technologies
+inside under the hood.
+So I feel really good about the visibility
+that you're gonna get on CrowdStrike
+and some of the data security.
+One of the best comebacks of the year,
+that group.
+Back that out again, guys,
+from where you saw the weekend.
+And this thing split, this thing split four for one.
+This would be like an $850 stock right now.
+People forget that it got sold all the way down
+to like $200 or $300 a share.
+Well, I mean, you had the whole group
+for a, you know, seemed for a small period of time
+at least caught up in that whole disruption,
+the Claude news that came out, hit everything
+and then the comeback has been so incredibly severe.
+So Claude came out and said,
+we have a model that's so dangerous.
+We actually have to put it in the hands of Jamie Dimon
+for some reason before we release, okay, fine.
+So they named like eight companies
+that they're gonna work with on Project Glasswing.
+CrowdStrike was one of them.
+If that wasn't the buy signal,
+I don't know, I don't really know what is.
+What are you paying attention to?
+The other news I wanna hit real quick
+before we take a break is the financials.
+Cause we need to get away from technology.
+It's not the only thing doing well today.
+The XLF hits an intraday all time high
+and that's notable and many of the names in that space.
+Now maybe it's, you know, related to the yield curve,
+what yields are now doing over the last couple of days.
+Jimmy, you got City, BlackRock, JPMorgan.
+You can talk about City and JPM.
+Yeah, well, you know, look, they are doing well,
+but I'll note with City that it's kind of hit
+a flat spot here for the last few months.
+So I'm hoping that it's gonna gain some traction here.
+It's set a new high earlier this year.
+There's a lot of catalysts,
+particularly the Bandomex spin off,
+but City is just one of several financials
+that are doing well.
+And JPMorgan has done very well in the last few months.
+Why?
+Because there's a lot of economic activity.
+Whether that's IPOs,
+whether that's funding data center buildouts,
+you know, you mentioned BlackRock as well, Scott,
+and that's heavily involved in the financing
+for these data centers that are being built.
+I'm gonna simplify this.
+There's a lot of economic activity that needs financing.
+That's why the banks and financials are doing well.
+Robinhood today is up 15% on a pretty big upgrade.
+Crypto's back, all the trading that we're seeing in markets,
+et cetera, et cetera.
+Like this is the type of stock that's overlooked, overlooked,
+and then all of a sudden it becomes a darling again.
+Yeah, look at that, 15% for hood.
+All right, we'll take a break.
+We're coming up, calls of the day.
+We also have best stocks in the market,
+a new version.
+We're gonna talk about a name in there as well,
+and we'll do that coming up.
+There is so much NFL on ESPN right now.
+Monday night football, plus pre-game and post-game.
+NFL live, NFL prime time.
+Everything you need to stay on top of every game every week.
+Unbelievable.
+And now NFL Network is on the ESPN app.
+More football, more coverage, more ways to watch.
+Football's on, all season long,
+on ESPN and streaming on the ESPN app.
+You know it's not a great use of time,
+getting data ready for AI.
+That's why IT leaders turn to CDW.
+We help unify data and govern it,
+building the foundation for your AI and agents
+to deliver results.
+Because when your data is ready,
+AI stops being an experiment and becomes an advantage.
+We configure, optimize, and deliver
+the tech that runs business.
+CDW make amazing happen.
+Time for a quick break to talk about McDonald's.
+Tomorrow morning, when you wake up and wonder,
+what's for breakfast?
+The answer is clear and delicious.
+Two sausage McMuffin with egg sandwiches for just $6.
+That's right, $6 for two savory,
+sizzling sausage McMuffin with egg sandwiches.
+Save time by ordering ahead on the app.
+Price and participation may vary.
+Single item at regular price.
+All right, we mentioned a lot of software stocks today
+and we talked about this name the other day.
+Maybe it was yesterday.
+Adobe, the target today gets raised at Barclays
+and that's ahead of earnings next week.
+295, not a huge jump nonetheless, a jump.
+Maybe that's news in and of itself.
+So they report on the 10th, okay?
+So you have high hopes, medium hopes?
+I don't think you have to have high hopes
+with where this valuation is.
+I think you can have medium hopes.
+I mean, Scott, and to our viewers,
+if I told you that over the last three years,
+this is a stock that's compounded revenue at 11%,
+compounded earnings per share at 18.5% annualized
+and is trading at 10 times forward earnings,
+you would say, what's wrong?
+Well, you know, the bears will say, okay,
+the 11% revenue growth is down from 13% a few years earlier.
+Fine, okay, others in, you know,
+we had this conversation with Jenny a few days ago
+about she's using replacements for Adobe.
+Again, fine, my company just re-upped with Adobe
+and I ask everybody watching,
+how many Adobe's do you open in a given day?
+For me, it's probably close to 100.
+Well, that'd be messed up, right?
+If you like in this, you love this stock
+and you keep making the case for it
+and then the company canceled the deals.
+I've had a conversation with our technology.
+I've had a conversation with our technology guys.
+Did they squeeze them on price?
+Sure, sure they did.
+And that's why the stock's trading at 10 times earnings.
+Frankly, I think you have to have
+just medium to low hopes.
+This is a bar that can be easily cleared.
+Also, let's not forget that with all the free cash
+that they've been generating,
+they've shrunk share count by 10%
+over the last just year and a half.
+Most of that with the stock trading
+at eight to 10 times earnings.
+So, look, it's not a slam dunk,
+but as I said, you don't have to have
+high hopes for this to work.
+Can I ask you one more question?
+You said that revenue growth had gone from 13 to 11.
+Yes.
+What is that outlook for the print,
+which is coming up as we said on the 10th?
+Do you know what the current quarter is supposed to be?
+You know what, I looked that up
+and I didn't, can I come back to you on that?
+I don't wanna, I don't wanna swag that.
+I only ask that because I'm,
+am I to assume that that's a continuing decline
+that's forecast out of their revenue growth
+and that's why the stock trades
+at what you consider to be too cheap of a multiple,
+but that's why it's there.
+Yeah, it's a fair enough point.
+How about if I use what to me is just
+a little bit more relevant,
+not that revenue isn't relevant,
+but the projected earnings per share growth
+over the next coming years is 14.4%.
+I know, but if your revenue growth is everything.
+Didn't do the homework.
+I would actually say earnings per share,
+but that's, you know, what makes a market?
+Earnings per share are more important
+than the revenue growth for these companies?
+For any stock, for any stock.
+Why, this surprises me.
+Well, I'm saying if they're in a declining,
+if they're in a,
+I'm unscrewing a bottle of water.
+Okay, if they're in a declining
+revenue growth environment,
+how can you make,
+You wanna bail Jimmy out?
+Hold on, bring real quick, but right,
+I mean, if you're in a declining revenue environment,
+Yeah.
+How can you make an argument
+that the stock deserves to re-rate higher
+from a multiple standpoint?
+Like what are you paying for?
+Okay, so hold on, let me,
+let me get bringing on that.
+So Adobe is looking to grow revenue at 12%.
+But going back to Jim's revenue versus earnings,
+I do think where it depends which company,
+I mean, Apple, Apple, which I own,
+we all love Apple has gained the system
+because it's earnings per share.
+And so to me, where revenue is really important
+is you do wanna see that top line growth
+because like Apple,
+which is just like eating all of their shares,
+that per share number is goosing earnings.
+And so I do think you have to look at both of them,
+but that revenue number with Adobe at 12%.
+I mean, I do think Adobe is a battleground stock,
+not as much as Salesforce does, Salesforce was,
+but I do think if they have,
+the market has created this environment today
+with the Sasak of Oppelix kind of over
+where Adobe actually can have good numbers
+and actually have a really nice pop.
+But I do think that revenue number is incredibly important,
+especially if a company is buying back shares.
+11.8% is the projected growth this quarter over last year.
+Okay, thank you.
+Thank you.
+Yes, of course.
+You wanna talk about Costco, Jason reiterated buy at B of A
+and that's post their sales beat from this month.
+What do you think?
+Yeah, it's been an interesting story for me with Costco.
+It's up 7% a year today.
+And I think if I think broadly about the retailers,
+Target is obviously the banger winner
+up almost 70% year to date
+and TJX and Walmart, not so much, right?
+Costco's obviously a value player.
+I think they're kind of,
+you know, it's somewhat of a mixed bag, I would say.
+I think for me, the catalyst for them going forward,
+they obviously focus on the higher end.
+I want them to kind of focus on a little bit
+of the younger consumer, you know,
+from a value perspective and, you know,
+retention rates, a reoccurring membership rate
+that's always been solid.
+But I think that's has to be a focus for them going forward.
+But I continue to like it.
+They're performing well, given the greater context
+and kind of what's going on from a discretion.
+You wanna hear Uber real quick, outperform,
+reiterated today, Wet Bush, 91 bucks.
+The Target there?
+It's the cheapest,
+it's the cheapest growth stock in the market,
+in my opinion.
+This is a company where they are expected to be
+the growing earnings as far as the eye can see.
+And it's got a 17 forward earnings per share multiple.
+The knock on the stock is obvious.
+Everybody thinks Waymo is just gonna take over
+the entire business, which I don't think is realistic.
+I'm not even sure Waymo is gonna make money,
+like by the end of this decade or even beyond,
+whereas Uber is incredibly profitable.
+So people think that that's in jeopardy.
+The other problem now for people is that Uber
+is making its own investments.
+So they are seeding other autonomous vehicle
+manufacturers and providers.
+I think it's a smart move strategically.
+It's no different than what NVIDIA is doing,
+seeding the neoclouds.
+And I think it'll all come out in the wash,
+the stock will end up working.
+I just don't know when that sentiment cloud
+will lift about the competition.
+So here we are.
+Okay, Frank Holland has a CNBC news update for us.
+Hey there.
+Hey, good afternoon, Scott.
+Senator Bernie Sanders is calling for a ban
+on what he's calling AI superintelligence.
+Sanders and Texas representative, Greg Kazar,
+are planning to introduce a bill
+calling for a pause in development of the technology
+until a federal regulator
+can establish safety rules.
+Sanders says the bill comes as open AI,
+Anthropic and Meta have all acknowledged recent instances
+of their AI escaping human control.
+The Trump administration just proposed new rules
+that could take away tax-exempt status
+for schools offering financial support
+to minority students.
+If implemented, the guidelines would deny
+tax-exempt status to secondary schools
+and universities that have any programs
+that IRS deems to be racially discriminatory.
+And rare signs of potential progress
+on a peace agreement between Russia and Ukraine today.
+Russian President Vladimir Putin
+told an economic forum in Russia
+there's a chance of reaching an agreement
+after more than four years of war.
+Meanwhile, Ukraine's foreign minister told reporters in Kyiv
+that there's now a, quote, new dynamic in place
+with a return to an active phase
+of diplomatic engagement.
+Scott, back over to you.
+All right, Frank, thanks.
+That's Frank Holland.
+Up next, we're playing Options Action
+with Oliver Renick.
+He's tracking the action today in two top movers.
+There is so much NFL on ESPN right now.
+Monday night football, plus pre-game and post-game.
+NFL live, NFL prime time.
+Everything you need to stay on top of every game, every week.
+Unbelievable.
+And now NFL network is on the ESPN app.
+More football, more coverage, more ways to watch.
+Football's on, all season long on ESPN
+and streaming on the ESPN app.
+Something amazing is happening.
+This agency is experiencing a cyber attack,
+but no one is panicking.
+That's because CDW government secured, optimized,
+and future-proofed their data
+with the Dell Technologies Power Store solution.
+It increases cyber resiliency
+and improves end-to-end performance.
+For a secure, scalable solution
+that doesn't require more physical space,
+Dell Technologies and CDW government make amazing happen.
+Find out more at CDWG.com slash Dell Federal.
+Time for a quick break to talk about McDonald's.
+Tomorrow morning, when you wake up and wonder,
+what's for breakfast?
+The answer is clear and delicious.
+Two sausage McMuffin with egg sandwiches for just $6.
+That's right, $6 for two savory,
+sizzling sausage McMuffin with egg sandwiches.
+Save time by ordering ahead on the app.
+Price and participation may vary.
+Single item at regular price.
+All right, welcome back to Play Ops.
+It's action now.
+Seabo, global markets in Chicago.
+Oliver Renick's looking at two well-known stocks today.
+Tell us which.
+Musk stocks, Scott, they are on fire.
+Both Tesla and SpaceX,
+number one and number four by options volume today
+and the flows are notably bullish.
+Tesla is up 7% plus surging into its cyber cab event,
+closing the gap on its chart from earnings
+and trading twice as many calls versus puts
+with 900 million of the roughly 1.3 billion in premium
+on Tesla tied to calls.
+Traders are also selling more puts than they're buying
+and the top five contracts are all calls
+with action as far up as the 400 strikes expiring tomorrow.
+SpaceX is also building momentum
+since putting in lows the first week of August
+when we spotted big money put selling
+and there's more of that again today
+in addition to call buying.
+Someone this morning sold $10 million
+of in the money 175 strike puts expiring Jan 2028,
+a bullish position but also possibly a bet
+that volatility in SpaceX, which has fallen a lot
+could continue to subside, Scott.
+Okay, Oliver, appreciate that.
+Thank you.
+Speaking of Tesla, Brin, you just added to this,
+what was it, last week?
+Yeah, last week at 360,
+the stock is still below its 200 days.
+So I think Tesla can still continue to move up
+but $400 is gonna be the next resistance.
+So I think you've got 20 more bucks.
+You obviously have the cybercap event tonight
+and then on the 24th, you have the semi event coming out.
+So nothing that's gonna affect fundamentals or earnings
+but definitely people get excited about it.
+But I think 400, let's see if it can punch through that
+or it gets failed.
+Okay, we'll keep our eye there.
+Obviously, 7% near that intraday.
+All right, we'll take a break.
+Best stocks in the market.
+Josh Brown's getting ready.
+I'll tell you which one next.
+All right, let's do these.
+Best stocks in the market according to Josh Brown.
+You say we're revisiting today, an old favorite.
+Yeah, this is like Dell.
+This is the fourth time we've written up Deer.
+Jim, can you help me with the segment a little bit?
+Great stock, love it.
+All right.
+How do you own it?
+Do you own it?
+But crop prices are the issue here.
+Keep going.
+We'll let you cosplay as a farmer in one second.
+All right.
+No, I do need you.
+On June 5th, 2025, we came on and did a segment.
+We called this an AI wolf in sheep's clothing
+with a great entry point for investors.
+The stock was 500.
+It's up about 40% since then.
+This is a fresh breakout happening right now.
+We wrote it up in July of that year.
+Then we wrote it up in April of this year.
+And now we're talking about it again
+because it is a double beneficiary of AI.
+Not only is their equipment basically sold out
+for the building of data centers
+and the moving of earth and all of the things that,
+like Caterpillar or Deer in a similar lane,
+not exactly the same.
+But they're also now pointing to AI
+as a driver of earnings growth within their own company
+and inside of their own product.
+So this is really the key thing.
+You all know the data center story.
+I don't have to rehash that.
+They have an 8R line of autonomous tractors.
+This is not Jim sitting in the cab of the tractor.
+It's literally driving itself.
+It knows where to go.
+It's navigating.
+It's in the cab of a Japanese tractor anyway.
+That's right.
+When I saw this on the lineup, I should have taken a bet.
+I should have gone on Kalshee.
+Will Scott mention that I have a Japanese tractor?
+I'm sorry for this American tractor.
+All I did was mention a fact.
+It's self-driving.
+They also have things like, there's a thing called
+sea and spray, which coincidentally
+was my pledge name in college.
+The sea and spray is a computer vision system
+that it can look at the difference between crops and weeds
+and only spray the weeds.
+This is AI technology built right into the products.
+These things are becoming must haves for commercial farmers
+all over the world.
+So not only are they getting this data center build out,
+but they're utilizing AI within their products,
+within their company.
+I think the stock can get to 800 bucks.
+I really do.
+There's really no risk.
+Look at this breakout here.
+So I'm not saying there won't be a pullback or a red day.
+It's just it's become a tech company.
+I know it's an industrial, but it's basically become
+a technology company.
+People are paying them monthly subscriptions,
+just like they do to Apple.
+Record high today, by the way.
+We should note that upgraded Evercore ISI to outperform,
+too.
+Yeah, I have owned this in the past and made money,
+but there's a fundamental basis going on right now.
+We know what's going on.
+The crop prices have been going up because of Ukraine.
+Diesel prices are at almost record levels.
+I mean, they'll be there in a minute, as I'm speaking.
+And that plays into crop prices as well.
+It also, Josh, plays into the need
+for very efficient tractors, whether it's the engines
+or, as you're pointing out, the precision farming
+technology.
+So there is a fundamental basis.
+I think we could have an ag cycle next year, too.
+We could be, like, at a low.
+We've been, well, there goes Joe the other day, right?
+Was it nutrient that he added?
+He loves the ag play.
+So I think more and more investors are, in fact,
+talking about exactly what you gentlemen are
+and making moves across the spectrum of that trade.
+You good?
+Yeah, cool.
+All right, great.
+All right.
+Mike Santoli joins us with his midday word.
+That's up next.
+Oh, boy.
+We're back.
+Senior markets commentator and overtime co-anchor.
+Mike Santoli joins us now with his midday word.
+Little did he know how we would lead into this segment
+during the break.
+Yeah, you guys are.
+Too bad the rest of America's going to have full strife.
+Wow, that is a serious tractor.
+You've seen it before.
+That's a serious tractor.
+The one that's always the main word.
+Wow, OK.
+Listen, he reaps what he sows.
+That's all.
+That's what's happening.
+So do you, Mike.
+Tell me more about these markets.
+Well, I mean, obviously we got released higher.
+Unlike Josh, I do think it's relevant that the swing
+vote in the Fed is at least a little bit agnostic
+as to what happens in September.
+Didn't totally clarify the picture.
+He expressed an openness to kind of hold rate steady
+in September.
+Still interesting and maybe relevant
+that we're going to be going into a Fed meeting at 50-50.
+And the only reason the Fed would go
+is if there's probably room for two or three
+or to answer Josh's idea of why one.
+I doubt they would go one.
+They usually don't.
+Sure.
+So we'll see.
+I think there's a healthy debate
+about whether that's the right medicine for what
+is going on in inflation right now.
+And also, I think there's a big camp out there.
+And you hear people say it, they will probably hike,
+but probably would be a mistake.
+I think that's a little bit of a line of thinking that we have.
+So I just think that can inform
+how the market might digest something like that,
+even if it's contingent on tomorrow's jobs number,
+next week's CPI, and all the rest.
+I don't think it's make or break for the market
+one way or the other.
+Don't you think the most likely outcome
+is like the market almost resolves higher
+because it's over?
+So they hike.
+And people sell stocks that day.
+And the next day they say, you see,
+the Fed is serious about inflation.
+I'm bullish.
+No, it could be that.
+Well, they don't hike, and the market rallies either way.
+I mean, look, the parts of the market, of the economy
+that are relevant for how equity markets behave
+is, if anything, too hot.
+So it's not as if they're worried about that really
+upending the earnings story.
+But it's one of the things in the mix.
+And I do think it's a mistake
+to believe that if they hike,
+long-term yields come down.
+Because it's not the way long-term yields have behaved
+as the odds have changed about a hike.
+So I don't think they necessarily fly higher either.
+But you have to be careful about that, even if right now rates
+in absolute terms are not super high.
+OK, I'll see you at three.
+That's Mike Santoli.
+We'll come back with finals.
+3 o'clock, Dan Ives, Kevin Simpson, Chris Harvey,
+Brian Leavitt.
+I'll see you then.
+We'll track this final trade.
+Dow's good for more than 600.
+Bryn, what's your final?
+Capital one, next stop, 227.
+Thank you on a big day for the financials.
+Who's Service Now?
+Service Now, it's me, Solid Earnished Growth.
+I like this one here.
+Yeah, look at that one, the software space
+ripping the day in video.
+Who's got that?
+That's me.
+It's just obvious it wants to take out a new high here soon.
+Why Spotify?
+Spotify is about to have a Golden Cross 50-day crossing
+the 200-day.
+This stock's been consolidating since January.
+I think it could break out.
+All right, the exchange is now.
+I'll see you at three.
+You've been listening to CNBC's halftime report,
+the podcast.
+You can always catch us live, weekdays at 12 Eastern,
+only on CNBC.
+All opinions expressed by the halftime report participants
+are solely their opinions and do not
+reflect the opinions of CNBC or its parent company
+or affiliates, and may have been previously disseminated
+by them on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants consider reliable.
+But neither CNBC nor its affiliates and or subsidiaries
+warrant its completeness or accuracy,
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit cnbc.com forward slash halftime report disclaimer.
+Time for a quick break to talk about McDonald's.
+Tomorrow morning, when you wake up and wonder,
+what's for breakfast?
+The answer is clear and delicious.
+Two sausage McMuffin with egg sandwiches for just $6.
+That's right, $6 for two savory, sizzling sausage
+McMuffin with egg sandwiches.
+Save time by ordering ahead on the app.
+Price and participation may vary.
+Single item at regular price.
