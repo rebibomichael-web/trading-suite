@@ -1,0 +1,1088 @@
+I'm Scott Wapner and you're listening to CNBC's halftime report, the podcast, the most profitable
+hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+All right guys, thanks so much.
+Welcome to the halftime report.
+I'm Scott Wapner, front and center this hour, the return of the MAG7, big tech taking
+back its leadership role lately.
+We will discuss, we will debate and we will talk about everything moving today with
+the investment committee.
+Joining me for the hour, Jim Labanthal, Kevin Simpson, Rob Siechen, Steve Weiss, take you
+to the markets.
+We do have a mixed picture, if you include the Russell being green, but everything else
+is red.
+You did have a better than expected job support.
+The problem with that is the bond market reacting too.
+So the short end is up, yields are long and down.
+So we'll keep watching that.
+There's the 10-year treasury, but we're watching that as we have been really every single
+day.
+I did mention our top story and that's where we really want to begin today.
+It is big tech's big move.
+I thought this point that Mike Santoli made earlier this morning was a great one for us
+to jump off on.
+This is a six-month look, MAG7 versus the S&P 500.
+And you can see, the very end to the right, that the MAG7 has started to outperform again.
+Look at between June and July, from July to August, you did have underperformance
+from the MAG7 versus the S&P 500.
+Market felt a little dicey at times during that stretch, but as Mike also said, maybe
+it was earnings from these big technology companies that restarted this outperformance
+trend.
+I thought we'd jump off there, because I think it's meaningful to the market.
+I think it is too, and you know where I look in the MAG7, Scott, is particularly
+at NVIDIA.
+I really think to me that's where the turnaround in the MAG7 came.
+We talked last week about how good NVIDIA's earnings were.
+We liked the stock response, but that it hadn't flowed through.
+At least last week, it didn't flow through immediately to the rest of tech space.
+I think that was just a delayed reaction.
+And I'm also happy to say that it's not just chips.
+In fact, it's things like Microsoft, it's things like Meta.
+So to me, it was really NVIDIA, the clearing event.
+That was the term that we used that tells us that the AI CapEx is going to continue,
+but it's profitable, which, by the way, to Mike's points about earnings, that's what
+we heard in the earnings season, is that all of this CapEx is profitable.
+Andrew Jassy, CEO of Amazon, saying things like it takes less than three years to recoup
+the cost of a new data center.
+Excuse me, Alphabet growing its web services at 80%, Microsoft Azure at 40%.
+There are fundamental earnings-based reasons why the MAG7 is performing, and on top of
+that, the valuations are not too hard to justify.
+NVIDIA is up seven, well, now it's 6%, it's peeled back a little bit off of where it was.
+When we started, it was up as much as 7.5% this week.
+They did the hugging face deal, their investments are growing.
+I'm wondering how you see, I just think that what Mike took a look at, as sort of he usually
+does, he has really just great insight into what's really happening underneath the surface.
+If this is going to be the case, if the MAG7 has now reasserted itself, what does
+that mean for where we go from here in a month that has historically been unkind?
+So I'm less concerned about the timeliness of the market, this being September.
+One month has to be the worst month, Scott, it just happens to fall in September.
+So I tend not to trade around the tarot cards or the Farmers' Almanac, but I liked about
+the opening from both of you, as you didn't talk about the MAG7 as an acronym, you
+both talked about NVIDIA.
+So what we're doing is we're isolating the winners within the MAG7, but the
+reason that they're performing well collectively is exactly what you said.
+It has to do with earnings, and to me, more importantly, it had to do with the
+guidance.
+So we're looking at companies that are improving returns.
+Yes, they're spending a lot, but we're starting to see a return on that
+investment.
+And most importantly, to me, we're seeing the valuations from the fundamentals,
+from the PE ratios, we're seeing them stay within range.
+So the stocks are moving higher, but in essence, they're getting a little
+bit cheaper.
+What's not lost on us is Microsoft may be playing the biggest role in this
+resurgence, if you want to call it that.
+Let's look at that chart that we've been showing everybody from earnings day
+until today.
+Thank you, guys.
+There it is, 27%.
+This stock got a reboot after, I think, a bit of a squirrely price action, Rob,
+in this market.
+Everybody owns that name.
+I'm wondering what you make of the things that Mike has looked at, but
+also that maybe this is the one.
+It doesn't get the headlines that the NVIDIA does, and we're going to talk
+about meta in a second, because it's had a week, for sure.
+But this is as important to this trade as anything, maybe more emblematic
+than anything else to that comeback.
+Certainly because of its weight in the index as well.
+It's a significant contributor.
+It's been kind of a laggard over the last year.
+It's basically been a flatliner over the last year.
+It's up a little bit here today.
+PEs come in quite a bit on Microsoft.
+I still think it's one of the highest quality, broad-based tech names in
+the world.
+Their strength was on full display in their latest earnings report.
+Let's show the six months now, guys.
+Go ahead, Rob.
+Yeah.
+I just think as we get into this period of weak seasonality,
+coming into a period of possibly tougher comps, you're seeing
+concentration and weakening breadth in the market.
+And why is that happening?
+Because these are the highest quality names in the world.
+They're actually delivered.
+See how that trends to exactly what we looked at as the MAG7
+as a group?
+That period, June, July, when you had a swoon in this name,
+hadn't really done anything, did a little bit of a sideways trade.
+They come out with earnings, and boom.
+And NVIDIA, that thing hadn't traded all that well.
+They come out with earnings, then boom.
+Apple, you're less than a week away now from their big event.
+I said Meta, Weiss, over the last couple of days,
+has had some great moves.
+It's had a week in its own right.
+But what about this notion?
+What do you think it does mean?
+If this is going to be now something to bank on,
+that Big Tech's really, really back from a stock performance
+standpoint?
+Yeah, look, I think what it means
+is that the AI trade is still something to focus on.
+And that people believe in the AI trade,
+but now they're being more selective.
+So they're going to the companies
+that have shown that they can generate revenue
+and ROI return investment.
+And that was Microsoft, Meta came out,
+and it didn't do so well post quarter,
+but then they talked about part of that, by the way,
+was because everybody thought they were going
+to the cloud business.
+Those were the rumors.
+But they came out and they said something different,
+that we're going to now be in the AI model business.
+We're going to offer those opportunities.
+So I think that's had a lot to do with Meta,
+showing they're still smart,
+that Zuckerberg can still navigate virtually
+any troubled waters as far as AI.
+And also it's the comfort that you get in these names.
+So despite that they've taken on debt,
+their debt costs are very, very low
+relative to what we're seeing otherwise
+with other companies.
+So you've got safety in these companies still.
+You've also got the known factor of these companies.
+And you got valuations, Jim points out,
+that's attracted pretty much across the board.
+So that's why the concentration's occurring here.
+And you take a look at others like cat,
+cat, you know, goes here and there,
+but still it's well off its highs.
+GE for Nova, well off its highs making a comeback,
+but they really are much more volatile
+than these names in Mac 7.
+Well, because those are the kinds of names
+that are squarely in the center of the data center debate.
+And you would expect charts to look like that
+as back, I wish you could put a chart,
+data center backlash versus AI power names,
+like a Vernova for example,
+because you'd see one going like this
+and the other one going like this.
+So that's very much been a story too.
+I think one of the best-
+And TAI, which I own is the Posting Challenge Act
+and take a look at, they've had great news
+and the stock is hanging around here
+and yesterday I had a good day,
+but it got down to 184 on what?
+On just what you're talking about, data center debate.
+Yeah, so I think Meta's one of the best stories
+of the week, Rob.
+It's up about 6%.
+So they announced the release
+of their latest model Muse Spark 3.1.
+That was on Wednesday.
+Julia Borson was giving us a rundown
+last night on Closing Bell
+for all the reasons why the stock had this nice takeoff,
+B of A, liked what they had to say,
+8.10 is the target, they reiterate that as a buy,
+quote, AI progress, gaining visibility
+across models and chips.
+So that's a positive note there for a stock
+that's looking pretty good.
+And this week it's up almost 6%.
+It's the cheapest hyperscaler of the bunch.
+Trades at 18.1 times.
+So I think we're already overweight this stock,
+but you can be a buyer into the weakness.
+I think that has historically paid big dividends.
+AI development at Meta has been absolutely encouraging.
+And I think you can continue to be patient
+with this name and have a long-term view,
+even though it's re-rated by 20% over the last year.
+These are the type of positions you want to build
+right now when you're starting to see that turn.
+And that's what you saw in late 22, frankly.
+Ask Jimmy about that.
+Let's switch this way, if the Mag7 is back in quotes
+and it's gonna start outperforming,
+then the historical analogs of September doing this,
+that and the other thing don't really mean anything, right?
+I mean, how are you gonna have a very disappointing
+September at the same time that the Mag7
+may be reasserting itself?
+It's impossible.
+So maybe this puts some of those old wives' tales to bed
+in the future and we can worry about October next year
+or something like that.
+But I'm expecting September to be strong
+for these names for the reasons we've discussed.
+I wanna add one thing that you said, Rob, about Meta,
+because it's not just the AI.
+They're gonna have agents next.
+And what's really cool about Meta
+is that they've got billions of users
+who can distribute this.
+So when you look deeper into the Bank of America note,
+$810, I mean, that's almost 200 bucks from here.
+It's a stretch beyond what I thought it would do,
+but man, I hope it doesn't.
+I think we could see though,
+in September, your typical seasonal weakness.
+You have your stellar earnings are in the rear view mirror.
+You have a lot of macro news that's gonna drive markets.
+You have black out window.
+Weakening breath.
+Round by backs.
+Yeah, there's a lot of potential negative macro news.
+So I'm not saying I'm negative.
+I think I would be a buyer into that
+with the economic strength we're seeing.
+But I don't think this means it's all clear
+for what is typically one of the weakest months of the year.
+I'm tempted to go with what you suggested, Scott,
+that this does give us room to say September
+will not be what it usually is.
+I'll tell you what it's actually worrying me.
+We only briefly mentioned it is,
+I do think the Fed is gonna raise rates.
+Now, I have to point out,
+this is not the Serity Partners House view.
+We have a team, we're looking at this together.
+When, this month?
+Yeah.
+That's what I personally think.
+I think that might be the best thing that could happen.
+A 25-base one.
+I don't think this would work.
+I don't think this market is priced for it.
+I really don't.
+People that, we're having a discussion right now.
+You raised your eyebrows just now at me when I said that.
+And that's not unusual.
+Many people still think they won't
+because what's a rate hike gonna do
+to open the street of Ormuz?
+Or how's that going to affect tariffs?
+I get it.
+My comments, though, come from really listening
+to what Kevin Worsh said last week.
+We're just gonna pull off 1,600 Pennsylvania Avenue
+if that happens.
+Well, I'll tell you that right now.
+That's a great point,
+which also means if they're going to go,
+they need to go in September
+because if they do it just before the midterms,
+the roof is gonna blow off
+and get vaporized in the size of the explosion
+that's gonna come.
+Don't forget.
+I mean, I bring that up only because the president himself
+was suggesting this morning,
+after the jobs report that the Fed should cut rates.
+So no big surprise there.
+I don't think anybody's surprised.
+It'll come down to CPI next week.
+Right.
+So CPI's looming too.
+And that's interesting as well.
+How about this other stat that we saw
+from OPCO about the MAG7?
+For the first time ever,
+the MAG7 is now negatively correlated with momentum.
+Okay.
+Now, maybe that's not a surprise.
+If it's reasserted itself with a little more stability,
+it's not as volatile now.
+So maybe then it would be less correlated
+with how the momentum trade has gone.
+What does that mean to you?
+If I say it for the first time ever,
+it's now negatively correlated with momentum.
+It certainly doesn't feel that way necessarily to me
+because in times that have been tougher historically,
+you've seen people hide out in these names.
+Now, I can't point to the statistics
+that you're talking about,
+but I will tell you just anecdotally,
+you focus on quality and right now
+it's tough to find a higher quality sector
+than the technology sector to be defensive, frankly.
+And they've re-rated down to their pre-liberation day low.
+So you have these incredibly high quality businesses.
+There's a lot of questions around the durability
+of the earnings, the durability of the spend,
+the continued ability for markets to finance that.
+However, I think that is getting done.
+We have very healthy capital markets
+and ultimately they're the safest house on the block.
+Let me ask you this.
+Since you talk about the safest house on the block,
+the safest literal house on the block for a long time
+has deemed to be Apple for a variety of reasons,
+not taking out the buyback part of that story too
+is playing a large role there.
+But how about this?
+So you're less than what you're gonna go
+a less than a week away from the big iPhone event.
+There's a report today that they're gonna unveil
+their most expensive iPhone ever
+because of what's happening with memory prices.
+Okay, that's from the South China Morning Post.
+$1,319 for the 18 Pro.
+I don't know if that report has anything to do
+with the stock being down 2%,
+but I wonder how the market's gonna react
+if John Ternes gets on that stage in his first big event
+and they unveil this amazing looking phone
+and then the price comes out
+and you're like 1,300 for the base configuration.
+To put that into comparison with the 17 Pro,
+it was 1,099.
+1,319,099.
+What do you think?
+So the question the market wrestles with, Scott,
+is this is obviously an attempt to defend margin
+with memory chip pricing.
+Obviously that's a raw material
+that goes into the iPhone going up.
+So can they defend margin without killing the customer,
+without showing the elasticity of demand
+that comes with the price hike?
+The market's not short.
+Now, by the way, prior to today
+there was a nice little uptrend developing in Apple.
+Remember it sold off meaningfully
+after the last earnings report,
+but it's gained most of that sell off back.
+Where I come out with this is that history shows
+that the consumer has consumed
+regardless of what Apple does with price hikes.
+And I think this time will be no different.
+Yes, it matters that the telecoms
+are still subsidizing this.
+I know that's been a hot button issue,
+but they do continue to subsidize it.
+So I think they'll get through with this price hike
+and they'll defend their margins
+and that'll be good for the stock event.
+They control the customer.
+When you think about the application layer in using AI,
+it's kind of similar to the spectrum
+back in the telecom days.
+Companies like Apple that control the customer
+were the largest beneficiaries.
+The commodity businesses, the Cisco's of the world
+that had the network infrastructure
+did not have the same experience,
+ended up not doing as well.
+And I think that's why you're seeing
+a premium multiple on Apple right now
+because people believe they will monetize that AI
+with their customers.
+This vice, maybe you can make the argument
+that will be the greatest test
+that this company has ever faced
+in terms of the pricing power that it thinks it has.
+Because while at the same time
+you're offering your most expensive phone
+that they ever have,
+they still haven't fully delivered
+on what is allegedly going to make that phone even greater.
+And that's their AI and new version of Siri,
+which plays into the whole story.
+That raises the bar for Ternus and company.
+Yeah, for sure.
+But I think the reason it stops down today,
+B of A was out with a no.
+I haven't seen it, but I've heard about it.
+Talking about negative revenue growth in the App Store.
+So we've seen App Store revenues
+and growth declining.
+Well, not revenue decline, but growth factor declining.
+So that could be a big reason why the stock's down today.
+In terms of the appetite to buy the phones,
+that's purely going to be a decision
+that's made by the telcos.
+Are they willing to continue to subsidize
+the growth in Apple phones, new phones?
+And I think that's going to be a challenge
+given what's happening with their business.
+So when they launch the phone next week,
+they're going to have to show really, really good progress
+with Siri, and that's what all eyes were on.
+So if they do show that, they do exhibit that,
+I think the launch will be successful.
+If they don't, I think it's going to be problematic.
+Let's talk about some software names.
+The IGV has had an amazing comeback.
+I think most people would agree to that.
+Down 4% this week, as even some of the names
+that had pretty good earnings didn't trade all that well.
+I mean, Zscaler is the latest name.
+I guess I would put in that category.
+They had a B, guidance was upbeat, stock down.
+Palo Alto down about 10% this week.
+It's not like their report was bad.
+Fortnett down, Adobe is down,
+and they actually had news that Jim was looking out for,
+a new CEO they announced.
+Internal person that they picked.
+Let's take a look at that on Adobe, guys, please.
+Because the stock reaction to me is telling.
+Why is the stock down 6%?
+The market wanted an outsider.
+Okay, I think.
+I mean, it's just that simple.
+That's what I thought.
+I wanted an outsider, too.
+Now, that doesn't mean that it's a sell, okay?
+And we do have earnings coming up next week.
+What we talked about two days ago, Scott,
+was using the CEO change or the announcement
+of who the CEO would be as a catalyst.
+What a catalyst does is it speeds up a reaction.
+In this case, the reaction that I'm talking about
+is the recognition by the market
+that this stock is truly undervalued.
+That is clearly not gonna happen
+with the selection of an insider.
+Might have happened with the selection of an outsider,
+but we're downstream of that.
+Where this is gonna have to come from
+is good earnings that, frankly, in my opinion,
+the earnings have been good all along.
+The stock has been sold regardless of the earnings.
+So we'll see if that continues next week.
+But as I look at a company
+that not only has grown net income nicely,
+it's grown free cashflow very nicely,
+and they use that to buy back shares,
+shrinking the share count down 15%, excuse me, 10%
+over the last year and a half.
+I expect that to continue buying back shares
+at 10 times forward earnings.
+I'm gonna take it.
+This is a meaningful concentration of the earnings power
+in the shares that I retain.
+But that's the financial engineering move largely
+that doesn't deal with the fundamental questions
+around the name.
+Okay, so let me take your...
+Is that true?
+Well, I don't see it that way.
+I don't see that share buybacks equals financial engineering.
+Financial engineering, to me, is a negative statement.
+Now, if they were doing that on the back of, say,
+issuing debt to buyback shares,
+I'd say, hey, we have a problem.
+What they're doing is they're using free cashflow.
+It's got, at the same time, that free cashflow,
+which has been growing at over 10% for the last few years
+and is projected to grow, again,
+over 10% in the coming year,
+also has gone into R&D.
+So it's not, when you talk about financial engineering,
+are they juicing the earnings per share
+at the expense of some other intrinsically fundamental
+valuable part of their business?
+That's not happening.
+But I look at it as...
+Go ahead, Weiss.
+Yeah, that's not accurate.
+Financial engineering is not necessarily negative,
+but you're shrinking the stock, the share base.
+So you're retiring shares,
+which drives your earning growth,
+and you just say by 10% in this case.
+So the question is, what is the growth without that?
+Also, they did cast a very wide net looking for a CEO.
+So the question has to be,
+was there no CEO that thought
+they had a better opportunity at Adobe
+than they did at their present role?
+So that's a real question.
+Could they not attract an outsider
+if they thought it was better than the insider
+because they didn't want the job?
+So the questions for Adobe just haven't been answered.
+And still, it's in the cross hairs of the AI boom.
+It could be, Steve, that there wasn't...
+I thought about this too,
+because the point that maybe no outsider wanted the job,
+that could be the case.
+There's no way you and I are going to know.
+However, to the point of financial engineering,
+I'll just...
+The facts are that they've grown net income
+at 15%, net income 15% over the last three years
+annualized, that's what they're projected to do
+over the coming year.
+So I hear you.
+What I'm trying to make a distinction on here
+is that when one says financial engineering,
+there's a negative, at least that I perceive in that.
+And what I'm saying is that negative
+is not necessarily justified
+if they're doing it from free cash flow
+that's coming from net income growth.
+I agree with you, however,
+if it were coming from,
+hey, we're robbing Peter to pay Paul,
+we're cutting back on R&D,
+we're cutting back on sales,
+then I would agree with you.
+That's not what's happening here.
+Viva reiterates their underperform on the name city,
+reiterates neutral,
+while JP Morgan, they remain overweight and aggregate.
+We believe the announcement,
+this is, of course, talking about the new CEO,
+is a positive in relation to addressing the uncertainty
+that has plagued new investor interest in the shares.
+I mean, that's an interesting take.
+Okay, yes, it does address one bit of uncertainty
+in terms of a corner office and a backside in the seat.
+I don't think, and I think you would admit,
+it doesn't do anything to address the broader concerns
+that have circled around this company
+and have led to a stock chart
+that has looked the way it does.
+That test has yet to be taken.
+Yes, and so just to put the bold thesis
+into the full context here,
+my opinion is that the stock is trading
+as if there's an existential threat to Adobe, right?
+That AI is gonna come in
+and just decimate their business.
+I submit to you that the numbers that we've seen
+and that I think we're gonna see next week,
+I may have to change my tune
+if the numbers don't come in as expected,
+but the numbers over the last four years
+since chat GPT was introduced are actually quite good.
+All of that stock chart is on the supposition
+of what's to come, but which has not yet come.
+Talk to Tesla before we take a quick break.
+So they had their cyber cab event.
+I think a narrative, the takeaway
+was that it failed to impress.
+Stock's down six and a half percent.
+I think reflecting that, the safety regulator,
+NITSA, they're evaluating the rollout as well.
+You own the name.
+What do you think?
+Yeah, I think there was a lot of hype
+and it turned out to be a big fizzle yesterday.
+So you think that too as a shareholder?
+With respect to the cyber cab event?
+Absolutely.
+Yeah, for sure.
+What else would be respect to?
+Well, when you're thinking about this name,
+cybercaps are a really big deal
+because you're betting on robotics,
+you're betting on autonomous driving,
+you're betting on cyber cab.
+So it would have been nice to see something
+that was a little bit more impressive.
+All this does is delay the reality
+of that coming to fruition if it ever does.
+Remember the technology that they use
+is different than what we see with Waymo.
+So at some point you're gonna wanna see these things
+out there with paying customers.
+Yesterday wasn't quite the day we were hoping for.
+Okay, we're gonna take a break.
+As I said, when we come back,
+Kevin Simpson's got a couple moves to tell you about.
+So we'll do that and much more ahead.
+All right, welcome back.
+Let's talk about these moves from Kevin Simpson.
+You need to gather yourself.
+We're coming over to you.
+You bought more Freeport and Agnico Eagle.
+Yeah, I think this is really consistent
+with our theme, Scott.
+We began it last week adding CF industries,
+really looking at hard commodities,
+nitrogen fertilizer.
+We own both CFX and AEM.
+These are positions,
+but there's been a pullback in the metals.
+I really think that's an opportunity to add to them.
+I like the city note being bullish on gold,
+but here's where I could go wrong.
+If Jim's right about rate hikes,
+if we get a right hike in September, October, December,
+then forget the gold trade.
+I mean, I'm completely off base with this.
+So we'll see how it plays out.
+But I think long-term, there's a lot of value here.
+They're inexpensive.
+And I feel like any time you get a pullback here,
+it makes sense to add to them.
+What if that uncertainty is not tourniqueted,
+but persists?
+Just the uncertain point.
+You don't get it, but the uncertainty around it persists.
+Well, I think that's why it's down already.
+Yeah.
+The city, you referenced the city note
+that they're bullish on both gold and silver
+into your end.
+Metals in general, but those two specifically,
+relatively resilient, they think,
+to rising energy price scenarios from here.
+More gold and silver than copper and aluminum.
+It also backfires if you get higher interest rates, too.
+So I mean, there's a case for the metal,
+but why it like copper may be even a little bit more
+than gold in these two trades is
+that you've got an application for them
+with respect to electrification.
+If you believe in the data center buildout.
+We talked about Tesla a minute ago,
+some day electric vehicles kind of coming back into vogue.
+So I think that there's application with copper,
+and I think gold is just something
+that you can absolutely lean into for the long term.
+Okay, Bitcoin's had a great month, last month anyway,
+better than 23%.
+There's a correlation maybe with,
+let's take a look at Bitcoin first,
+and let's look over the last month, I don't know,
+and then put it against Robinhood maybe,
+see what happens with that.
+The target goes to 136 from 115.
+Deutsche likes it, Kev, you own that,
+and Robinhood was up a bunch yesterday alone.
+Yeah, I'd be careful chasing it here, Scott.
+I mean, I really love the name.
+I've been talking about the company for years.
+They're doing things now with tokenization.
+There were some things in Twitter yesterday
+and ex about some of the things
+that they're doing overseas with tokenization,
+specifically with AMC that made the news.
+Also not a reason to buy the stock,
+but this is a maturing financial company
+that's a fintech that's well beyond the crypto,
+well beyond the Bitcoin trade.
+Is it because that would suggest
+of reasonably tight correlation still between the two?
+If you stretch that chart out,
+it's gonna continue to look like that.
+I mean, I'm thinking in terms of the longer trend
+moving forward because when it started,
+it traded in lockstep with Bitcoin
+over the short period of time.
+We're seeing the same thing,
+but I think there's so much more under the surface
+with Robinhood as an application.
+We could be 10 years into the future
+when Bitcoin doesn't exist, Robinhood will.
+So Morgan Stanley's out today talking about energy,
+which has obviously had a great year.
+They see value in Exxon, Suncor and Chevron.
+Oil's been back towards a hundred bucks.
+Let's take a look at WTI, please.
+Because that's where they're sort of looking at
+as they continue to like these names.
+You own Exxon, you own Chevron, you own Suncor.
+So how about that?
+You first, former Jim.
+Exxon, I've said this many times,
+I'll say it again.
+If you're gonna own anything in the energy patch,
+if you're starting to build your energy portfolio,
+I think you gotta start with Exxon Mobile.
+And the reason why is because it does everything.
+It does exploration and production.
+It does distribution.
+It does refining.
+It does chemicals.
+It does retail.
+And it makes a lot of money doing all of those things.
+It's been a great stock, by the way,
+not just this year, but over the last six years.
+It's outperformed the S&P 500
+by twice what the S&P 500 has returned.
+Chevron's production was up 20% last quarter.
+They've captured about $1.5 billion of Hess's synergy.
+Like Exxon, I like Chevron a little bit better.
+Nice suit, by the way, dude.
+Thanks, Scott.
+I like that.
+Nice.
+You notice?
+I didn't notice.
+Guy's got a whole new repertoire going.
+He's got it going on.
+In case you haven't noticed.
+He's got the haircut, everything.
+He's changed it.
+Yeah, we gotta keep embarrassing him.
+I gotta sit next to you.
+Suncor, quickly.
+Yeah, Suncor.
+Listen, energy has been the bright spot.
+Suncor has been particularly the bright spot.
+Once again, proving that owning in this space
+is a hedge against rising rates.
+There's been an incredible correlation there.
+I would personally be inclined to start
+to take some chips off the table here,
+because I think we've rounded quite a bit.
+Okay, we'll take a break.
+We're gonna come back.
+Bill Baruch is gonna join us.
+He's got a flurry of moves
+that we'll document for you next.
+Welcome back to Afternoon Report.
+I am Frank Holland with your CNBC News Update.
+The judge in the Lindsay Clancy murder trial
+in Massachusetts says he plans to declare a mistrial
+after drawers remain deadlocked on a verdict
+following seven days of deliberations.
+However, he gave the defense an hour
+to request an emergency stay on that decision
+from a higher court.
+He made the announcement after drawers sent a note
+saying that, quote, with a heavy heart,
+they were unable to reach a verdict
+on whether Clancy should be held criminally responsible
+for killing her three young children.
+Romanian prosecutors indicted social media personality
+Andrew Tate today on charges of trafficking minors,
+sex with a minor, and money laundering.
+Tate and his brother Tristan are currently in the U.S.,
+fighting extradition of Britain on similar charges.
+They have denied wrongdoing.
+And the judge ruled that two players are eligible
+to play for Coach Lane Kiffin at LSU,
+despite signing pro contracts
+and spending most of August in NFL training camps.
+The NCAA and Southeastern Conference,
+they strongly opposed that move.
+SEC lawyers say they plan to appeal.
+Scott, back over to you.
+That's a big story.
+Haven't heard the last of that.
+That's for sure.
+Frank, thank you.
+That's Frank.
+Bill Baruch, I said he's making some new moves
+in the consumer space.
+He joins us now.
+He's on the phone.
+So it's good to have you.
+So you're out of Amherstports.
+Done.
+Goodbye.
+Why?
+Out of it.
+Well, we like the name a lot.
+I mean, the brands that it holds,
+we see secular bull trends.
+Wilson for pickleball and golf and tennis,
+Arcterics, Solomon, both on the ski
+and hiking for consumers.
+But the problem is this stock took off.
+We were long in $19 and we saw the consumer in China
+being continuing to grow
+and being targeted by the government
+with stimulus or target at consumption.
+That was a big tailwind for the stock.
+A lot of that has been eaten away from tariffs,
+which has also compressed margins.
+And you look at broadly the retail space itself
+is struggling.
+I think there's an undertow in there.
+The stock had been consolidating nicely above 30 bucks
+and it has really started to break down.
+We're going to step aside on Amherstports
+and just take the win that we've had for over a long term.
+So you were showing the one year down 20%
+down 20 and six months, 15 and three months,
+18 and a half in a month.
+I get that you owned it from 19s,
+you made some money.
+What's surprising to me,
+you just talked about the consumer being weak,
+but a lot of their marquee brands
+play at the top end of the K, don't they?
+Arcterics, Solomon, Wilson.
+I mean, selling $300 tennis rackets to somebody.
+Absolutely.
+It's at the high end,
+but you look at the margin story
+and the big tailwind that took this stock
+above 20 and through 30 was thematic,
+but it was also with the China stimulus
+in the back half of 2024.
+And though it started to play out,
+it did not play through with the tariffs in 2025.
+The stock continued to do well
+and we wanted to get through the most recent earnings report.
+We saw it as a really good earnings report
+and the stock responded favorably,
+but in the aftermath of that earnings report
+over the last week and a half, two weeks,
+the stock has gone lower
+and we see looking across the space
+from all angles of high end to low end,
+you look at Nike and Lula Limit and other names,
+they have struggled and I don't wanna hold on to Amre Sports
+and see that can continue to deteriorate.
+I'm gonna step aside here.
+I love the name, I love the portfolio of brands.
+It just may not be the right time to hold this name.
+Well, why is it the right time to buy Walmart, which you did?
+Maybe you did with the proceeds from this.
+That stock hasn't been trading all that well either,
+so what's up here?
+Well, we do see it as a trade down in consumers
+for the consumer and I think that's a great thing.
+In our portfolio, we're underweight consumer staples.
+We really don't have a true consumer staple name.
+Walmart's down about 25% from its highs.
+I see technical support here.
+If you look back from the pre-tariff 2025 high,
+a lot of volume is traded at this $100 level.
+So if you wanna buy Walmart,
+this is the place to step in,
+but listen to some of these stats,
+that they're reaching 94% of the US population
+in a three-hour window.
+30% of the same-day orders pay an elevated fee
+and that helps margin expansion.
+And I think the unknown or un-said enough
+is that they're eating into Amazon's core business
+largely unnoticed and Sam's Club is a legit competitor
+to Costco with same-day delivery at a better multiple.
+So I think there's a lot here with Walmart
+that if you like Walmart, this is the time to be a buyer.
+And here's an interesting thing from a technical standpoint.
+The 200-week moving average, this is a high-quality name.
+The 200-week moving average is at 80 bucks.
+It's a way to weigh, but if I'm buying here,
+worst-case scenario, I don't think it's going to go to 80.
+I think it can hold 100, but if something happens,
+I would be going heavy into Walmart at 80 bucks.
+Good stuff.
+Thanks for joining.
+Appreciate that.
+That's Bill Baruch.
+It's interesting.
+So if we pair the conversation as he did,
+Walmart, Sam's Club versus, let's say, Costco,
+which you own, the Costco target today gets cut
+to $1,144 from $1,194.
+So we're talking about 50 points lower, $50.
+Outperformed though still, but people look at the valuation
+of Costco have a problem with it.
+What do you think?
+I think you have to be used to paying
+a very high multiple for Costco,
+similarly to Walmart.
+If I had to pick one of the two,
+I would go with Walmart at the moment.
+We have a larger allocation to Walmart
+than we do with Costco.
+But even with that note, when you look at it,
+a $50 price drop, the stock's still got $100
+to go from where it is now.
+And I think $50 on an $1,100 stock is somewhat meaningless.
+But for me, if you're going to pick a name in here,
+I would definitely go with Walmart over Costco at the moment.
+Where are my buyers of Lulu today?
+Crickets.
+Nobody interested?
+Take a look at that stock.
+Right up there with Nike.
+Why do you want to touch?
+I made that mistake one time and got punished.
+And you're on holdings, by the way.
+We're done with, right?
+I mean, look, something's going on with the space.
+Oh, yes, you sold it in April.
+Yeah, I mean, something's going on with the space
+where what used to be a strong, stable business
+has become very fickle.
+I mean, I know with Lulu there's talk
+about changing fashion trends.
+This used to be different from, say,
+an Abercrombie in a Fitch or a Gap Stores
+or something like that, where if white T-shirts were
+in, then, hey, the stock went up.
+Now there seems to be a secular decline in these businesses
+that they can't get out of the way of.
+Is it competition internationally?
+And remember, for a lot of these stocks,
+China was going to be the next great market.
+Now there's up-and-coming brands in China
+that are taking that business away.
+A lot of DTC brands, too.
+Basically, look, whether it's the business or the stock,
+these are no touch.
+Let's touch one more before we go.
+You trimmed TJX.
+Why'd you do that?
+It hurts me to do it, because it's one of my favorite
+stocks.
+We've owned it for a really long time.
+I was on with you when we had earnings.
+And we had covered the position, worried a little bit
+about what the numbers might look like.
+And they beat on the top line.
+They beat on the bottom line.
+At a cursory look, I thought, man,
+this stock's behaving completely wrong.
+It should be moving higher.
+Until you look at the core business, which is Mirmax,
+TJMax, Marshalls, they were up 1% on the quarter
+versus a 6% previous quarter.
+Now there can be some seasonality with these things.
+And if there is a K-economy, both sides
+with the K go to TJMax, both go to Home Goods,
+both go to Marshalls, we still have a 3% position.
+The stock's breaking down.
+I'm going to have to react to that and respond.
+All right, break.
+And then Mike Santoli with his midday word.
+Welcome back to Senior Markets Commentator
+and overtime co-anchor, Michael Santoli,
+here at the end of our desk post-9.
+It's good to have you back.
+What do you think of this market today,
+reacting to the jobs report?
+Yeah, I mean, it's a little bit fatigued.
+It doesn't really seem like it's a real assertive reaction.
+In other words, reacting to anything in particular,
+aside from, perhaps, we did hold up pretty well
+throughout the week in the face of what was going on
+with yields and oil.
+So maybe there's a little wear and tear there.
+We are, I guess you can't escape it,
+going into a Fed meeting at a coin flip odds.
+I don't know if it's make or break.
+If they hike, they don't hike,
+but that is the reality that we are there.
+I mean, the data put us there,
+I think it's probably a net positive thing
+if you might get a hike to have the labor market
+in good shape as it seems to be today.
+But yeah, beyond that, it's hard to necessarily isolate
+what's happening, except we have been just sort of
+oscillating in this range.
+We've kept it pretty much on the rails this week
+in terms of not going down below those levels
+that would have broke the range,
+and really not getting a lot of momentum on the upside either.
+So, I, you know, I vix below 14.
+I think a lot of people are saying,
+we know that when people come back,
+often you have a little bit of bumpiness in September,
+and maybe it's, you know, hedging's cheap.
+We'll see if anyone takes the market up on that.
+CPI takes even greater meaning now, for sure.
+CPI and PPI, as people say,
+because it feeds into PCU.
+I thought it was interesting
+that the probability spiked this morning.
+FedFunge Futures went to 70% chance
+and then came right back in.
+Yeah, I mean, the wage growth isn't there.
+The unemployment rate's unchanged, really,
+and that's the Fed's, I think,
+beacon when it comes to the labor market.
+Yeah, three.
+Yeah, all right, good stuff.
+Options, actions, next.
+Let's go to Chicago, Sebo Global Markets,
+Oliver Wrennick playing Options, Action for us.
+What's the name today?
+SpaceX, Scott, it looks a bit like a caged animal right now.
+Hundreds of thousands of options contracts
+are trading on a daily basis
+with hundreds of millions of dollars at stake,
+but the stock's been trapped in a 10-point range
+for almost a month,
+compressing options prices down to what we see
+in stocks like Apple Oven or Builders First Source.
+I'm not convinced that's right.
+When SpaceX breaks out of its range,
+it will likely do so with noise.
+Right now, there's 11 put contracts open for every 10 calls
+and working in bear's favor
+is that there's not a lot of hedging below $142,
+which means if it slips through that level,
+it could get ugly fast,
+but almost all the puts out there
+are for strikes below 150,
+which is right where we're at right now.
+That means bearers need to sell off faster
+than bulls need to rally.
+All right, that's a good setup for a trade on the desk.
+Oliver, see at three, thanks so much.
+Oliver Renick, what do you make
+of what the options market is suggesting?
+I think it's too much too soon.
+I think this is a great investment long-term.
+We do own this in the growth portfolio.
+Scott, we love the Starlink, the Starship,
+even the AI component to it.
+If it trades up, that's great,
+but I think this is something we're looking years
+into the future, not weeks or hours.
+You own it privately, right?
+You have for a long time in the private markets.
+And now publicly, and we're taking advantage
+of the price move we've seen
+when we have episodic windows to get liquidity,
+but I still think the stock's going through price discovery,
+but let's remember there's an evangelical level
+of support for this stock,
+and I can very easily see
+that if there's incremental positive news,
+it's gonna generate huge price movement, for sure.
+I'll just point out, Rob, what you know,
+which is that evangelical support at times withers
+and look at Tesla over the last week or so.
+All right, thank you for that.
+Come on.
+We're back with finals.
+Closing bell, see how the week finishes.
+The professor, Jeremy Siegel is gonna join me.
+Walter Isaacson as well on big tech's role
+in the data center debate.
+We'll kick all that around.
+Weiss, what's your final?
+FTAI, data center debate is misplaced with this stock.
+It's very cheap.
+Robbie.
+KLA's still off 30% since June peak.
+Invite, we like the hugging face acquisition.
+Oracle's got good momentum.
+All right, good weekend, everybody.
+I'll see you on the bell, the exchange is now.
+You've been listening
+to CNBC's halftime report, the podcast.
+You can always catch us live weekdays at 12 Eastern,
+only on CNBC.
+All opinions expressed by the halftime report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates,
+and may have been previously disseminated by them
+on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy,
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit CNBC.com forward slash halftime report disclaimer.
