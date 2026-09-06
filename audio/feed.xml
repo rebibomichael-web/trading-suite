@@ -7,6 +7,12 @@
 <description>Narrated daily YouTube channel digests and CNBC Halftime Report summaries, generated automatically.</description>
 <itunes:author>trading-suite automations</itunes:author>
 <item>
+<title>YouTube digest — 2026-09-06</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-06.mp3" length="1333728" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-06.mp3</guid>
+<pubDate>Sun, 06 Sep 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Halftime Report — 2026-09-04</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-04.mp3" length="2173104" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-04.mp3</guid>
@@ -269,18 +275,6 @@
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-08.mp3" length="2992752" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-08.mp3</guid>
 <pubDate>Sat, 08 Aug 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Halftime Report — 2026-08-07</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-08-07.mp3" length="1963296" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-08-07.mp3</guid>
-<pubDate>Fri, 07 Aug 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>YouTube digest — 2026-08-07</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-07.mp3" length="5570928" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-08-07.mp3</guid>
-<pubDate>Fri, 07 Aug 2026 07:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
