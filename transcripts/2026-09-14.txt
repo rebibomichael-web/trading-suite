@@ -1,0 +1,1194 @@
+At Edward Jones, we believe rich is more than caring about the latest and greatest.
+It's also taking care of what gives your life meaning.
+That's why your dedicated financial advisor meets you where you are, with personalized
+financial strategies that help protect what matters, so you can preserve your progress
+while creating a path forward.
+The key to being rich is knowing what counts.
+Let's find your rich together.
+Edward Jones, member SIPC.
+LinkedIn Premium All-in-One is amazing at helping you grow your small business.
+It can help you sell, market, and hire all in one place.
+Say you're 60% more likely to get replies from suggested prospects.
+It can't stop you from being CEO, CFO, HR, and yes, even IT sometimes.
+Unknown error.
+What?
+Then how do you even know it's an error?
+Yikes.
+Try LinkedIn Premium All-in-One for free at linkedin.com slash all-in-one.
+I'm Scott Wopner, and you're listening to CNBC's Halftime Report, the podcast, the most profitable
+hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Thank you, Carl.
+Welcome to the Halftime Report.
+I'm Mike Santoli and for Scott Wopner Today, front and center, this hour, AI stocks
+sell off.
+The 10-year yield cracks 5%, and a Fed decision looms large this week.
+We will trade all of it with the investment committee joining me for the hour.
+Joe Teranova, Liz Thomas, Stephen Lise, and Jim Labanthal.
+Let's get a quick check of the market.
+The index is still lower, but well off their lows from earlier.
+S&P 500 got down below 7,600.
+It's up about half a percent from where it kind of retested last week's lows.
+NASDAQ has been the underperformer, but Mag7 helping that come back.
+10-year yield, you see, has come off the boil.
+It did crack 5% and a few little fractions of a basis point now back to 4.95.
+We're going to have more on that move in yields in just a moment.
+But first, let's get to Kate Rooney with more on what's driving the slide in AI stocks.
+Kate.
+Hey, Mike.
+Well, it goes back to what we saw over the weekend.
+Anthropic CEO Dario Amade really shocked the tech world with an essay out on Saturday.
+The CEO proposed a three-step plan aimed at tempering how fast some of the most
+powerful AI and AI models out there are going to be improving.
+He talks about third-party evaluators as part of this, safety standards, and then international
+coordination as well.
+Amade has argued for safety in the past, but he does talk about this with some new urgency
+given some of the recent panic around the risk of this technology.
+He did snowball last week after Anthropic Researchers tweeted about the existential
+risk of AI labs and said that they are, quote, gambling with our lives.
+Two new concerns from Amade that he flags.
+He talks about AI developing a lot faster than expected.
+And then an example of open AI agents hacking into the startup, hugging face if you
+remember that, he called those agents a fanatically devoted collective.
+Major AI leaders agreed with Amade.
+You don't see that every day.
+Elon Musk saying that Dario is right, said that on X.
+Sam Altman, the CEO of Anthropic's biggest rival, open AI, tweeting his support as
+well at the same time that Altman told Fortune over the weekend an IPO right
+now would be ill-advised.
+He did say 2027 for their own listing, although we have reported that the AI
+giant open AI was already likely to list next year anyway.
+So great assault there.
+I did speak to some people over the weekend who argued that the safety
+push could actually help Anthropic's IPO, positioning the company now as a
+responsible player, reducing some regulatory and liability risk.
+And then multiple investors told me the growth rate still off the charts.
+They do expect the IPO to go forward.
+I also confirmed with a couple of sources that Anthropic has seen back
+to back quarters of at least adjusted profitability and then a new wrinkle in
+all of this.
+President Trump weighing in this morning slamming Amade saying that the
+only guardrails AI needs is a strong and smart president.
+He goes on to say there is a sick conspiracy going on against AI and
+data centers that the only one that's happy about this, Mike, is China.
+So, Kate, among the many questions that pop up here is what it would
+mean in a practical sense for there to be a slowdown in the pace of
+development at the frontier in the terms that the market cares about, right?
+What does it mean?
+Given what we already were assuming about maybe some kind of snags in the data
+center trajectory of build out and just exactly how much we've already
+kind of put in the ground and is already in the pipeline.
+So I just wonder where this all comes in.
+If it's more just messaging that, hey, we have to be careful here.
+It's a great question.
+The big thing I heard from investors over the weekend, Mike,
+and the big question that they have is training, is how much of the
+committed capital for compute is going to have to shift and maybe
+pull back if they stop training the models at the same rate.
+Within that essay, Daria Amade says that they're not going to
+necessarily slow it down and tries to put some nuance behind it,
+but the headline is a slowdown.
+So investors are really trying to parse through what that actually
+means and who is going to agree to this?
+Because he talks about having safety standards, but it's not clear
+that everybody in the industry is going to see that the same way.
+And it comes at a time, of course, when this company is going
+public, OpenAI is looking to go public.
+They are tasked with impressing Wall Street, growing their
+revenue, and a big way to do that is to have the best and most
+expensive model.
+And so they really are walking this tightrope of holding back
+a bit, which, again, from a perception standpoint and them
+avoiding legal liability, regulatory pressure, they need
+to do that, and they've had to react to what we saw last
+week and some of the risk factors.
+But at the same time, they want to impress investors.
+And the big thing that investors have been focused on and is
+likely to be front and center for the IPO Roadshow is that
+revenue growth rate.
+If that starts to get dented, that's where you're going to
+see the risk of the valuation.
+And it's all about future earnings, future profitability.
+I think the hangover and the question of what does this
+actually mean if this moves slower is the big unknown, at
+least for folks that I'm talking to.
+Yeah, for sure.
+Kate, thanks so much.
+So, Joe, the market is finding something to react to here,
+right?
+Semiconductors, the stocks is down 5.3%.
+That's not nothing.
+Obviously, especially since it came into the week down 20%.
+Where do you view this?
+I guess along the spectrum of nothing burger to game changer.
+I think it's consistent with the 2026 playbook where the
+market just wants to rotate.
+And that's what I'm seeing today.
+Let's remember for the semis, specifically the SMH, the
+high was back in June.
+So it's never been able to exceed its previous highs.
+And then the interim, the market has played this game of
+captain mouse believing that there would be a restart, the
+momentum factor in semis itself that kind of stalled out.
+When that occurs, it seems as though the market wants to go
+to the Mag7s.
+You have Apple, once again, advancing today, approaching
+that ball time high at 340.
+It's the software names that are performing really well
+today, health care as well.
+So I still think it's this game of rotation that's being
+played in the market.
+One other point at 1026 this morning, a 10-year
+touched 5%.
+And we are seeing, if you could show an intraday chart,
+rather, of the 10-year that we have pulled back about five
+basis points.
+Look, that's a pretty big move in basically a 90-minute
+window.
+For sure.
+No, that's a definite element of what's going on
+today.
+And it was interesting, Liz, because it came into the day
+saying that the market's premise of why it was able
+to stay near the highs was almost
+attacked on two fronts.
+You had the yields oil story.
+But then the AI earnings power story.
+And if the market is happy to say, well, maybe the
+spenders are going to be OK, even if the vendors have
+to do with less in the future, we
+could get to that point of having built out quicker,
+that's OK for hyperscale or type earnings.
+Well, I think, first of all, on the point about the 10-year,
+we hit 5%.
+I think the market is making a bet that the Treasury,
+the Fed, isn't going to let the 10-year get much more
+above 5%.
+I'll take that bet.
+And I started talking about buying the 10-year around 480.
+I would still buy it here.
+So I think the 10-year piece of it right now,
+we're sort of flirting with danger, but everybody is aware.
+In the AI trade, I'll answer the question for Joe, too,
+that you gave him.
+Is this really an issue that changes the game?
+I don't think this statement changes the game.
+I mean, in reality, he's talking about hoping for collaboration
+among AI companies, among countries around the world,
+among the government.
+I don't think that's going to happen very easily.
+So the solution is not going to be put in place that way.
+But the market trend was already in place before this essay
+that we were going back to the MAG7, right?
+The market cap weighted S&P has caught up
+to the equal weight this year now.
+And small caps are sort of losing their footing.
+Investors are going back to, and I've said this
+many times, it's that muscle memory, this entire cycle,
+the muscle memory of those MAG7 names
+of some of those hyperscalers.
+And right now, yes, they're a little freaked out
+about semiconductors because that's the high beta play.
+But I think if there's a buy that comes out of this,
+it is cybersecurity for the long-term.
+I mean, where else can you say in technology
+that demand is going to absolutely stay high
+other than cybersecurity?
+That's all true, Steve.
+That's how the market is digesting this.
+On the other hand, semis themselves are a big part
+of earnings growth projected into next year.
+And so it's really hard to sit here today and say,
+you know what, we think 2027 numbers are too low,
+or at least harder today than it was Friday
+if this matters at all.
+And I guess the other piece of it is the market,
+the NASDAQ hasn't made a highs,
+Joe suggested since June, it's like 15 weeks.
+And part of that is that the amazing earning season
+we just saw represent some degree of pull forward,
+some kind of over-earning and all the rest of it.
+So how does that all shake out into the here and now?
+It shakes out with not much credibility right now.
+And I'll tell you why.
+For not only the pull forward,
+but when you take a look at crude,
+it's such a big feedstock to so many things that we do,
+away from semis, look at that second,
+that that's going to impact margins
+and that will impact earnings.
+And then you've got demand.
+And the funny thing here is,
+ironic funny, not ha, ha, ha, funny,
+is that even the Fed tightens,
+tightening to reel in a supply shock doesn't work.
+And what we're seeing with oil is supply shock.
+So the question is, how much can they really
+tamp down inflation by raising rates?
+So, and then what you see in the last half hour
+is the president came out for the 30th time,
+maybe it's the 50th time,
+said that Iran's looking for a quick deal.
+That's just an asinite statement
+as we've heard so many other times.
+And the market, if they're stupid enough to believe it
+on the 51st time, let them do it.
+In my view, we're going to go through 5%,
+the feds are not going to be able to help that.
+And that the market's going to be in a trading range
+favoring the lower end.
+As far as semis go, yeah, there's a lot of air there.
+I still think that the AI story,
+the spending is not going to stop.
+Are they going to slow it down a little?
+Possibly.
+But you see, and you alluded to this before,
+is that we're seeing Metta and Microsoft and Alphabet
+move up because say, okay, great,
+they're going to slow down spending.
+So you see both sides,
+which the market's really taking both sides,
+whereas I think if you went back six months,
+they would say everything's down.
+So it's kind of a mixed market.
+I just don't, still don't believe
+you put new money in here.
+Now take a look, let me just give this one.
+So Broadcom, Broadcom missed, right?
+So they missed arguably this time.
+They missed last time.
+You can say, okay, they reported good numbers,
+but guidance, squishy things in their margins.
+The stock has never bounced.
+It bounced for a brief time, right?
+I bought it after the prior quarter,
+bounced a little bit, sold it flat,
+and it traded at 410.
+Now it's back down to, I mean,
+or below where it was before 346.
+To me, that's the message in the market.
+You can pick a falling knife here,
+particularly when you still have valuations that are too high.
+Jim, you own Amazon Alphabet Microsoft.
+So, you know, that's the port in the storm today.
+Whether it really holds water in terms of,
+okay, we're gonna stop spending.
+We're gonna stop borrowing so much to spend.
+We're, you know, the CapEx plans for 2027,
+maybe are kind of, you know,
+skewed to the downside.
+I don't know what conclusions we're drawing,
+but somebody wants to own these rather than Broadcom.
+Yeah, I mean, it's hard to get awfully negative
+on the markets, Mike,
+when those names that you just reported are actually up.
+Now, Amazon's obviously read we see that,
+but Alphabet Microsoft,
+and Microsoft, let's not forget,
+has had a heck of a nice bid recently.
+So, you know, when something as big as Microsoft
+is performing as well as it is,
+again, really hard to get negative on this market overall.
+And for all that's thrown at it,
+Steve, you pointed out very aptly
+where diesel prices are and crude prices.
+You know, that's a lot.
+Joe, you pointed out the tenure.
+That's a lot for a market to digest,
+and yet we're only 3%-ish off from the all-time high
+in the S&P 500.
+Only 4%-ish off from the NASDAQ's all-time high.
+Ultimately, this is a market that goes higher.
+You can wait if you want to,
+you can do the September seasonality thing,
+but ultimately, I think this is a market
+that will crescendo into year-end.
+That's usually the pattern when you've had a strong year
+and then you fade a little bit in September.
+Profit growth.
+Labor markets are more than stable.
+They're good.
+I'm going to say that.
+You've got an economy that's growing nicely,
+so that's a good combination for a strong end to them.
+I guess the big question is,
+if it happens, by the way,
+is what level we're ramping off of.
+But you go into midterms.
+Midterms always unsettle the market,
+particularly now.
+Usually, okay, always is generalization
+that we use here in half-time report,
+but I'll just say usually, not always.
+And so that's something else
+to figure into the calculus
+and what happens, right?
+And do we pay down any debt right now?
+Besson's saying, we'll grow into it.
+Wouldn't you grow into four trillion to the negative?
+That's ridiculous as well.
+So there are lots of other headwinds here,
+with the base case being your optimistic case.
+So the question is, does that hold up?
+Right.
+If I could, Mike.
+So if you look from a secular perspective,
+I think we would all agree
+there's an overwhelming bullish bias.
+I maintain that bullish bias as well.
+Here we are in September.
+You have headwinds in front of you.
+You have no visibility in earnings.
+So this market could go anywhere.
+I said that last week, Jimmy.
+50 up, 50 down.
+Who knows the answer to that?
+So you say to yourself, what's the risk
+as you move forward?
+And I hope the scenario doesn't unfold.
+The risk actually is,
+is that the market is still 3% from the high.
+The market has not caved just yet
+with oil prices, with what we're hearing from AI,
+what we're seeing from yields.
+It is not because people believe 60 to 90 days from now,
+this all resolves itself.
+And the whole narrative is back.
+And candidly, that's kind of the biggest risk in the market.
+Because in that scenario, everyone is positioned one way.
+And if they're not receiving what their expectation was,
+they are very quickly exiting
+from what will only be one door.
+That is the inherent risk in the market right now.
+I don't subscribe to it.
+I hope it doesn't happen,
+but you always have to know it's there.
+Let me back that up.
+And this goes with what Steve was saying,
+is what's happening in the oil markets
+is exactly what the CEOs of ExxonMobil and Chevron
+said would happen back in April.
+They said, you can get away with drawing down on inventories,
+you can get away with China curtailing its demand,
+but only for so long.
+And we're seeing that without Iran resolved,
+you have this perpetual problem now,
+particularly with diesel,
+which is gonna factor through into food prices,
+into transportation costs.
+Steve, you made a point,
+it's a good one, I wanna repeat it,
+that the Fed is raising to adjust to a supply shock,
+which is not a good way to raise rates.
+They can't open the straight up or moves,
+they can't solve this problem.
+Nonetheless, they are probably backed into raising rates
+more than once based on what Chairman Warsh has said
+at Jackson Hole,
+and just based on what the inflation numbers are.
+It may be a mistake to raise into a supply shock,
+but that's likely what they're gonna do.
+So the biggest risk then, Joe, is static inflation.
+Yeah.
+Where you have a slow economy
+and raise in rising prices.
+And I think that we're gonna start hearing that word
+more often now.
+But the number of times we've heard that word
+in the last six years.
+Agreed, agreed.
+Honestly, I mean, we're starting from a place
+of like 6% nominal GDP growth.
+I mean, first we're worried about an overheat from CapEx.
+And now, I mean, maybe it could be that we lose
+some of those, the cyclical drivers from behind.
+I do think though, Liz, you can look subtly
+and say, yep, the S&P 500 taking like a champ
+down less than 3%.
+Equal weight cracked a little bit,
+broke the 50 day moving average.
+So the median stock has actually been, I guess,
+succumbing a little bit to the macro pressure.
+That absolutely.
+And in fact, you've seen some defensive parts
+of the market start to wake up a little bit.
+Yeah, okay.
+So a couple of points that were made earlier in the show.
+When you look at midterm election years,
+the sectors that tend to do the best
+are healthcare and staples because they're defensive.
+This year healthcare is absolutely living up to that.
+And I think it will continue to,
+maybe not from a defensive perspective,
+but because it's been a beneficiary of the rotation trade
+out of tech into growthy areas like pharma and biotech.
+When you look at the 10 year treasury,
+I think it hit 5% because yes,
+we have a supply shock issue.
+Yes, we have oil problems,
+not because the economy is overheating.
+So even with 6% nominal GDP growth,
+the Fed hiking into an economy that's just doing meh,
+in my opinion, we got 1.5 to 2.5% real GDP growth
+is the biggest risk right now.
+I don't think it's what we've already talked about.
+I think the biggest risk is that the Fed
+puts the dampen on this economy
+in places that it can't hold up.
+So the market's strength right now is not as broad
+as it's been throughout the year.
+And we've, as investors, been hanging our hats
+on this broadening of the economy.
+Look at what's happening in industrials.
+There are some cracks going on right now
+that are to be concerned about.
+And I think we have to pay attention to them.
+It doesn't mean that they're permanent.
+It doesn't mean that they're the canary
+in the coal mine of a recession.
+That's not at all what I'm saying.
+But the market going back to a concentrated,
+large cap leadership is a more fragile place to be.
+So I think we do have to be careful.
+I think the Fed has to be careful here.
+And it's becoming more of a political battle,
+which is, again, a risk to them.
+Yeah, I guess it's debatable as to whether
+it's more fragile.
+It certainly has fewer legs to stand on.
+I do want to get to the industrials though, Joe,
+because AI-levered industrials are getting smoked.
+Because that's the area where it really matters
+what's going to happen in three, four, five years.
+It's not just next year's numbers
+because they're sold out for next year.
+We all know the story.
+AI-PO is the AI power and infrastructure ETF.
+It's got the verdicts and G-vernovas
+and Eaton's and all the rest.
+So I know you have some of those in the portfolio.
+Are we sure?
+How are we thinking about that now?
+Not particularly happy about it and troubled
+by the fact that the momentum factor
+has broken down late in the second quarter
+and it's had this inability to rebuild
+upon what was a really first half of 2026.
+That inability is going to put a lot of these power names
+in a difficult position as we move forward
+through the end of the year.
+It's very easy to come on the network
+and say, okay, this is a buying opportunity.
+You want to be long these names.
+And that, in fact, is where we sit.
+GE-vernova, Verda, Quanta, Eaton.
+We sold out of Caterpillar in the last rebalance,
+but we're sitting there and we will remain there
+till the next rebalance,
+but they are in a much more perilous position
+when you're relying on the momentum factor itself
+relative to where they were just three months ago.
+From a fundamental standpoint,
+you also have to obviously call into question
+for whatever the motivation might be.
+If open AI is saying, okay, let's take a pause.
+And maybe, and my perspective is,
+I think it has a lot to do
+with maybe putting Anthropa in a position
+that we don't see them IPO in 2026.
+Maybe that's the motivation behind the scenes,
+but whatever it might be,
+if you tell me we're slowing the rate of spending,
+and if you tell me that yields are gonna remain high,
+that's a disincentive to see more supply in the debt market,
+hit the market, that is absolutely going
+to affect these industrial names, Mike,
+because they have lived,
+they have thrived over the last eight quarters
+on the continual spend and the built.
+So they're living off of the forward order books
+for which nobody has the money to pay for.
+So that's the money has to be raised,
+the revenue has to grow for the ultimate buyers.
+Which includes members, right?
+For sure, it definitely does.
+Now, I mean, you mentioned the IPO story.
+I mean, obviously this is the CEO of Anthropic
+who's the one who's actually out there saying,
+let's slow down.
+I don't know that it's meant to be a signal
+about the pacing of its IPO,
+but you know, Steve, it's funny.
+One of the bare talking points coming in was,
+oh no, too many big IPOs,
+it's going to swamp the market with new equity supply.
+And now people are saying, oh no,
+the deals might not happen,
+because that means capital is not going to be raised.
+Where do we think this is going to hit?
+Well, right now the market thinks
+that it's going to slow down all IPOs
+so we can take a look at Goldman Sachs
+and see that down,
+which is sort of like a proxy for the IPOs.
+I think there'll be less supply coming on
+and I also believe that,
+that'll be a function of the private market.
+So the private markets are really where AI lives and breathes
+much more so than the public markets.
+And if you're saying spending's going to slow down,
+these companies aren't profitable anyway,
+they've got to extend the timeline to when they are profitable,
+which means they're going to have to raise more capital.
+So I think you'll see a thinning of the herd
+if this in fact goes on,
+if there is in fact a slowing in the private markets,
+which will put up less candidates
+in the pipeline to come public.
+So that's going to be,
+we haven't really seen trouble in the private markets.
+I think the key will be assuming Anthropics S1 goes public,
+we see the numbers and then we'll debate
+what the numbers mean, how they're characterizing,
+their actual profitability adjusted
+for everything they pay for.
+And then we can, we'll have a better debate on all of it.
+Which can be the most interesting in the S1s
+is seeing what they talk about as the risks.
+So David Sachs mentioned today
+the product liability risk for their agents.
+So what is that due to your valuation?
+Yeah, mostly for IPOs, the risk factors are,
+it won't do immediately ignored.
+And so probably nothing, but we'll see.
+All right, still ahead, gaming out the Fed's next move
+and what it means for the financials.
+Half time is back in two minutes.
+At Venture Global, we think about what can be done,
+not what's usually done.
+Through innovation, Venture Global is not only building
+some of the largest energy facilities in the world,
+right here in the United States,
+but delivering American energy
+at a fraction of the cost and a fraction of the time.
+So while others are busy talking, we're busy building,
+that's Venture Global, that's unstoppable energy.
+When did work become so much work?
+The meeting about the meeting,
+the hundreds of files to find one insight,
+setting aside the things you want to do
+for the things that pop up, your work day's gone.
+But what if the insight surfaced itself
+or you could ship the deck without the distractions?
+Gemini Enterprise helps you get that done.
+It's AI that knows your business
+with agents that take stuff off your plate.
+Make work less work with Gemini Enterprise from Google Cloud.
+If you want to grow your small business,
+LinkedIn Premium all in one is the way to go.
+It can help you sell, market and hire all in one place.
+Unfortunately, it can't stop you
+from working through your lunch.
+Mm-hmm.
+Yes, we can definitely get you that shipment
+before Tuesday, absolutely.
+Yum.
+Grow your small business with LinkedIn Premium all in one.
+Try for free at linkedin.com slash all in one.
+Welcome back, market continues to narrow
+its losses S&P and Nasdaq down just a quarter of a percent
+right now, it's a big week for the Fed
+with a rate decision coming on Wednesday
+it's a 10 year crosses 5% for the first time
+since October 2023.
+Wells Fargo out with a note saying
+that JP Morgan, Bank of America and Citi
+are among those set to benefit.
+Steve, quick word here.
+First of all, Wells Fargo, that's Mike Mayo.
+He loves the big banks, always loves the big banks
+likes him here.
+That being said, the market seems okay
+point to point with the clarity
+that we're getting a Fed rate hike on Wednesday.
+Yeah, I think so.
+I mean, it's been talked to have for a while now
+and I think it was a message by Warsh
+even in his first meeting we said
+let's let the market talk.
+Well, the market's spoken here at 5%
+so you're gonna raise rates.
+I think it is good for the bank.
+We've seen some steepening of the yield curve
+over the last month or two.
+So that means they can make more money.
+Minor, it's not a lot but it's going the right direction.
+And I think you could possibly see that continue.
+So, look, I think the banks look great here.
+I mean, to me, it's also a hedge on the economy
+in terms of if the economy,
+if I'm wrong, the economy doesn't slow down.
+I'm not looking for a major slowdown, right?
+The banks and I own Goldman Sachs, the only one I own.
+I am looking at Wells Fargo,
+but that you continue to do well.
+So today is side because the IPO pipeline,
+I guarantee you they've got enough M&A to do
+and they've got enough other high margin business to do
+including IPOs, they're gonna be fine.
+I'm not worried about Goldman Sachs.
+No, at this point.
+Liz, you suggested you think a hike's a mistake
+for I guess the main street economy
+or the sort of non-financial market dependent one.
+How would that play into the outlook for banks?
+Well, banks usually do well when the Fed hikes rates
+but a flatter yield curve is problematic for banks
+over the long term because it crimps their net interest
+margin.
+I'm not worried necessarily about what it does
+to the financials.
+I do still think that a hike would look like a mistake
+in hindsight.
+I think right now it would be a reaction to the market
+not to the economy.
+And that's where you see the pain longer term.
+Now, if we wanna compare it to the 90s,
+it depends on whether you think this is 1997
+where they hiked once, 25 basis points
+or this is 1999 where they kept going quite a bit
+and that was the beginning of the end.
+I happen to think that this would be more like 1999
+because Kevin Warsh has committed so much
+to that 2% inflation target.
+25 basis points isn't gonna get us there.
+So I think it starts to look like a hiking cycle
+and that's the real problem,
+which eventually is not good for financials.
+Just to get into the details of 1999,
+June of 1999, they start to hike again
+after the 1998 financial panic.
+By February of 2000, markets up huge,
+economies ripping, Greenspan says,
+I thought it would have more of an effect
+it didn't work, another 75 basis points
+and then it's over.
+So that's kind of how it goes.
+Like you think it's fine tuning until it's something else.
+And Joe, I think a key point here is
+I know that there's a conventional wisdom developing
+that Fed rate hikes, we get one, two, three,
+whatever it is, it's gonna control the long end, right?
+So I don't know, that's a pretty debatable issue.
+So I think we all appreciate that encyclopedia of knowledge.
+I just was looking it up last week.
+That's pretty good, Mike.
+But here's what I would say about a rate hike.
+I think the minute you get the rate hike,
+the market begins to price in
+when you're going to get the rate cut to take it back.
+Cause I think that's the game we're gonna play.
+I think we're going to get the rate hike
+and then everyone's gonna say, okay, oil price is relaxing.
+We've got yields moving lower.
+Now we need to take the cut,
+we need to take the height back and put in a cut.
+Does it depend what they say though?
+I'm sorry?
+It doesn't depend what they say.
+I think the market gets in front.
+I think the market gets in front of everything.
+I think the market got in front of the rate hike.
+Well, it got in front of the rate hike,
+but we got three cuts last year
+and then we came into the year pricing in three more.
+It's not like the market says, oh, the turn's coming.
+I mean, I think that it's one and done, it's exceedingly rare.
+It's not gonna happen one and done, right?
+So the reason to go is if you think
+you need to do more than 25, right, Jim?
+I mean, so if we take back the three cuts
+from last year, could second fights are a problem though.
+Liz pointed out though,
+that Chairman Warsh painted himself in a corner
+and he did, he did.
+He's gotta go or he loses credibility.
+I mean, we can debate and we are debating
+whether it's the right move to make
+in terms of hiking into a supply shock,
+but I think it's pretty sure he's gonna go.
+Then you've got October coming up
+and you're one week before the midterm elections.
+Look, we know the Fed is not a political animal,
+but they're not oblivious to the optics politically
+of raising rates one week before the election.
+They're not gonna do that
+unless they're incredibly stupid.
+Fed was hiking every meeting from April of 2022
+through the midterm elections.
+But they were already in 2006.
+It was hiking in 2006.
+Much different, much different.
+Of course, everything's different all the time.
+And right now, inflation's been above target
+for X number of years.
+The two years are four and a half percent.
+What are we doing?
+Listen, I look, I think they raised this.
+Oh yeah, okay, fine, fine, whatever.
+I think they'd be crazy
+to raise one week before the elections,
+notwithstanding the point you just made about history.
+And then the question is, what do they do in December?
+Unfortunately, I'm of the camp.
+I've already said it twice
+that these energy price spikes haven't yet flowed through
+in terms of the overall inflation.
+I don't like saying that,
+but it's just what the logic to me says
+is that diesel prices well at a record
+and really no sign of capacity coming online.
+It's not like Russia can all of a sudden
+fix their refineries and start exporting diesel again.
+I think we're gonna be battling with this
+for the next couple of quarters.
+The point is, listen, the Fed to lose credibility
+is to let hint at all in any of their talks.
+I know they're not doing what we had Jay Powell
+doing with all the constant dialogue,
+but for the market to get the perception,
+the next move's gonna be a cut.
+That would destroy all credibility the Fed has.
+I think you have a series of rate hikes
+and you're a bull thesis and my bull thesis
+and the general bull thesis
+that we close the year going back towards the high.
+I think you have to really take a very strong look at that
+because I don't think that's what's happening.
+You're telling me we're getting multiple rate hikes.
+All right, we'll see you three steps in a stumble.
+We got all the old sayings we can go back to.
+All right, coming up, our top call to today,
+bullish analyst activity on gold, software, and more.
+We'll debate it off then.
+Never bet against American grit or American energy.
+Through innovation, Venture Global is not only building
+some of the largest energy facilities in the world
+right here in the United States,
+but delivering American energy
+at a fraction of the cost and a fraction of the time.
+So while others are busy talking, we're busy building.
+That's Venture Global.
+That's unstoppable energy.
+When did work become so much work?
+The meeting about the meeting,
+the hundreds of files to find one insight,
+setting aside the things you want to do
+for the things that pop up.
+Your work day's gone.
+But what if the insight surfaced itself
+or you could ship the deck without the distractions?
+Gemini Enterprise helps you get that done.
+It's AI that knows your business
+with agents that take stuff off your plate.
+Make work less work with Gemini Enterprise from Google Cloud.
+If you want to grow your small business,
+LinkedIn Premium all in one is the way to go.
+It can help you sell market and hire all in one place.
+Unfortunately, it can't stop you
+from working through your lunch.
+Yes, we can definitely get you that shipment
+to before Tuesday, absolutely.
+Yum, grow your small business
+with LinkedIn Premium all in one.
+Try for free at linkedin.com slash all in one.
+While we're back on half-time report,
+I'm Contessa Brewer with your CNBC News Update,
+a shocking new report that reveals detainees
+were confined in small metal cages
+at the now shuttered immigration facility in Florida.
+It was known as Alligator Alcatraz.
+According to the Department of Homeland Security's
+independent watchdog, these outdoor cages
+about the size of phone booths
+were used as so-called calming areas.
+The report called this practice highly unconventional
+and said it did not align with standards
+for humane treatment.
+A group of mostly Democratic states
+has filed a lawsuit federally
+to stop a new Trump administration green card policy
+from taking effect Friday.
+The new rule would give immigration officials
+wider authority to deny green cards
+to people using public assistance programs.
+The states argue that's illegal.
+And the European Union once again
+is looking at tougher guardrails
+for children using social media.
+A new proposal would create a tiered system
+for social media access for those younger than 15.
+France, Austria, Denmark,
+and a number of other countries are not waiting.
+They're just pushing ahead
+with their own social media laws
+fueled by growing concerns
+over the effects on mental health.
+That's the news now, Mike.
+I'll send it back to you.
+All right, Katessa, thank you.
+Well, let's get to some calls of the day.
+City bullish on gold,
+eyeing $4,800 an ounce in the next three months.
+So Liz, the Ice Shares Gold Trust
+was your final trade last time you were on.
+You've been on this one.
+Higher real rates in theory should hold it back,
+but how are you thinking about it?
+It was my final trade last time and the time before.
+So on August 19th and September 2nd,
+it's down one to 3%
+depending on what your start date is since then.
+I think it's more attractive now
+and I would still buy it and continue buying it.
+It is generally a zero yielding asset.
+So when rates rise, gold is less attractive.
+But I think now it's become a geopolitical hedge again.
+We are worried around the globe
+about what central banks might do,
+what inflation is doing.
+And I think this is an attractive entry point
+with gold trading below 4,300.
+I remember when we were so worried about it
+being 5,000 and people were calling for seven and 8,000.
+So I think 4,300 is a good place to be.
+I'm still long and bullish.
+One of the questions, Joe,
+is if we'll get back to that point
+when it really became also a retail kind of momentum play.
+So we have a chart of spot gold.
+If we could get spot gold up,
+you could see that it was back in January
+where you had that parabolic peak in the precious metals.
+What I'm seeing in near term
+is that over the last 30 days,
+you had this little reflex momentum driven bull move higher
+in the context of a larger down slope for 2026.
+So a little bit different than your perspective,
+just looking at it from a technical
+and momentum oriented standpoint.
+I don't trust the rebound that we have recently.
+I think you could fall back towards the lows
+that we made in June and July.
+On some individual names,
+Morgan Stanley cutting up Loven's target to 450 from 650.
+I mean, obviously this is just kind of marking this
+to market the stock peaked above 600 a few months ago, Joe.
+You own this one?
+This is a broken momentum stock.
+It's now 42%.
+If you're looking at a 12 month momentum score,
+if you're looking at a three month momentum score,
+it's down as well.
+So from the perspective of it residing in the JOT ETF
+at the next quarter of your balance,
+accordingly, based on what the rules are for momentum,
+we'll figure on the position
+as far as advocating it to buy it here.
+I don't think you want to do that.
+I don't like buying stocks that are near a 52 week low,
+despite what might be the vision
+of some really good fundamentals ahead.
+Allow the stock to stabilize
+and begin the recovery period, then step in, buy it.
+I think the same thing can be said
+for what we talked about before
+with those industrial stocks.
+Same thing, if you have them, okay,
+let's see what happens as we move forward here
+if you're gonna have to liquidate them,
+but don't step in and buy what is near a 52 week low.
+Let it prove itself first.
+Let's get to Disney Rothschild
+cutting Disney's price target.
+I mean, it's a trim to 125 from 160, Jim.
+So nobody thinks that Rothschild,
+this one's gonna run away from you.
+I'd be happy at 125.
+I mean, let me start there.
+The stock has had a little bit of a rally
+since they reported earnings in early August.
+Now a little bit of a rally, up 10-ish percent.
+Obviously the market's been flat to down
+in that period of time.
+There's a lot of rotation to use Joe's terms
+going on in the travel sector.
+We've seen Marriott roll over,
+just as Disney is coming up.
+When I get to the end of the analysis here,
+what I look at is a stock that's trading
+at 14 times forward earnings for a well-known brand,
+one that does have consumer appeal,
+and I'm gonna stick with this for now.
+Netflix, Weiss, at Evercore,
+just raising the price target to 110 from 100.
+Did notice it was among the S&P leaders.
+It kinda gets stuck in the AI disruption basket
+along with some other stuff.
+So we got a little bit of a nice bounce today.
+You sold it a little while.
+Yeah, I did, actually.
+And I'm glad Scott's on here,
+because I neglect to mention I brought it back.
+Is that the only reason you're glad he's on here?
+No, there are many, many, many others.
+I brought it back not far from here, actually.
+Yeah.
+Because I do have a lot of cash.
+I thought this was a safe one.
+I'm not so sure about the upside on it,
+but I think the downside's been taken out.
+Sure.
+And as you see other streaming services raise prices,
+they actually are close to the value player on the street.
+So I think it's okay here.
+I'm not sure it gets to 180 times soon.
+All right, we have some breaking headlines
+crossing on mortgage rates.
+Let's get to Diana.
+Oh, Diana.
+Well, Mike, the average rate on the 30-year fix
+jumped yet again, five basis points this morning
+to 7.17% according to Mortgage News Daily.
+That is the highest level since January 2025.
+Mortgage rates, of course, loosely followed the yield
+on the 10-year treasury, which did cross over to 5%
+to a multi-year high.
+Now, this, after the August Consumer Price Index Friday,
+came in right along expectations,
+but was still way above the Fed's goal of 2% inflation.
+Now, mortgage rates are now up 29 basis points
+in just the past week.
+The timing, not great as the Labor Day weekend,
+marked the start of the fall housing market
+after a pretty slow summer.
+Inventory is rising, but affordability is weakening
+with every push higher on the 30-year fix.
+Mike?
+For sure, yeah.
+Well, we'll see if that 10-year yield has peaked
+and I guess mortgage rates would only then follow.
+Diana, thank you very much.
+Up next, your ETF edge with Dominic Chu.
+Dom, what's coming up?
+All right, so Mike, the rise of retail traders
+in the markets has taken off
+in the year's post-COVID pandemic,
+but it's not just plain vanilla index products
+you're using anymore.
+A wave of ETF product innovation
+has given traders a lot more tools in the kit.
+We're gonna take a look at some of the big trends
+driving the retail trade in ETFs.
+That story's coming up next on ETF Edge
+on the Halftime Report.
+Keep it right here.
+Welcome back to the Halftime Report.
+I'm Dominic Chu with today's ETF Edge.
+Skyrocketing demand from retail traders and investors
+is drawing and driving a new wave of ETF products,
+but are all of them well-received
+or are some just missing the mark amid the frenzy?
+Joining me now for this conversation
+is Justin Schach, the Rosenblatt Securities Partner
+and Head of Market Structure.
+Over the years, Justin,
+you've seen a lot of things develop in markets
+with regard to products being unveiled
+and kind of what happens in times of calmness and stress.
+ETFs have come a long way.
+What exactly are retail traders doing these days
+with the ETF products that are out there
+and how exactly are they trading them?
+Well, we tend to see a lot of interest in products
+that offer the opportunity for like a quick movement
+in a short period of time to capture that
+if you wanna trade short-term.
+If we look at the products that were most active,
+the ETPs in the month of August,
+eight out of the top 10 were leveraged
+or inverse type products, ultra long, ultra short,
+the other two were Bitcoin.
+So fitting into that category,
+then if we back out even more
+and look at just the top five stocks,
+not just ETF stocks in the entire market,
+four of them were ultra long or ultra short,
+single stock ETFs,
+the other one was a Bitcoin,
+five of the top 10 were ETFs in that category.
+And what do you think is driving that kind of sentiment,
+I guess, is it that retail traders versus institutional,
+as much as you can draw a generalization,
+are more geared towards kind of those bigger moves
+and they are willing to tolerate the risk
+that they have with them?
+Yeah, I think there's a segment of the retail base
+that's definitely geared toward that.
+And that's a difference between what we see today
+and what we saw maybe with the first wave
+of online brokerage 25, 30, 35 years ago.
+There's more of a sense that like,
+hey, I need to get involved with these really sort of
+high risk, high reward type products
+because maybe I can't afford that first house.
+Maybe I can't afford that middle-class lifestyle
+the way that my parents or grandparents could.
+So I'm turning to these markets and sports books
+and everything else out there
+to try to make up that difference.
+All right, well, this is an interesting conversation.
+We're gonna continue it over at etfedge.cmbc.com.
+Justin's gonna be joined by Sylvia Jablonski,
+the CIO co-founder of Defiance ETFs and Mike.
+What we're gonna talk about is the advent of recent
+and reset hourly ETFs that are levered and inverse.
+It's a mouthful, but there's products like that
+that are being in the pipeline and coming to market.
+It could be an interesting move
+on market structure in the coming years.
+I'm sure when six and a half hours
+is just too long to wait for the reset.
+There you go.
+All right, Dom, thanks very much.
+Up next, options action,
+Oliver Renick is tracking a move in rates today.
+We'll take you live in Chicago.
+Half time is back in two.
+See the Dow turn slightly green as of the Russell 2000.
+Let's get to today's options action.
+Oliver Renick joins us from Cebo Global Markets
+in Chicago, Oliver.
+Hey, Mike, options traders look a lot more responsive
+to AI scares than they do bond market scares.
+Vicks popped to 18 this morning
+and Vicks options volume is more than twice
+the 30 day average with a lot of call buying.
+That is basically the opposite of what we saw on Friday
+when Vicks crushed despite the bond market,
+all but locking in an interest rate hike
+for Wednesday's Fed meeting.
+We even saw a heavy call buying in the TLT ETF this morning
+with more than five times as many calls bought versus puts
+before treasuries reversed and rallied.
+One argument is that bonds present a slower moving
+and a known threat now,
+whereas big changes to the AI path
+might be reason to buy up crash insurance.
+And we absolutely saw some of that this morning
+with someone buying in addition
+to other bullish Vicks contracts,
+$2.7 million of the 31 strike calls
+expiring in mid-November.
+Contracts going for about a buck each right now
+and need a big sell off to pay off.
+All right, up crash and long-term treasuries.
+Haven't heard a lot of talk about that lately.
+Oliver, thanks, good stuff.
+Coming up, we are trading the airlines.
+Those stocks also under pressure today
+how the committee is positioned now.
+Airline stocks losing altitude over the past month.
+Jim, talk a little bit about Delta here.
+Yeah, well, it had a great run up until earnings.
+I did say at the time
+that I thought it was a little bit ahead of itself.
+I didn't know that oil prices are gonna rise this much.
+And look, that offsets the gain that you're seeing
+from the demand side of this equation.
+All you have to do is take any flight going in any airport.
+I don't care if it's Indianapolis or JFK, they are packed.
+So the demand is there.
+You are seeing in the CPI Friday
+that airline ticket prices are going up,
+but oil's a headwind
+and it will be for the foreseeable future.
+Joe, any technical damage done here?
+Delta or any others?
+Well, remember, we own Delta and United in the ETF.
+Why?
+Because they are momentum players.
+So they're in all of the major momentum funds
+and that's been punishing over the last several months.
+I think Delta is in a much better position.
+Technically, it sits above the 200 day moving average.
+United's broken down.
+I like Delta's loyalty rewards program,
+premium flyer, and they also have the refiner exposure.
+Yeah, I mean, that's been why it's been able
+to kind of separate a little bit from the pack.
+All right, stay with us.
+Final trades coming up on half that.
+We are back with our final trades.
+Jim, get us started.
+Well, in a topsy-turvy market,
+we're not quite sure which way it's going to go.
+I am with what Liz said, going with healthcare.
+AstraZeneca is right in the middle
+of the fairway for that space.
+Weiss, I'm going with Lighthouse.
+It's up today, but it's off the previous highs.
+I think it's got a very attractive offering going forward.
+And it's defensive, being defense companies.
+There you go.
+Liz?
+I'll take a 494 yield on the tenure.
+I would have rather taken five,
+but 494 is still pretty good.
+We'll give you credit for catching the five.
+You liked it coming into the day.
+And I guess the bond math starts to work
+if you start it with a 5% yield.
+Thank you, I appreciate that.
+All right, Joe.
+Expeditors International of Washington
+is a $25 billion company with over 68% revenue exposure
+overseas and hitting a 52-week high today as we speak.
+All right, we'll see how the afternoon goes.
+You have the S&P 500 down just 0.2%.
+The Dow is slightly positive, Russell 2000 as well.
+It does it for halftime.
+The exchange starts right now.
+You've been listening to CNBC's halftime report,
+the podcast.
+You can always catch us live weekdays
+at 12 Eastern, only on CNBC.
+All opinions expressed by the halftime report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated by them
+on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit CNBC.com forward slash halftime report disclaimer.
+If you want to grow your small business,
+LinkedIn premium all-in-one is the way to go.
+It can help you sell, market, and hire all in one place.
+Unfortunately, it can't stop you
+from working through your lunch.
+Mm-hmm.
+Yes, we can definitely get you that shipment
+to before Tuesday, absolutely.
+Yum, grow your small business
+with LinkedIn premium all-in-one.
+Try for free at LinkedIn.com slash all-in-one.
