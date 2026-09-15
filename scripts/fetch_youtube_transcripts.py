@@ -38,6 +38,12 @@ FLAGS
     --repo DIR   repo working copy (default: the repo this script lives in)
     --no-push    fetch/commit but don't push (for testing)
     --no-git     just write files, no commit/push at all
+    --backfill-days N --channels "A,B"
+                 ONE-OFF deep backfill (Y-5, ruled 2026-09-15): enumerate the
+                 named channels' uploads playlists via yt-dlp (RSS stops at ~15)
+                 and fetch transcripts for uploads newer than N days. Transcript
+                 files only — the feed snapshot and prices are NOT touched, so
+                 the digest/coverage window is unaffected. Default off.
 
 Exit code is 0 even if some individual videos have no captions — a missing
 transcript is normal (Shorts, music, brand-new uploads) and the digest degrades
@@ -160,6 +166,91 @@ def fetch_transcript(video_id):
     return " ".join(s.text for s in snippets)
 
 
+def enumerate_uploads(channel_id, cutoff, page=200, stop_after=5):
+    """Every upload newer than `cutoff` from the channel's uploads playlist
+    (UU + channel id), newest first. yt-dlp's flat listing carries no dates, so
+    each id costs one metadata fetch (~2 s); stop after `stop_after`
+    consecutive videos older than the cutoff. No API key."""
+    import yt_dlp   # imported here only: normal mode never needs it
+    flat = {"quiet": True, "no_warnings": True, "skip_download": True,
+            "extract_flat": True}
+    meta = {"quiet": True, "no_warnings": True, "skip_download": True,
+            "extractor_args": {"youtube": {"player_skip": ["js", "configs"],
+                                           "player_client": ["web"]}}}
+    out, older, start = [], 0, 1
+    with yt_dlp.YoutubeDL(flat) as y_flat, yt_dlp.YoutubeDL(meta) as y_meta:
+        while True:
+            y_flat.params.update({"playliststart": start, "playlistend": start + page - 1})
+            info = y_flat.extract_info(
+                f"https://www.youtube.com/playlist?list=UU{channel_id[2:]}", download=False)
+            entries = [e for e in (info.get("entries") or []) if e and e.get("id")]
+            if not entries:
+                break
+            for e in entries:
+                try:
+                    m = y_meta.extract_info(f"https://www.youtube.com/watch?v={e['id']}",
+                                            download=False, process=False)
+                    ts = m.get("timestamp")
+                except Exception as err:
+                    print(f"  {e['id']}: metadata failed ({type(err).__name__})", file=sys.stderr)
+                    continue
+                if not ts:
+                    continue
+                published = datetime.datetime.fromtimestamp(ts, datetime.timezone.utc)
+                if published < cutoff:
+                    older += 1
+                    if older >= stop_after:
+                        return out
+                    continue
+                older = 0
+                out.append({"id": e["id"], "title": e.get("title") or "", "published": published})
+            if len(entries) < page:
+                break
+            start += page
+    return out
+
+
+def backfill(channels, days, out_dir, now):
+    """Y-5 one-off: transcripts for the named channels' uploads of the last
+    `days` days. Same file identity (transcripts/youtube/<id>.txt), same skip
+    rule (non-empty file present), same no-captions tolerance as the nightly
+    path. Returns the list of written repo-relative paths."""
+    cutoff = now - datetime.timedelta(days=days)
+    written = []
+    for channel in channels:
+        cid = CHANNELS.get(channel)
+        if not cid:
+            print(f"backfill: unknown channel {channel!r} — must be a CHANNELS key", file=sys.stderr)
+            continue
+        try:
+            videos = enumerate_uploads(cid, cutoff)
+        except Exception as e:
+            print(f"{channel}: backfill enumeration error {e!r}", file=sys.stderr)
+            continue
+        n_new = n_skip = n_nocap = 0
+        for v in videos:
+            dest = os.path.join(out_dir, f"{v['id']}.txt")
+            if os.path.exists(dest) and os.path.getsize(dest) > 0:
+                n_skip += 1
+                continue
+            try:
+                text = fetch_transcript(v["id"])
+            except Exception as e:
+                n_nocap += 1
+                print(f"{channel}: {v['id']} no captions ({type(e).__name__})")
+                continue
+            if not text.strip():
+                n_nocap += 1
+                continue
+            with open(dest, "w") as fh:
+                fh.write(text)
+            written.append(f"{TRANSCRIPT_DIR}/{v['id']}.txt")
+            n_new += 1
+        print(f"backfill {channel}: {len(videos)} uploads in the last {days}d — "
+              f"{n_new} new, {n_skip} already present, {n_nocap} without captions")
+    return written
+
+
 def git(args, repo, check=True):
     return subprocess.run(["git", "-C", repo, *args], check=check,
                           capture_output=True, text=True)
@@ -173,6 +264,10 @@ def main():
         os.path.abspath(__file__))))
     ap.add_argument("--no-push", action="store_true")
     ap.add_argument("--no-git", action="store_true")
+    ap.add_argument("--backfill-days", type=int, default=0,
+                    help="one-off deep backfill of --channels; 0 = off (default)")
+    ap.add_argument("--channels", default="",
+                    help="comma-separated CHANNELS keys for --backfill-days")
     args = ap.parse_args()
 
     repo = os.path.abspath(args.repo)
@@ -181,6 +276,18 @@ def main():
 
     now = datetime.datetime.now(datetime.timezone.utc)
     cutoff = now - datetime.timedelta(days=args.days)
+
+    if args.backfill_days > 0:
+        # Backfill mode: transcript files only. No feed snapshot, no prices —
+        # nothing the digest/coverage window reads is touched.
+        chans = [c.strip() for c in args.channels.split(",") if c.strip()]
+        if not chans:
+            sys.exit("--backfill-days needs --channels")
+        written = backfill(chans, args.backfill_days, out_dir, now)
+        commit_and_push(repo, list(written), written, now, args,
+                        msg=f"YouTube transcript backfill {now.strftime('%Y-%m-%d')} "
+                            f"({len(written)} videos, {args.backfill_days}d, {', '.join(chans)})")
+        return
 
     written = []
     skipped = 0
@@ -248,6 +355,12 @@ def main():
         print(f"prices update failed (non-fatal): {e!r}", file=sys.stderr)
 
     to_add.extend(written)
+    commit_and_push(repo, to_add, written, now, args)
+
+
+def commit_and_push(repo, to_add, written, now, args, msg=None):
+    """Shared commit/push tail — the nightly path and the backfill path both
+    ride it. Body unchanged from the inline original except the optional msg."""
     if args.no_git or not to_add:
         if not to_add:
             print("Nothing new to commit.")
@@ -260,8 +373,9 @@ def main():
     if git(["diff", "--cached", "--quiet"], repo, check=False).returncode == 0:
         print("No staged changes.")
         return
-    msg = (f"YouTube transcripts {day} ({len(written)} videos)" if written
-           else f"YouTube feed snapshot {day}")
+    if msg is None:
+        msg = (f"YouTube transcripts {day} ({len(written)} videos)" if written
+               else f"YouTube feed snapshot {day}")
     git(["commit", "-m", msg], repo)
     if args.no_push:
         print("Committed locally (--no-push).")
