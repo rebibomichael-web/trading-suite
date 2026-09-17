@@ -241,8 +241,12 @@ class ReaderCompatTests(unittest.TestCase):
 
     def test_digest_and_coverage_loader(self):
         import youtube_digest as D
-        snap = D.load_feed_snapshot()
+        snap, meta = D.load_feed_snapshot()
         self.assertEqual(set(snap), set(CH))
+        self.assertEqual(meta[CH[0]]["consecutive_errors"], 0)
+        self.assertEqual(meta[CH[1]]["consecutive_errors"], 1)
+        self.assertEqual(meta[CH[1]]["last_error"], "HTTP 404")
+        self.assertEqual(meta[CH[1]]["stale_note"], "")   # last_ok is seconds old
         self.assertEqual(snap[CH[0]][0]["id"], "fresh")
         self.assertTrue(snap[CH[1]][0]["id"].endswith("-v1"))
         self.assertIsInstance(snap[CH[1]][0]["published"], datetime.datetime)

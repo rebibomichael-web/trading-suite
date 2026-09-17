@@ -36,6 +36,39 @@ from youtube_digest import (
 )
 
 
+DEFAULT_DAYS = 7   # the check window; the digest's roster footer uses it too
+
+
+def classify_channel(videos, cutoff, now, digested, pending, seen):
+    """THE roster classifier (Y-6: the digest footer reuses this — no second
+    hand-maintained walk). Counts a channel's videos newer than `cutoff` as
+    transcript / fallback / queued / missing, plus the channel's most recent
+    upload over ALL its feed entries (coverage did not expose that before).
+    Returns {"published", "transcript", "fallback", "queued", "missing",
+             "last_upload": datetime|None, "missing_rows": [str]}."""
+    recent = [v for v in videos if v["published"] >= cutoff]
+    out = {"published": len(recent), "transcript": 0, "fallback": 0,
+           "queued": 0, "missing": 0,
+           "last_upload": max((v["published"] for v in videos), default=None),
+           "missing_rows": []}
+    for v in recent:
+        vid = v["id"]
+        age_h = (now - v["published"]).total_seconds() / 3600
+        if vid in digested:
+            out[digested[vid][1]] += 1
+        elif (vid in pending
+              or age_h < GRACE_HOURS
+              or (vid not in seen and age_h < WINDOW_DAYS * 24)):
+            out["queued"] += 1
+        else:
+            out["missing"] += 1
+            out["missing_rows"].append(
+                f"{v['title'][:70]} "
+                f"(https://www.youtube.com/watch?v={vid}, "
+                f"published {v['published']:%Y-%m-%d})")
+    return out
+
+
 def summarized_ids():
     """video id -> (digest date, 'transcript'|'fallback') from the archives."""
     out = {}
@@ -55,7 +88,7 @@ def summarized_ids():
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__)
-    ap.add_argument("--days", type=int, default=7)
+    ap.add_argument("--days", type=int, default=DEFAULT_DAYS)
     ap.add_argument("--markdown", action="store_true")
     ap.add_argument("--fail-on-missing", action="store_true")
     args = ap.parse_args()
@@ -68,8 +101,7 @@ def main():
     pending = {p.get("id") for p in state.get("pending", [])}
     digested = summarized_ids()
 
-    snapshot = None
-    snapshot_loaded = False
+    snapshot, snap_meta = load_feed_snapshot(now)
     lines = []
     totals = {"published": 0, "transcript": 0, "fallback": 0,
               "queued": 0, "missing": 0}
@@ -81,39 +113,23 @@ def main():
             videos = fetch_feed(cid)
             source = "live"
         except Exception as e:
-            if not snapshot_loaded:
-                snapshot = load_feed_snapshot()
-                snapshot_loaded = True
-            if snapshot and channel in snapshot:
+            if channel in snapshot:
                 videos = snapshot[channel]
-                source = "snapshot"
+                # per-channel staleness label (never omitted — ruled 09-17)
+                source = f"snapshot {snap_meta[channel]['stale_note']}".strip()
             else:
                 lines.append((channel, None, f"feed unavailable ({e!r})"))
                 channels_unavailable += 1
                 continue
 
-        recent = [v for v in videos if v["published"] >= cutoff]
-        counts = {"transcript": 0, "fallback": 0, "queued": 0, "missing": 0}
-        for v in recent:
-            vid = v["id"]
-            age_h = (now - v["published"]).total_seconds() / 3600
-            if vid in digested:
-                counts[digested[vid][1]] += 1
-            elif (vid in pending
-                  or age_h < GRACE_HOURS
-                  or (vid not in seen and age_h < WINDOW_DAYS * 24)):
-                counts["queued"] += 1
-            else:
-                counts["missing"] += 1
-                missing_rows.append(
-                    f"{channel}: {v['title'][:70]} "
-                    f"(https://www.youtube.com/watch?v={vid}, "
-                    f"published {v['published']:%Y-%m-%d})")
+        c = classify_channel(videos, cutoff, now, digested, pending, seen)
+        counts = {k: c[k] for k in ("transcript", "fallback", "queued", "missing")}
         summarized = counts["transcript"] + counts["fallback"]
-        totals["published"] += len(recent)
-        for k in ("transcript", "fallback", "queued", "missing"):
+        totals["published"] += c["published"]
+        for k in counts:
             totals[k] += counts[k]
-        lines.append((channel, (len(recent), summarized, counts, source), None))
+        missing_rows.extend(f"{channel}: {row}" for row in c["missing_rows"])
+        lines.append((channel, (c["published"], summarized, counts, source), None))
 
     total_summarized = totals["transcript"] + totals["fallback"]
     if args.markdown:

@@ -38,6 +38,8 @@ KIND_TITLE = {
 def md_to_speech(md, kind):
     """Markdown digest -> text that reads well aloud."""
     text = md
+    # drop the digest's channel-roster table (Y-6) — a reference footer, not narration
+    text = re.sub(r"<!-- roster -->.*?<!-- /roster -->", "", text, flags=re.S)
     # drop UI-only lines: "Ask Claude" pills and any Listen links
     text = re.sub(r"^\*\[💬[^\n]*$", "", text, flags=re.M)
     text = re.sub(r"^🔊[^\n]*$", "", text, flags=re.M)

@@ -43,7 +43,9 @@ MAX_PER_CHANNEL = 3          # cost guard: videos summarized per channel per run
 FIRST_RUN_WINDOW_H = 36      # without state, only look this far back
 WINDOW_DAYS = 4              # with state, ignore fresh feed items older than this
 PENDING_CAP_PER_CHANNEL = 30  # bound the carry-over backlog so state can't grow forever
-SNAPSHOT_MAX_AGE_H = 72      # ignore a Dell feed snapshot older than this
+SNAPSHOT_MAX_AGE_H = 72      # per-channel: a snapshot channel whose feed last
+                             # succeeded longer ago than this is LABELLED stale
+                             # (never omitted — ruled 2026-09-17)
 GRACE_HOURS = 40             # wait this long for captions before settling for the description
 
 SUMMARY_INSTRUCTIONS = (
@@ -129,23 +131,39 @@ def fetch_feed(channel_id):
     return videos
 
 
-def load_feed_snapshot():
+def load_feed_snapshot(now=None):
     """Feed snapshot committed daily by the Dell fetcher
     (scripts/fetch_youtube_transcripts.py). Lets the digest keep working when
     YouTube blocks RSS requests from GitHub's runner IPs (observed 2026-07-14:
-    404 on every channel feed, two days running)."""
+    404 on every channel feed, two days running).
+
+    Returns (channels, meta):
+      channels[name] -> list of video dicts (id/title/published/description)
+      meta[name]     -> {"last_ok": datetime|None, "consecutive_errors": int,
+                         "last_error": str|None, "stale_note": str}
+    Staleness is PER CHANNEL, gated on meta[name].last_ok (the fetcher's
+    provenance since d00a9a7), not on the file's top-level fetched_at: a
+    channel whose feed last succeeded more than SNAPSHOT_MAX_AGE_H ago is still
+    returned, with a non-empty stale_note the caller must surface. A legacy
+    file (no "meta" block) treats fetched_at as every channel's last_ok, which
+    is what that format meant. Missing/corrupt file -> ({}, {})."""
+    now = now or datetime.datetime.now(datetime.timezone.utc)
     try:
         with open(FEED_SNAPSHOT_PATH) as fh:
             snap = json.load(fh)
-        fetched = datetime.datetime.fromisoformat(snap["fetched_at"])
-    except (OSError, ValueError, KeyError, TypeError):
-        return None
-    age = datetime.datetime.now(datetime.timezone.utc) - fetched
-    if age > datetime.timedelta(hours=SNAPSHOT_MAX_AGE_H):
-        print(f"WARN: feed snapshot is {age} old — ignoring")
-        return None
+        raw_channels = snap.get("channels", {})
+        if not isinstance(raw_channels, dict):
+            return {}, {}
+    except (OSError, ValueError, AttributeError):
+        return {}, {}
+    try:
+        fetched = datetime.datetime.fromisoformat(snap.get("fetched_at"))
+    except (ValueError, TypeError):
+        fetched = None
+    raw_meta = snap.get("meta") if isinstance(snap.get("meta"), dict) else {}
+
     channels = {}
-    for name, vids in snap.get("channels", {}).items():
+    for name, vids in raw_channels.items():
         parsed = []
         for v in vids:
             try:
@@ -158,7 +176,30 @@ def load_feed_snapshot():
             except (KeyError, TypeError, ValueError):
                 continue
         channels[name] = parsed
-    return channels
+
+    meta = {}
+    for name in set(channels) | set(raw_meta):
+        m = raw_meta.get(name)
+        if m is None:
+            # legacy snapshot: presence == fetched at fetched_at
+            last_ok = fetched if name in channels else None
+            errors, last_error = 0, None
+        else:
+            try:
+                last_ok = datetime.datetime.fromisoformat(m.get("last_ok"))
+            except (ValueError, TypeError):
+                last_ok = None
+            errors = int(m.get("consecutive_errors") or 0)
+            last_error = m.get("last_error")
+        if last_ok is None:
+            note = "(feed stale, last ok unknown)"
+        else:
+            age = now - last_ok
+            note = (f"(feed stale {max(age.days, 1)}d)"
+                    if age > datetime.timedelta(hours=SNAPSHOT_MAX_AGE_H) else "")
+        meta[name] = {"last_ok": last_ok, "consecutive_errors": errors,
+                      "last_error": last_error, "stale_note": note}
+    return channels, meta
 
 
 def transcript_path(video_id):
@@ -273,10 +314,65 @@ def summarize_video(channel, v, now):
         f"Q: {v['title'][:70]}",
         f"@claude Regarding \"{v['title']}\" by {channel} ({url}):\n\n",
     )
+    note = v.get("feed_note") or ""
     return "ok", (
         f"### [{v['title']}]({url})\n"
-        f"**{channel}** · {date}\n\n{summary}\n\n{ask}\n"
+        f"**{channel}** · {date}" + (f" · *{note}*" if note else "") +
+        f"\n\n{summary}\n\n{ask}\n"
     )
+
+
+ROSTER_START, ROSTER_END = "<!-- roster -->", "<!-- /roster -->"
+
+
+def roster_footer(feed_status, snap_meta, seen, new_pending, summarized_now,
+                  now, day):
+    """Y-6: every CHANNELS entry STATED, so an absent channel reads as
+    "unavailable"/"quiet" rather than vanishing. Classification is
+    youtube_coverage.classify_channel — the one roster classifier — applied to
+    the videos this run already fetched (no second feed walk). Dell provenance
+    (feed last OK / consecutive errors / last error) comes from the snapshot's
+    meta for every channel, whatever source the digest used. Wrapped in
+    ROSTER_START/END so make_audio can drop it from narration."""
+    from youtube_coverage import DEFAULT_DAYS, classify_channel, summarized_ids
+    digested = summarized_ids()
+    digested.update({vid: (day, kind) for vid, kind in summarized_now.items()})
+    pending = {p.get("id") for p in new_pending}
+    cutoff = now - datetime.timedelta(days=DEFAULT_DAYS)
+    rows = []
+    for channel in CHANNELS:
+        videos, source, note = feed_status.get(channel, (None, "unavailable", ""))
+        m = snap_meta.get(channel, {})
+        last_ok = m.get("last_ok")
+        errs = m.get("consecutive_errors", 0)
+        err_txt = f"{errs} ({m['last_error']})" if errs and m.get("last_error") else str(errs)
+        if not m:
+            last_ok_txt, err_txt = "— (not in snapshot)", "—"
+        elif last_ok is None:
+            last_ok_txt = "unknown"
+        else:
+            last_ok_txt = last_ok.strftime("%Y-%m-%d %H:%M")
+        if videos is None:
+            rows.append(f"| {channel} | — | — | — | — | — | unavailable | "
+                        f"{last_ok_txt} | {err_txt} |")
+            continue
+        c = classify_channel(videos, cutoff, now, digested, pending, seen)
+        last_up = c["last_upload"].strftime("%Y-%m-%d") if c["last_upload"] else "none"
+        feed = f"{source} {note}".strip()
+        rows.append(f"| {channel} | {last_up} | {c['published']} | "
+                    f"{c['transcript'] + c['fallback']} ({c['transcript']}T/{c['fallback']}D) | "
+                    f"{c['queued']} | {c['missing']} | {feed} | {last_ok_txt} | {err_txt} |")
+    return "\n".join([
+        ROSTER_START, "", "---", "",
+        f"**Channel roster** — all {len(CHANNELS)} followed channels, "
+        f"{DEFAULT_DAYS}-day window. Feed = what this run read (live RSS, or the "
+        f"Dell snapshot); Feed last OK / Errors = the Dell fetcher's provenance.",
+        "",
+        "| Channel | Last upload | Published | Summarized | Queued | Missing | "
+        "Feed | Feed last OK | Errors |",
+        "|---|---|---|---|---|---|---|---|---|",
+        *rows, ROSTER_END, "",
+    ])
 
 
 def main():
@@ -306,27 +402,34 @@ def main():
 
     sections = []
     new_pending = []
-    snapshot = None
-    snapshot_loaded = False
+    # The Dell snapshot is read once regardless of live-feed outcome: its
+    # per-channel provenance (meta) feeds the roster footer for EVERY channel.
+    snapshot, snap_meta = load_feed_snapshot(now)
     channels_unavailable = 0
+    feed_status = {}      # channel -> (videos | None, "live"|"snapshot"|"unavailable", note)
+    summarized_now = {}   # video id -> "transcript"|"fallback", this run
     for channel, cid in CHANNELS.items():
         carried = pending_by_channel.get(channel, [])
+        note = ""
         try:
             videos = fetch_feed(cid)
+            source = "live"
         except Exception as e:
             # YouTube blocks RSS from some cloud IPs — fall back to the feed
             # snapshot the Dell commits daily from a residential IP.
-            if not snapshot_loaded:
-                snapshot = load_feed_snapshot()
-                snapshot_loaded = True
-            if snapshot and channel in snapshot:
+            if channel in snapshot:
                 videos = snapshot[channel]
-                print(f"{channel}: live feed failed ({e!r}) — using the Dell feed snapshot")
+                source = "snapshot"
+                note = snap_meta[channel]["stale_note"]
+                print(f"{channel}: live feed failed ({e!r}) — using the Dell "
+                      f"feed snapshot {note}".rstrip())
             else:
                 print(f"{channel}: feed error {e!r} (no usable snapshot)")
                 channels_unavailable += 1
+                feed_status[channel] = (None, "unavailable", "")
                 new_pending.extend(carried)  # don't lose the backlog on a feed hiccup
                 continue
+        feed_status[channel] = (videos, source, note)
 
         carried_ids = {x["id"] for x in carried}
         fresh = [v for v in videos
@@ -335,6 +438,8 @@ def main():
                  and v["published"] >= cutoff]
         for v in fresh:
             v["channel"] = channel
+            if note:
+                v["feed_note"] = note   # stale snapshot list: label, never omit
 
         # Oldest first: summarize the videos closest to aging out before the
         # newer ones, so a per-run cap never permanently strands the old ones.
@@ -351,6 +456,8 @@ def main():
             sections.append(section)
             seen.add(v["id"])
             state["seen"].append(v["id"])
+            summarized_now[v["id"]] = ("fallback" if "captions unavailable" in section
+                                       else "transcript")
 
         if len(leftover) > PENDING_CAP_PER_CHANNEL:
             leftover.sort(key=lambda v: v["published"])
@@ -392,6 +499,11 @@ def main():
             )
             digest += f"**Today's read:** {overview}\n\n{ask_all}\n\n---\n\n"
         digest += "\n---\n\n".join(sections)
+        try:
+            digest += "\n" + roster_footer(feed_status, snap_meta, seen,
+                                           new_pending, summarized_now, now, day)
+        except Exception as e:   # best effort — never cost the digest itself
+            print(f"WARN: roster footer failed: {e!r}")
         open("digest.md", "w").write(digest)
         print(f"Digest written: {len(sections)} videos for {day}"
               + (" (with editorial lead)" if overview else ""))
