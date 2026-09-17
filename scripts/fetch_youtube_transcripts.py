@@ -57,6 +57,8 @@ import os
 import re
 import subprocess
 import sys
+import time
+import urllib.error
 import urllib.request
 
 # Keep this list in sync with CHANNELS in scripts/youtube_digest.py.
@@ -77,6 +79,92 @@ PRICES_PATH = os.path.join("prices", "daily_closes.json")
 LEDGER_PATH = os.path.join("ledger", "guru_calls.json")
 # always priced, on top of whatever tickers appear in the guru ledger
 DEFAULT_TICKERS = ["BMNR", "PLTR", "TSLA", "NVDA", "SPY"]
+
+# Feed fetch retry: YouTube's RSS endpoint returned 500 then 404 for the SAME
+# channel id across consecutive runs (2026-09-17, 6/8 feeds failed one run,
+# 8/8 an earlier one), so neither a 5xx nor a 404 is authoritative on first
+# sight. One retry, short backoff.
+FEED_RETRY_STATUSES = {404, 500, 502, 503, 504}
+FEED_RETRY_BACKOFF_S = 5
+# consecutive feed errors at which a channel is escalated in the log —
+# persistent 404 on one id while the others succeed = renamed/deleted channel,
+# which must not ride on last-good entries forever
+FEED_ESCALATE_ERRORS = 3
+
+
+def load_snapshot(path):
+    """Previous feed snapshot, or an empty one. A corrupt/missing file is an
+    empty prior — the merge then behaves like a first-ever run."""
+    try:
+        with open(path) as fh:
+            snap = json.load(fh)
+        if not isinstance(snap, dict) or not isinstance(snap.get("channels"), dict):
+            return {"fetched_at": None, "channels": {}, "meta": {}}
+        snap.setdefault("fetched_at", None)
+        if not isinstance(snap.get("meta"), dict):
+            snap["meta"] = {}
+        return snap
+    except (OSError, ValueError):
+        return {"fetched_at": None, "channels": {}, "meta": {}}
+
+
+def merge_snapshot(prev, results, now):
+    """MERGE this run's feed results into the previous snapshot (never
+    overwrite — 2026-09-17 a 6/8-feed-failure run rewrote the file with the
+    2 survivors and dropped last-good entries for the rest).
+
+    prev:    dict from load_snapshot()
+    results: {channel: (entries_list | None, error_str | None)} — entries on
+             success, error string on failure
+    Returns the new snapshot dict:
+      channels[name] -> list of entry dicts (UNCHANGED shape: every reader —
+                        youtube_digest / youtube_coverage / guru_ledger —
+                        iterates it as a list)
+      meta[name]     -> {"last_ok", "consecutive_errors", "last_error"}
+      fetched_at     -> now if ANY channel succeeded, else carried forward, so
+                        the digest's 72h staleness gate still ages out a
+                        snapshot that has had no success at all
+      written_at     -> now, always
+    A channel key present in prev is never dropped; on failure its entries
+    and last_ok carry forward and consecutive_errors increments."""
+    channels = dict(prev.get("channels", {}))
+    meta = {k: dict(v) for k, v in prev.get("meta", {}).items()}
+    now_iso = now.isoformat()
+    any_ok = False
+    for name, (entries, err) in results.items():
+        m = meta.get(name, {"last_ok": None, "consecutive_errors": 0,
+                            "last_error": None})
+        if err is None:
+            channels[name] = entries
+            m = {"last_ok": now_iso, "consecutive_errors": 0, "last_error": None}
+            any_ok = True
+        else:
+            # entries (if any) and last_ok carry forward untouched
+            m = {"last_ok": m.get("last_ok"),
+                 "consecutive_errors": int(m.get("consecutive_errors", 0)) + 1,
+                 "last_error": err}
+        meta[name] = m
+    return {
+        "fetched_at": now_iso if any_ok else prev.get("fetched_at"),
+        "written_at": now_iso,
+        "channels": channels,
+        "meta": meta,
+    }
+
+
+def write_snapshot(path, snap):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + ".tmp"
+    with open(tmp, "w") as fh:
+        json.dump(snap, fh, indent=0)
+    os.replace(tmp, path)
+
+
+def describe_error(e):
+    """Short provenance string for meta.last_error: 'HTTP 404' / 'URLError'."""
+    if isinstance(e, urllib.error.HTTPError):
+        return f"HTTP {e.code}"
+    return type(e).__name__
 
 
 def fetch_daily_closes(ticker):
@@ -155,6 +243,19 @@ def fetch_feed(channel_id):
             "description": html.unescape(desc.group(1).strip()) if desc else "",
         })
     return out
+
+
+def fetch_feed_with_retry(channel_id, sleep=None):
+    """fetch_feed with ONE retry after FEED_RETRY_BACKOFF_S on a retryable
+    HTTP status (5xx and 404 — see FEED_RETRY_STATUSES). Any other error, or a
+    second failure, propagates."""
+    try:
+        return fetch_feed(channel_id)
+    except urllib.error.HTTPError as e:
+        if e.code not in FEED_RETRY_STATUSES:
+            raise
+        (sleep or time.sleep)(FEED_RETRY_BACKOFF_S)
+        return fetch_feed(channel_id)
 
 
 def fetch_transcript(video_id):
@@ -292,14 +393,15 @@ def main():
     written = []
     skipped = 0
     no_caps = 0
-    snapshot_channels = {}
+    feed_results = {}   # channel -> (entries | None, error | None)
     for channel, cid in CHANNELS.items():
         try:
-            videos = fetch_feed(cid)
+            videos = fetch_feed_with_retry(cid)
         except Exception as e:
             print(f"{channel}: feed error {e!r}", file=sys.stderr)
+            feed_results[channel] = (None, describe_error(e))
             continue
-        snapshot_channels[channel] = [
+        feed_results[channel] = ([
             {
                 "id": v["id"],
                 "title": v["title"],
@@ -307,7 +409,7 @@ def main():
                 "description": v["description"],
             }
             for v in videos
-        ]
+        ], None)
         for v in videos:
             vid, published = v["id"], v["published"]
             if published < cutoff:
@@ -331,17 +433,26 @@ def main():
             written.append(f"{TRANSCRIPT_DIR}/{vid}.txt")
             print(f"{channel}: {vid} transcript saved ({len(text)} chars)")
 
-    # Write the feed snapshot for the digest's runner-IP fallback. Only when at
-    # least one feed succeeded — never clobber a good snapshot with nothing.
+    # Feed snapshot for the digest's runner-IP fallback: MERGE into the
+    # previous file (failed channels keep their last-good entries, with
+    # per-channel provenance in "meta"), then escalate persistent failures.
     to_add = []
-    if snapshot_channels:
-        snap_path = os.path.join(repo, FEED_SNAPSHOT)
-        os.makedirs(os.path.dirname(snap_path), exist_ok=True)
-        with open(snap_path, "w") as fh:
-            json.dump({"fetched_at": now.isoformat(),
-                       "channels": snapshot_channels}, fh, indent=0)
-        to_add.append(FEED_SNAPSHOT)
-        print(f"Feed snapshot written ({len(snapshot_channels)} channels).")
+    snap_path = os.path.join(repo, FEED_SNAPSHOT)
+    snap = merge_snapshot(load_snapshot(snap_path), feed_results, now)
+    write_snapshot(snap_path, snap)
+    to_add.append(FEED_SNAPSHOT)
+    n_ok = sum(1 for v in feed_results.values() if v[1] is None)
+    n_carried = sum(1 for c, v in feed_results.items()
+                    if v[1] is not None and c in snap["channels"])
+    print(f"Feed snapshot written (ok {n_ok}/{len(feed_results)}, "
+          f"carried {n_carried}, keys {len(snap['channels'])}).")
+    for channel in feed_results:
+        m = snap["meta"][channel]
+        if m["consecutive_errors"] >= FEED_ESCALATE_ERRORS:
+            print(f"WARN: {channel}: {m['consecutive_errors']} consecutive feed "
+                  f"errors (last {m['last_error']}, last_ok {m['last_ok']}) — "
+                  f"renamed/deleted channel id? riding on last-good entries",
+                  file=sys.stderr)
 
     print(f"Done: {len(written)} new, {skipped} already present, "
           f"{no_caps} without captions.")
