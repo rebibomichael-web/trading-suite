@@ -100,7 +100,8 @@
   "AMGN|below|378.06": "2026-09-15",
   "GE|below|308.04": "2026-09-15",
   "ON|below|68.82": "2026-09-16",
-  "DKNG|below|21.76": "2026-09-18"
+  "DKNG|below|21.76": "2026-09-18",
+  "F|below|12.9": "2026-09-24"
  },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
