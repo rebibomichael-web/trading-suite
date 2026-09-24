@@ -1,0 +1,1448 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+Did you know that Neurosymbolic AI can help your business find new ways to make money?
+EY Parthenon is the only one offering this groundbreaking growth platform.
+Neurosymbolic AI analyzes hundreds of millions of data points to reveal new growth strategies.
+EY Parthenon teams deploy this innovation so you can uncover hidden value and scale beyond existing boundaries.
+Want to know what Neurosymbolic AI can do for your business?
+Contact EY Parthenon today. Solutions that work in practice.
+Not just on paper.
+I'm Scott Wopner, and you're listening to CNBC's Halftime Report, the podcast,
+the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Carl, thank you. We do begin with breaking news.
+The Trump She Summit, the two leaders meeting right now at the White House in Washington.
+Welcome to the Halftime Report. I'm Scott Wopner.
+It's important to know we're not seeing video of President Xi's visit to the White House,
+given the TV pool coverage that the president has been suspended,
+following his decision to ban three national news outlets from the White House.
+Early this morning, a federal judge ordered the Trump administration to immediately restore that access
+to those news organizations, but as of now, the White House has not yet allowed them onto the grounds.
+We do know that there is a lot on the agenda today.
+Let's get right to Megan Casella on the North Lawn with the very latest.
+Megan?
+Scott, that's exactly right. President Trump and President Xi are sitting down together right now.
+There is a marine station outside the West Wing door to my left right now,
+signaling that the president is in the West Wing.
+It was supposed to be a small bilateral meeting beginning at 11.30,
+and then right now at noon, according to the schedule,
+the presidents will be moving to the cabinet room for an expanded bilateral meeting.
+So far this morning, we've had a lot of pageantry here at the White House.
+An official welcome ceremony on the South Lawn with a military band, a flyover,
+an official gift exchange, as well as a military review,
+and now the policy talk is getting started.
+So a couple of developments there already on the trade front.
+For one, Treasury Secretary Scott Besant saying late last night
+that the two sides had agreed to extend their tariff truce by another two months.
+That brings us to January 10th.
+That brings a little dose of stability to the relationship going into this meeting,
+although the Chinese had been pushing for a longer extension.
+On AI, President Trump saying this morning on TruSocial
+that he doesn't want to see anything change there.
+He said it was China's stance that they also didn't want to see anything change,
+although we did hear from President Xi in remarks from the White House this morning
+saying that it is important to make sure that AI remains under human control.
+So a little bit of difference is there.
+On Iran, Taiwan, other topics like rare earth,
+those are areas where I'm still watching for possibly more policy developments later today.
+And then Scott, the next big item on the agenda
+after these meetings are over is that CEO studded state dinner tonight here
+at the White House.
+Of course, a huge honor for President Xi to be getting that.
+And we expect really a who's who of U.S. leaders in tech and finance.
+You can see a number of them here.
+Same Altman, Jensen Huang, Jamie Dimon, Jeff Bezos, you name it.
+All of them expected here at the White House for that dinner this evening
+where both presidents are expected to give remarks once again.
+Scott.
+Megan, thanks so much for that.
+That's Megan Casella on the North Lawn of the White House for us.
+The committee is also with me, of course, today.
+Stephanie Link, Malcolm Ethridge, Shannon Sequosia, Josh Brown.
+Steph, I'll turn to you first.
+It's the first state visit for President Xi in some 11 years.
+They'll have that big state dinner this evening.
+And you saw the star studded lineup of CEOs who are going to be in the room.
+Very tech heavy.
+I think that shows you the importance of these conversations around AI.
+What, to your mind, matters most to you as a market participant and an investor?
+Yeah, I mean, a lot.
+There's a lot going on, not to mention other things happening with regards to oil,
+with regards to interest rates.
+Sure.
+Oh, we'll get to all that.
+We will.
+But in terms of what comes out today?
+Today, I mean, I think it's really going to be a lot all about AI, to be honest with you,
+and how it's going to impact all of the various different companies and CEOs that are in these meetings.
+And it's really going to depend on can they get to an agreement on the whole safety issue?
+I mean, that is really the most important thing.
+And a pause, I just don't see it, but we're going to have to realize about regulation
+and we'll have to figure out how much can get done.
+I'm not sure we're going to get a lot of answers, though, Scott.
+If there's an agreement that at least one of the parties wants to get done,
+and that's the president, Megan read the Truth Social post from this morning.
+I'll read it to you all again and quote the president,
+a big day with President Xi of China.
+Superintelligence will be a big topic of discussion.
+But I want to leave it exactly where it is.
+That is China's position also.
+Our guardrail is the DOJ, President DJT.
+So that's going to be a heavy topic of conversation,
+whether it's possible to reach any level of agreement,
+whether these two sides even want to reach that point.
+Malcolm, your quick thought before we bring in our special guest today?
+Yeah, I would just point out the obvious,
+which is that it's very important that they get this right.
+And when I say they, I mean all parties involved.
+The folks calling for a slowdown who obviously have a vested interest
+in things going well.
+The folks who are early investors in the anthropics of the world
+that obviously want to see the liquidity event.
+That is the IPO scheduled now for mid-November sometime.
+It's the government agencies that are trying to get themselves
+involved here in the equation to help make sure that it isn't
+the existential crisis that some are predicting.
+But the reason that it matters so much is because basically
+all of our GDP growth at the moment is tied to the spending
+related to the AI build out.
+And so if this does go wrong or meaningfully slows down
+all of a sudden falls off a cliff,
+that will be negatively impactful for all parties involved,
+too, which is not necessarily wiping out human existence.
+But from a financial perspective, it'll be meaningful for us as well.
+Altimeter capitals, Brad Gershner will be at tonight's
+state dinner.
+He is on the North Lawn of the White House for us this hour.
+It's nice to have you on.
+Welcome.
+It's great to be here, Scott, on what is a really historic day
+here at the White House.
+How are you thinking about what could transpire between these
+two countries related to AI, knowing what the president
+has already put out on Truth Social?
+I want to leave it exactly where it is,
+what he has said about what he thinks should come out
+regarding any sort of AI regulation.
+Do you think we need a greater platform for AI regulation
+for AI regulations and for safety?
+Well, first, let's start with this, Scott.
+We're here to talk about superintelligence.
+And we have this historic meeting between two of the most
+important economies in the world.
+It's the second of what looks like it's going to be four
+meetings this year.
+So that in and of itself is an extraordinary level of dialogue,
+including on issues like superintelligence.
+I'm sure that conversation will come up today.
+But let's set the table a little bit, Scott,
+on what we are doing.
+This idea, when the president Truth's this morning
+that he wants to continue the course,
+remember the course that we are on is both safe and fast.
+The idea that we don't have any regulation is a little bit
+crazy.
+The Center for AI Standards and Innovation,
+which is in the Commerce Department,
+it reviews and looks at every single frontier model
+before it's released.
+Remember, and I think we're the only government on the
+planet to pull the model off the shelf when mythos was
+suspended earlier this year in order to make it more
+cyber safe to be released.
+That was directed by the president and the White House.
+And so there is a cop on the beat.
+We are taking safety and these precautions seriously.
+But we're not doing it in a way that's slowing us down.
+And so I think when he says stay the course,
+the course is make sure that we're reviewing those models.
+Number two, the labs are reviewing the models.
+We've been red teaming these models and increasing steps
+in compute that we're using to make sure that this is safe.
+And then we heard over the course of last week,
+ideas such as independent monitors are out of Elon,
+the idea of peer review.
+So we will continue to evolve those frameworks
+as the technology evolves.
+And then finally, Scott, this idea that we're going
+to shut down AI, have a pause, the moratorium on AI,
+that is just unilaterally disarming both our
+economic security and our national security
+to others around the world who certainly are not going
+to slow down.
+So that's not on the agenda.
+So that's what, go ahead, Scott.
+It doesn't sound like you think that we need
+or that you're in favor of some globally accepted standard.
+You mentioned Elon, he's gone a step further
+in the last 24 hours where he had a conversation
+with China's state run global television network
+on AI regulation and said the following,
+I'll quote and get your reaction to that.
+I think a really important thing that would be good
+for the safety of the whole world would be for China
+and the US to agree on a platform for AI regulation
+that ensures safety of AI for all of humanity.
+That seems to be going a step further than either
+what the president is in favor of
+and if we're hearing you correctly,
+what you would agree to.
+Well, part of the reason that all the AI executives
+are here today, part of the reason that I'm here
+is because these important conversations are happening
+between the United States and China.
+So I'm not going to front run the White House
+in terms of the things that are being discussed,
+but you wouldn't be having these people convene
+at the White House if there weren't discussions
+about the frameworks that will guide us
+all as we come forward.
+What the president has made clear,
+he's not ceding any authority to some
+supernatural entity like the UN for AI.
+He's going to maintain US sovereignty over AI,
+but of course we're going to coordinate
+and cooperate where we can with countries like China
+that also have a vested interest in superintelligence.
+I think it's a great step forward.
+I think that the path that we're on right now
+is finding, is threading the needle on what is safe,
+but what is also very fast.
+And so we're leading the world in AI today.
+I think that's the most important thing
+that we continue to keep innovating
+and that we evolve these frameworks
+as the technology evolves.
+I understand. I mean, respectfully,
+you're not front-running anything
+if the president has put forth his point of view
+as saying, I want to leave it exactly where it is.
+And then when Elon comes out in the last 24 hours
+talking about agreeing on what he terms,
+a platform for AI regulation that ensures safety,
+are you in favor of that or not?
+Well, let me ask you this, Scott.
+We have a model release framework in the United States.
+So no frontier model can be released in the United States
+unless it's reviewed by the Department of Commerce,
+like I mentioned, Casey,
+the Center for AI Standards and Innovation.
+So is that a regulatory framework?
+I think it is, and we're already doing it.
+So it wouldn't be surprising to me
+if we have similar frameworks
+that we can compare notes on
+and set those best standards with China on a go-forward basis.
+So I don't know that there's a lot of daylight
+between Elon and the White House that you're suggesting,
+but I do know this.
+Everybody around the table has good will.
+There's nobody who wants to yolo.
+There's nobody who thinks that we should disregard safety.
+We know we got to bring this into the world
+in a way that is maximally beneficial
+to all citizens of the United States,
+and it is and will be.
+So everybody takes those issues seriously,
+but Washington has a way to do Washington.
+And what that means is they want to lead with regulation.
+They want to smother this opportunity
+before it even gets off the ground.
+We're not going to allow that to occur.
+The reason we haven't had, you know,
+incidents to date, and remember,
+we've been at this now for four years
+is because we have a pragmatic
+and a sensible solution to regulation,
+and we need to continue pushing that forward.
+I wasn't suggesting.
+I mean, I was merely reading the statement's word-for-word
+of what was said by President Trump
+and Elon Musk in the last 24 hours.
+Let me ask you this.
+When you read the comments from both Sam Altman
+and Dario Amadey yesterday
+in front of the Security Council at the UN,
+what was your reaction to Sam Altman saying in our history?
+There have been times where countries who compete
+and don't always like each other
+very much still come together for shared interest
+and the collective good
+in the face of a powerful new technology.
+We believe this must be one of those times.
+Well, I mean, there's no better evidence
+of the President's leadership on this
+than the fact that President Xi is at the White House today
+having conversations on this very topic.
+And so, you know, it's unprecedented.
+We've never had the U.S. President
+and the President of China meet four times in a single year.
+This is the second of those historic meetings.
+Just behind me, those meetings are occurring right now,
+so I think that he would agree
+that we need to coordinate, we need to have conversations,
+but that doesn't mean that we need to have moratoriums
+or we need to smother this.
+I don't think the Chinese want that.
+That's certainly not what they're doing.
+Remember, there's only one country on the planet
+that has actually suspended a model
+that has actually said a model's not safe enough to be released.
+That's not China. That's not Europe.
+It's the United States of America earlier this year with mythos.
+So, again, I come back to this,
+that I don't think there's a lot of daylight
+between the people around the table,
+but everybody's going to express their opinion, including Elon,
+and that's how we move the conversation forward.
+The technology evolves quickly.
+We need to make sure that we're having sufficient conversations
+to evolve quickly with it.
+We always hear, you know, this race between us and China
+and this great competition for the next frontier, if you will.
+Do you think we have a good handle
+on where that race currently stands?
+Well, it's very clear that the United States models
+are leading the world.
+I think it's a poorly kept secret that the Chinese models
+are distilling the U.S. frontier models,
+and so in that way, they're derivative to those models.
+We have the best chips that are training these models
+and running the inference on these models around the world,
+but we need to make sure that we continue to export
+the American AI stack to the world.
+There are some people in this country that would say,
+we shouldn't be able to export any of that,
+and I'll tell you that that's one sure way
+to make sure that the Huawei stack,
+the Chinese stack, runs the world of AI.
+The reason our values are embedded in the Internet
+around the world is because we didn't regulate
+the Internet to death when it started back in,
+the late 90s and early 2000s.
+We allowed our companies to go compete.
+We need to do the same thing now.
+I think these are the conversations that are occurring inside
+that we all want to be safe,
+but we all want to move quickly to make sure
+that all these benefits are delivered
+to our economies and to our citizens.
+So you're in favor of greater chip exports
+between the U.S. and China?
+Well, I'm on record about this from the beginning.
+I don't think we should be exporting our leading chips to China,
+but I would have loved if the United States
+had not unilaterally seeded that market to Huawei.
+There's no evidence that we actually slowed them down
+in that regard, and so now I think we have limited exports
+of H200s and H20s that are going to China.
+I support that.
+I would love to keep all those Chinese developers.
+Remember, the vast majority of AI developers in the world
+are Chinese.
+We would love to keep those developers
+in the American ecosystem,
+in the NVIDIA ecosystem,
+in the AMD ecosystem.
+Unfortunately, by pulling back as aggressively as we did,
+which really started under the Biden administration
+and then continued into the Trump administration,
+by pulling back that aggressively,
+we really seeded a lot of ground to the Chinese
+and around the world,
+not just in China in terms of the global AI ecosystem.
+I'm sure there are those who suggest
+back to the point of a global regulatory platform,
+if you will, who would say,
+why should we agree to anything of the kind
+with the Chinese when they have shown a history
+of not living up to their end of the bargain
+on other agreements that have been made
+between these two countries?
+Do you share that view?
+Well, I mean, I just think from first principles,
+we start and we do what's in the best interests
+of the United States, taking all of those things
+into account.
+And, you know, we're leading the world for a reason
+because we're letting our thoroughbreds run
+and we have maximum competition.
+We have open-source models from China,
+from the United States that are competing
+with our frontier labs.
+One of the presidents says he wants to preserve
+the status quo.
+That's what I think he's talking about.
+We have tons of competition.
+The competition is good.
+It's put us on the frontier.
+I think we're separating ourselves from China.
+I don't think the Chinese models are catching up
+to the US models.
+I think just the opposite.
+And given the amount of compute that we're
+bringing on board at the end of this year
+and into next year, I think our lead will extend.
+We're building over 40 gigawatts of AI compute
+in 2027.
+Nobody around the world can touch that.
+And remember, intelligence is the log of compute.
+The more compute you have, the more intelligence
+you have.
+And so I think the US's lead will extend
+as we look into 2027.
+Is this your first state dinner that you'll
+attend this evening?
+And I mean, just what are your general feelings
+about being in the room tonight with so many
+important issues on the table?
+And as we said, a star-studded guest list
+from tech, finance, and all other parts
+of our corporate structure.
+You know, Scott, I grew up in a small town in Indiana.
+You know, I revere the United States
+and our democratic process.
+It's messy.
+Often at times, we've thrived for 250 years.
+And I think it's an incredible honor to be here
+at what I think is a consequential moment
+in time with a partner in China.
+That is the second largest economy in the world
+and certainly one of the most strategic
+economies in the world at a critical time
+when we're talking about things like AI
+and these technological advances.
+So I'm thrilled to be there.
+You know, and when I think about what's
+in that room and the CEOs who are in that room.
+There are Republicans in that room.
+There are Democrats in that room.
+There are centrists in that room.
+But all of these people care about the country.
+All of these people take the issues
+that you're talking about very seriously.
+It doesn't mean everybody agrees on the level
+of regulation that should be in place.
+But ultimately, they're all going to put
+their best ideas on the table.
+And then the President of the United States
+is going to make the decision.
+I think the decisions that we've made
+over the course of the last two years
+is the reason we're in the lead
+and extending our lead on the rest of the world.
+Just bear with me for one minute.
+We're certainly not naive to the move
+we're seeing in the market
+as we're having this conversation.
+And you can clearly see it on your screens.
+The S&P's now gone green.
+You see the big spike really overall in the market.
+Take a look at crude oil,
+which has come off its highs.
+So much of the story of late.
+There it is, the move lower by more than 2%.
+Obviously, the focus around bond yields as well.
+Let's take a look at the 10-year note yield,
+which has been at its highest levels
+really since 2007.
+So many decades
+since we've seen
+something like this, that's dropping.
+We'll bring you certainly news
+on something is moving this market.
+And we'll get to that
+as soon as we have a better idea
+of exactly what might have transpired.
+Brad, you know when you talk about
+open source
+and other models that are out there
+I can't help but think of Meta
+which
+you have a large position I believe
+in
+this stock has made
+an incredible move
+in the last month. It's up 34%
+this month alone. It's the best month since
+July of 13.
+How has the conversation
+changed in a much more positive
+way do you think? What are investors
+rewarding here? Well, remember
+Meta had underperformed
+for almost two years, Scott.
+It was trading well below
+the market multiple on fully tax
+gap earnings. And what we saw
+was a company led by a founder
+with some incredible executives
+at his side, whether
+that's Nat Friedman or whether it's
+Alexander Wang who he brought on board
+or Dina etc. who were really intent
+on building a frontier world
+class model and a consumer
+application to distribute to their billions
+of customers. The market was
+looking at it and saying they're spending
+$110 billion on CapX
+with no return. And we thought there were
+a lot of ways for them to win. The number
+one way for them to win, of course, they're
+oftentimes not first. They weren't first
+with Instagram, but they got there and then
+they ran the table. They weren't first with
+stories, but they got there and they ran the table.
+We thought that they could get there with a
+consumer AI application that I've been
+talking about for two years. They delivered
+it in Muse. It's incredible.
+This is the next 10x
+moment. The world of AI started
+with chatbots. I would ask it a question
+and it would give me an answer. The world
+of AI for consumers is now
+agents. Think of it
+like a smart assistant who can go do
+everything that you need it to do. Whether
+it's getting you a rebate, whether it's sitting
+on a customer service call
+for five hours on your behalf, booking a
+hotel room, finding you
+cheaper car insurance. These agents will
+now work around the clock on your behalf.
+They're incredibly inexpensive. This is part
+of the democratization and the benefits
+that we're going to give to hundreds of millions
+in the United States. These are the benefits
+of AI that I can't wait for everybody
+to have. They launched Muse.
+It's gone gangbusters. Number one
+in the App Store.
+We have other great companies that are working
+on this like Instinct, etc. They're not
+the only game in town and certainly I
+expect that ChatGPT
+and Claude and others are going to launch
+their versions of it.
+Give it to Metta. They are
+executing in founder mode.
+They have swagger. Consumers
+love the product. You've read some of the reviews.
+So they answered with a double
+exclamation point that they are going
+to earn a return on the
+$100 billion investment that they were making.
+And I think it's as simple as that.
+It's re-rated. It's now
+basically in line with the market, Scott.
+I think there's still a
+long way for it to go and we're thrilled
+to be shareholders. We've been shareholders
+as you know for a very long period of time.
+Yeah, I mean, you know, disgruntled
+at times, obviously wrote the now famous
+letter, but things have turned.
+It certainly appears that. Remember what I said in that letter,
+though, Scott, and
+Mark agreed with.
+At the time, it was the summer of 22.
+It was just before ChatGPT was released
+and I said, instead
+of all the money that we're spending on AR
+and VR, we're entering the age of
+AI, we just need to reduce our
+spend on AR and VR.
+And I encouraged him to double
+triple down on AI.
+That's what they did. They reorganized around
+AI in 2023.
+We're starting to see the fruits of those efforts
+today. I'd like to get your
+just thoughts on the market at large
+and let our viewers know that our Reuters
+headline has moved
+quoting sources which says the
+U.S. and Iran have discussed a phased deal
+to reopen the Strait of Hormuz
+and end the U.S. blockade. It's the obvious
+reason why you've seen
+the move lower and crude, the commensurate
+move lower in bond yields which have been
+a considerable story and that's the pop
+in stocks. How do you
+feel about the market right now
+given everything that I just said
+and that's been on your screens every day?
+Well, as I said
+the last time I was on, we've taken
+our exposure, Scott, to a medium
+level. So if you just think about a small
+medium and large, we've been large most of the year.
+But when I saw the 10-year go
+above 5 and now we're at 5, 10, 5,
+12 on the 10-year, that
+becomes a really big headwind
+to the equity market. You have mortgage rates
+over 7%. That's a big
+headwind to a big part of the economy.
+This would be incredibly
+welcome news to get
+the oil price to come
+down. We think that the 10-year would follow
+a little bit if we got that
+directional move. The other
+thing is, remember, this A.I.
+trade is not going to be a straight line up into
+the right. So I expect that we'll have some
+chop along the way here. But as we head
+toward an IPO or maybe two IPOs
+later this year and early next year, I
+think the enthusiasm will be there. Because
+the fact of the matter is, the use case
+and the demand is there.
+The world wants a lot more A.I. that
+it can get its hands on. But
+we got to continue to deliver those revenue
+numbers out of Anthropic, out of
+Open A.I., out of Meta,
+because at the end of the day, somebody has
+to pay the bill on the $1.5
+trillion in annual
+CapEx that people are investing into the
+ground, which means consumers and
+enterprises need to pay for these products.
+Before I let you go, I do
+want to talk about the latest
+development in your
+Invest America
+accounts, in which the Brad Gerstner Family
+Foundation will
+contribute $250
+to a Trump account for every
+eligible child in Indiana born in
+23 and 24, 2023 and
+2024. It's going to reach
+over 140,000
+kids in Indiana.
+You know, you're
+never shy to sort of talk about
+your roots in that state
+and I'm wondering if you can just
+expand on this gift
+that you're giving. Well, I mean,
+you know, it's full circle, Scott, I couldn't
+be more thrilled. State of Indiana gave
+a lot to me, a free college
+education, free law school education, so
+it was our family's honor to pay
+it forward, you know, and started
+to drop those $250
+on 150,000 kids around the state
+of Indiana this week. And I can just tell you
+the letters and the notes and whatnot
+that I'm getting from teachers and
+firefighters and others in the state.
+The return on that investment
+is off the charts, but this has been
+the mission from the very beginning.
+We talked on your show at the end of 2020
+when I said I had a dream, I have an idea
+$1,000 for every kid at birth, forever more
+get them aligned with the upside
+of free market capitalism in America.
+They should compound when America compounds.
+This is another brick in that wall
+and just with the announcement this
+week in Indiana, we have states from
+the state of South Carolina and Connecticut
+and Montana and Massachusetts
+across the country. Philanthropists
+do want to do the same thing in those states.
+So we're going to do this in all 50 states
+across the country. We're about ready
+to announce that we're going to
+automatically create accounts for all 73
+million kids under the age of 18
+get those accounts funded and working.
+And so it's been an incredible
+success. The engagement is very
+high. But this week for the state
+of Indiana for me and my boys
+and our family to have an opportunity
+to pay it forward
+was incredibly meaningful
+to us. We'll talk to you
+soon. I appreciate you joining us on the north
+lawn ahead of that state dinner this evening
+in which you will be in attendance. We'll see you soon, Brad. Thank you.
+Thanks for having me, Scott.
+That's Brad Gerstner once again
+joining us. So, Shan, let's
+just go right to the market. When you see
+the headline that we're showing on the
+bottom of our screen here and then the
+obvious market reaction to it in various
+places, you think what?
+I think this is clearly a
+representation of the fact that at this
+point the market feels like the Fed
+is keying in on energy price
+transmission and the potential for
+pass through inflation in terms of getting
+increasingly more hawkish. And so
+I think that this is an indication that
+if there was some sort of additional
+memorandum of understanding, even if it's a phased
+deal, such as the one that's being
+discussed here in these headlines, that
+would alleviate the pressure perhaps on
+the October rate hike
+and could potentially put the target
+closer to a two rate hike
+scenario than maybe the three or four,
+which I think has been priced in. The other
+thing, Scott, is that this is just an indication
+that we also know that the
+tenure continues to move
+in lockstep with oil prices
+and that alleviation of
+that pressure on the tenure is also
+likely to create a foundation for
+a rally for the markets
+if right into the earnings season.
+Josh, yesterday's move in
+the tenure was rather
+historic in terms
+of how much the yield moved higher
+in a single day
+to Brad Gershner's
+thought that
+what you're seeing on your screen right here
+the 10-year treasury
+yield is in his words a headwind
+to the equity market. How
+are you thinking about that in your own mind?
+Well, I can go
+beyond how we're thinking about it. I'll tell you
+what we're actually doing about it.
+We've got clients that have been long
+this market, very long this market
+for years and years
+and years. The S&P
+500 has spent the
+entirety of the post
+financial crisis period, which is now
+17 years ago
+compounding at above
+10% at an average annual
+rate. I think it's more like 12.5%
+These are extraordinary
+equity market returns
+and
+I think the rational thing now
+for every financial advisor in America
+to be doing
+is looking at their clients' exposures
+and I guarantee you
+a lot of people who started out
+with a 60-40 portfolio
+now look a lot more like 80-20
+We have clients that look
+more like 90-10
+especially if they came to us with
+company stock in
+technology companies.
+The job of every
+financial advisor in America right now
+is to address this with clients
+and if you could lock in
+5%
+on a two-year treasury
+a risk-free return
+of 5% right here
+this is a spectacular time
+to look at those allocations that
+have been drifting higher and higher
+and higher and ask a client
+a very simple question. We don't know
+if Trump is going to successfully
+make a deal with these maniacs
+that they'll actually stick to
+like forget about all that
+that's not the game we play. You now
+have the opportunity to lock in a risk-free
+rate of 5% on two-year bonds
+are you sure you want to
+ride a 90-10 allocation
+of stocks without
+reconsidering any of that
+this is what we're actually doing right now
+it's hand-to-hand combat
+these are one-on-one conversations
+with I don't know
+with thousands of households
+and I think you're going to see
+what exactly what I've just described
+start to have an impact on the stock market
+as we head into the fourth quarter
+everybody's thinking this way
+and if they're not they better wake up
+and start to. Okay so I
+love that conversation to have
+with all of you now too
+I mean how are you thinking about that
+there are those who say okay for the first time
+in a long time you got competition
+on various parts of the curve
+right what do you think
+I mean I think above 5%
+on the 10-year you will get some switching
+but I don't think you're going to get 100%
+switching and that is because
+the economy is accelerating
+it's accelerating and earnings are still going to be
+much better than expected and the long-term total return
+average for the S&P 500
+is about 8%
+over the long term so sure
+I understand when you can get a 5%
+risk-free rate for
+5 years or even the 2-year as Josh mentioned
+fine I think that's attractive Scott
+but I still think there's a lot of parts
+of this market that are very attractive
+what I really want to highlight is that
+the past month September
+the S&P 500 is up 1%
+the average stock is down 4%
+the queues are up 4%
+so it has been a very narrow market
+a very narrow market and I think
+the economy continuing to accelerate
+earnings continue to be well I think
+and then seasonally October November
+the good strong months of the year
+I think you're getting opportunities
+in other parts of the market
+the problem with that perspective
+is on the face of it yes
+but with oil as elevated
+as it is you would say well
+if the economy is picking up
+speed and some folks say
+the K-shaped economy is over
+discretionary
+but respectfully
+it doesn't matter
+that perspective when you look at
+consumer discretionary stocks for example
+down 5.5% in a month
+those stocks can't get anything going a lot of the
+cyclical parts of the economy can't get a lot
+going despite the strength
+in the economy because oil prices are elevated
+yields are elevated and those are
+two counter points to the strength
+that you're talking about I totally understand
+but we're seeing the low-end consumer
+hanging in there because their wages are going up
+more than the high end
+people say the K-shaped economy
+is over the consumers
+hung in there enough
+they're working right sure labor market
+is still strong but as long as oils up to
+where it is and yields are where
+they are it's a headwind to that
+other part of the market trade I understand
+about inflation I do but gasoline is only
+3% of household income
+of the overall
+budgets if you will and that is
+much much lower than where we were in
+the 70s when it was much higher so
+I think they can handle it they are handling it and
+again it goes back to what you just said they have jobs
+and wages are growing 3.5-4%
+sure it's a headwind
+we all feel inflation I get it
+I think yields being higher I get it
+we're not having a housing cycle anytime soon
+which is why I sold my housing stocks
+however there are a lot of parts of
+this economy that are very
+good values I think it is
+the cyclical parts of the market
+that are very attractive because again
+you're seeing really good
+numbers I mean those PMI numbers yesterday
+I think that was half the reason why
+yields actually spiked now let's
+watch yields and the velocity
+of the move in yields because
+that is certainly something that's important
+but I think right now
+I think that you can continue to own
+stocks and find some of the values
+and I expect a rally into the end of the year
+what do you think?
+I think that there's no doubt that the consumer
+has the desire
+to spend I think that there is
+questions formed there are questions forming
+now about their capacity to spend
+if we're talking about a rising
+if we're talking about a rising
+rate environment we can't confirm
+that we are unlikely to see
+at least one more hike this year just the
+sentiment shift that that would present
+I think might actually have some of
+these different credit card issuers the banks
+like we're talking about the Moynihan's of the world
+starting to rain that in a little bit
+trying to get ahead of where the consumer
+might be capped out and if that happens
+that flies in the face of the argument
+well delinquency is a net charge
+we're at record lows though
+and every one of the big six banks
+and the CEOs we're talking
+how strong the consumer is and how
+it has surprised them
+and you see it in the numbers
+and we've been saying that basically
+since we started the recovery from COVID
+so we take 2021 to now
+we've been talking about how remarkably
+strong the consumer is
+surprisingly the consumer is
+every single quarter after quarter
+at what point does that hit a wall
+in the business and inflation that is
+met with an increase in interest rates
+that's where you start to see that
+we've been asking that question for the last
+two plus years it feels like and there's been
+a resiliency to almost everything
+whether it's the consumer, the economy itself
+or the stock market for that matter
+which has had a lot of stuff thrown in its face
+and the windshield wipers just keep
+blowing it to the side every time
+and we're down the road
+to a further stop than we thought maybe
+we'd get to the idea of
+the secret I don't think as to why
+money's come back to the mega caps
+you feel like you can play the offense
+of earnings growth that's better than
+everything else not as susceptible
+to issues that arise with rising bond
+yields right not tapping the debt
+market every five seconds despite the fact
+of the obviously
+the AI infrastructure
+build out and they're
+deem defensive at the same time
+yeah absolutely and I think
+so I think the question is
+are we you know likely to see over
+the next three to six months
+institutional investors in particular
+but also you know ultra high
+net worth investors think about the risk that they have
+and reallocate some of that risk
+and I think that goes with in portfolios
+in terms of where how they want to be positioned
+for the AI trade next year I think Scott
+we're going to look at your over your earnings growth
+expectations those are going to be pretty lofty
+and and there's going to be some hard
+comparables as we get into 2027
+this idea of a savings rate
+that has continued to decline
+and that we're not going to get a higher
+tax refund as well as higher
+with our lower withholding for high net
+for high net worth you know consumers
+going into the first half of 2027
+that the challenges
+is that I think that you just
+have to be more selective going into this environment
+and so I do think that there is going to be
+an incremental removal
+of some risk so taking
+of profits and I
+think that Josh's point on being able
+to lock in and recalibrate
+to some higher yielding environment
+to perhaps wait and see Scott where this
+next phase of CAPEX goes to
+and comes from and some of these concerns
+around AI safety and security
+I wouldn't be surprised to see that positioning
+last thing is though is that
+is right we are likely to see some strength
+in the equity market coming out of the midterms
+that's a cyclical trade a seasonal trade
+but I think that it might look and feel a little bit
+different a little more defensive a little
+more constructive than perhaps some of
+the speculation that we would have seen six months ago
+alright well Steph's putting more money to work
+and we'll tell you exactly where next
+when we come back from this break
+being a mom of three boys
+is not always easy but I never imagined
+I'd have to worry about what's in our water
+with climbing cancer rates it's hard not to
+but apparently Ashley Hinson doesn't
+Ashley Hinson voted to roll back
+clean water protections while taking
+$300,000 from
+corporations that polluted our water
+as a mom I do not understand how she
+voted for that when you vote their way
+and you take their money you show us the kind
+of person you are and Ashley Hinson's not for Iowa
+paid for by wincenta
+wincenta.org not authorized by any candidate
+or candidates committee never bet
+against American grit or
+American energy
+through innovation venture global
+is not only building some of the largest
+energy facilities in the world right here
+in the United States but delivering
+American energy at a fraction
+of the cost and a fraction of the time
+so while others are busy
+talking we're busy
+building that's venture
+global that's unstoppable
+energy when did work
+become so much work
+the meeting about the meeting the hundreds
+of files to find one insight
+setting aside the things you want to do
+for the things that pop up
+your work days gone
+but what if the insight surfaced itself
+or you could ship the deck
+without the distractions
+Gemini Enterprise helps you get that
+done it's AI that
+knows your business with agents that
+take stuff off your plate
+make work less work with
+Gemini Enterprise from Google Cloud
+well we're back on half time
+report I'm Contessa Brewer with your
+CNBC news update New York Attorney General
+Letitia James sued the crypto based
+prediction market platform poly market
+today for allegedly running an illegal
+gambling operation James
+has brought similar cases against rival
+platform Kalshi and prediction market
+operators Coinbase and Gemini
+Titan both poly market and Kalshi
+are based in New York
+the Senate is scheduled to vote in just a little
+more than an hour on the war powers resolution
+that would direct the president to
+remove US forces from Iran
+the house already passed the resolution
+in July it doesn't have any legal
+force but it would be a public
+rebuke of the Trump administration's
+military actions and China's
+president made time for some panda diplomacy
+during his state visit in the United States
+they confirm today that China will send
+two pandas Ping Ping and
+Fusheng to Zoo Atlanta
+in a few days China and the zoo
+first announced the new arrivals on April
+but they didn't provide a timeline then
+the pandas will make their appearance less
+than two years after China reclaimed four
+pandas from US zoos as diplomatic
+tensions between Washington
+and Beijing grew that's the news now Scott
+All right Contessa thanks so much for that
+Contessa Brewer Stephanie has a new move
+I told you about that before the break
+and it's Coinbase
+you bought more yeah I know it's had a nice run
+off of its low but it's still down
+12% year to date and what caught my eye
+is we've seen three billion dollars of inflows
+into Bitcoin ETFs
+in the past two months pushing
+the price higher which is good for
+a transaction based exchange
+50% of the revenues are transactions
+these are the market leader but I also like
+the fact that they are switching into
+more subscription and services as well
+which carries higher margins so
+it trades with the underlying
+price of crypto I get it
+I can't tell you day to day what the price
+is going to be but I think that this is
+setting them up for
+the environment is setting them up for a really good quarter
+and I wanted to have a bigger position
+no clarity act passage no problem
+no problem no I mean
+no I mean I care more about the underlying
+price than I do about the regulation
+and I think it's going to take a really long time
+to get any kind of regulation and in fact
+once you do get regulation maybe you'll have
+some of the weaker players
+get removed from the system but I think
+we have a ways to go ok let's talk
+Okta the target raised to
+220 from 200 Bank of America
+they're neutral on the name
+Malcolm you own the stock
+and Josh talked just the other day about
+highlighting in terms of
+best stocks in the market
+cyber this quarter
+alone Z scalers up 51
+and a half percent your Okta
+up 50 crowd strikes 36 Fortnette
+17 and a half Palo Alto
+14 and a half
+that doesn't even get into what's happened this year
+which all those are
+every one except for Z scalers up more than
+100 percent and the question
+buried in there is have they all
+run too much too soon basically
+or are they finally making up
+for lost time and kind of growing
+into where the market should have been
+paying them some attention before so a
+price upgrade from 200 to 220 while
+stock to 210 doesn't mean a whole lot
+to me especially while you remain neutral
+I think the most important thing to focus
+on here as an investor paying
+attention to this is the fact that
+every single agent deployed across
+a company's network is expected
+to need its own identity
+if you think about it in
+terms of how human employees right now
+have a username and password those credentials
+are tied to me personally if
+we're going to take Sam Maltman
+and others at their word that we're likely
+to have more agents running around
+our network soon than actual human
+employees that makes the bull case here
+all on its own I do however
+think if I'm a viewer watching this
+and trying to decide whether I buy here
+or not it is a good idea to
+exercise a little bit of buy discipline
+average into it because as you just
+mentioned the stocks of 50 percent for the quarter
+it's also double since January
+octum talking specifically so that valuation
+is definitely pricing
+it as if all of the agentic tools
+that we're excited about have been
+and they've actually come to fruition
+but they didn't actually roll out many
+of those tools except maybe four or five
+months ago so I think we should cool
+our heels a little so Josh I mean
+how would you address
+our viewers exactly what Malcolm
+was talking about they see the same charts
+you do they have the same optimism
+that you do
+and but the charts don't lie
+the runs have been incredible
+yeah I mean all of us on the show
+have been pounding the table on the cyber
+theme the market is completely
+insane as recently
+as three or four months ago
+you could not give these stocks away
+they were in the IGV
+and so they were caught up
+in all the outflows from
+software generally and the narrative
+like we were doing segments on TV
+will LLMs
+replace cyber security like
+it was it was completely
+crazy alright
+so now that's changed the whole narrative
+now is oh my god this is
+the only guaranteed bull market
+within tech for
+like the next five to ten years
+this is the only area of
+tech spending even
+beyond semis we know for
+a fact nobody can
+afford to pull back on now
+I think that we've seen all these stocks
+double probably the smart thing
+is to be more discerning I am
+not reaching down to buy the eighth best
+company in the group which is the thing
+that the junkies will do we talked about
+Sentinel one the other day
+ticker symbol S also has
+the bad karma of taking Sears as old
+ticker I think now what
+you want to do is focus on the larger
+players because the thing that
+happens next is the
+customers start to ask themselves
+okay why are we paying for
+five different versions of cyber
+can we start to collapse
+and consolidate into one
+two vendors in my view
+crowd strike wins in that world
+so I acknowledge
+some of these stocks might go up more in the short
+term but I'm a long-term investor
+here I think the Falcon
+platform is the one that wins and so
+I want to stick with CRWD
+the stock has just
+been on an unbelievable
+record-setting run for years and years
+now it's going parabolic
+but I'm not going to take profits
+you got the spotlight on another name today we'll do that
+in your best stocks in the market after this break
+yep
+who says Americans don't build big things
+anymore
+through innovation venture global is not only
+building some of the largest energy
+facilities in the world right here in the
+United States but delivering
+American energy at a fraction of the cost
+and a fraction of the time
+so while others are busy
+talking we're busy
+building that's venture
+global that's unstoppable
+energy
+when did work become so much
+work the meeting about the meeting
+the hundreds of files to find one insight
+setting aside the things you want
+to do for the things that pop up
+your work day is gone
+but what if the insight surfaced itself
+or you could ship the
+deck without the distractions
+Gemini Enterprise helps you get that done
+it's AI that knows
+your business with agents that take
+stuff off your plate make work
+less work with Gemini Enterprise
+from Google Cloud
+ever finish your to-do list just in
+time for three more things to get added
+that's what managing technology can feel like
+there's always another ticket another update
+another thing demanding attention
+that's why CDW is here
+we help run optimize and evolve
+complex IT environments so your team
+can focus on moving the business forward
+we've been there and solved that
+when operations stop getting in the way
+it's actually pretty amazing we
+configure optimize and deliver
+the tech that runs business CDW
+make amazing happen
+all right let's do that best stocks in the market
+it is light
+is the ticker
+LITE tell me more
+all right this thing's been on the list
+for a year the stock is
+in the nine let me say
+in the 930s right now the all-time high
+as you can see was back in May
+at 1085
+this stock broke out on
+February 3rd after
+a ridiculously bullish
+set of guidance
+from management and it really never
+looked back until it got
+above a thousand and then in May
+it it it started to fall apart
+it is since spent
+the last few months consolidating
+but not giving back much as you could see here
+in the chart never violated that
+200 day and as a result
+has been able to stay on my list this entire year
+I'm bringing it to you now
+because it looks like we're going to have a
+challenge of those old May
+highs this could be a massive
+breakout given how long it's been
+consolidating for so
+I like it here
+a small position and then
+as it breaks that may high I would
+double up on the breakout remember
+the goal of best stocks in the market
+is not to buy at the cheapest
+price and then sit there and wait for
+something to happen we actually want to buy
+these things when the setup looks to be
+a higher reward
+relative to the risk
+we have all the stock loss information
+in the column at CNBC pro this
+is part of the center trade
+it's going to live or die based on that demand
+continuing those stocks are hot again
+because what meta just did
+was remind people this is not
+going away the spending will continue
+and now there's actually a revenue
+opportunity attached
+in the form of these personal assistant agents
+so I like the stock here
+but again I want to add on strength
+as it breaks out momentum
+is a very exciting company
+selling a critical product
+in the highest growth
+in the entire stock market you make a
+you make a good point and it sort of answers
+the question that we just asked
+about cyber names
+that just because a chart
+looks like a stock has moved
+a ton shouldn't
+necessarily be a deterrent
+even as crazy as a stock
+move looks if as you say
+the setup
+remains positive
+you look at the biggest
+winners throughout history
+the thing that they all have in common
+is that
+after they've already done
+a 5x or a 10x
+everybody looks at it and says I missed it
+and they're probably
+right like it's not going to 10x again
+that's not what we're talking
+about here but just because
+a stock has gone up doubled
+tripled quadrupled
+that doesn't mean it's done going up
+and we've seen this over the years with the
+invidias the sand discs the microns
+like this happens all the time
+so what we're not saying is
+this is going to go from 900 to 9000
+what we're saying here is
+this stock has been consolidating
+after a massive run
+and the sellers have been rotating out
+and replaced by new buyers
+eventually if and when
+the buyers overwhelm the sellers
+and take this stock into a green
+field where it's never traded before
+who's bearish there
+everybody in has a gain
+in the stock so we use
+stock losses because this won't continue
+forever but if you want to buy
+a stock because you think it'll go up
+the best place to start is
+a stock that is already in the process
+of going up and I think that's a really
+key concept for our viewers
+and listeners people who haven't
+been investing for 30 years
+to wrap their heads around
+alright we'll take a break we'll come back
+we'll do finals track the final stretch
+of trading today 3 o'clock closing bell
+Tom Lee Courtney Garcia Chris Harvey
+and Goldman's great count on so don't
+miss us as we see what happens in this
+market in that last hour
+Josh what's your final trade today
+UTWO
+Thank you very much
+Shannon
+Thank you for your recovery tailwinds for this
+sector alrighty Malcolm
+Yes service now we just talked
+extensively about cyber security and didn't
+mention the work that they're doing right now
+quietly to compete in agentic governance
+Thank you very much and the linkster
+Quantum Services is down 18%
+it was upgraded by Bernstein today
+they have 50% backlog growth
+I think you're getting an opportunity
+There was an upgrade and I'm glad that you
+mentioned it because we didn't get a chance
+to get to it with all this breaking news
+this afternoon the exchange is down
+You've been listening to
+CNBC's halftime report the
+podcast you can always
+catch us live weekdays at
+12 Eastern only on CNBC
+All opinions expressed by the halftime
+report participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates and may have been
+previously disseminated by them on television radio
+internet or another medium you should not
+treat any opinion expressed on this podcast
+as a specific inducement to make a particular
+announcement or follow a particular strategy
+but only as an expression of opinion
+such opinions are based upon information the halftime
+report participants consider reliable
+but neither CNBC nor its affiliates and or subsidiaries
+warrant its completeness or accuracy
+and it should not be relied upon as such
+to view the full halftime report disclaimer
+please visit CNBC.com forward slash halftime report disclaimer
+for your AI and agents to deliver results
+because when your data is ready
+AI stops being an experiment
+and becomes an advantage
+we configure optimize and deliver
+the tech that runs business
+CDW make amazing
+happen
