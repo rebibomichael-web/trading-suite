@@ -20,6 +20,7 @@
   "2NF9pjp_Ts8",
   "2hw4xWqBmAc",
   "2srpd_dfjNg",
+  "2w5tZ-4S-68",
   "3Asjyx4q8p4",
   "3LqALndboAs",
   "3PefC0ksI4Q",
@@ -28,6 +29,7 @@
   "3fdz8KLWAX0",
   "3gHuL1OcUVA",
   "3jcMqzkaROc",
+  "3l2b13K837U",
   "3vVrfGKLbiM",
   "45a0bbWvEk4",
   "4F1K6rEJUp4",
@@ -40,6 +42,7 @@
   "5-FPxInLE6g",
   "53o0Gib5okE",
   "59nt4X9NX6E",
+  "5AZQlQSsbB0",
   "5GgvGL_Cf7o",
   "5KGqswDyKYA",
   "5RUUwKFcb_g",
@@ -95,6 +98,7 @@
   "CsUN0IRpuZc",
   "D0nb_kODRSc",
   "D4aM5goQs9I",
+  "Dqe8ZC2644M",
   "EIAGqOk-0p4",
   "EILADPAOtBA",
   "EK-pzp-0BAc",
@@ -109,11 +113,13 @@
   "FDB_aVHvieM",
   "FFvAlxBeM-A",
   "FIav1hEX_Yo",
+  "Fl6llR1BH0I",
   "GLEk8b1zi3w",
   "GuxKs3iYyj0",
   "HEIJUNeiLKo",
   "HJzvfNvTPqI",
   "HK4qbGy0y78",
+  "HMT2OfYep7k",
   "HYTVGq57-cQ",
   "HaLzbLCBFJA",
   "HpQjV_CACpg",
@@ -143,8 +149,10 @@
   "MPizVxLC-9g",
   "MWtoGa9g2EE",
   "MapHFoE2XSw",
+  "MfOC8TvHc-4",
   "Msyehavhwyk",
   "NCk-_97gwBc",
+  "NDaAobWr9TQ",
   "NZQJdLBMzpI",
   "NdRn5o2eQjE",
   "O2AgOOgT-Ds",
@@ -181,9 +189,11 @@
   "TCLEjejxxYU",
   "Tfrv4GKoaCY",
   "TnsS86TIQmM",
+  "U88bNlSzwCE",
   "UJ59CDS6bD4",
   "UdLwrprmSu4",
   "UeskgA6tiQ0",
+  "UlBuOhPINF8",
   "UriYu4mAIYA",
   "VAQgp-IE-MA",
   "VBA8y9yh3Rk",
@@ -250,8 +260,10 @@
   "f6F2384xIz4",
   "f7DvSdweLK0",
   "f8_gYl-u3Bo",
+  "fBQ8-WnyRog",
   "fOMlh1gq33g",
   "fY4cZgqgdPo",
+  "fZbl97yK6Og",
   "fifwXZwynoU",
   "fyx24wrrL9A",
   "gCCG7e9jJo0",
@@ -270,6 +282,7 @@
   "i5Jjxu4Adnc",
   "i8hPENPr5tM",
   "iQDZvz0smz0",
+  "iRf8Cty_t8I",
   "iTlYjuOL07k",
   "ie6nDdz9EPY",
   "isSvPDgL9SY",
@@ -279,6 +292,7 @@
   "jWvuQeQ7Yco",
   "j_eZaqbE5aA",
   "jnJ_4BRiBn0",
+  "kC1dF1_e-TM",
   "kO5UVdikmT4",
   "kURHDa2HW6Y",
   "kmJGDbRYYa8",
@@ -299,6 +313,7 @@
   "n1WHbxLFq_w",
   "n4yUtXcT9qM",
   "nATxev9LOKg",
+  "nH0SLjYSF0o",
   "nJjUEzv30Ng",
   "nKHoCXuV0F8",
   "nLxcyo7TxAI",
@@ -332,12 +347,15 @@
   "sETgZiPBIqc",
   "sFviV_wlGYI",
   "sJ_BRQoQPTc",
+  "sTdv2tFRNHs",
   "sVPCPWAt1UU",
   "sWZE3yqLG88",
   "s_k5nw_oC4o",
   "safhAp1BWkA",
   "sm8QIRKeg94",
   "t01kgLTrAlM",
+  "tFTtbs3Ft_c",
+  "tWZzoAZC1DE",
   "tXJOBcQd9Fc",
   "tt18gRSPTLc",
   "tz1mRCiUug0",
@@ -387,7 +405,7 @@
   "1KRxwYrnBxw": 1,
   "1tsqjnXhlgQ": 1,
   "2-kX-GtQOBY": 1,
-  "24kLFrjn1ow": 2,
+  "24kLFrjn1ow": 3,
   "26qXd_8mYHs": 1,
   "2hw4xWqBmAc": 1,
   "2srpd_dfjNg": 1,
@@ -581,7 +599,7 @@
   "_6FkiV0PTF0": 1,
   "_BX81KgV-gE": 1,
   "_CZrR8Tj31c": 1,
-  "_Dz64hXIkkA": 2,
+  "_Dz64hXIkkA": 3,
   "_YJ5YwGcmV0": 1,
   "_bP0huIx4z4": 1,
   "_lH9IeWPQFo": 1,
@@ -1301,7 +1319,16 @@
    "video_title": "META stock is ready for a MASSIVE breakout",
    "date": "2026-09-09",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.0,
+     "win": true
+    },
+    "14d": {
+     "pct": 13.83,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "META",
@@ -1317,7 +1344,16 @@
    "video_title": "META stock is ready for a MASSIVE breakout",
    "date": "2026-09-09",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.0,
+     "win": false
+    },
+    "14d": {
+     "pct": 13.83,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "META",
@@ -1333,7 +1369,16 @@
    "video_title": "META stock is ready for a MASSIVE breakout",
    "date": "2026-09-09",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.0,
+     "win": true
+    },
+    "14d": {
+     "pct": 13.83,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MSFT",
@@ -1781,7 +1826,16 @@
    "video_title": "TOM LEE: August Core CPI on 9/11 is key. Soft CPI = Fed on hold. Crypto driving 3Q26",
    "date": "2026-09-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.87,
+     "win": true
+    },
+    "14d": {
+     "pct": 25.71,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -2066,7 +2120,12 @@
    "video_title": "How we called the $TEM breakout",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.34,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TEM",
@@ -2082,7 +2141,12 @@
    "video_title": "How we called the $TEM breakout",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.34,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TEM",
@@ -2098,7 +2162,12 @@
    "video_title": "How we called the $TEM breakout",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.34,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TEM",
@@ -2114,7 +2183,12 @@
    "video_title": "How we called the $TEM breakout",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.34,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TEM",
@@ -2130,7 +2204,12 @@
    "video_title": "How we called the $TEM breakout",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.34,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TEM",
@@ -2146,7 +2225,12 @@
    "video_title": "How we called the $TEM breakout",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.34,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -2588,7 +2672,12 @@
    "video_title": "Best Stocks to Buy Now? 2 Hated Names I'm Buying at These Levels!",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.88,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "AVGO",
@@ -2604,7 +2693,12 @@
    "video_title": "Best Stocks to Buy Now? 2 Hated Names I'm Buying at These Levels!",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.88,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ORCL",
@@ -2620,7 +2714,12 @@
    "video_title": "Best Stocks to Buy Now? 2 Hated Names I'm Buying at These Levels!",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -7.34,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "ORCL",
@@ -2636,7 +2735,12 @@
    "video_title": "Best Stocks to Buy Now? 2 Hated Names I'm Buying at These Levels!",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -7.34,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -2828,7 +2932,12 @@
    "video_title": "The Best Semiconductor Setup Right Now? $ON Analysis + $NVDA, $MU & $AMD Outlook",
    "date": "2026-09-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.1,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ON",
@@ -2844,7 +2953,12 @@
    "video_title": "The Best Semiconductor Setup Right Now? $ON Analysis + $NVDA, $MU & $AMD Outlook",
    "date": "2026-09-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.1,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "AMD",
@@ -2860,7 +2974,12 @@
    "video_title": "The Best Semiconductor Setup Right Now? $ON Analysis + $NVDA, $MU & $AMD Outlook",
    "date": "2026-09-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 24.75,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -2876,7 +2995,12 @@
    "video_title": "The Best Semiconductor Setup Right Now? $ON Analysis + $NVDA, $MU & $AMD Outlook",
    "date": "2026-09-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 12.98,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -3354,7 +3478,20 @@
    "video_title": "Why I Never Chase (And You Shouldn't Either) #stocks #investing #strategy",
    "date": "2026-07-25",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.21,
+     "win": null
+    },
+    "14d": {
+     "pct": 19.57,
+     "win": null
+    },
+    "21d": {
+     "pct": 22.62,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -4026,7 +4163,20 @@
    "video_title": "ServiceNow Stock Looks Strong On Paper | Here's The Catch!",
    "date": "2026-07-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 19.72,
+     "win": true
+    },
+    "14d": {
+     "pct": 27.64,
+     "win": true
+    },
+    "21d": {
+     "pct": 38.41,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "NOW",
@@ -4042,7 +4192,20 @@
    "video_title": "ServiceNow Stock Looks Strong On Paper | Here's The Catch!",
    "date": "2026-07-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 19.72,
+     "win": true
+    },
+    "14d": {
+     "pct": 27.64,
+     "win": true
+    },
+    "21d": {
+     "pct": 38.41,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "AAOI",
@@ -4058,7 +4221,20 @@
    "video_title": "25+ Years Investing Through Every Crash \u2014 Here's My Honest Take on the Sell-Off!",
    "date": "2026-07-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 11.75,
+     "win": null
+    },
+    "14d": {
+     "pct": -10.11,
+     "win": null
+    },
+    "21d": {
+     "pct": 23.92,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "RKLB",
@@ -4074,7 +4250,20 @@
    "video_title": "25+ Years Investing Through Every Crash \u2014 Here's My Honest Take on the Sell-Off!",
    "date": "2026-07-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.92,
+     "win": true
+    },
+    "14d": {
+     "pct": -3.96,
+     "win": false
+    },
+    "21d": {
+     "pct": 12.35,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -4090,7 +4279,20 @@
    "video_title": "25+ Years Investing Through Every Crash \u2014 Here's My Honest Take on the Sell-Off!",
    "date": "2026-07-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 16.06,
+     "win": null
+    },
+    "14d": {
+     "pct": 2.52,
+     "win": null
+    },
+    "21d": {
+     "pct": 3.31,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "AMD",
@@ -4106,7 +4308,20 @@
    "video_title": "25+ Years Investing Through Every Crash \u2014 Here's My Honest Take on the Sell-Off!",
    "date": "2026-07-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 7.74,
+     "win": false
+    },
+    "14d": {
+     "pct": -3.1,
+     "win": true
+    },
+    "21d": {
+     "pct": -2.33,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ORCL",
@@ -4122,7 +4337,20 @@
    "video_title": "25+ Years Investing Through Every Crash \u2014 Here's My Honest Take on the Sell-Off!",
    "date": "2026-07-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.36,
+     "win": false
+    },
+    "14d": {
+     "pct": 2.7,
+     "win": true
+    },
+    "21d": {
+     "pct": 15.51,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MSFT",
@@ -4138,7 +4366,20 @@
    "video_title": "25+ Years Investing Through Every Crash \u2014 Here's My Honest Take on the Sell-Off!",
    "date": "2026-07-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.87,
+     "win": false
+    },
+    "14d": {
+     "pct": 12.47,
+     "win": true
+    },
+    "21d": {
+     "pct": 24.62,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MSFT",
@@ -4692,7 +4933,20 @@
    "video_title": "Nobody Noticed: Tesla Just Registered 15 More Robotaxis",
    "date": "2026-07-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.79,
+     "win": false
+    },
+    "14d": {
+     "pct": -16.8,
+     "win": false
+    },
+    "21d": {
+     "pct": -19.96,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "SPCX",
@@ -4708,7 +4962,20 @@
    "video_title": "Nobody Noticed: Tesla Just Registered 15 More Robotaxis",
    "date": "2026-07-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.79,
+     "win": false
+    },
+    "14d": {
+     "pct": -16.8,
+     "win": false
+    },
+    "21d": {
+     "pct": -19.96,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -5396,7 +5663,20 @@
    "video_title": "META Stock is CRASHING After Earnings | BUY NOW?",
    "date": "2026-07-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.54,
+     "win": true
+    },
+    "14d": {
+     "pct": -1.15,
+     "win": false
+    },
+    "21d": {
+     "pct": -6.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "META",
@@ -5412,7 +5692,20 @@
    "video_title": "META Stock is CRASHING After Earnings | BUY NOW?",
    "date": "2026-07-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.54,
+     "win": true
+    },
+    "14d": {
+     "pct": -1.15,
+     "win": false
+    },
+    "21d": {
+     "pct": -6.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -5956,7 +6249,16 @@
    "video_title": "$EOSE Up 30% Since Our Call. Here's What Comes Next",
    "date": "2026-09-08",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.35,
+     "win": false
+    },
+    "14d": {
+     "pct": -5.58,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "EOSE",
@@ -5972,7 +6274,16 @@
    "video_title": "$EOSE Up 30% Since Our Call. Here's What Comes Next",
    "date": "2026-09-08",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.35,
+     "win": true
+    },
+    "14d": {
+     "pct": -5.58,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "EOSE",
@@ -5988,7 +6299,16 @@
    "video_title": "$EOSE Up 30% Since Our Call. Here's What Comes Next",
    "date": "2026-09-08",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.35,
+     "win": false
+    },
+    "14d": {
+     "pct": -5.58,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -6452,7 +6772,20 @@
    "video_title": "$ENPH Setup Is Back: My Entry, Stop Loss & Take Profit Levels",
    "date": "2026-09-02",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.38,
+     "win": true
+    },
+    "14d": {
+     "pct": 0.11,
+     "win": true
+    },
+    "21d": {
+     "pct": -6.9,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -6580,7 +6913,20 @@
    "video_title": "TOM LEE: The great leverage unwind continues in AI 'bottlenecks' and Korea. Signs we are at a bottom",
    "date": "2026-07-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.78,
+     "win": true
+    },
+    "14d": {
+     "pct": 8.59,
+     "win": true
+    },
+    "21d": {
+     "pct": 11.4,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CL",
@@ -6596,7 +6942,12 @@
    "video_title": "How high can Oil actually go?",
    "date": "2026-09-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.25,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "CL",
@@ -6612,7 +6963,12 @@
    "video_title": "How high can Oil actually go?",
    "date": "2026-09-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.25,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -6837,7 +7193,20 @@
    "video_title": "AMD, SpaceX, Palantir: What Beat, What Missed, What I'm Buying!",
    "date": "2026-08-04",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.35,
+     "win": null
+    },
+    "14d": {
+     "pct": 14.37,
+     "win": null
+    },
+    "21d": {
+     "pct": 10.07,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "ALAB",
@@ -6853,7 +7222,20 @@
    "video_title": "AMD, SpaceX, Palantir: What Beat, What Missed, What I'm Buying!",
    "date": "2026-08-04",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -13.74,
+     "win": false
+    },
+    "14d": {
+     "pct": -16.1,
+     "win": false
+    },
+    "21d": {
+     "pct": -21.85,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AAOI",
@@ -6869,7 +7251,20 @@
    "video_title": "AMD, SpaceX, Palantir: What Beat, What Missed, What I'm Buying!",
    "date": "2026-08-04",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.05,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.17,
+     "win": false
+    },
+    "21d": {
+     "pct": -14.04,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "COHR",
@@ -6885,7 +7280,20 @@
    "video_title": "AMD, SpaceX, Palantir: What Beat, What Missed, What I'm Buying!",
    "date": "2026-08-04",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.5,
+     "win": true
+    },
+    "14d": {
+     "pct": -5.34,
+     "win": false
+    },
+    "21d": {
+     "pct": -10.99,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "PLTR",
@@ -6930,7 +7338,20 @@
    "video_title": "AMD, SpaceX, Palantir: What Beat, What Missed, What I'm Buying!",
    "date": "2026-08-04",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.85,
+     "win": true
+    },
+    "14d": {
+     "pct": 1.4,
+     "win": true
+    },
+    "21d": {
+     "pct": 0.23,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "AMD",
@@ -6946,7 +7367,20 @@
    "video_title": "AMD, SpaceX, Palantir: What Beat, What Missed, What I'm Buying!",
    "date": "2026-08-04",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -8.53,
+     "win": null
+    },
+    "14d": {
+     "pct": -6.59,
+     "win": null
+    },
+    "21d": {
+     "pct": -7.6,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "AMD",
@@ -6962,7 +7396,20 @@
    "video_title": "AMD, SpaceX, Palantir: What Beat, What Missed, What I'm Buying!",
    "date": "2026-08-04",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -8.53,
+     "win": true
+    },
+    "14d": {
+     "pct": -6.59,
+     "win": true
+    },
+    "21d": {
+     "pct": -7.6,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -7218,7 +7665,12 @@
    "video_title": "Why $GNRC Broke Out 40% After Hours | Amazon Data Center Deal Explained",
    "date": "2026-09-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 13.88,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "GNRC",
@@ -7234,7 +7686,12 @@
    "video_title": "Why $GNRC Broke Out 40% After Hours | Amazon Data Center Deal Explained",
    "date": "2026-09-16",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 13.88,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -7396,7 +7853,16 @@
    "video_title": "How Bad Could This Market Sell-Off Get? $SPY & $QQQ 10% Correction Analysis",
    "date": "2026-09-09",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.0,
+     "win": false
+    },
+    "14d": {
+     "pct": 13.83,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -7572,7 +8038,20 @@
    "video_title": "This AI Stock Is Down Over 50% \u2014 Is It the Best AI Stock to Buy Now?",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.49,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.75,
+     "win": false
+    },
+    "21d": {
+     "pct": 0.2,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -8621,7 +9100,16 @@
    "video_title": "Oil Is Up, Yields Are Up, Stocks Are Down - What I'm Buying NOW!",
    "date": "2026-09-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.75,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.9,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CELH",
@@ -8637,7 +9125,16 @@
    "video_title": "Oil Is Up, Yields Are Up, Stocks Are Down - What I'm Buying NOW!",
    "date": "2026-09-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.42,
+     "win": true
+    },
+    "14d": {
+     "pct": 6.76,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "VST",
@@ -8653,7 +9150,16 @@
    "video_title": "Oil Is Up, Yields Are Up, Stocks Are Down - What I'm Buying NOW!",
    "date": "2026-09-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.37,
+     "win": false
+    },
+    "14d": {
+     "pct": -6.2,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CRDO",
@@ -8669,7 +9175,16 @@
    "video_title": "Oil Is Up, Yields Are Up, Stocks Are Down - What I'm Buying NOW!",
    "date": "2026-09-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 4.95,
+     "win": true
+    },
+    "14d": {
+     "pct": 22.24,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ORCL",
@@ -8685,7 +9200,16 @@
    "video_title": "Oil Is Up, Yields Are Up, Stocks Are Down - What I'm Buying NOW!",
    "date": "2026-09-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.54,
+     "win": false
+    },
+    "14d": {
+     "pct": -8.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -9220,7 +9744,20 @@
    "video_title": "The End of NVIDIA\u2019s Monopoly? OpenAI\u2019s New Secret Weapon",
    "date": "2026-08-26",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.28,
+     "win": true
+    },
+    "14d": {
+     "pct": 2.47,
+     "win": true
+    },
+    "21d": {
+     "pct": -4.52,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -9924,7 +10461,20 @@
    "video_title": "4 BEST Stocks to BUY Now (I'M BUYING)!",
    "date": "2026-09-03",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.03,
+     "win": true
+    },
+    "14d": {
+     "pct": -2.76,
+     "win": false
+    },
+    "21d": {
+     "pct": -1.9,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "VST",
@@ -9940,7 +10490,20 @@
    "video_title": "4 BEST Stocks to BUY Now (I'M BUYING)!",
    "date": "2026-09-03",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.96,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.46,
+     "win": false
+    },
+    "21d": {
+     "pct": -4.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AAOI",
@@ -9956,7 +10519,20 @@
    "video_title": "4 BEST Stocks to BUY Now (I'M BUYING)!",
    "date": "2026-09-03",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.9,
+     "win": true
+    },
+    "14d": {
+     "pct": -2.31,
+     "win": false
+    },
+    "21d": {
+     "pct": 0.65,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CRDO",
@@ -9972,7 +10548,20 @@
    "video_title": "4 BEST Stocks to BUY Now (I'M BUYING)!",
    "date": "2026-09-03",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.35,
+     "win": false
+    },
+    "14d": {
+     "pct": 2.49,
+     "win": true
+    },
+    "21d": {
+     "pct": 19.37,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CEG",
@@ -9988,7 +10577,20 @@
    "video_title": "4 BEST Stocks to BUY Now (I'M BUYING)!",
    "date": "2026-09-03",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.32,
+     "win": true
+    },
+    "14d": {
+     "pct": -7.81,
+     "win": false
+    },
+    "21d": {
+     "pct": -8.22,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AMZN",
@@ -10273,7 +10875,20 @@
    "video_title": "The Secret to Buying Stocks at All-Time Highs (It's Not What You Think)",
    "date": "2026-08-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.1,
+     "win": false
+    },
+    "14d": {
+     "pct": 5.03,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.51,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MELI",
@@ -10289,7 +10904,20 @@
    "video_title": "The Secret to Buying Stocks at All-Time Highs (It's Not What You Think)",
    "date": "2026-08-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.1,
+     "win": false
+    },
+    "14d": {
+     "pct": 5.03,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.51,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CELH",
@@ -10305,7 +10933,20 @@
    "video_title": "The Secret to Buying Stocks at All-Time Highs (It's Not What You Think)",
    "date": "2026-08-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 21.08,
+     "win": true
+    },
+    "14d": {
+     "pct": 36.9,
+     "win": true
+    },
+    "21d": {
+     "pct": 38.79,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "WING",
@@ -10321,7 +10962,20 @@
    "video_title": "The Secret to Buying Stocks at All-Time Highs (It's Not What You Think)",
    "date": "2026-08-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.33,
+     "win": true
+    },
+    "14d": {
+     "pct": -2.56,
+     "win": true
+    },
+    "21d": {
+     "pct": -5.72,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "APP",
@@ -10337,7 +10991,20 @@
    "video_title": "The Secret to Buying Stocks at All-Time Highs (It's Not What You Think)",
    "date": "2026-08-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.85,
+     "win": null
+    },
+    "14d": {
+     "pct": -8.01,
+     "win": null
+    },
+    "21d": {
+     "pct": -6.86,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "UBER",
@@ -10382,7 +11049,20 @@
    "video_title": "The Secret to Buying Stocks at All-Time Highs (It's Not What You Think)",
    "date": "2026-08-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 10.01,
+     "win": false
+    },
+    "14d": {
+     "pct": 1.42,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.95,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MSFT",
@@ -10942,7 +11622,12 @@
    "video_title": "I just bought THIS Semiconductor Stock",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.33,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AMD",
@@ -10958,7 +11643,12 @@
    "video_title": "I just bought THIS Semiconductor Stock",
    "date": "2026-09-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 15.44,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -11683,7 +12373,12 @@
    "video_title": "$BSX Hits a Major Buy Zone: My 3-Month and 9-Month Targets",
    "date": "2026-09-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.95,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "BSX",
@@ -11699,7 +12394,12 @@
    "video_title": "$BSX Hits a Major Buy Zone: My 3-Month and 9-Month Targets",
    "date": "2026-09-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.95,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "BSX",
@@ -11715,7 +12415,12 @@
    "video_title": "$BSX Hits a Major Buy Zone: My 3-Month and 9-Month Targets",
    "date": "2026-09-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.95,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -12333,7 +13038,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.46,
+     "win": false
+    },
+    "14d": {
+     "pct": 8.94,
+     "win": true
+    },
+    "21d": {
+     "pct": 18.15,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -12349,7 +13067,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.43,
+     "win": true
+    },
+    "14d": {
+     "pct": 4.49,
+     "win": true
+    },
+    "21d": {
+     "pct": 4.5,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "LMT",
@@ -12365,7 +13096,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.82,
+     "win": false
+    },
+    "14d": {
+     "pct": -6.32,
+     "win": false
+    },
+    "21d": {
+     "pct": -4.91,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "VRT",
@@ -12381,7 +13125,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.17,
+     "win": false
+    },
+    "14d": {
+     "pct": -7.85,
+     "win": false
+    },
+    "21d": {
+     "pct": -10.32,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "FCX",
@@ -12397,7 +13154,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -7.47,
+     "win": false
+    },
+    "14d": {
+     "pct": -9.19,
+     "win": false
+    },
+    "21d": {
+     "pct": -9.65,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AMKR",
@@ -12413,7 +13183,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -9.28,
+     "win": false
+    },
+    "14d": {
+     "pct": -4.27,
+     "win": false
+    },
+    "21d": {
+     "pct": -7.33,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "FORM",
@@ -12429,7 +13212,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -12.22,
+     "win": false
+    },
+    "14d": {
+     "pct": 1.71,
+     "win": true
+    },
+    "21d": {
+     "pct": 1.18,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "VICR",
@@ -12445,7 +13241,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -12.22,
+     "win": false
+    },
+    "14d": {
+     "pct": -12.57,
+     "win": false
+    },
+    "21d": {
+     "pct": 6.26,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "NVT",
@@ -12461,7 +13270,20 @@
    "video_title": "Tom Lee: August 2026 Rebalance for GRNY, GRNJ, and GRNI",
    "date": "2026-08-27",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.22,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.24,
+     "win": false
+    },
+    "21d": {
+     "pct": -2.71,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -12551,7 +13373,20 @@
    "video_title": "Cathie Wood: \"The Most Important Company In History\" / Cathie Bullish (TSLA To $2600)",
    "date": "2026-07-25",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.91,
+     "win": true
+    },
+    "14d": {
+     "pct": 22.24,
+     "win": true
+    },
+    "21d": {
+     "pct": 28.84,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "SPCX",
@@ -12567,7 +13402,20 @@
    "video_title": "Cathie Wood: \"The Most Important Company In History\" / Cathie Bullish (TSLA To $2600)",
    "date": "2026-07-25",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.91,
+     "win": true
+    },
+    "14d": {
+     "pct": 22.24,
+     "win": true
+    },
+    "21d": {
+     "pct": 28.84,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -13217,7 +14065,20 @@
    "video_title": "The Stock Market Just Ripped - What's Next? 25-Year Investor Shares His Thoughts!",
    "date": "2026-07-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.68,
+     "win": false
+    },
+    "14d": {
+     "pct": 13.18,
+     "win": false
+    },
+    "21d": {
+     "pct": 7.78,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "SNOW",
@@ -13233,7 +14094,20 @@
    "video_title": "The Stock Market Just Ripped - What's Next? 25-Year Investor Shares His Thoughts!",
    "date": "2026-07-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.68,
+     "win": false
+    },
+    "14d": {
+     "pct": 13.18,
+     "win": false
+    },
+    "21d": {
+     "pct": 7.78,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AOI",
@@ -13265,7 +14139,20 @@
    "video_title": "The Stock Market Just Ripped - What's Next? 25-Year Investor Shares His Thoughts!",
    "date": "2026-07-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 10.61,
+     "win": true
+    },
+    "14d": {
+     "pct": 7.7,
+     "win": true
+    },
+    "21d": {
+     "pct": -3.06,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MSFT",
@@ -13281,7 +14168,20 @@
    "video_title": "The Stock Market Just Ripped - What's Next? 25-Year Investor Shares His Thoughts!",
    "date": "2026-07-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 10.81,
+     "win": true
+    },
+    "14d": {
+     "pct": 10.15,
+     "win": true
+    },
+    "21d": {
+     "pct": 6.66,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -13619,7 +14519,20 @@
    "video_title": "CRDO Stock: Is It Time to Buy or Sell? Credo Technology Stock Analysis!",
    "date": "2026-09-02",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.63,
+     "win": true
+    },
+    "14d": {
+     "pct": -2.26,
+     "win": false
+    },
+    "21d": {
+     "pct": 17.34,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CRDO",
@@ -13635,7 +14548,750 @@
    "video_title": "CRDO Stock: Is It Time to Buy or Sell? Credo Technology Stock Analysis!",
    "date": "2026-09-02",
    "affiliated": false,
+   "outcomes": {
+    "7d": {
+     "pct": 1.63,
+     "win": true
+    },
+    "14d": {
+     "pct": -2.26,
+     "win": false
+    },
+    "21d": {
+     "pct": 17.34,
+     "win": true
+    }
+   }
+  },
+  {
+   "ticker": "COST",
+   "direction": "neutral",
+   "kind": "mention",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "next week uh this coming week, sorry, Costco uh which is a granny shot is reporting.",
+   "video_id": "3l2b13K837U",
+   "channel": "Fundstrat Capital",
+   "video_title": "TOM LEE: While markets churn in Sept, a \"max hawkish\" Fed is creating positive risk/reward",
+   "date": "2026-09-22",
+   "affiliated": false,
    "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 400,
+   "horizon_days": 10,
+   "quote": "I think that we're probably going to push up to 390 to 400 within the next 10 days. I'm going to take my profit there if it occurs, and then I will look to buy in again if price rejects.",
+   "video_id": "5AZQlQSsbB0",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 390,
+   "horizon_days": null,
+   "quote": "I will probably sell my position at least half up around 390 to 400.",
+   "video_id": "5AZQlQSsbB0",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 354.59,
+   "stop": null,
+   "target": 394.43,
+   "horizon_days": 21,
+   "quote": "if you're talking 2 to 3 week time horizon, you can buy 354.59 and hold out for 39443 rising uh daily uh rising weekly.",
+   "video_id": "Dqe8ZC2644M",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 29th, 2026",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "call",
+   "entry": null,
+   "stop": 354.59,
+   "target": null,
+   "horizon_days": null,
+   "quote": "if we close below 354.59, you want to exit that long position and consider playing the short side.",
+   "video_id": "Dqe8ZC2644M",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 29th, 2026",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.59,
+   "stop": null,
+   "target": 331.5,
+   "horizon_days": 5,
+   "quote": "If you're kind of a 3 to 5day swing trader, you can play the short side to 33150.",
+   "video_id": "Dqe8ZC2644M",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 29th, 2026",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.59,
+   "stop": null,
+   "target": 280.45,
+   "horizon_days": 60,
+   "quote": "If you're a 1 to2month position holder, you can play the short side down to 354.59 perhaps reaching for 270 280 strike out of the money puts",
+   "video_id": "Dqe8ZC2644M",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 29th, 2026",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 229.21,
+   "horizon_days": null,
+   "quote": "we remain still in a long-term sell signal that played out about 2 and 1/2 months ago... this market remains heavy through the rest of the year.",
+   "video_id": "Dqe8ZC2644M",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 29th, 2026",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "SPY",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 790,
+   "horizon_days": 90,
+   "quote": "I think that we are going to move up to all-time highs and probably get to 790 within the next 60 to 90 days. So, broader time frame, I'm very, very bullish.",
+   "video_id": "Fl6llR1BH0I",
+   "channel": "Traders Helping Traders",
+   "video_title": "Market Breakout: Why $SPY, $QQQ & $DIA Could Explode in Q4",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "QQQ",
+   "direction": "long",
+   "kind": "call",
+   "entry": 715,
+   "stop": null,
+   "target": 770,
+   "horizon_days": 90,
+   "quote": "most likely finds a bounce between probably 720 to 710, then we push our way back up to all-time highs within the next 60 to 90 days. ... I think we'll be up at 770.",
+   "video_id": "Fl6llR1BH0I",
+   "channel": "Traders Helping Traders",
+   "video_title": "Market Breakout: Why $SPY, $QQQ & $DIA Could Explode in Q4",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "DIA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 512,
+   "stop": 510,
+   "target": null,
+   "horizon_days": null,
+   "quote": "as long as we hold above 512 to 510 this week into next week, I think we're going to get a 6% to 10% move up by the end of this year.",
+   "video_id": "Fl6llR1BH0I",
+   "channel": "Traders Helping Traders",
+   "video_title": "Market Breakout: Why $SPY, $QQQ & $DIA Could Explode in Q4",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "if they're spending the money to build these factories, you betcha that the chances are high that the product will succeed.",
+   "video_id": "HMT2OfYep7k",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "ASTS",
+   "direction": "neutral",
+   "kind": "mention",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "There's ASTS. There's other things going on besides Starlink.",
+   "video_id": "MfOC8TvHc-4",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 379.62,
+   "stop": null,
+   "target": 354.39,
+   "horizon_days": 5,
+   "quote": "This is a short sale level below which 3 to 5 days from now, I expect 354.39.",
+   "video_id": "NDaAobWr9TQ",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA LOST $379.62 \u2014 THE SELL SIGNAL IS NOW ACTIVE #Tesla #daytrading",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.39,
+   "stop": null,
+   "target": 280.45,
+   "horizon_days": null,
+   "quote": "Closing below 354.39 is the go short strategy into October-November trade.",
+   "video_id": "NDaAobWr9TQ",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA LOST $379.62 \u2014 THE SELL SIGNAL IS NOW ACTIVE #Tesla #daytrading",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 394.43,
+   "stop": 403.58,
+   "target": 229.21,
+   "horizon_days": 180,
+   "quote": "for the next 6 months or sooner, it is selling the 394.43 formation anticipating 229.21.",
+   "video_id": "NDaAobWr9TQ",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA LOST $379.62 \u2014 THE SELL SIGNAL IS NOW ACTIVE #Tesla #daytrading",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 354.39,
+   "stop": null,
+   "target": 390,
+   "horizon_days": 21,
+   "quote": "Buying 354.39 where we could bottom out for the week and even round up into the 390s, the low 400s within two or three weeks of doing so.",
+   "video_id": "NDaAobWr9TQ",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA LOST $379.62 \u2014 THE SELL SIGNAL IS NOW ACTIVE #Tesla #daytrading",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 280.45,
+   "stop": null,
+   "target": null,
+   "horizon_days": 90,
+   "quote": "it is selling 394.43 and buying the low 280s and descending.",
+   "video_id": "NDaAobWr9TQ",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA LOST $379.62 \u2014 THE SELL SIGNAL IS NOW ACTIVE #Tesla #daytrading",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.39,
+   "stop": null,
+   "target": 331.5,
+   "horizon_days": 14,
+   "quote": "Closing below 354.39... I would anticipate 331.50 within a week, two at the most.",
+   "video_id": "NDaAobWr9TQ",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA LOST $379.62 \u2014 THE SELL SIGNAL IS NOW ACTIVE #Tesla #daytrading",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": 403.58,
+   "stop": null,
+   "target": 540,
+   "horizon_days": 180,
+   "quote": "close above this 403.58 descending channel top... You're now bullish through the rest of the year... anticipating within 6 months or less the 540s, 550s.",
+   "video_id": "NDaAobWr9TQ",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA LOST $379.62 \u2014 THE SELL SIGNAL IS NOW ACTIVE #Tesla #daytrading",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I don't see a benefit to me as a shareholder in Tesla to owning uh to to the merger. If I want to own both companies, I can own both companies.",
+   "video_id": "U88bNlSzwCE",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "BMNR",
+   "direction": "neutral",
+   "kind": "mention",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "No mention of BMNR or BitMine found in this transcript.",
+   "video_id": "UlBuOhPINF8",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "SPCX",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "once it hits the bottom, it's a total buy. It might be hotter than Tesla.",
+   "video_id": "UlBuOhPINF8",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I'm actually very bullish on Tesla.",
+   "video_id": "UlBuOhPINF8",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I think it's game over. We should start seeing bigger and bigger rollouts.",
+   "video_id": "fBQ8-WnyRog",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 1500,
+   "horizon_days": null,
+   "quote": "I think that there's going to be a very significant repricing of the stock in 2027. A significant repricing of the stock.",
+   "video_id": "fZbl97yK6Og",
+   "channel": "Brighter with Herbert",
+   "video_title": "Can Tesla Really Hit $1,500 by 2027?",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 385.07,
+   "stop": null,
+   "target": 350.0,
+   "horizon_days": 35,
+   "quote": "the downside opportunity still presents beginning at 385.07 387.52 to play the short side of the market back to 350.",
+   "video_id": "iRf8Cty_t8I",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 385.07,
+   "stop": null,
+   "target": 228.44,
+   "horizon_days": 150,
+   "quote": "228.44 remains an objective so long as we do not close above 385.07",
+   "video_id": "iRf8Cty_t8I",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "until then, this is a zone to exit long positions and establish short ones.",
+   "video_id": "iRf8Cty_t8I",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 387.52,
+   "stop": null,
+   "target": 413.54,
+   "horizon_days": 5,
+   "quote": "If we close today above 387.52 that 413.54 with that kind of volatility is in reach by the end of next week.",
+   "video_id": "iRf8Cty_t8I",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 350.0,
+   "stop": null,
+   "target": 385.07,
+   "horizon_days": 7,
+   "quote": "cover that in the low 350s and reverse and go long in the low 350s anticipating the the of upward rotation back into the upper 380s",
+   "video_id": "iRf8Cty_t8I",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 350.0,
+   "stop": null,
+   "target": 330.4858,
+   "horizon_days": 5,
+   "quote": "Closing below 350.00, I see a good September high within 3 to 5 days of doing so. 330.4858 downside Fibonacci would be expected",
+   "video_id": "iRf8Cty_t8I",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "if we close below 350.00, I see no good reason to be long Tesla.",
+   "video_id": "iRf8Cty_t8I",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "MAGS",
+   "direction": "long",
+   "kind": "call",
+   "entry": 71,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "if price for MAGS ETF were to pull back into these zones, this would be considered a very strong buy.",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AAPL",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "for me and my system, this would be a hold or coming up at a takerit because we're hitting that resistance level and not a buy.",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AAPL",
+   "direction": "long",
+   "kind": "call",
+   "entry": 300,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "if price were to redistribute its way back down to $300 to $290.",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "MSFT",
+   "direction": "long",
+   "kind": "call",
+   "entry": 430,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I would love to be re-entering this position anywhere between $430 to $410.",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "GOOGL",
+   "direction": "long",
+   "kind": "call",
+   "entry": 300,
+   "stop": null,
+   "target": 410,
+   "horizon_days": null,
+   "quote": "I'm going to set an alert down here at 300 and I'm going to wait to see if it pulls back.",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AMZN",
+   "direction": "long",
+   "kind": "call",
+   "entry": 240,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I think, you know, based off the system, a buy right here is not bad at all. The optimal trade entry would be at $240.",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "this is considered bullish, but the time to buy is not right now, right?",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "META",
+   "direction": "long",
+   "kind": "call",
+   "entry": 640,
+   "stop": null,
+   "target": 830,
+   "horizon_days": null,
+   "quote": "I would be looking to re-enter Meta between 640 to about $600.",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 290,
+   "stop": 354,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I would not mind buying this back up at $290 to $280.",
+   "video_id": "kC1dF1_e-TM",
+   "channel": "Traders Helping Traders",
+   "video_title": "Magnificent 7 Deep Dive: My Exact Buy Levels for Every Stock",
+   "date": "2026-09-28",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "If you hold SpaceX or Tesla stock, the best advice is to watch the energized number, not just the megawws that is announced.",
+   "video_id": "sTdv2tFRNHs",
+   "channel": "(unknown)",
+   "video_title": "",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "SPY",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": 729,
+   "target": 740,
+   "horizon_days": null,
+   "quote": "worst case, we probably pull to 740, and then price breaks out to all-time highs.",
+   "video_id": "tFTtbs3Ft_c",
+   "channel": "Traders Helping Traders",
+   "video_title": "Fed Raises Rates: My Worst-Case Scenario for the Market",
+   "date": "2026-09-16",
+   "affiliated": false,
+   "outcomes": {
+    "7d": {
+     "pct": 1.82,
+     "win": null
+    }
+   }
+  },
+  {
+   "ticker": "SPY",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": 730,
+   "target": 800,
+   "horizon_days": 90,
+   "quote": "As long as we hold over 730, push to all-time highs by the end of the year. If we break 730, we have to readjust and reevaluate everything.",
+   "video_id": "tFTtbs3Ft_c",
+   "channel": "Traders Helping Traders",
+   "video_title": "Fed Raises Rates: My Worst-Case Scenario for the Market",
+   "date": "2026-09-16",
+   "affiliated": false,
+   "outcomes": {
+    "7d": {
+     "pct": 1.82,
+     "win": true
+    }
+   }
   }
  ]
 }
