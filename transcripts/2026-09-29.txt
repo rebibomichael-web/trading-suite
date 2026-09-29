@@ -1,0 +1,1958 @@
+Carl, thanks so much. Welcome to the Halftime Report. I'm Scott Wopper, front and center
+this hour. Open AI, Sam Altman, live on Halftime Report today. The AI trade coming back in
+a very big way. We also learn more today about Anthropics plans to go public. We're following
+all of it with the investment committee. Joining me for the hour today, Joe Terranova,
+Stephanie Link, Jason Snife and Josh Brown. Let's check the markets. You see what we're
+doing today. We're mostly red because rates are up yet again. 528 on the 10 year. Oil
+obviously being closely watched too. We can show you that. As again, we wait for Sam
+Altman live today with our Kate Rooney. That's ahead of the company's big event
+today that they're going to have, which we're waiting forward, looking forward to
+very much. He's going to get the keynote there, but he will speak to us
+before he does that. There's so much to discuss today. We've got the safety issues
+front and center. We have news that Open AI has scrapped the release of its newest
+AI model over safety concerns. The congressman, Ro Conest, says he's going to
+introduce a bill to ban self-improving AI until there are guardrails. I think
+everybody can agree that this whole conversation around AI has taken on a
+life of its own. Data centers, it's become topic number one at dinner
+tables, at diners, at town halls, and a central role in the upcoming election.
+Aiman Jarvis was standing outside of the White House earlier as you saw the
+CEOs arriving for the luncheon with President Trump. There are, in many
+respects, competing agendas, depending on which companies you're talking about.
+But all of that is the backdrop for what is an event on our program coming
+up anytime now. And that is Sam Altman live. How are you thinking about
+all of this? I'm thinking about it that that's the fabric of the security
+blanket we're all clinging to in the market. It's about technology. It's about
+AI. It's on the belief that what we're going to hear from these technology
+AI-oriented companies in the next 30 days is going to be consistent with what
+we've heard for the last five or six quarters and has been the catalyst
+for the bull market. That earnings are phenomenal. The capex is present. I
+understand that guardrails and the conversation surrounding guardrails is
+going to be the topic today. It's going to be the topic as we approach the
+mid-term election. But I don't know that you get those guardrails on the
+other side of the mid-term election because the partisan legislation
+probably is not going to be there. So I'm staying anchored to the thesis
+surrounding the innovation of technology, the positive effect that could
+have on the market. And I mentioned it yesterday. I'll mention it again
+today, cybersecurity is the number one investment off of it.
+All this is happening stuff at a time where the AI trade in many respects
+has gotten rebooted. It's been leading the market when not a lot of
+other stuff has been working. This has been working. A look at the mega
+caps over the last two months just to give you an idea of what we're
+talking about here. Microsoft up 30 percent. Metas had a rebirth in
+terms of its stock. It's up 23.5 percent. Nvidia is up 21 percent.
+There's news almost every day regarding all of these names. How are
+you thinking about this? You've got the big CEOs at the White House.
+You've got Altman joining us ahead of their developer day and his
+keynote. This is going to be in the news cycle every day at least
+until the midterms. And we know well beyond that too.
+Yeah, Jason and I were just talking about it too. How we talk
+about it every single day. So I think we're seeing a better
+results from the Mag7 mainly because we're seeing better
+our lives. So they are spending a trillion dollars this year.
+That is not going to change. And I think they're going to
+continue to spend next year and the year thereafter. I think
+we all believe that that's kind of consensus. What I do think
+is that the hyperscalers have not done a very good job
+explaining why they want to build out data centers.
+It's growth. It's jobs. It's tax breaks. And they haven't
+really come together and talked about that in a big way. And
+I think they should so that you will have more acceptance.
+There's only 16, I mean I say only 16, but 16 states have
+some sort of pause in play. But the rest of the states
+are still going to be building. And I think it extends
+the cycle and regulation is definitely needed. But that too
+will extend the cycle in my mind. Yeah, you have big and
+populous states too, or which you know the ones at the
+forefront, whether it's New York or Texas, California.
+That's really where the center of this debate is. But
+Jason, this trade is back even as the issue is at our
+dinner table every night. Investors are leaning in while the
+public feels like in many respects a majority of it,
+at least according to the polls, wants to lean out.
+There's no doubt. And obviously Scott, through this summer
+we were talking about the RSP and the broadening
+trade, which obviously has taken a backseat over the
+last month. I think one of the things that is
+obviously a big deal is what's going on with yields
+over the last 30 days or so. I mean the 10 years up
+50 basis points in the last 30 years. But if I was to
+tell you on the on the heel of earning starting in
+two weeks, right, that we're going to hit the
+third quarter in a row of 25% earnings growth with
+12% of the S&P above their 50 day and 24% above
+their 200 day, I would tell you that the setup is
+solid. I am bullish going into this quarter just
+knowing the fabric of the strength of the
+and durability of earnings going forward and
+what the TAPX and the Hyperscale has done.
+Josh is, you know, we we wait for Sam Altman. We're
+learning a little bit more about his chief
+competitor, Anthropic obviously. Reuters
+getting a look at their S1 and what their
+business looks like as they seem to be
+marching towards this IPO. And hopefully we
+learn a little more from Sam and Kate as to
+what OpenAI's own timeline looks like. But
+we're learning from Anthropic a $42 billion loss
+in 25, spending $518 billion on cloud computing
+and infrastructure obligations in the
+coming year. How quickly their revenues
+are growing and also the risk factors. Quarter
+of the revenue came from only two customers.
+They talk about that. They warn of a quote
+existential risk to humanity. Really a
+familiar refrain as it goes from
+Dario Amode who's been talking about that
+a lot of late. How are you thinking about
+all this? Look, I think their investors
+in the private markets are telling them
+to spend at that pace. And the signal
+that they're using to tell them that
+is continuing to invest at ever
+increasing valuations. If they were
+hearing back from all of the money that's
+come flooded in to AI in the private
+markets, if they were hearing from the
+Saudis, from the Europeans, from Silicon
+Valley, if the signal was yo, you guys
+maybe should chill out, that would be
+reflected in the valuation that they're
+getting. The amount of money that
+they're able to raise or not able to
+raise, but they're getting the opposite.
+They're being told, yes, this is the
+land grab. You need to add as many users
+as you could possibly add and this is
+what we will reward you for doing.
+And I think that's what's reflected in
+what you're seeing in that S1.
+Coming back to you in a little bit, the
+moments here. Sam Altman is live with
+our Kate Rooney. Kate, take it away.
+Hey Scott, thank you so much. And Sam,
+it's great to see you. Thank you so
+much for having us here at Developer
+Day. Thank you for coming to it.
+It's nice to have an event in San Francisco
+for once. I love San Francisco.
+Yeah, well no, it's a busy event. We've
+had people lining up to get in and
+there's a lot to talk about. I do want
+to start on the AI safety debate.
+There is a ton to talk about. The
+latest headline that we have confirmed
+is that open AI essentially
+abandoned plans to launch a new model
+because of safety concerns. If you
+could walk us through that, but also
+what has changed? Why do that and is
+this different than what you've done
+in previous models? AI has to be
+built for people. It has to be like
+good for people. Part of that is
+it has to be safe. It has to be
+always under human control. It has to do
+what people want and you want to be able
+to like use it and be confident that
+nothing bad is going to happen.
+As the models have gotten more capable,
+the safety cases that we now use have
+to be held to a higher and higher
+standard and the models can do more.
+So we will have many great new models
+to come, but what we have said is
+that alignment, safety, monitoring,
+security have to stay way ahead of
+capabilities and we have had models in
+the past where we say this is not
+quite at the bar we want and we'll
+make another one and fix it and launch
+it later, but there's clearly more
+attention on this now. Okay, what about
+this particular model
+worried you or freaked you out to the
+point where you wouldn't launch it?
+I wouldn't over-rotate on this one
+thing. It was like, you know, this
+model was a little bit worse on a
+few of the evals we look at. This was
+think of this in the abundance of
+caution category. Okay. There's not a
+big scary thing in this case. Does
+this count as a pause and I wonder
+what the president would say in a
+moment like this. If he's concerned
+about slowing down too much what have
+your conversations been like and do
+you worry that he looks at a
+headline like this and says this
+counts as a pause here. Again, I would
+put this in like the normal course
+category of, you know, often we build
+a model, we test it, it doesn't meet
+our standards, we change it, we launch
+it later, but as we have talked
+about we are pacing our progress
+which includes sometimes not training
+the model. Everybody wants great
+models. Well, actually not everybody.
+Many people want great models. We want
+great models, but we have to do these
+in a way where we can make very
+confident safety cases and claims so
+that people don't have a bunch of
+anxiety and can rely on us for the
+models we're putting out into the
+world. We are now in a period where
+the models are getting so good so
+fast that we think it is prudent
+and wise to make more progress on
+safety, alignment, monitoring so that
+we can continue with progress, but
+I think this idea of pacing is
+really important. It's not just like
+stop it because, you know, we don't
+want smarter models. Of course we want
+better models. It is make sure that
+we improve the areas we need to
+confidently and safely continue with
+progress. So pacing doesn't always
+mean slowing and I think that's
+something that has confused people.
+Yeah, it means doing it in a
+responsible way with guarantees
+that the world can rely on.
+Hugging face. We got to talk about
+that for a second. That was just this
+watershed moment and it feels like
+we've had examples every other day
+since then. Did you underestimate at
+the time the depth of these issues?
+I mean, there's been reports that
+there are thousands of these. Has it
+surprised you?
+We're trying to, I think part of the
+way you want to do this is to really
+over communicate and be extremely
+transparent. So there's nothing else
+that I'm aware of that we're aware of
+that is as serious as the hugging
+face incident, but we are trying to
+put out every small or otherwise
+case we can find and we really, as
+part of our mission, want the world
+to understand what's, what these
+models are capable of. One of the
+things that's special about open AI is
+we have a lot of breadth. We do
+consumer, we do enterprise, we do
+developers and people have very
+different ways of thinking about
+where we are with AI and we want to
+make sure that all of these people
+that are touching our products and
+living in the world get a sense of
+where the technology is and what the
+kind of risks we have to mitigate
+are.
+Do you feel like there's just more
+attention on open AI? It feels like
+others have not had the same level
+of incidence. That's kind of what I
+was trying to get at there. So we
+just touch so many people and we do
+so much different stuff.
+Okay, so Jensen Wong, NVIDIA's CEO, put
+out this basically piece of
+software that he said would have
+prevented hugging face and he said
+it's an engineering problem.
+Open AI didn't sign on to that
+project. Why not? Anthropic and
+others did. Do you agree with
+Jensen that it could have been
+solved?
+From what I know about it and I'm
+not super into the details, I think
+it's a good thing. I think we are
+doing similar things. I don't think
+it's a full solution and I worry
+that if we treat AI safety as only
+an engineering problem, we will
+miss the very important
+point that we have.
+We have a science problem in
+front of us. We still have
+discovery about how to align
+these models and we have to
+solve that scientific problem
+too.
+Okay, at the same time, as we
+mentioned, we are here at
+Developer Jay. You have, I mean,
+it looks like hundreds of
+developers, companies, I would
+think investors here too. How
+are you towing the line between
+trying to get these people to use
+your technology, show them how
+great it is, but at the same
+time, tell them that it's safe?
+I mean, I think it's a similar
+thrust. People want to be able
+to use this technology and know
+that it's going to be safe.
+So, I think part of it being
+great technology is to have it
+be the safest, most aligned,
+most dependable AI in the
+industry.
+One question, a liability. So,
+if something does go wrong,
+so say one of these startups
+here builds a great app using
+open AI and something goes
+terribly wrong.
+Whose fault is that?
+The liability framework is
+being debated a lot in the
+world right now. I suspect,
+like other industries, there
+will be a sort of multi-level
+thing. Like, if you think about
+the auto industry, for example,
+if there's faulty parts, you
+know, you can be liable in
+some ways there. If the car
+manufacturer puts them
+together in a way that's
+outside of the spec of what
+they're supposed to do, then
+the car manufacturer could be
+in if someone's driving drunk,
+it's their fault. So, you
+know, depending on whether the
+fault is in the model and how
+it's used or someone
+misusing it intentionally, I
+assume we'll have like a, you
+know, a new liability
+framework.
+What is your pitch today to
+developers? Cost seems like
+it's been a big theme for you
+guys, but what are you going
+to tell people on stage in
+terms of why open AI, why
+chat GBT, in your mind is the
+best option for these guys?
+We have more than 20
+announcements today, so we'll
+be telling them a lot of
+things. What are we going to
+hear?
+I mean, new ways to use AI,
+new sort of like new
+ability to have AI systems
+working for you and helping
+you all the time. New models
+will talk about the cost
+issue. We really, and you
+know, a lot of new tools
+for developers. It's really a
+lot of, I think, exciting
+stuff. It is cool to see all
+of this come together and the
+degree to which I think we
+just have the best offering
+for developers across the board.
+Cost is such a central topic
+here, and we've also talked
+before about the issue of
+distillation. I mean, some
+of the open source models that
+are cheaper, you and
+anthropic have accused of
+basically copying your
+technology. How are you
+feeling about distillation and
+those models?
+I think we have the best
+models to offer at every
+price point, and I don't
+think, like, you know, people
+do talk about open source,
+but I don't think there's
+any open source model out
+there that you can run that
+beats us on a cost price
+comparison. And speaking of
+cost generally, come watch,
+we got some cool stuff.
+Okay, well agents as well.
+So Mark Zuckerberg and
+Muse have made a lot of
+progress. It seems like in
+agents in hardware, what do
+you make of Muse?
+Have you tried it at all?
+I've tried it. It seems
+like a nice product.
+Are you threatened by
+Zuckerberg at all?
+No.
+Not at all?
+Well, I mean, he's
+like a very impressive
+person, and that company
+has, like, great resources,
+but I feel very good
+about it right now.
+He's also showed what's
+possible with hardware.
+Where's Johnny at?
+I don't want to spoil
+your surprise, but I
+think we will have
+something that's worth
+waiting for.
+Today we may have
+some hard orders, as
+I've already said, okay.
+Well, what is the plan
+in hardware, and does it
+put in more pressure to
+have an even better product
+if Mark Zuckerberg
+seems to have kind of
+gotten out of the gates
+first, even though
+maybe some of their stuff
+is still in the works?
+I am not worried about
+being first with new
+hardware. New hardware
+is very hard to do.
+Like, new computing
+form factors come along
+very rarely, and the
+quality bar that
+we want to hit
+for something that, like,
+you will love
+and really be
+a key part of you
+the way you interface
+with AI, that's going
+to take a while,
+and we're going to do
+that at a high level
+of quality.
+I also want to ask
+about the perception.
+We were just talking
+about the SNL
+weekend update.
+There is obviously
+a movie about you.
+I don't know
+if you've seen the trailer.
+There's some issues
+in terms of public perception
+and just this thought
+that maybe you,
+maybe Dario Amade
+as leaders
+don't have the best
+reputation right now.
+I mean, I think
+everyone doing something
+this important to society
+deserves great scrutiny.
+I did see the movie trailer.
+I mean, looks like
+an awful movie
+but I appreciate
+people's creativity
+and I really do support that.
+So I hope they have
+a fun time with it.
+But this is like
+a big thing
+and I get why people
+have anxiety
+and also if they need to
+like project that anxiety
+on someone
+or have like
+a little bit of relief
+and poke fun at me.
+It doesn't bother me.
+I know we got to go
+in a second,
+but Greg Brockman,
+one of your co-founders
+is in Washington, D.C. today.
+You were there
+at the state dinner
+last night.
+What is your expectation
+of what's possible
+in D.C.
+and what have the
+conversations looked
+like behind the scenes,
+especially on
+international coordination?
+I don't want to be
+too optimistic
+because I have
+been wrong before
+when I thought something
+was going to happen
+in D.C. and,
+you know,
+it didn't.
+But I do feel
+like people are
+taking it seriously
+at this time
+and I'm
+optimistic
+in spite of
+previous experience
+I'm optimistic.
+Okay IPO timeline,
+I know you don't like
+to talk about the IPO
+but you said it's
+ill-advised you go this year.
+Is anything going to
+change next year?
+I mean the safety debate,
+will that be in the
+rearview mirror
+when you go out
+potentially in 27?
+I don't have
+a particular timeline
+in mind.
+Once we have run
+a few safety cases,
+once we feel
+like we understand
+how to
+contend with this next level
+of AI
+and do it safely,
+I think we could.
+But I,
+you know,
+our mission first
+is about
+benefiting people
+with AGI
+and helping
+and making sure
+that we can ensure safety
+and barreling forwards
+with an IPO
+while I think
+things feel
+so in flux
+and I really
+want to be able
+to just focus
+on the mission
+and not
+with all of the
+maybe challenges
+of being a
+newly public company.
+I just,
+I don't want to do that.
+I really think
+this is the time
+safety and mission first.
+Fair enough, Sam.
+We'll let you get to your keynote.
+We will be tuning in as well.
+We really appreciate your time.
+I hope you enjoy.
+Thanks for coming.
+We'll do.
+All right, Scott.
+Back over to you.
+Thanks so much.
+Kate, I'd love to
+just have a little bit
+of a back and forth
+with you
+regarding some of the things
+that you guys
+just discussed
+if you can stick around
+for a moment.
+Sure.
+What really seems to be
+at the center
+of the debate
+which
+Sam opined on
+the idea of
+self-regulation
+versus government
+guardrails
+versus
+progress.
+They just pulled a model
+in the
+in the name of safety
+is as Sam was telling you
+but it's
+it's a balancing act
+between all three of those
+in some ways
+competing interests.
+You're right.
+And we also have to
+let Sam go.
+I know he's going to
+sneak off the set here.
+We're going to talk to
+Scott for a second.
+But Sam,
+we'll try to
+sneak him into the keynote.
+Scott, I think you're right.
+I mean, it is a tightrope
+that all of these
+companies have to walk.
+And Sam, as we just heard,
+told us that right now
+not a lot is happening
+in DC for better or worse.
+I mean, they need to
+take on the responsibility.
+There's a liability question,
+but they are
+they are taking this
+into their own hands,
+whether that means
+slowing down a model
+for safety issues,
+but it is really
+up to their judgment.
+And there's a lot of trust
+put in these AI labs to say
+if it's not safe,
+we're not going to launch it.
+And that is the state
+of things right now.
+That's where we
+Sam Altman just told us
+that is the decision
+that they're making
+internally based
+on what they are seeing.
+I mean, also the idea of
+and I think Sam
+use the words
+liability framework.
+Because he almost
+the way he talks about that
+assesses it as a gray area
+that exists that,
+you know,
+we may not be fully liable
+depending on how the model
+is used and by whom
+and what happens, etc.
+Critics at the heart
+of this debate right now
+would say there is no gray
+area at all.
+You all, Sam,
+Dario and anybody else
+creating any of these models
+that are going to be
+widely used
+are unequivocally
+responsible for the products
+that they put into the marketplace.
+And that's why they argue
+that we already have existing laws
+on the books
+from a federal standpoint
+to protect consumers
+from products
+that are put in front of them.
+No, you're right.
+I mean, you heard his example.
+There is this technology
+in so many ways
+is so unprecedented.
+Altman used the example
+of a drunk driver.
+You know, if somebody
+builds something dangerous,
+whose fault is that?
+But there,
+from what I've heard,
+there will be no sort of
+Section 230 blanket protection
+for these companies
+at this point
+because the takeaway
+from enterprises
+is that we are trusting you.
+We're buying your technology
+and you need to promise
+that it's safe.
+And the bar for that
+is extremely high
+when these guys are partnering
+with banks
+with some of the
+biggest governments in the world.
+There needs to be a sense of trust
+and that is the issue
+for Sam Altman
+and Dario Amade right now.
+As we talk about
+these safety issues,
+you know, they've tried
+to be transparent about it,
+but at the same time,
+there's a lot of attention
+on open AI.
+Every time they disclose
+one of these issues,
+it becomes a major headline.
+And so there is a moment
+where they want to
+be transparent,
+as Altman just said,
+but every time they talk about it,
+it is in the headlines.
+And one of these
+enterprise customers,
+we talk to a lot of them
+who say,
+I cannot risk
+that things go rogue
+and something goes wrong
+and we think about
+the trading issue.
+You know, we talk about
+brokerage firms
+using AI agents.
+They don't want
+to have something hallucinate
+or in the worst-case scenario,
+you know, run off
+with your money.
+And that is,
+I think, one of the biggest themes
+and really underlying issues
+that these companies
+have to deal with.
+There's the headline risk,
+but enterprises,
+the sensitivity
+of some of the data,
+some of the just protections
+that they need to have in place
+to actually trust these companies
+as they're going public too.
+It's a big revenue driver.
+They want to win enterprises.
+That's the sticky part
+of the market,
+the high margin part
+of the market
+that they really want to win.
+Trust is number one there.
+I mean, the technology
+has got to be good.
+It's got to be affordable.
+But you've got to make sure it's going to work.
+I'd also like to get your insight
+on the fact of your conversation
+as long as it was,
+the idea of safety and security
+coming up numerous times
+from Sam himself.
+He and Dario are obviously
+reading the room
+on at least where the public
+seems to be
+on this issue.
+Whereas before,
+it seemed like
+it was all about progress.
+Now it's all about safety,
+whereas critics of that
+perspective would
+also come back and say,
+we can't slow down
+because China isn't slowing down.
+These folks only want to impede
+their competitors
+by urging a slowdown overall
+and that it's one big grab
+for regulatory capture.
+How would you assess all of that?
+One of the things
+that's interesting, Scott,
+they are playing
+to multiple different audiences.
+Obviously, there's the public
+pushback on moving too fast
+and causing potential.
+We are talking about
+extinction level risk
+when we talk about
+the worst case scenario,
+which some have said
+is overblown
+and there's the doomsday fears.
+So they have to answer
+to that audience
+and say, hold on,
+we're going to make sure
+we launch these products safely.
+But then on the other side,
+you've got to think
+the president might be
+watching any interview
+that you do.
+So if you say,
+hold on,
+we're slowing down our technology
+and we're going to make
+sure we do this safely.
+That is the elephant
+in the room
+for Sam Altman
+and Dario Amaday
+that they have to think
+about what the administration
+is thinking
+and how they're going to perceive
+any sort of slowdown.
+And so it was interesting
+to hear Altman say,
+well, we're pacing.
+It's not necessary slowing
+and there's so much nuance behind it.
+So they are just speaking
+to multiple audiences here.
+And right now,
+as I mentioned,
+it's just on the companies.
+They're going to have to be
+the ones putting up guardrails.
+It was interesting to hear
+his take on Jensen Wong
+and Nvidia's move
+to sort of embed software
+in all of this.
+Can't say that he,
+it didn't seem like he was totally
+in touch with Jensen on it
+or that he was enthusiastic
+one way or the other.
+But in some ways,
+it is a software issue
+and they've got to figure out
+a way to do this safely.
+But also it's a bit of a black box.
+I mean, as these AI models
+get better and better and better
+and more capable,
+there is this thought
+of they're a little bit
+more unpredictable.
+So I think there is still this
+outlying question of
+can you build a technology
+that's safe
+that you also in some ways
+simply don't understand
+because that is the nature
+of these technologies
+as they get better.
+They're just harder to predict
+and they're powerful
+and they're building themselves.
+There's this thing
+called recursive self-improvement.
+As they start to build more
+of themselves,
+it's getting harder to police
+and I think that's the moment
+that we're in right now
+that there's been a safety debate
+for more than a decade.
+Yes, it's potential,
+but now it's getting real
+and that's really what you hear
+out here in Silicon Valley.
+Lastly, before I let you run,
+would you make of his response
+to your question about META
+and Mark Zuckerberg
+when you asked whether
+he was worried about it
+and he said flatly,
+no, to me with that
+just underscores for everybody
+is the intense competition
+that exists between
+all of these leaders
+within tech,
+but also the competing interests
+that each has
+versus what the other
+is building
+and how their companies
+are perceived.
+Yeah, he didn't stutter, Scott.
+He said no
+and I followed up and said,
+you know, really?
+Like they just came out
+with this mind-blowing AI product
+at a time when
+open AI is really trying
+to show that it's ahead,
+especially in consumer.
+I mean, as he mentioned,
+they are doing so much
+and I think that's one
+of the risks to open AI.
+In some ways it's a benefit
+because obviously the business is wide.
+They've got this natural
+hedge of enterprise and consumer,
+but when you're competing everywhere,
+it can be a bit of a game of whack-a-mole.
+So if Mark Zuckerberg,
+all of a sudden,
+is laser focused on consumer,
+he's coming out with this
+amazingly capable AI agent
+in news and hardware
+on top of it
+after they paid about
+$7 billion to buy Johnny Ives.
+Piece of hardware.
+I mean, he said
+it's not changing the way
+that we think about things
+we're not going to be rushed,
+but you've got to think
+that that plus
+there's other buzzy agents
+instinct
+that are starting to make waves
+in a way that
+I mean, he said he's not threatened,
+but I think it's got to be something
+that they take into account
+as they think about
+how quickly they want to move
+and get certain products out.
+But on the record, he said.
+No, no doubt about that.
+Nicely done.
+You got a lot in
+in a fairly abbreviated period of time.
+So we appreciate you for that.
+Kate, thank you.
+It's Kate Rooney in San Francisco.
+We've told you the big tech CEOs
+are gathering right now
+at the White House
+for a meeting on AI
+with President Trump.
+Aiman Javers has been outside
+watching the arrivals.
+It's been fun to watch.
+What more have you learned?
+Yes, got all of the major tech CEOs
+in Silicon Valley
+who are not named Sam Altman are here.
+And we've seen most of them
+come into the building here
+just within the past half hour or so.
+I would say Dario Amity was here.
+Satya Nadella was here.
+We saw a whole range of top CEOs,
+but the one that struck me was
+as the one who was the most chatty was
+I think you can only describe him
+as a very jacked up
+Alex Karp of Palantir,
+who was the one who did want to stop
+and talking a little bit confrontational.
+A bit of a strange conversation, Scott,
+because we do these all the time
+where we ask CEOs,
+you know, what are you going to say
+in the meeting?
+How's it going to go?
+Those kinds of things
+as they're on their way in.
+And Karp really was kind of aggressive
+in his response
+and got kind of nose to nose with me.
+I mean, inches from my nose
+as we were talking out here
+on the sidewalk.
+I asked him what his message was
+for the president.
+He said he's not going to answer that question.
+Take a listen to that exchange.
+Do you think I'm the village idiot?
+I'm asking you the question, right?
+Okay, exactly.
+So I'll give you an answer or you'll answer.
+No, I gave you a question that was
+so this is a question I could answer.
+All right, what do you believe about AI?
+Let's do that.
+What do you believe about AI?
+Okay, AI has to work for the warfighter,
+has to work for enterprises.
+It has to be safe, has to be powerful.
+And there's only one country in the world
+that has this kind of AI stack,
+both the people and the products.
+Palantir and other companies
+are leading on the battlefield and leading.
+And the questions Americans have are,
+does it work for me?
+Is it just a bunch of unpleasant people
+getting rich?
+So Alex Karp, they're clearly wanting
+to make his point
+and not answer any other questions
+on any other topics.
+He was very sensitive, Scott,
+about any questions about
+what he's going to tell the president.
+Does he differ in any way with the president?
+And obviously, as a company
+that is a huge government contractor,
+you can understand why he might
+not want to answer those kinds of questions.
+We also saw some of the top figures
+in the industry here.
+Mark Zuckerberg, we saw from a distance.
+Jeff Bezos, we saw from a distance out here.
+Elon Musk, we believe, is in there,
+but we did not see him.
+And we got this seating chart
+from the White House
+just a short time ago,
+and it shows that the proximity to power,
+and you can really see it on the screen
+if you take a look at the chart,
+because the interesting thing
+I thought looking at this chart
+was you see Jensen Wong sitting
+directly next to the president
+of the United States,
+Elon Musk on his other side.
+And I think Jensen Wong
+being sort of the voice of
+go fast, don't slow down.
+We don't need as much concern
+about AI safety
+as some of these other CEOs
+like Dario Amadi are voicing.
+That's interesting
+because that is the position
+that the president has staked out also.
+Scott Besin, the Treasury Secretary,
+has said that the president
+is in lockstep with Jensen Wong
+on this issue.
+And to see him sitting side by side
+with the president,
+you do get the sense
+that they are locked at the hip
+on this issue.
+And some of these other CEOs
+are going to have a little work
+to do in this room, Scott.
+If they're going to try to persuade
+the president of their view
+that this AI could be dangerous
+and could be something
+that they need the government
+to step in and intervene on.
+So a fascinating moment
+of power, proximity, technology,
+and government all in one room
+and we'll wait and see
+if any of them are feeling
+a little bit more chatty
+on their way out, Scott.
+Yeah, a lively lunch on tap.
+We can surely bet on that
+and we hope to see again.
+Nice work from you as well.
+Aiman Javar is outside the White House
+for us.
+I'll just come back now
+that you had a chance
+to hear the interview with Sam.
+And as we said with Kate Rooney,
+the competing interest,
+I wonder if you all think
+if there's any trade risk,
+AI trade risk to what transpires
+ultimately on the idea of regulation,
+whether it becomes a self-regulatory
+issue at the end of the day,
+whether the government,
+in some degree,
+whether it's whatever level
+of guardrails end up in play,
+whether that has an impact
+on progress, on anything
+that would be, I think,
+of notable news
+for investors to consider.
+All right, so here's the way
+that I understood
+that conversation,
+a very powerful one.
+I don't think in any regard
+the market is messaging to us
+that there is immediate concern.
+In fact, I think, as I said before,
+the opposite.
+I think it's the security blanket
+of the market in an environment
+that appears to be more challenging
+than maybe six months ago.
+If there is going to be a risk,
+I think about the nature
+of the circular financing
+for open AI
+and you ask yourself the question
+if there is a significant
+redirection in capital
+towards a security effort,
+what does that mean
+for demand for chips
+that we've been relying on
+over the last multiple quarters?
+I also think it's very clear
+that there is a significant hesitancy
+on the part of Sam Altman
+to IPO,
+which is uniquely different
+than what we're seeing
+from Dario Amode.
+Yeah, there you go,
+the headline there.
+I don't have a particular IPO timeline.
+Yeah, uniquely different.
+And in the filing
+that we got the other night,
+to hear,
+I'm going to read it,
+catastrophic
+or existential risk to humanity.
+Wow.
+That's a powerful statement
+to be reading
+in a regulatory filing.
+So I think it's clearly
+open AI
+has got the perspective
+of a wait-and-see approach.
+Where does this conversation
+go surrounding
+security?
+Anthropic.
+On the other side,
+I think they're stepping forward.
+They're coming out first,
+but I don't see
+the market is troubled
+by this at all.
+I think the market
+still embraces it.
+You're going to want
+any of this anthropic IPO,
+Stephanie Link?
+Yes.
+I don't know.
+I'm not sure.
+Why are you hesitant?
+I'm kind of surprised.
+Because you weren't hesitant
+at all around SpaceX,
+which was,
+you know,
+up until when
+Anthropic goes out
+was the largest.
+And this is going to
+look like this is going to
+top that.
+There's a lot of ways
+to win with SpaceX.
+We've talked about that a lot.
+They only have to win
+in one of the segments.
+And I think the stock
+could be much, much higher.
+What's the hesitation here?
+A quarter of their revenues
+are from two customers.
+That bothers me.
+Of which they stayed
+in the S1 again,
+according to reports
+by Reuters.
+They say not only that,
+that many of its largest
+clients were not locked
+into long-term contracts
+and could cut
+or stop spending.
+So yeah,
+so there's that.
+And then I put
+on the positive side,
+I love that they're going
+to spend $518 billion
+on cloud and infrastructure.
+So that makes me feel
+even better
+about the whole food chain.
+So why don't I just
+own the food chain
+and see how
+this thing settles out?
+I'm not going to rule it out,
+Scott.
+But I think there are
+other places to be
+in this whole theme.
+What do you think?
+Yeah, no.
+I think it's super interesting.
+I think the major thing
+to Joe's point,
+the competing interest,
+right?
+China, we have to outpace China.
+But from a regulatory standpoint,
+if you're talking about,
+again, $900 billion in cat-backs
+and plan $1.6 trillion next year,
+if that is directed somewhere else,
+that is going to be a challenge.
+How do you think about the IPOs?
+Yeah, I think they're,
+so I would be interested
+in anthropic.
+Part of even how I thought
+about Nvidia early on
+is the architect,
+the godfather of AI,
+and looking at the last
+couple of quarters
+and how they are starting
+to diversify their revenue mix.
+I understand the challenges
+around anthropic,
+but I think they could
+be able to do that as well.
+Josh, we had to cut you short
+as we were getting
+to our interview.
+So based on what you heard,
+what are your thoughts
+on all the things
+that Sam had to say?
+That was an amazing interview.
+It's amazing how much
+was condensed into a short conversation.
+I think a couple of things.
+Sam Altman is getting media training.
+Thank God for all of us.
+Some of the things
+that this guy was saying
+on podcasts as recently
+as six months ago
+were extremely troubling,
+and now it looks like
+they've kind of gotten control
+of how they want to come across,
+what they don't want to say
+more importantly,
+and I think that's really
+important just because
+of how horrible the optics
+have been
+and how much the American
+public has been turned
+against this technology
+before it's even had
+the impact that we're
+hoping it can have.
+So that's the good news.
+The bad news is
+you asked the question earlier
+of Joe,
+is there a trade risk here?
+I sort of think
+we're seeing a play out
+in the utilities.
+If you guys want to give me
+the XLU,
+just a one-year chart is fine.
+This is in a pretty big
+drawdown
+relative to,
+let's say,
+the rest of the sectors of the market.
+I think investors
+are now pricing in
+a little bit tougher sledding
+for some of these projects
+going forward.
+They are politically unpopular
+and it's a little bit unclear.
+We know that there's going to be
+this electricity demand
+as far as the eye can see.
+It's a little bit unclear
+whether or not
+these are going to be the companies
+that are going to benefit the most.
+We've seen a resurgence
+in the chip stocks.
+I want to pull up
+this chart of Nvidia.
+I think it's more important than
+anything that
+Anthropic or OpenAI
+are going to say publicly.
+This is it.
+Like this is the breakout.
+It is,
+I don't know,
+seven months in the making.
+This is a stock that we've been
+told is too boring
+to even talk about.
+Nothing they say moves the needle.
+Investors don't care
+about the story anymore.
+Okay.
+All of that narrative
+is going to get thrown out the window.
+If this stock breaks out
+of 235,
+which is the high from April,
+and just keeps going.
+We've had substantial
+multiple contraction for Nvidia
+for all of the names, frankly,
+in the chip business.
+But this has been the poster child.
+And if this thing goes,
+you're going to hear people talking
+about whistling a much different tune.
+I actually think it will
+on position for that.
+And I think it's going to
+make people's heads spin,
+given the amount of market cap
+that would be added here.
+If and when it finally takes off.
+You guys see this story
+in the FT today,
+regarding Nvidia turns to insurers
+to spread the risk of the AI buildout
+that Nvidia has approached
+insurance companies
+about a range of structures
+that could shift some of the risk
+of capital intensive semiconductor
+financing to insurers.
+One idea under discussion
+is insurance against losses
+on loans to upstart cloud computing
+companies or neoclouds
+as they default
+in the Nvidia chips
+pledged against their debt
+cannot be resold for enough
+to repay lenders.
+We can do like write CDS
+against chips instead of mortgages.
+That's the first thing I thought of.
+Yeah, no, I understand that.
+But but I also understand
+the approach on the part of Nvidia.
+They have a very strong
+relationship with Wall Street.
+Let's remember the relationship
+they have existing with
+Goldman Sachs
+and Blackstone and others.
+So it's logical to me.
+Why wouldn't they go out and do that?
+I understand.
+I understand the nature of it
+and you know the hesitancy.
+Isn't that what you think of?
+I'm in a little bit of a different
+position hedging my risk
+than then they're in.
+But it makes sense to me.
+It's logical.
+It's good business stuff.
+I don't know.
+It's kind of confusing.
+Would the insurers actually do it?
+That's the bigger question.
+They could profit.
+Of course they would.
+If they can.
+I don't know.
+Hey, judge.
+If they if you have
+companies that go belly up.
+Yeah.
+I don't know.
+Yeah, Josh.
+Look, people are like,
+oh, it's circular financing.
+Nvidia is giving people money
+who then turn around
+and turn that money into
+revenue for Nvidia.
+Look, this is a company
+that just did $96 billion
+this year in free cash flow.
+Next year, that number
+could be $375 billion
+in free cash flow
+on $680 some on billion dollars
+in revenue.
+Think about that number.
+What is he supposed to do
+with the money?
+Employee pizza parties.
+So they should be making
+these investments.
+If they want to build out a world
+where the entirety
+of the internet and AI
+is not reliant
+on the whims of three companies.
+Like I don't think we want
+there to be three hyperscalers.
+And then like whatever they say
+is the pace of development.
+So I understand the investments
+in the Neoclouds.
+I'm not saying they'll all turn
+out to be great investments,
+but they have to free cash flow.
+There's a limit to how much
+stock they can even buy back.
+They just raised the amount of
+but they're going to
+they're now at I think $230
+billion authorized.
+This is the biggest
+stock buyback in the history
+of planet Earth.
+Should they go to $400 billion
+just because they can?
+So I like the investments.
+I also like this idea.
+We're thinking about compute
+as an asset class.
+We already know the private equity
+and private credit guys
+want to think that way.
+Why shouldn't there be an
+insurance component to this
+where it's like, look, we
+have made these investments,
+but we don't want to sit forever
+with all of the weight
+of these investments.
+We know some of them
+won't be great investments.
+So I like the instinct.
+It's just incredible to hear
+people second guess.
+Jensen Wen who's built a
+company that could generate
+$400 billion in annual cash
+flow. Oh, no, no, no.
+I have a Twitter account.
+I know better than you do
+about capital allocation.
+As a shareholder of Nvidia,
+I trust in the vision
+of the company.
+You know, we you obviously
+heard the exchange
+between Kate and Sam
+about Metta.
+I'd like to just come back
+to you because the focus
+of your best stocks
+in the market is Metta today.
+Is that right?
+And I think Metta's.
+Is this the first time
+that it's that it's made
+the list?
+Yeah, it's been a terrible stock
+for over a year now.
+And it was catapulted
+on the list based on
+technicals.
+It had already qualified
+on a lot of the fundamental
+metrics like earning this
+growth and quality
+and blah, blah, blah.
+The stock shot up
+and the first line
+of my column is
+I'm not telling you
+to buy the stock here.
+But what I wanted
+to get across was
+this is a new company now.
+If they are now
+going to be a direct
+to consumer product
+that's got built in
+immediate revenue
+possibilities
+in the form of advertising
+which let's not forget
+they are the best in the world
+at monetizing AI
+via advertising.
+We can't think about this
+as the same company
+that it was six months ago
+when we were all sitting here
+like, hey, I love the ad
+business, but what is the ROI
+on all this spending?
+We have a better idea now
+what the ROI
+and the spending might be.
+I think what we said
+in the column was
+if you're already long the name
+and we're not encouraging people
+to buy it at, you know, 750.
+If you're already long the name
+I think 685
+is where the risk management is.
+That was the ceiling
+in April and July
+as you can see on this chart
+that's next to me.
+A closed back below
+puts it back in the old range
+and then maybe it's less interesting.
+I want to let the RSI cool down
+towards 60.
+I like this dip.
+It's constructive so far.
+And for longer term investors
+I think we want to still use
+the 200 day which is 626.
+If those are your risk levels
+I think it could be long here.
+All right, let's step away
+for just a moment.
+A reminder though
+join us this Thursday
+for our second annual AI forum.
+It's in Dallas.
+I'll be there speaking
+with top business leaders
+and entrepreneurs
+on the booming AI market.
+So the conversation continues.
+For more you can scan the QR code
+or visit cnbcevents.com
+slash AI.
+We still have micron
+the earnings are tomorrow.
+We'll kick that around
+but we're back after this.
+All right, welcome back.
+Tomorrow morning.
+That is when micron reports.
+Joe and Steph,
+I want to hear from you both
+as we sit here
+and talk about the AI trade.
+Hanging in the balance
+with this one tomorrow?
+Yeah, so just in terms of
+the portfolio of the Joe T ETF
+I need the semi-cap equipment names
+to have this rebound and recovery
+and the catalyst
+for that rebound and recovery
+is going to come
+from hearing that the capex spend
+from micron remains robust.
+Every expectation
+that what we hear from micron
+is that the revenue
+is going to be historic
+that the margins
+are going to be in the mid 80s.
+I'm not as confident
+what the reaction to that earnings
+report is going to be
+individually for the micron stock price.
+I said yesterday
+I still really believe this.
+I think it's a great read
+into what earnings
+and the reaction to earnings
+could look like
+in the next two or three weeks.
+Give me a one month on this one.
+I am.
+You've had a little bit of a rebound.
+Yeah, it's about 14% a month.
+It's still below.
+It's still below its June 25th
+high at $12.55.
+But it's the semi-cap equipment names
+where I am really looking
+for the derivative trade
+that benefits my portfolio most.
+All right, we're working on that.
+There we go.
+There's a look at what the stock
+is rebounded to.
+But it is still down
+12% from its highs, right?
+And I think that the ASPs
+for DRAM and NAND
+are going to be amazing.
+Last quarter they were up 60%
+for DRAM, 80% for NAND.
+They have pricing power.
+Demand is exceeding supply.
+They had $100 billion in contracts
+between today, this year, and 2030.
+So I think the visibility
+is going to be there.
+Gross margins are going to,
+I think, blow it away.
+I think it's going to be a great report.
+It's a 270% though.
+I was going to say,
+isn't it how much
+all of that's in the stock, right?
+Maybe.
+Maybe they have maybe they have
+more contract signings,
+which I think that they will.
+I don't know how they can't.
+And the stock is not expensive.
+If it pulls back,
+I would absolutely buy more.
+Yeah, and I'm with you there.
+And I think from a longer term
+investment perspective,
+we are neutralizing the narrative
+that I heard earlier in the year.
+Give me the phone.
+That this memory business
+is cyclical.
+I think that that is
+not the story here
+as it relates to
+Micron.
+I mean, it always has been.
+Okay, yeah.
+In the past it has been,
+this is a secular shift.
+This company has $40 in earnings power.
+That's pretty astounding.
+That is an amazing growth.
+Again, stock is up a lot.
+I don't know why you would sell it
+because I just don't see
+that the that the demand
+is falling off anytime soon.
+I mean, it's a question
+for those who don't own it,
+like Jason Snipe.
+Can you buy it up where it is?
+If you're as bullish
+as these guys are
+on the fundamentals of the business,
+which are obviously robust.
+Right.
+Nonetheless, the stock is up a lot.
+Yeah.
+And to your point, Scott,
+I mean, these stocks have always
+been cyclical.
+They're not longer.
+I think there is a structural shift.
+But I think
+Stuffy's point is so important here.
+$40 worth of earnings
+is significant with no slowdown,
+with continued acceleration.
+So it's something we have to look at.
+I think the forward P was like
+seven times forward.
+I mean, you know,
+it's it's cheap.
+Right.
+So I think that's something
+that we have to evaluate.
+Well, I mean, what if it's still
+it's a cyclical business?
+It's just the cycle is elongated.
+The cycle is elongated.
+Then it becomes secular.
+It is elongated.
+It depends on how long
+you're talking about.
+Once the supply demand
+finds an equilibrium,
+does that change?
+Yes.
+There's a retracement
+for sure in pricing
+that I will agree with you.
+But I think there's enough
+of a runway in between
+that you're going to have
+a very successful experience
+on your P&L owning this name.
+You have 100 billion in RPOs.
+So that's bookings.
+That's visibility right there.
+That is elongated.
+That goes until 2030.
+So it's long.
+Let's hit a call or two
+if we could,
+because we talked a lot about
+Disney and Netflix this week.
+The Chapec book out
+was on Squawk yesterday.
+Netflix has had more bad news
+than good, I think,
+is fair to say of late.
+Josh, the stock did get upgraded
+today to a buy
+from a hold at Deutsche.
+The target goes to 95, though,
+from 100.
+So they were pretty exuberant
+about it.
+Tempered a little bit,
+95 valuation now
+offers an attractive entry point.
+That maybe is the bottom line
+and they think it can
+leverage AI in multiple ways.
+What do you think about
+the way that this thing
+has traded lately?
+No one on the show
+has been more wrong
+on Netflix than I have.
+I started buying it
+last summer.
+It had come down from
+130 to 100.
+I said,
+everybody's so worried
+about this Warner Brothers thing.
+You know what?
+I'll take the risk.
+I bought some.
+I bought some more in the 90s.
+I bought some more in the 70s.
+I think my average cost
+is low 80s at this point.
+I just feel like an idiot
+because I had multiple chances
+where it was an obvious sell.
+And I just,
+I didn't take those.
+Now at this point,
+the stock owes me.
+So I don't think I'm going
+to see a hundred bucks out of this.
+I think that's a stretch.
+I do think it's way too cheap.
+It is now 20 times forward
+versus 40
+where it was in June of 05.
+And maybe the truth
+is somewhere in between.
+This is still
+a very dominant business
+with a nascent ad platform
+that is growing in strength
+every passing week.
+The live events are tremendous
+and the churn is really low.
+They're doing a great job.
+They've raised prices
+and held on to subs.
+It's just right now,
+it seems like dead money.
+Every time it gets going,
+another wave of sellers comes along.
+I would not pound the table
+for people to get involved
+until this stock shows us something.
+I'd almost rather buy it above 80
+than below 70.
+I thought you were going to say
+I'd almost rather buy Disney
+as if you were conceding defeats again.
+I got time on that.
+It's the first to 120.
+Neither of us won yet.
+So I got time on that.
+And I know Jimmy's watching
+third round the job cuts at Disney
+back to our conversation yesterday.
+That's cost-cutting.
+That's financial engineering.
+What do you think about Netflix, Jay?
+It's painful, man.
+Obviously it's 25% jaw-down
+so far this year.
+And to Josh's point,
+I think that the foray into live sports
+is great.
+It's expensive content, right?
+That's, I think that's part of the deal.
+You know, we talk about engagement.
+You know, this call,
+this particular upgrade,
+is talking about engagement internationally
+which is going far better
+than what's going in the U.S.
+I think for me,
+the deployment of their A.I. strategy
+and the terms of targeting for ads
+is accretive to their business long-term.
+So that's where I'm focused here.
+All right, we'll bounce.
+We'll take a break.
+And we'll come back.
+We'll do finals.
+Following the halftime report podcast,
+what are you waiting for?
+Look for us in your favorite podcasting app.
+Follow the halftime podcast now.
+We'll see you on the bell
+three o'clock Eastern time
+with another big interview.
+The open A.I. CFO Sarah Fryer
+joins Kate Rooney from the same event
+that you just heard from Sam Altman earlier.
+So find out what transpired there
+to get her own thoughts on their IPO timeline.
+No doubt about that,
+as we're learning more today about
+anthropics' own plans to go public.
+So I hope you'll join me then
+as we kick that around.
+We'll also watch the markets closely,
+as you know,
+given what's happening
+in the bond market right now.
+Guys, take a look at what's happening with yields.
+The tenure obviously continues to back up.
+Last I saw was 528.
+We're still around that.
+Let's throw that up if we can.
+There it is, 528.
+The 30 year now at the highest level since 2002.
+So that remains a considerable story in this market.
+And what many suggest
+is just a continuing headwind,
+at least in some respects, for stocks.
+Follow all of that.
+Thanks for pointing that out.
+Do you want, what's your final trade?
+Final trade is eaten.
+I think it's in a position right now
+where you have a low-respiring opportunity,
+industrial name that benefits
+from what we're seeing with AI.
+All right, Linkster.
+SpaceX.
+Stock is still down 26% from its highs,
+and I think there's a lot of ways to win.
+Connectivity, space, and AI compute.
+Jason, add V.
+They continue to diversify the business.
+All right.
+And Josh Brown, finally.
+AMD.
+We are long in our reporter house portfolio.
+Another best stop.
+Good stuff.
+Good stuff.
+With a deal today, too.
+I'll see you at three.
+All opinions expressed
+by the halftime report participants
+are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent, company, or affiliates
+and may have been previously disseminated
+by them on television, radio, internet,
+or another medium.
+You should not treat any opinion
+expressed on this podcast
+as a specific inducement
+to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants
+consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries
+warrant its completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit cnbc.com forward
+slash halftime report disclaimer.
