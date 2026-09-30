@@ -162,6 +162,7 @@
   "OZtIaRfyySw",
   "Obz42zCh4-Y",
   "OdFNgo6QPSQ",
+  "Otf8KG9gIms",
   "P3Pp4n7H4Fc",
   "PBfoQi09ouc",
   "PH4CAy4YNNg",
@@ -185,6 +186,7 @@
   "RdQUKcFX-wE",
   "RqsSFONG8Fk",
   "SMY-YeCmF5A",
+  "T4bNo4TkexM",
   "TAtMrl9TIPs",
   "TCLEjejxxYU",
   "Tfrv4GKoaCY",
@@ -2454,7 +2456,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.52,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "META",
@@ -2470,7 +2477,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.46,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "GOOGL",
@@ -2486,7 +2498,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.44,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AMZN",
@@ -2502,7 +2519,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSM",
@@ -2518,7 +2540,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.74,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "PLTR",
@@ -2534,7 +2561,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.4,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "INTC",
@@ -2550,7 +2582,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.72,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AVGO",
@@ -2566,7 +2603,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.61,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AMD",
@@ -2582,7 +2624,12 @@
    "video_title": "These Stocks Are About to BREAK OUT | Wicked Market Leaders",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.24,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -2936,6 +2983,10 @@
     "7d": {
      "pct": 0.1,
      "win": true
+    },
+    "14d": {
+     "pct": 5.58,
+     "win": true
     }
    }
   },
@@ -2956,6 +3007,10 @@
    "outcomes": {
     "7d": {
      "pct": 0.1,
+     "win": true
+    },
+    "14d": {
+     "pct": 5.58,
      "win": true
     }
    }
@@ -2978,6 +3033,10 @@
     "7d": {
      "pct": 24.75,
      "win": null
+    },
+    "14d": {
+     "pct": 23.2,
+     "win": null
     }
    }
   },
@@ -2998,6 +3057,10 @@
    "outcomes": {
     "7d": {
      "pct": 12.98,
+     "win": true
+    },
+    "14d": {
+     "pct": 14.06,
      "win": true
     }
    }
@@ -3020,6 +3083,10 @@
     "7d": {
      "pct": 7.78,
      "win": true
+    },
+    "14d": {
+     "pct": 8.49,
+     "win": true
     }
    }
   },
@@ -3040,6 +3107,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.78,
+     "win": null
+    },
+    "14d": {
+     "pct": 8.49,
      "win": null
     }
    }
@@ -4859,7 +4930,12 @@
    "video_title": "3 Huge Trends Are Converging Around Tesla!",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -5007,7 +5083,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 22nd, 2026",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -5023,7 +5104,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 22nd, 2026",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -5039,7 +5125,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 22nd, 2026",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -5055,7 +5146,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 22nd, 2026",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -5071,7 +5167,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 22nd, 2026",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -5087,7 +5188,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 22nd, 2026",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -10269,7 +10375,12 @@
    "video_title": "Tom Lee's Case for S&P 8,000 This Month",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.96,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ZS",
@@ -10285,7 +10396,12 @@
    "video_title": "Tom Lee's Case for S&P 8,000 This Month",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.74,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "LITE",
@@ -12325,7 +12441,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 21st, 2026",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -12341,7 +12462,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 21st, 2026",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -12357,7 +12483,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 21st, 2026",
    "date": "2026-09-19",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "BSX",
@@ -12376,6 +12507,10 @@
    "outcomes": {
     "7d": {
      "pct": -2.95,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.09,
      "win": false
     }
    }
@@ -12398,6 +12533,10 @@
     "7d": {
      "pct": -2.95,
      "win": false
+    },
+    "14d": {
+     "pct": -2.09,
+     "win": false
     }
    }
   },
@@ -12418,6 +12557,10 @@
    "outcomes": {
     "7d": {
      "pct": -2.95,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.09,
      "win": false
     }
    }
@@ -14375,7 +14518,12 @@
    "video_title": "#TSLA IS TESTING THE BREAKOUT TRIGGER AGAIN #Tesla #daytrading",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14391,7 +14539,12 @@
    "video_title": "#TSLA IS TESTING THE BREAKOUT TRIGGER AGAIN #Tesla #daytrading",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14407,7 +14560,12 @@
    "video_title": "#TSLA IS TESTING THE BREAKOUT TRIGGER AGAIN #Tesla #daytrading",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14423,7 +14581,12 @@
    "video_title": "#TSLA IS TESTING THE BREAKOUT TRIGGER AGAIN #Tesla #daytrading",
    "date": "2026-09-21",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.76,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -15292,6 +15455,166 @@
      "win": true
     }
    }
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 280.45,
+   "horizon_days": 60,
+   "quote": "if we close below 354.59 potentially by the end of October and quite possibly into November trade, I would anticipate a retest of that 280.45 descending channel bottom",
+   "video_id": "Otf8KG9gIms",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL IS PLAYING OUT \u2014 $354.59 IS NOW CRITICAL #Tesla #daytrading",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.59,
+   "stop": null,
+   "target": 331.5,
+   "horizon_days": 5,
+   "quote": "On the way down as a 3 to 5 day target, I would anticipate 33150.",
+   "video_id": "Otf8KG9gIms",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL IS PLAYING OUT \u2014 $354.59 IS NOW CRITICAL #Tesla #daytrading",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 354.59,
+   "stop": null,
+   "target": 394.43,
+   "horizon_days": 21,
+   "quote": "If you're talking 2 to 3 week time horizon, you can buy 354.59 and hold out for 39443 rising weekly.",
+   "video_id": "Otf8KG9gIms",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL IS PLAYING OUT \u2014 $354.59 IS NOW CRITICAL #Tesla #daytrading",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "call",
+   "entry": null,
+   "stop": 354.59,
+   "target": null,
+   "horizon_days": null,
+   "quote": "if we close below 354.59, you want to exit that long position and consider playing the short side.",
+   "video_id": "Otf8KG9gIms",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL IS PLAYING OUT \u2014 $354.59 IS NOW CRITICAL #Tesla #daytrading",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.8,
+   "stop": 358.74,
+   "target": 306.38,
+   "horizon_days": 35,
+   "quote": "it is a short sale opportunity for the day uh for the rest of the week and really through the month of October 30638 is considered a 3 to 5 week target.",
+   "video_id": "T4bNo4TkexM",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 30th, 2026",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.8,
+   "stop": null,
+   "target": 342.02,
+   "horizon_days": 1,
+   "quote": "maintaining selling pressures that can yield 34202 today. 33150 by the end of next week. 30638 by the end of October.",
+   "video_id": "T4bNo4TkexM",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 30th, 2026",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 331.5,
+   "horizon_days": 7,
+   "quote": "33150 by the end of next week. That's a 5/8 Fibonacci where we can bottom out on a daily basis.",
+   "video_id": "T4bNo4TkexM",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 30th, 2026",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 354.8,
+   "stop": null,
+   "target": 394.43,
+   "horizon_days": 21,
+   "quote": "if we do close today back above 354.80, that is an actionable buy signal. ... If you're a two to three week swing trader, I think you buy the market with a settlement back above 354.80.",
+   "video_id": "T4bNo4TkexM",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 30th, 2026",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": 394.43,
+   "stop": null,
+   "target": 280.45,
+   "horizon_days": 75,
+   "quote": "you're selling any opportunity you can get into the mid 390s low 400 anticipating 280.45 if you're kind of a 2 to threemonth uh swing trader",
+   "video_id": "T4bNo4TkexM",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 30th, 2026",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "call",
+   "entry": 354.8,
+   "stop": null,
+   "target": null,
+   "horizon_days": 1,
+   "quote": "If we clearly gap back above 354.80, 36767 wouldn't surprise me within the day... you may consider ... covering a short position under that scenario.",
+   "video_id": "T4bNo4TkexM",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 30th, 2026",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
   }
  ]
 }
