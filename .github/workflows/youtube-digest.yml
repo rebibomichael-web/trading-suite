@@ -2,9 +2,24 @@ name: YouTube channel digest
 
 on:
   schedule:
-    # 04:40 UTC daily = 7:40am Israel time — covers the previous day's
-    # US-hours uploads across all followed channels.
-    - cron: '40 4 * * *'
+    # Cron is UTC. Target delivery: the digest finishes and the GitHub issue
+    # (email via notifications@github.com) is created by 07:00 Asia/Jerusalem.
+    # GitHub Actions schedules can lag hours, so we schedule early on purpose.
+    #
+    # 07:00 Asia/Jerusalem = 04:00 UTC on IDT (UTC+3, summer) and 05:00 UTC on
+    # IST (UTC+2, winter). Once started, the job finishes in about 4–6 minutes.
+    #
+    # The previous cron '40 4 * * *' was written as 07:40 Israel, but scheduled
+    # runs actually started ~4.5–6.5h later (Sep 22–29: 09:26–11:10 UTC, i.e.
+    # 12:26–14:10 IDT). A 00:00 UTC cron would still miss 07:00 IDT under that
+    # lag (00:00 + ~5h = 05:00 UTC = 08:00 IDT).
+    #
+    # 20:15 UTC + a 6.5h lag + ~6 min ≈ 02:51 UTC ≈ 05:51 IDT. A ~7.5h lag
+    # still finishes around 06:51 IDT (winter IST is an hour earlier, so the
+    # same UTC instant has more room). If the recent lag
+    # holds, expect a start around 03:45–05:45 IDT (00:45–02:45 UTC). With no
+    # lag the nominal fire time is 23:15 IDT / 22:15 IST the previous evening.
+    - cron: '15 20 * * *'
   workflow_dispatch:
 
 permissions:
