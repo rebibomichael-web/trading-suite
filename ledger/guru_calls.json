@@ -19,6 +19,7 @@
   "26qXd_8mYHs",
   "2NF9pjp_Ts8",
   "2hw4xWqBmAc",
+  "2s2ZnurhLao",
   "2srpd_dfjNg",
   "2w5tZ-4S-68",
   "3Asjyx4q8p4",
@@ -32,10 +33,13 @@
   "3l2b13K837U",
   "3vVrfGKLbiM",
   "45a0bbWvEk4",
+  "4APJBjHvXkU",
   "4F1K6rEJUp4",
   "4H3UD25NShg",
   "4TrFf3zBXfI",
+  "4bhMSSkbZPA",
   "4dEVSEZKuO8",
+  "4epcCHWC_vY",
   "4msVWAJ1NX4",
   "4nooWW-GX6I",
   "4rBgVqUBiiw",
@@ -48,6 +52,7 @@
   "5RUUwKFcb_g",
   "5di4faEyaTc",
   "5fYzNQDveLk",
+  "5gTiQv_bMxQ",
   "5oFNH80sQOM",
   "6FPt1i_dwt8",
   "6JiCk6cVtV0",
@@ -82,6 +87,7 @@
   "AKnoaDzH4q4",
   "AbblEI8Uwdk",
   "Ad6su9dK7fQ",
+  "B2sxfVtzCy8",
   "B6PVM0BUPQI",
   "BBFOi4QHXQA",
   "Bd_KSzKY-QU",
@@ -213,6 +219,7 @@
   "X6nyWJw1JX0",
   "XCLxRqsVfX4",
   "X_ebY6Pfr7Y",
+  "Xu8MpVJQ0nY",
   "Y-w39qqrR5Y",
   "Y284Ys196mM",
   "YDwTIh-_dTA",
@@ -275,6 +282,7 @@
   "gT2EE_XoJK0",
   "gTlIFu8iFYg",
   "gV-7O6Rl9CQ",
+  "gb_XQvs1vpY",
   "gx_rWvqrlRc",
   "h-NtDIX3eDk",
   "h4xjrOR0M00",
@@ -308,6 +316,7 @@
   "lx-tMAOumHI",
   "mIInvdO7e_Y",
   "mKWIerd0elE",
+  "maexfOKrphI",
   "mlS-wD6ez8Y",
   "mpoxxscwyDc",
   "msF7HKuCHc8",
@@ -329,6 +338,7 @@
   "pX8y4khTsBs",
   "pz9RWQJXk8w",
   "q2QsDYKVUcw",
+  "q5g-d59_TgU",
   "qBA52Sfhy7U",
   "qFhdw2NridU",
   "qLh6YxlxIYM",
@@ -388,12 +398,15 @@
   "yd-3r1b3n4w",
   "yi1rj-lYZVE",
   "yxG7C4rgA7I",
+  "yyO0gYEIH-c",
   "z5zL_U5CdXs",
   "zIO-po4gKjQ",
   "zTTCSAh-Ybw",
   "zVA3Pb5Hy98",
   "zXMeFb5qtZo",
   "zY08FzLZ7gs",
+  "zZB5sPfoGFg",
+  "zbitbFVibrE",
   "zfHRwpjTIRs",
   "ziOIdn3JrqY",
   "zsXVrnL4hWQ"
@@ -760,7 +773,8 @@
   "zY08FzLZ7gs": 1,
   "zfHRwpjTIRs": 1,
   "ziOIdn3JrqY": 1,
-  "zsXVrnL4hWQ": 1
+  "zsXVrnL4hWQ": 1,
+  "LD-Wx_mfmzA": 1
  },
  "calls": [
   {
@@ -1241,7 +1255,12 @@
    "video_title": "#TSLA NEARS THE BREAKOUT \u2014 $392.09 NEXT? #Tesla #daytrading",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1257,7 +1276,12 @@
    "video_title": "#TSLA NEARS THE BREAKOUT \u2014 $392.09 NEXT? #Tesla #daytrading",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1273,7 +1297,12 @@
    "video_title": "#TSLA NEARS THE BREAKOUT \u2014 $392.09 NEXT? #Tesla #daytrading",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1289,7 +1318,12 @@
    "video_title": "#TSLA NEARS THE BREAKOUT \u2014 $392.09 NEXT? #Tesla #daytrading",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1305,7 +1339,12 @@
    "video_title": "#TSLA NEARS THE BREAKOUT \u2014 $392.09 NEXT? #Tesla #daytrading",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "META",
@@ -1652,7 +1691,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 23rd, 2026",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1668,7 +1712,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 23rd, 2026",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1684,7 +1733,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 23rd, 2026",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "QQQ",
@@ -1700,7 +1754,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 23rd, 2026",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.27,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -4010,7 +4069,12 @@
    "video_title": "Wall Street Just Found Tesla\u2019s NEXT Big Market",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "NBIS",
@@ -6363,6 +6427,10 @@
     "14d": {
      "pct": -5.58,
      "win": false
+    },
+    "21d": {
+     "pct": -27.67,
+     "win": false
     }
    }
   },
@@ -6388,6 +6456,10 @@
     "14d": {
      "pct": -5.58,
      "win": true
+    },
+    "21d": {
+     "pct": -27.67,
+     "win": true
     }
    }
   },
@@ -6412,6 +6484,10 @@
     },
     "14d": {
      "pct": -5.58,
+     "win": false
+    },
+    "21d": {
+     "pct": -27.67,
      "win": false
     }
    }
@@ -13040,7 +13116,12 @@
    "video_title": "Wait\u2026 Tesla Just Added HOW Many Robotaxis?",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.88,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14740,7 +14821,12 @@
    "video_title": "TOM LEE: While markets churn in Sept, a \"max hawkish\" Fed is creating positive risk/reward",
    "date": "2026-09-22",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.8,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -15613,6 +15699,470 @@
    "channel": "Wicked Stocks",
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 30th, 2026",
    "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "You just don't there there isn't another company with the chatbot AI capability and the physical AI capability all in one",
+   "video_id": "4epcCHWC_vY",
+   "channel": "Brighter with Herbert",
+   "video_title": "Is Physical AI Tesla's Real Moat? Jeff Lutz Says Yes #Tesla",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "as long as Cybertruck is not significantly scaling, we don't get a repricing. We don't see all-time highs.",
+   "video_id": "5gTiQv_bMxQ",
+   "channel": "Brighter with Herbert",
+   "video_title": "Why Is Tesla Stock Falling? Jo Bhakdi's Take #Tesla",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 480,
+   "horizon_days": null,
+   "quote": "Tom Narayan of RBC Capital ... reiterating his outperform rating for Tesla stock maintaining a 480 price target.",
+   "video_id": "B2sxfVtzCy8",
+   "channel": "Brighter with Herbert",
+   "video_title": "WFT Did Wall Street Just Say About Tesla?",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 475,
+   "horizon_days": null,
+   "quote": "they reiterated their buy rating and 475 price target on Tesla ahead of next week's Q3 delivery report.",
+   "video_id": "B2sxfVtzCy8",
+   "channel": "Brighter with Herbert",
+   "video_title": "WFT Did Wall Street Just Say About Tesla?",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "HIMS",
+   "direction": "long",
+   "kind": "call",
+   "entry": 26,
+   "stop": 21.53,
+   "target": null,
+   "horizon_days": 90,
+   "quote": "the time to buy most recently based off of the system for the daily chart, which is normally going to be a 60,90 120day hold, was back at $26.",
+   "video_id": "Xu8MpVJQ0nY",
+   "channel": "Traders Helping Traders",
+   "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
+   "date": "2026-10-01",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "HIMS",
+   "direction": "long",
+   "kind": "call",
+   "entry": 28.5,
+   "stop": null,
+   "target": null,
+   "horizon_days": 14,
+   "quote": "probably in the next week or so, price will pull back to 2850 to make a higher low and then price will break out to the upside.",
+   "video_id": "Xu8MpVJQ0nY",
+   "channel": "Traders Helping Traders",
+   "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
+   "date": "2026-10-01",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "HIMS",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": 27.31,
+   "target": 40,
+   "horizon_days": 90,
+   "quote": "If I had an outlook for the next probably 90 days, I think price would be back up at $40 probably by the end of this year.",
+   "video_id": "Xu8MpVJQ0nY",
+   "channel": "Traders Helping Traders",
+   "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
+   "date": "2026-10-01",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "HIMS",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 75,
+   "horizon_days": 730,
+   "quote": "within the next 24 months, price will easily be back up at $75.",
+   "video_id": "Xu8MpVJQ0nY",
+   "channel": "Traders Helping Traders",
+   "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
+   "date": "2026-10-01",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "HIMS",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "So, I am bullish on HIMS. This looks really, really good.",
+   "video_id": "Xu8MpVJQ0nY",
+   "channel": "Traders Helping Traders",
+   "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
+   "date": "2026-10-01",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "META",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "meta. ... If you look at meta on the weekly ... we've breaking out right now.",
+   "video_id": "Xu8MpVJQ0nY",
+   "channel": "Traders Helping Traders",
+   "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
+   "date": "2026-10-01",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "CSCO",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "Cisco ended up going to 80 and that was a 10x 100x from the, you know, from 1994.\" I think that's probably good analog, and I think we're about here today",
+   "video_id": "gb_XQvs1vpY",
+   "channel": "Fundstrat",
+   "video_title": "The Fed Hiked. Tom Lee Is Still Bullish.",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": 353,
+   "target": 400,
+   "horizon_days": null,
+   "quote": "I'll continue to buy all of these pullbacks until the pullback breaks. In this case, we said that Tesla had to hold above $353.",
+   "video_id": "maexfOKrphI",
+   "channel": "Traders Helping Traders",
+   "video_title": "TSLA Breaks Below $350 Support: What Bulls Must Do This Week",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 354,
+   "stop": null,
+   "target": null,
+   "horizon_days": 2,
+   "quote": "if I was in this and I was bullish, like I have to see this reclaim 354 tomorrow. If that happens, there's a chance that this still remains bullish internally",
+   "video_id": "maexfOKrphI",
+   "channel": "Traders Helping Traders",
+   "video_title": "TSLA Breaks Below $350 Support: What Bulls Must Do This Week",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 300,
+   "horizon_days": null,
+   "quote": "if that doesn't happen, then the longer-term sell-off that we've been talking about I think is on the horizon. That's where we could see a continued move to 300 or 290",
+   "video_id": "maexfOKrphI",
+   "channel": "Traders Helping Traders",
+   "video_title": "TSLA Breaks Below $350 Support: What Bulls Must Do This Week",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 600,
+   "horizon_days": null,
+   "quote": "I have no doubt this thing goes to 500 or 600 in, you know, not too far from now.",
+   "video_id": "q5g-d59_TgU",
+   "channel": "Brighter with Herbert",
+   "video_title": "Tesla Stock Is Falling. Nobody Can Explain Why",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": 360,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I always said I'm pretty bullish that this thing has a hard time dropping below 360. Now, we at 352 or something. I do think there is massive resistance",
+   "video_id": "q5g-d59_TgU",
+   "channel": "Brighter with Herbert",
+   "video_title": "Tesla Stock Is Falling. Nobody Can Explain Why",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I'm getting more friendly towards the event, towards playing the event, right? Uh because if everyone thinks there's nothing to see here for the stock, you buy yourself some upside.",
+   "video_id": "q5g-d59_TgU",
+   "channel": "Brighter with Herbert",
+   "video_title": "Tesla Stock Is Falling. Nobody Can Explain Why",
+   "date": "2026-09-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": null,
+   "stop": 355.0,
+   "target": 306.59,
+   "horizon_days": 35,
+   "quote": "if we continue to close below 355 even... we can quite easily fall away to 30659 by the end of October",
+   "video_id": "zZB5sPfoGFg",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": null,
+   "stop": 355.0,
+   "target": 331.5,
+   "horizon_days": 7,
+   "quote": "33150 in reach by the end of next week that's kind of a 3 to 5 day target right now so long as we do not close back above 355 even",
+   "video_id": "zZB5sPfoGFg",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 355.0,
+   "stop": null,
+   "target": 394.43,
+   "horizon_days": 21,
+   "quote": "if we do close today back above 355 even I do see a case to be made for 2 to 3 week gains... back into the narrowing 394.43 to 403.58 region",
+   "video_id": "zZB5sPfoGFg",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 367.67,
+   "stop": null,
+   "target": 403.58,
+   "horizon_days": 7,
+   "quote": "if over the following day or two let's say tomorrow Friday we also close above 367.67 We could... by the end of next week push into the significant 39443 to 40358 region",
+   "video_id": "zZB5sPfoGFg",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 229.21,
+   "horizon_days": null,
+   "quote": "Sell signal still intact. Anticipating lower trade through October.",
+   "video_id": "zZB5sPfoGFg",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "call",
+   "entry": 355.0,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "you don't want to be short with a settlement today back above 355 even. you want to reverse and go long.",
+   "video_id": "zZB5sPfoGFg",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 394.43,
+   "stop": null,
+   "target": 280.45,
+   "horizon_days": 90,
+   "quote": "You're selling any opportunity you can get into the mid-390s, low-400s anticipating 280.45. If you're kind of a two- to three-month swing trader, 280.45 has become a higher probability",
+   "video_id": "zbitbFVibrE",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.8,
+   "stop": 358.74,
+   "target": 342.02,
+   "horizon_days": 1,
+   "quote": "Through the rest of the week, I do think 342.02 is in play, 331.50 by the end of next week.",
+   "video_id": "zbitbFVibrE",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 354.8,
+   "stop": null,
+   "target": 331.5,
+   "horizon_days": 10,
+   "quote": "Through the rest of the week, I do think 342.02 is in play, 331.50 by the end of next week.",
+   "video_id": "zbitbFVibrE",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 306.38,
+   "horizon_days": 30,
+   "quote": "Chances are likely that we will open below 354.80, maintaining selling pressures that can yield 342.02 today, 331.50 by the end of next week, 306.38 by the end of October.",
+   "video_id": "zbitbFVibrE",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "call",
+   "entry": null,
+   "stop": 354.8,
+   "target": null,
+   "horizon_days": null,
+   "quote": "it would take much given our 352 handle settlement price for us to open back above 354.80, in which case you may consider covering a short position under that scenario.",
+   "video_id": "zbitbFVibrE",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
+   "date": "2026-09-30",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 354.8,
+   "stop": null,
+   "target": null,
+   "horizon_days": 14,
+   "quote": "if we do close today back above 354.80, that is an actionable buy signal. I do think over the next couple of weeks we can find ourselves back in the 390s or low 400 region.",
+   "video_id": "zbitbFVibrE",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
+   "date": "2026-09-30",
    "affiliated": false,
    "outcomes": {}
   }
