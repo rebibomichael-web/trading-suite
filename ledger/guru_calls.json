@@ -144,6 +144,7 @@
   "Kk00E6jSHZg",
   "L2EDE6xkt84",
   "LAPTa8oxsiM",
+  "LD-Wx_mfmzA",
   "LM82eOB_t6U",
   "LS1qIac-X_8",
   "LdDfZ3nkE1k",
@@ -1368,6 +1369,10 @@
     "14d": {
      "pct": 13.83,
      "win": true
+    },
+    "21d": {
+     "pct": 10.94,
+     "win": true
     }
    }
   },
@@ -1393,6 +1398,10 @@
     "14d": {
      "pct": 13.83,
      "win": false
+    },
+    "21d": {
+     "pct": 10.94,
+     "win": false
     }
    }
   },
@@ -1417,6 +1426,10 @@
     },
     "14d": {
      "pct": 13.83,
+     "win": true
+    },
+    "21d": {
+     "pct": 10.94,
      "win": true
     }
    }
@@ -6730,7 +6743,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 24th, 2026",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.66,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -6746,7 +6764,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 24th, 2026",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.66,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -6762,7 +6785,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 24th, 2026",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.66,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -6778,7 +6806,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 24th, 2026",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.66,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -6794,7 +6827,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 24th, 2026",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.66,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -6810,7 +6848,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 24th, 2026",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.66,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -7128,6 +7171,10 @@
     "7d": {
      "pct": -1.25,
      "win": null
+    },
+    "14d": {
+     "pct": -1.95,
+     "win": null
     }
    }
   },
@@ -7148,6 +7195,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.25,
+     "win": false
+    },
+    "14d": {
+     "pct": -1.95,
      "win": false
     }
    }
@@ -7851,6 +7902,10 @@
     "7d": {
      "pct": 13.88,
      "win": false
+    },
+    "14d": {
+     "pct": 18.18,
+     "win": false
     }
    }
   },
@@ -7871,6 +7926,10 @@
    "outcomes": {
     "7d": {
      "pct": 13.88,
+     "win": true
+    },
+    "14d": {
+     "pct": 18.18,
      "win": true
     }
    }
@@ -7993,6 +8052,10 @@
     "14d": {
      "pct": 0.71,
      "win": null
+    },
+    "21d": {
+     "pct": 0.03,
+     "win": null
     }
    }
   },
@@ -8018,6 +8081,10 @@
     "14d": {
      "pct": 0.71,
      "win": true
+    },
+    "21d": {
+     "pct": 0.03,
+     "win": true
     }
    }
   },
@@ -8042,6 +8109,10 @@
     },
     "14d": {
      "pct": 13.83,
+     "win": false
+    },
+    "21d": {
+     "pct": 10.94,
      "win": false
     }
    }
@@ -12655,7 +12726,12 @@
    "video_title": "#TSLA MUST CLEAR $379.99 TO BREAK OUT TOWARD $392.09 #Tesla #daytrading",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.66,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -12671,7 +12747,12 @@
    "video_title": "#TSLA MUST CLEAR $379.99 TO BREAK OUT TOWARD $392.09 #Tesla #daytrading",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.66,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14533,7 +14614,12 @@
    "video_title": "WTF Did Jensen And Elon Just Say?",
    "date": "2026-09-23",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.27,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14557,6 +14643,10 @@
     "14d": {
      "pct": 3.35,
      "win": false
+    },
+    "21d": {
+     "pct": -3.53,
+     "win": true
     }
    }
   },
@@ -14582,6 +14672,10 @@
     "14d": {
      "pct": 3.35,
      "win": true
+    },
+    "21d": {
+     "pct": -3.53,
+     "win": false
     }
    }
   },
@@ -15518,6 +15612,10 @@
     "7d": {
      "pct": 1.82,
      "win": null
+    },
+    "14d": {
+     "pct": 1.14,
+     "win": null
     }
    }
   },
@@ -15538,6 +15636,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.82,
+     "win": true
+    },
+    "14d": {
+     "pct": 1.14,
      "win": true
     }
    }
