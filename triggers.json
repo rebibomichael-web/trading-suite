@@ -107,7 +107,8 @@
   "DDOG|above|272.02": "2026-09-30",
   "AMAT|above|519.49": "2026-10-01",
   "CDNS|above|334.07": "2026-10-01",
-  "CDNS|above|346.33": "2026-10-01"
+  "CDNS|above|346.33": "2026-10-01",
+  "ON|above|83.77": "2026-10-02"
  },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
