@@ -792,7 +792,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "UBER",
@@ -808,7 +813,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.94,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "HTZ",
@@ -824,7 +834,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.42,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CAR",
@@ -840,7 +855,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.49,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -856,7 +876,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -872,7 +897,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -888,7 +918,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -904,7 +939,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -920,7 +960,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -936,7 +981,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -952,7 +1002,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -968,7 +1023,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -984,7 +1044,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1000,7 +1065,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CRM",
@@ -1016,7 +1086,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.64,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CRM",
@@ -1032,7 +1107,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.64,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CRM",
@@ -1048,7 +1128,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.64,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "CRM",
@@ -1064,7 +1149,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.64,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "CRM",
@@ -1080,7 +1170,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.64,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CRM",
@@ -1096,7 +1191,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.64,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1112,7 +1212,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1128,7 +1233,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1144,7 +1254,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1160,7 +1275,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1176,7 +1296,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1192,7 +1317,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1208,7 +1338,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1224,7 +1359,12 @@
    "video_title": "",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -1908,6 +2048,10 @@
     "14d": {
      "pct": 25.71,
      "win": true
+    },
+    "21d": {
+     "pct": 24.84,
+     "win": true
     }
    }
   },
@@ -2198,6 +2342,10 @@
     "7d": {
      "pct": 2.34,
      "win": true
+    },
+    "14d": {
+     "pct": -4.8,
+     "win": false
     }
    }
   },
@@ -2218,6 +2366,10 @@
    "outcomes": {
     "7d": {
      "pct": 2.34,
+     "win": null
+    },
+    "14d": {
+     "pct": -4.8,
      "win": null
     }
    }
@@ -2240,6 +2392,10 @@
     "7d": {
      "pct": 2.34,
      "win": true
+    },
+    "14d": {
+     "pct": -4.8,
+     "win": false
     }
    }
   },
@@ -2261,6 +2417,10 @@
     "7d": {
      "pct": 2.34,
      "win": true
+    },
+    "14d": {
+     "pct": -4.8,
+     "win": false
     }
    }
   },
@@ -2281,6 +2441,10 @@
    "outcomes": {
     "7d": {
      "pct": 2.34,
+     "win": null
+    },
+    "14d": {
+     "pct": -4.8,
      "win": null
     }
    }
@@ -2303,6 +2467,10 @@
     "7d": {
      "pct": 2.34,
      "win": true
+    },
+    "14d": {
+     "pct": -4.8,
+     "win": false
     }
    }
   },
@@ -2795,6 +2963,10 @@
     "7d": {
      "pct": 0.88,
      "win": true
+    },
+    "14d": {
+     "pct": -1.05,
+     "win": false
     }
    }
   },
@@ -2816,6 +2988,10 @@
     "7d": {
      "pct": 0.88,
      "win": true
+    },
+    "14d": {
+     "pct": -1.05,
+     "win": false
     }
    }
   },
@@ -2837,6 +3013,10 @@
     "7d": {
      "pct": -7.34,
      "win": false
+    },
+    "14d": {
+     "pct": -8.31,
+     "win": false
     }
    }
   },
@@ -2857,6 +3037,10 @@
    "outcomes": {
     "7d": {
      "pct": -7.34,
+     "win": false
+    },
+    "14d": {
+     "pct": -8.31,
      "win": false
     }
    }
@@ -5766,7 +5950,12 @@
    "video_title": "Elon\u2019s Last 4 Days Were Absolutely Loaded!",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -7948,7 +8137,12 @@
    "video_title": "#TSLA IS TRYING TO HOLD UP \u2014 CAN IT PUSH TO $392.09? #Tesla #daytrading",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -7964,7 +8158,12 @@
    "video_title": "#TSLA IS TRYING TO HOLD UP \u2014 CAN IT PUSH TO $392.09? #Tesla #daytrading",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -7980,7 +8179,12 @@
    "video_title": "#TSLA IS TRYING TO HOLD UP \u2014 CAN IT PUSH TO $392.09? #Tesla #daytrading",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -7996,7 +8200,12 @@
    "video_title": "#TSLA IS TRYING TO HOLD UP \u2014 CAN IT PUSH TO $392.09? #Tesla #daytrading",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -8012,7 +8221,12 @@
    "video_title": "#TSLA IS TRYING TO HOLD UP \u2014 CAN IT PUSH TO $392.09? #Tesla #daytrading",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -8028,7 +8242,12 @@
    "video_title": "#TSLA IS TRYING TO HOLD UP \u2014 CAN IT PUSH TO $392.09? #Tesla #daytrading",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "SPY",
@@ -9006,6 +9225,10 @@
     "7d": {
      "pct": 0.6,
      "win": false
+    },
+    "14d": {
+     "pct": 0.18,
+     "win": false
     }
    }
   },
@@ -9361,6 +9584,10 @@
     "14d": {
      "pct": -2.9,
      "win": false
+    },
+    "21d": {
+     "pct": -4.76,
+     "win": false
     }
    }
   },
@@ -9385,6 +9612,10 @@
     },
     "14d": {
      "pct": 6.76,
+     "win": true
+    },
+    "21d": {
+     "pct": 2.93,
      "win": true
     }
    }
@@ -9411,6 +9642,10 @@
     "14d": {
      "pct": -6.2,
      "win": false
+    },
+    "21d": {
+     "pct": -4.96,
+     "win": false
     }
    }
   },
@@ -9436,6 +9671,10 @@
     "14d": {
      "pct": 22.24,
      "win": true
+    },
+    "21d": {
+     "pct": 31.1,
+     "win": true
     }
    }
   },
@@ -9460,6 +9699,10 @@
     },
     "14d": {
      "pct": -8.76,
+     "win": false
+    },
+    "21d": {
+     "pct": -9.72,
      "win": false
     }
    }
@@ -10564,7 +10807,12 @@
    "video_title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 12.57,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "COHR",
@@ -10580,7 +10828,12 @@
    "video_title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 9.83,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "AAOI",
@@ -10596,7 +10849,12 @@
    "video_title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.23,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "RKLB",
@@ -10612,7 +10870,12 @@
    "video_title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.28,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CIEN",
@@ -10628,7 +10891,12 @@
    "video_title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.78,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ALAB",
@@ -10644,7 +10912,12 @@
    "video_title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.13,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "NOK",
@@ -10660,7 +10933,12 @@
    "video_title": "Expert Reveals Best Stocks to Buy Now for the AI Inference Shift",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.58,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MRNA",
@@ -11889,6 +12167,10 @@
     "7d": {
      "pct": -3.33,
      "win": false
+    },
+    "14d": {
+     "pct": -6.61,
+     "win": false
     }
    }
   },
@@ -11910,6 +12192,10 @@
     "7d": {
      "pct": 15.44,
      "win": null
+    },
+    "14d": {
+     "pct": 12.96,
+     "win": null
     }
    }
   },
@@ -11930,6 +12216,10 @@
    "outcomes": {
     "7d": {
      "pct": 2.39,
+     "win": null
+    },
+    "14d": {
+     "pct": 5.25,
      "win": null
     }
    }
@@ -14242,7 +14532,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 25th, 2026",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14258,7 +14553,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 25th, 2026",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14274,7 +14574,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 25th, 2026",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14290,7 +14595,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 25th, 2026",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -14306,7 +14616,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for September 25th, 2026",
    "date": "2026-09-24",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
