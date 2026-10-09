@@ -1,0 +1,984 @@
+I'm Scott Wapner and you're listening to CNBC's halftime report, the podcast, the most profitable
+hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+All right guys, thanks so much.
+Welcome to the halftime report.
+I'm Scott Wapner, front and center of this hour, questions about the AI trade which
+has been holding up this market as you know, a big pullback as well in Apple today.
+Get to all of that with the investment committee joining me for the hour, Steve
+Weiss, Jason Snipe, Stephanie Lake, Rob Siechen, go to the markets here.
+We are green across the board, NASDAQ is higher.
+We did have that big decline yesterday, worst day since August, of course, on that open
+AI revenue report, it just shows you how anything that even is a whiff of question
+about this story is going to have a sort of swift and dramatic impact on the market.
+It doesn't even wait to find out what's either legit or not legit, how much it matters, how
+much it doesn't matter, it just reacts.
+It reacts and you know, every time that happens I think of, okay, what are the private market
+investors in an open AI and inthropic and all the others that have these unbelievable
+valuations and what are they thinking, they see others can exit.
+But today is not a very convincing return, you know, after what we saw as a sell-off.
+So I wouldn't say you're making lower highs, but it is worrisome.
+Look, I think about it all the time.
+What's worrisome?
+What's worrisome is the funding and the circular funding that's through all these companies
+and if one defaults on it or if one can't raise capital, right now there seems to
+be an insatiable appetite and their spend in some of these companies are far more than
+their revenues.
+Take a look at, you know, you talk about the circular nature of a lot of this and the
+reliance that sort of the ecosystem has on open AI and inthropic.
+We have something to show you that of all their partners, just to give you an idea
+of the kinds of stocks that you see yesterday, you had about $270 billion of Mag7 market
+cap wiped.
+But then, you know, Nebius, CoreWeave, Oracle, AMD Broadcom, they're not the Mag7 complex,
+not far off though.
+But to your point, the tentacles are everywhere.
+So if you can't, what happened, here's the question.
+Now we saw a company in Australia that couldn't bring the company market.
+The IPO isn't happening or if it does happen it'll be a much lower valuation
+or an AI company.
+What happens if they go to market and even though rates are higher and they got off
+the rates?
+The market says, no, Maas, the sovereign wealth funds in the Middle East say, you
+know, we've got enough of a position here, don't look to us.
+What happens because they have to spend, it's an arm race.
+So if they stop spending, that's where I think it's look out below.
+And even though that'll be in the private sector, not the public sector,
+that disconnect is like a mile wide what's happening to private versus public.
+So public I think in this case could very well lead that and the debt trades publicly.
+So look, I'm not calling the end of the cycle right now, but if you're not worried
+about it happening at some point, then you truly are, you know, whistling by the
+graveyard.
+Jason, I mean, you be yesterday says AI demand remains robust despite these jitters
+that we've seen in the market, but you need to be more selective and discipline
+in how you position.
+You need to favor high quality semiconductor and hardware beneficiaries of all of
+this AI spend, the mega cap platforms, and so called defensive tech firms make
+of that.
+No, I think that's absolutely true.
+I think one of the things that's been a bit concerning for me is just the
+vulnerability of the concentration risk, right?
+Obviously, as we've seen as AI goes, the market goes, right?
+And earlier this year, we were talking a lot about the RSP, the
+equal weight and how those numbers have outperformed.
+But I think one of the things as we've kind of taken a look and did our
+analysis, obviously, is more 52 week lows and 52 week highs, right?
+And there's a lot going on under the service, which we need to pay attention
+to.
+So I see when I see a move from open AI and I see the news and then
+there's a little bit of a playback or it was just a calendar event right
+now.
+They're talking about through December that that it was just an accounting
+era and you're seeing a little bit of bounce back to Steve's point,
+not quite the bounce back of what we lost yesterday.
+But my concern overall is just the vulnerability of spending.
+CapEx needs to continue to keep going for the market to continue to push forward.
+And the vulnerability in the market.
+I mean, right now we're looking at a market with baseline case for earnings
+is up 30%.
+But that's concentrating very few companies.
+So even if they meet expectations, as you saw with Micron last few quarters,
+it's not good enough with Nvidia.
+It's not good enough.
+I wonder if this next chart, Steph, speaks a little bit to how reliant we've
+been on these large stocks.
+Let's show this, that the share of S&P stocks outperforming the index
+on a three year trailing basis is only around 30%.
+So that shows you just how reliant we are on the back of these companies.
+And they have been carrying the lion's share of this record run.
+There have been pockets of time when you've had a broadening move,
+but overwhelmingly it has been a concentration story.
+And if that doesn't show you what the tail of the tape is here,
+I don't know what does.
+The question is, is there risk in that graph that we just showed you?
+Well, sure.
+There is definitely risk.
+I think the big worry point for me is if we do see a change in the spend
+from the hyperscalers, we know that they're going to spend a trillion
+dollars this year and they're expected to go to 1.2 to 1.6 trillion
+next year, I think it's going to be at the high end.
+There's no indication whatsoever that these companies are going to reduce spend.
+But if they do, absolutely there is risk, not only in technology,
+but in all of the food chain names and sectors that we talk about,
+the data centers, the grid, the power companies.
+But there's no indication whatsoever that we're going to see a slowdown.
+And I look at the hyperscalers, that's a really important number
+of a trillion dollars.
+But then I look at the behemoth in the industry,
+the smartest of the smarts, right?
+That's NVIDIA and that management team.
+And over the last year, they spent $24 billion in R&D expense just for AI.
+New architecture, they spent $18 billion.
+Equity investments, $99 billion versus $7 billion last year.
+And supply agreements so that they can ensure that they get the supply
+of almost $400 billion.
+I mean, they are going full throttle.
+They are not decelerating.
+And that gives me comfort that we are still in the fairly early innings
+with regards to AI.
+And just wait until earning season because we're going to get confirmation
+from all those other sectors that I mentioned in terms of backlogs
+and orders and growth and probably margin expansion as well.
+And so I don't want to tap the brakes on this trade.
+I don't think that the economy is growing this fast just from AI.
+It's a big part of it, probably 70%.
+But the consumer is also doing their part.
+Look at the Bank of America survey this morning for last month.
+Last month's numbers were at really high, strong numbers.
+The consumers, they're angry, but they're spending.
+They're angry.
+Yeah, they are angry for sure.
+But they're spending, right?
+I mean, you get the consumer confidence number today missed by a lot
+as those numbers go.
+But the employment market still looks pretty good.
+So you can hate spend, I guess,
+because you have no choice but to spend more because of inflation
+and the fact that prices are up, grocery store, gas pump, et cetera,
+et cetera, places that everybody knows.
+Rob, when I show you that chart, that fewer and fewer stocks
+are outperforming the BS&P, they make you nervous.
+Does it just make you say, you know what?
+That's how it should look because that's how transformational
+this AI story is that, of course, the chart's going to look like that.
+The question is, though, can that continue to carry the market
+to higher highs?
+You know, it should concern you in some ways,
+but the reality of it is, I agree with you,
+what is happening should be happening
+because that's where the durability of growth has been
+and will continue to be because of the intent of the hyperscalers,
+the intent on spending and the derivative beneficiaries of that.
+But getting back to what Steve said, this entire market
+rests on one pillar of strength.
+And when I say the entire market, I don't just mean the stock market,
+I mean the economy as well.
+And the reason is, is the reason consumers are spending,
+as you pointed out, is because there's been a huge wealth effect
+as it relates to the stock market,
+which is disproportionately driven 44% by the MAG-7
+and the AI infrastructure stocks.
+And so you're resting on this one pillar of strength,
+which I think is very, very strong,
+however, completely dependent on access to capital.
+There is not going to be a change in intent, I can assure you.
+What there may be a change in
+is one of these financings not working.
+One of these financings failing.
+And what are the derivative implications
+of not being able to fund these?
+I don't expect that
+because I think the demand on the backside of this
+is incredibly strong,
+but you had better watch out
+not only from a market standpoint,
+but from an economic trajectory standpoint
+if that happens.
+The beauty of all this is the Fed
+because of tightening rates
+has been able to kind of reload,
+so to speak, so if they need to cut rates they can.
+But we're not wishing for that either
+because I think it's going to be a pretty dramatic pullback
+if that happens.
+There's always a leg break
+in the chair of market dreams
+at some point.
+At some point.
+Right now the chair looks great.
+It looks durable, looks strong, doesn't look to be
+even wobbling.
+It truly doesn't.
+Now you're going to go through some of these moments
+here and there, but you and Rob speak to sort of the same thing.
+The impossible to know is the when and the what.
+What is the moment?
+When does it happen?
+Are we a 96?
+Greenspan, a rational exuberance in some parts?
+I don't know.
+The markets worked a lot of that stuff off, hasn't it?
+Multiple has come in a lot.
+We're under 20.
+We were above 23.
+But a lot of that is skewed by the remainder.
+The other 490 companies, whatever they are
+in terms of what their multiple is.
+I mean, you take a look at some of the other sectors.
+Take a look.
+I pointed out the other day, the defense industry.
+Sure, you see some green there today, but those stocks
+are trading at 52 week lows across the sector.
+You see it in other sectors as well.
+Look at the sell-off in the financial stocks.
+Goldman's come down from over a thousand bucks a share.
+It's down, you know, 12, 15%.
+That's reduced the multiple.
+A lot of those banks, by the way,
+are in full-blown correction territory.
+Right.
+Not bare market yet, but you're almost looking
+at double-digit declines off the highs for all those names.
+Why have yield curves gotten flatter?
+Net interest margins, not great.
+Under that scenario, of course.
+Yeah, and I agree mostly about the yield curve.
+But it's also about, are these IPOs
+where they're going to make their highest margins?
+Are they going to come to market?
+So that's a little part of it.
+Most of it is the yield curve.
+I think there's a growing amount of not only pessimism
+and skepticism about the IPO market.
+I think the numbers are starting
+to sort of bear that out.
+You've had, you know, IPOs pulled.
+Yes, of course, we're still waiting on Anthropic,
+and that's going to be the biggest kahuna in the ocean.
+But nonetheless, I think there's a little more pessimism,
+you know, permeating through the market.
+Well, we'll see.
+You got a very treacherous period coming up,
+because not only do you have earnings,
+but you've got the election, which is right during earnings.
+You've got what's the Fed going to do.
+And then you've got the threat
+of resuming the military campaign against Iran
+right after what's that do to oil.
+So you've got all those that are working in concert,
+which, you know, depending on how they go,
+could be a treacherous time for the market.
+There's another big story out there today.
+I don't want it to get lost in the shuffle either.
+And it's regarding Apple.
+Take a look at shares under pressure
+on a report of soft demand for its new iPhone,
+somewhat surprisingly soft demand
+according to whatever report you read.
+Mackenzie Segalos is on the case for us as always.
+So what are we to make of this?
+So Scott, Apple is the one mag seven name trading
+in the red this morning on signs of softer demand
+for its latest iPhone after Nikke reported
+that Apple cut October production orders
+for the 18 pro and pro max by at least 15%
+from its original plans.
+Now I'm out to Apple on this report,
+but haven't heard back.
+Wolf research weighing in this morning,
+saying what's especially notable here
+is how early these component cuts
+are coming because historically Apple
+is weighted into later in Q4 to pull back supplier orders.
+Now one concern is price.
+Both pro models went up by $100 this year
+and there's no base iPhone 18 in this fall launch cycle.
+So the starting price for a new iPhone
+this season is $1,200,
+which is 50% higher than last fall's entry point.
+UBS is also pointing to shorter wait times
+despite stable supply suggesting
+that demand may not be keeping pace
+after those September price hikes.
+There's also the fact that demand is being split
+across a more staggered launch schedule.
+Pre-orders for Apple's first foldable,
+the iPhone duo start next week
+and city says that some of the softer demand signals
+could simply reflect buyers waiting for that device
+and that is part of why city is keeping
+its broader iPhone unit forecasts largely unchanged.
+Scott.
+You know, I wonder
+when the price increases were first announced
+and even the rumors of them leading into the actual event
+where we got hard numbers.
+I think to a person most were like,
+well, if anybody has pricing power,
+especially in tech related to devices, it's Apple.
+I wonder whether, yes, that's still true,
+but for consumers who are thinking about upgrading their phone,
+they're like, well, I'm already paying X amount of dollars
+more at the gas pump.
+I'm just going to wait because I don't have
+as much discretionary income as I want to
+at the moment to pay for what is, you know,
+a reasonable percentage increase in the price of the phones.
+It's just pushed off the upgrade cycle
+because of price, because of inflation,
+because of environment and everything else.
+And Apple did try to front run this,
+announcing Apple upgrade ahead of their big September
+phone launch event, essentially being able to break down,
+you know, the payments for the phone
+into a leasing program so that it would incentivize
+upgrading every year.
+You wouldn't necessarily work towards ownership
+like you currently do with the carriers,
+but at least in the case of the 18 Pro and Pro Max,
+there wasn't a huge change here
+in terms of the underlying specs.
+You saw some color changes, but to your point,
+nothing that really compelled a user
+to necessarily want to get the new phone
+because of a feature they couldn't access before
+because you can get the new Siri AI experience
+if you have everything north of an iPhone 15.
+And then there is this question,
+and that's what a lot of the street commentary
+is looking at this morning,
+are people holding out for the first foldable phone?
+You've got pre-sales starting October 16th,
+they actually go on sale the 23rd,
+and that will be the big demand signal,
+whether or not Apple does have this pricing power
+if it's just this staggered release of devices
+as perhaps skewing demand signals.
+Mac, thank you, Mackenzie Seagals.
+Jason, you own the stock, I mean, we're not going to go
+overboard on a stock that's given back
+not even 2% on what is simply a report.
+And the prior upgrade cycle was more robust
+than I think people expected it to be.
+Maybe this is just, again, an elongated cycle.
+It gets more robust as you go down the road
+a little bit further.
+But what do you think about the stock?
+I think there's a lot of pressure on the duo.
+There's no doubt about it.
+I think there's obviously another foldable phone
+on the market for what a different carrier.
+But this staggered launch, I think plays a role.
+I think memory calls are a big deal.
+They raise calls from the MacBook.
+They raise calls from the iPad in June.
+I think that went over fine.
+But I think as they change the launch cycle
+as Mackenzie just shared,
+that is what is, I think, impacting the stock
+and what's impacting demand in the short term.
+So I do think we'll see, October 16th,
+what the deal is.
+I think the duo will do well.
+I think Apple is, and I think what Turner said,
+kind of running the game now
+is going to be a creative and positive for the stock.
+And I think it's going to do well.
+I'm going to take the other side.
+I don't think a duo is going to do so well.
+I think the initial signs will be good.
+But the camera is deficient.
+And keep in mind, every upgrade cycle,
+they focused on adding enhancements to the camera.
+I know, but how much better does the camera
+really need to be?
+Well, I agree with that, but the camera goes backwards.
+It's not even maintaining the level of technical efficiency
+and options that the 17 and 16 have.
+So it's going backwards.
+I don't think there's a zoom on it.
+So it ends $2,000.
+I mean, if we're talking about pricing now,
+what about for the baseline one of 2,000 bucks?
+Plus, for Apple, because of the bigger screen,
+will it cannibalize the iPad?
+So there raises a lot more questions for me than in answers.
+But I do think the initial demands
+are going to be strong first adopters.
+And by the way, I don't recall a cycle on an iPhone
+where they didn't cut where rumors were not ubiquitous
+that they're cutting back production.
+Because Apple always orders and lets their suppliers
+own that on their balance sheets.
+So it's really a free call option for them.
+There's another interesting story.
+I mean, at least a note, Rob, from Rothschild and Redburn
+in which they ask if meta is actually a threat to the iPhone.
+And they're talking about the Muse charm and the glasses.
+They're not suggesting that they're
+going to displace the smartphone.
+However, they say the Muse assistant
+is a reminder that Apple's AI fast follower strategy will
+need to impress in 2027.
+Apple needs to get this right.
+What is the new Siri currently in beta form?
+It just needs to get it right.
+Because there's a lot of other options coming into the marketplace
+irrespective of device, model, agent, et cetera.
+So I completely agree and will tell you
+that we're neutral on Apple, went to neutral in July,
+mainly based on valuation and lofty expectations
+around this release.
+And that's kind of a setup for disappointment.
+You cannot be underweight Apple long term.
+Just too much capital efficiency, too much free cash flow
+generation, too much in that product ecosystem
+that retains the customer and owns the customer.
+You know, Steve is an influencer,
+might not like the new camera.
+However, there are a lot of people that will
+and will make that migration do it.
+Remember, when you own the customer as both Apple and Meta
+do, you benefit from the application layer of the
+infrastructure because all apps are going to be built
+on top of this base AI infrastructure that ultimately
+is going to sit on one of these two platforms
+that controls the customer.
+Of course, there's other platforms that controls
+the customer.
+But just as we saw in the wireless cycle,
+those that own the customer are the ultimate beneficiaries
+of the app layer when it gets built out.
+So I'm going to say neutral Apple,
+because I think it got expensive.
+Meta, on the other hand, is very cheap.
+And we've seen historically that as Meta gets cheap,
+it's always been a good time to be a buyer.
+And when you look at Muse, 2 million daily active users,
+top rank app in the app store ultimately underscores
+the opportunity in that stock.
+So we're overweight there.
+Again, two great long-term companies.
+Let's just say there's three big stories in the market today,
+I think, to discuss.
+It's open AI in the fallout from yesterday.
+It's this Apple movement that we've already discussed.
+And then where rates are.
+And if you look at the curve today,
+we're green across it, 10 years at 525.
+But you've got everything is higher today.
+Waller made news yesterday the Fed governor did
+when he said more hikes are likely necessary to get back
+to 2% in a more timely way.
+Market's betting on December now.
+Anyone's guess as to whether October is 50-50?
+Maybe last who knows?
+Steve Leesman may know or it certainly has an opinion.
+He's our senior economics reporter.
+Because now we have the news, Steve,
+of that White House hearing regarding Lisa Cook.
+I wonder whether how that news is playing out on the curve
+and this hearing with, I don't think it's a stretch
+to suggest a hearing with a predetermined outcome
+if the outcome is going to be decided by the commander-in-chief
+who obviously wants Lisa Cook out.
+Yeah, ultimately, the decision I believe does.
+We'll rest with the president.
+There is a committee made up of the head of the Office
+of Government Ethics, the head of the EOC,
+as well as Kevin Hassett.
+Hassett, by the way, the NEC director has already said
+that the allegations against Cook are serious.
+And said she was being partisan by not agreeing to resign
+or step aside, in his words, in the face of the allegations
+against her.
+There's a lot of questions about this, Scott.
+We haven't seen anything like this since we believe
+the time of President Hoover, maybe.
+So what this is and the format will take,
+the power that it has are all unclear to us.
+The attorneys for Cook have said that they do not believe
+it will be a legitimate hearing.
+And Elizabeth Warren called it a kangaroo court.
+Yeah, we'll watch it play out.
+And we'll see how the market reacts.
+I guess the bottom line is the president can obviously try
+and fire anybody he wants.
+And he's already tried to fire Ms. Cook at one point.
+It's not going to change the fact, however,
+that seems this Fed has moved to be decidedly more hawkish.
+What would you say about October?
+What do you think is on the table?
+In light of where we are on an inflation standpoint,
+where inflation expectations have now moved,
+you know, relative to some of the data also?
+Well, I think that two top lieutenants of Kevin Worsh
+have spoken.
+And they've used this idea of the Fed could benefit
+from having more time.
+And those, of course, are Williams and Jefferson,
+the vice chair.
+I think that's probably where the chair is,
+I think at this point.
+Although I think there are going to be members of the committee
+who might want to move now.
+Maybe Waller is among them.
+Certainly Hammack and perhaps Logan think that the Fed
+ought to be doing more right now,
+especially as these inflation expectations rise.
+They're definitely worth watching.
+The rise in gas prices has really infected the public's
+view of the outlook for inflation in a very negative
+way, in a way that could eventually,
+or could become worrisome.
+I will say right now, Scott, that the odds of a October
+hike are only at 20%.
+They've come way down.
+And I don't think the Fed would hike into a 20% probability
+of a hike at this point.
+But Scott, you raised a broader point,
+which is the president is not going to give up here.
+He keeps attacking the Federal Reserve.
+This is seen by some as an attack on the Fed's
+independence.
+And he is blaming, and members of the administration
+have blamed the committee and not the chairman for the recent
+rate hike and the bent towards hiking rates.
+And that's part of the reason why he has this idea
+that if he gets rid of the committee,
+he can get lower rates.
+And I don't know that that's true.
+All right.
+Steve, thanks as always.
+Steve Leesman, our senior economics correspondent.
+Coming up, we do have a committee move to tell you
+about Stephanie Link has made one a new buy from a stock.
+I don't think we've ever talked about on this program.
+I could be wrong.
+I don't think so.
+We'll do it next.
+All right.
+Welcome back.
+I mentioned Stephanie Link has a new buy.
+It's a Mirian Technologies.
+I don't think we've talked about this name before.
+I could be wrong, as I said.
+But what drew your attention to it?
+We never have talked about it.
+Or at least I have never talked about it.
+What caught my eye was the constellation, energy,
+and Alphabet partnership, the 2020 year nuclear power
+partnership.
+They are going to bring 890 megawatts of nuclear power
+to the PJM grid.
+So nuclear is here to stay.
+It's actually gaining momentum.
+And I wanted to have some more nuclear exposure.
+I have a lot of power exposure, but not really nuclear.
+And what Mirian does is their mission critical hardware
+software services.
+It's used to measure and detect and monitor radiation.
+Nuclear is about 70% of their revenues.
+Medical is about 30%.
+They have recurring revenues of about 70%, double digit revenue
+growth overall.
+Gross margins are expanding.
+They've done 10 acquisitions in the last six years, which
+I think are going to be synergistic.
+And they have 1.1 billion in backlog.
+And if I told you all this, you would have thought
+that the stock would have been doing well by now.
+It's down 29% year to date because of organic growth
+being a little bit slower than expected.
+But I think these acquisitions are really
+going to help the growth rate of the company.
+And I wanted to have more exposure on the nuclear side.
+Is there something about the nuclear side
+of this equation that is not being valued by the street?
+I'm looking at Oclo, for example, because I was going
+to ask you, well, why not that one?
+And then I come to see that.
+I mean, that stocks down 52% year to date.
+There seems to be a disconnect somewhere in the chain
+between the bullishness that you have
+and how investors are viewing this.
+And perhaps it's in the way that data centers are going
+to be powered currently in at least the near future.
+Well, we don't have enough power.
+And that's why you're hearing about nuclear.
+You're hearing about coal.
+You're hearing about renewables and natural gas.
+And I believe long term, natural gas
+is going to be the winner because we have a lot of it.
+It's clean.
+We just don't have enough pipelines.
+So that's why I own EQT for the natural gas exposure.
+But this deal with constellation and alphabet,
+this is a long-term transaction
+and spring massive capacity in terms of nuclear.
+And I want to have more exposure there as the result.
+And I think most people were thinking nuclear
+would be a short-term situation.
+It's really hard to build new nuclear facilities.
+And that's why the expansion of existing
+are really very important.
+And that's what's nuanced here in my mind
+from this transaction earlier in the week.
+And I think this company has done a really good job
+in terms of delivering on expectations.
+But as I mentioned, organic growth was slower
+in the last two quarters.
+They did double-digit revenue growth, mainly from M&A.
+And so I think going forward, though,
+you were going to see better organic growth
+and better momentum on the nuclear side.
+All right, good stuff.
+Thanks for bringing that to us.
+We'll follow the stock up near 2%,
+getting a little bit of a move here on this news
+from Stephanie Ling.
+Frank Holland, speaking of news, has the news update.
+Hi there.
+Good afternoon to you, Scott.
+The FBI has reportedly arrested a man in Pennsylvania
+believed to be behind a hack
+that stole the personal information
+of thousands of FBI employees.
+According to the New York Times,
+that man is a Canadian citizen
+who was considered a primary co-conspirator
+in that September breach.
+The group, Shiny Hunters, allegedly,
+got into an FBI jobs portal
+and compromised the data of roughly 4,000 employees.
+Legendary Chicago Bears coach
+in Hall of Fame Titan, Mike Dicka, has passed away.
+Dicka, who earned the nickname Iron Mike
+for his gritty personality
+and his sideline outburst
+led the 1985 Bears to the franchise's
+only Super Bowl title.
+He also won a Super Bowl ring as a player
+with the Dallas Cowboys in 1972
+and as an assistant coach for the Cowboys in 78.
+Mike Dicka was 86 years old.
+And Arlington County in Virginia
+filed a lawsuit opposing the construction
+of President Trump's proposed triumphal arch.
+The lawsuit criticized the speed of the planning,
+saying the project has not gone through
+a full review process.
+Scott, back over to you.
+Frank, thank you.
+Frank, I'll end up next.
+Macau making big bets to reshape
+the gambling capital of the world.
+Our Contestant Brewer is there live.
+And she joins us next.
+Casino stocks like Wynn and Las Vegas Sands
+having a dreadful year
+is gambling revenues have disappointed.
+It's been much the same story overseas,
+especially in Macau.
+Despite strong visitation numbers there,
+speaking of visits,
+our Contestant Brewer has made one.
+She's live as you see.
+Tell us more.
+Well, so Scott, you would not judge
+by the visitation numbers
+what's really happening behind the scenes
+because basketball fever has taken over Macau.
+You've got 14,000 mostly Chinese fans
+filling the Venetian arena tonight.
+And you know who really hit the jackpot?
+Patrick Dumont, the CEO of Las Vegas Sands
+who's also the owner of the Dallas Mavericks.
+He's hosting the NBA China Games
+and getting to watch his own team play here.
+This year is reaching a new level.
+I think fans understand what's going on here.
+I think people of Macau understand
+how great it is to have the NBA.
+We have people coming from all over the games.
+It's really exciting.
+But then to have the Mavericks here,
+it's incredible.
+It's a dream come true.
+He really sees these NBA games
+as an investment in the future.
+But as Macau is remaking itself
+more in the image of Las Vegas,
+more shows, more sports,
+more Michelin-starred restaurants.
+Visitors are responding.
+They're coming in Droguescott.
+August set a new monthly record.
+September and October have been strong.
+But gambling revenue is falling
+lower than last year, lower than pre-pandemic levels.
+The competitive environment is really intense.
+It's got MGM and Sands taking share
+and Wyn and Melko losing share
+according to Seaport Research.
+Promotions are rampant in town
+to woo the highest value gamblers.
+And Credit Sides issued a research report
+saying it's just difficult to see the path
+for gaming spending per capita
+to meaningfully recover.
+But again, this is what the government
+of Macau wanted
+when it extracted new concession promises
+to spend big on non-gaming amenities.
+What about, I mean,
+are we seeing a commensurate thing in Vegas too
+in terms of gaming revenues being off?
+And I mean, the stocks don't lie, right?
+The stock market don't lie.
+But interestingly, all the CEOs of these companies
+say that the investors are just ignoring
+how much cash is actually being thrown off
+by these big casino companies.
+That they are, they're still making money hand over fist
+even if it's not where it was at pre-pandemic levels.
+And the difference with Las Vegas
+is that years ago,
+the majority of its revenue was coming from non-gaming.
+So food and beverage, spa, sports, hotel rooms,
+all of that makes up the bigger bulk
+about three quarters of the profits in Las Vegas
+and gambling is much smaller.
+This was considered a hardcore gambling destination.
+Well, now there's so much other stuff to see and do
+and eat that the gambling has taken on less importance,
+at least if you're a family, you know,
+coming in to enjoy basketball.
+Now, there's still hardcore gamblers coming here,
+of course, and the fight over them is real.
+Contessa, thank you.
+That's Contessa Brewer LiveForce in Macau.
+Steph, as I said, the charts don't lie.
+I don't know, you know, I keep hearing everything
+about how the consumer is great and everything else
+and these charts are just downright ugly.
+You own LVS.
+Yeah, I mean, it's a small position.
+I probably should have sold the whole thing,
+but yeah, down 44%.
+It's been a disaster, an absolute disaster.
+But I do think that there is still market share
+that they are taking in Macau and in Singapore.
+But the problem is gross gaming revenues are down 4%.
+And you didn't have any World Cup bounce.
+So it's like numbers keep coming down
+and we know stocks follow where the numbers are going.
+And so even though they're taking share,
+it doesn't matter at this moment in time.
+The stocks at 12 times earnings and Contessa was spot on
+in terms of free cash flow and the buybacks
+that they've been announcing.
+So, you know, I'm just going to stick with it.
+It's a small position.
+It's down too much.
+But I do think that there's some upside
+in the coming quarters, probably not this quarter,
+but in the coming quarters, especially on easy comparisons.
+Where's Farmer Jim, when I need him, you know?
+This is exactly where he should be.
+Man, all the days for him not to be here.
+Maybe he knew.
+Maybe he knew.
+Options actions next.
+Time to play some options action.
+We'll do it with Oliver Renek as always
+from the SIBO Global Markets in Chicago.
+Where are we looking today?
+Hey Scott, looking at some wild trading in micron.
+By volume, there are more calls trading than puts
+at 40% higher than average volume.
+But about $270 million in premiums
+so far is likely tied to put buying
+versus $230 million of likely call buying.
+And a big chunk of that spread looks like it's coming
+from someone purchasing a roughly 14 and a half million
+dollar bearish spread using deep in the money puts
+expiring in June, 2028.
+Now interpreting data at strikes that are way
+out of the money can get messy,
+but taking it face value.
+It looks like they bought the 23 and 2500 strike puts
+and sold the 2050s against them for context.
+Buying just one of those 2500 strike puts
+costs about 150 grand all in
+and starts making money about 10 bucks down from here
+in micron.
+So basically a synthetic short, Scott.
+Interesting.
+Oliver, thank you very much for that.
+We'll talk later this afternoon.
+Steph, we'll talk now about micron this trade.
+I mean, and where, you know, where this name is going.
+It's so sensitive to any news at all.
+You know, some of the way that some of these chips
+immediately traded off of that report yesterday
+regarding open AI was fairly dramatic.
+What do we think?
+I mean, well, the stock is up 260% year to date.
+So I get, you know, that there are high
+expectations for sure.
+But after the company reported earnings,
+I mean, they, I felt even better about
+that, at least the visibility.
+They talked about demand exceeding supply
+well through 2028 visibility is getting better
+because they have new customer agreements.
+They have 24 customer agreements
+and that's accounts for 30% of their business
+by 2030 over $100 billion.
+So I mean, the business is there.
+We know that we are short just about everything,
+but we are definitely short memory
+and short, short compute.
+And I think they have the pricing power
+and that was evident in the gross margins.
+And so now I'm going to stay patient with it,
+but I understand people want to take profits.
+They can.
+I don't think there's any reason fundamentally
+to be shorting the stock though.
+All right.
+We'll take a break when we come back.
+We'll tell you about the healthcare name
+that is absolutely ripping today
+and where we stand on it on this desk next.
+Told you there's a ripper in the healthcare space today.
+It's right there, H-U-M.
+It is Humana up 12% plus
+on some Medicare related news.
+Our Anika Kim, Konstantina following that story
+and tells us, tells us why the stock looks
+the way it does.
+Hey Scott.
+So Humana is actually the biggest winner
+of new star ratings for 2027 Medicare Advantage plans
+which were announced late yesterday.
+Humana said 95% of its Medicare Advantage members
+will be enrolled in plans rated four stars
+or higher in 2027.
+That's up sharply from 20% in 2026
+thanks to the company's work to improve measures
+of care quality and member experience.
+The federal government rates Medicare Advantage
+and prescription drug plans
+on a scale of one to five stars
+and higher ratings lead to bonus payments
+from the government
+that amount to billions of dollars
+and can boost plan enrollment.
+For example, Oppenheimer analysts estimate
+roughly $3.6 billion in added revenue
+in 2028 for Humana
+thanks to these higher ratings.
+Meanwhile, some rival health plans
+like CVS and alignment healthcare
+are in the red today
+after the government trimmed some star ratings
+for some of their plans, Scott.
+Anika, thank you.
+Anika Kim, Konstantina, this got your attention.
+Weiss, you hit us up immediately.
+The big deal you said.
+Star ratings are incredibly important
+not just for the big insurers
+but for smaller companies too.
+That's what drives their business.
+So it brings in membership, as we've said,
+and it also, the bonuses that CMS gives out,
+it makes them title for it.
+But more importantly for Humana,
+and I've missed the stock.
+I watched. I should own it.
+I thought you were in it at some points, no?
+I was in it at some point.
+It was a good,
+it was a good trade.
+I should have stayed there.
+The performance has been phenomenal.
+Let's keep in mind that the CEO came in
+just about three years ago
+and he's brought in new senior management
+in 24 and even 25.
+And the turnaround is, I'd say, complete.
+Now it's well on its way.
+They've rationalized the business so much,
+you know, quite a bit.
+But those star ratings at three
+were also lower.
+So to be able to turn those rounds quickly as they did
+is just incredible.
+Look at that chart, 70% staff.
+I mean, look, Weiss has UnitedHealth.
+You do as well.
+Is that your best name now in the healthcare space?
+Yeah, yes, it is.
+Well, Naterra is the only two names that I own in healthcare.
+I love Naterra, but it's very expensive.
+UnitedHealthcare, I think, in the managed care space
+is absolutely the one in my mind to own.
+When you can get this stock
+at 19 times forward estimates
+when it's historical range is at 23
+and it's trading at 15 times EBITDA
+that's typically at 19 times.
+So it's a big discount.
+You have a great leader
+who is really turning the company around.
+The big key though, Scott,
+next week when they report earnings
+is going to be all about their medical loss ratio,
+what the guidance is,
+what the cost framework is going to be
+for the second half of the year and into 2027
+because we know utilization rates are going higher
+and not only they're going higher
+but seasonally they're also going higher.
+So we want to see if they can contain those costs.
+I think they will.
+And I think the stock is definitely best in breed on sale.
+I would be owning this all day.
+You're number one name and excuse me
+in healthcare is it Abby?
+Is that V? Yeah, absolutely.
+And I think, you know, for me
+as it has a relationship kind of biopharmor
+they, you know, immunology
+immunology is their story
+but they continue to diversify outside
+that obviously there's a lot of talk
+of SkyRizzy and Renvoke
+and how well those businesses have done
+and they have gotten away from Humira as a biosimilar
+but they are expanding outside of the immunology space
+which I think is accreted for them long term.
+So I continue to like that one.
+Okay, we'll take a break.
+We'll do finals on the other side.
+Our Professor Siegel and Tom Lee
+are going to join me at three o'clock today.
+So good guests to have
+as we head into the weekend
+and we'll track the last hour of trade.
+Let's do some final trades.
+Stephanie Ling, what do you got?
+Wells Fargo.
+I actually think they're going to have a very good quarter.
+I think net interest margins have bottomed.
+The stock has lagged
+and I expect better profitability targets as well.
+Okay, Robert.
+HPE Hewlett Packard Enterprise.
+I think they're going to be a beneficiary
+of Enterprise AI adoption.
+They're at a reasonable valuation
+and you know, still cheap.
+Okay, Jason Snike.
+Arista Networks revenue guidance continues
+to get revised upwards.
+I like this one here.
+I think there was an upgrade on this name today.
+Yeah, got called out positively by somebody
+or didn't it?
+That's why the stock's up, I think 3%.
+We just didn't have a chance to get to it.
+So I'm glad you referenced it here.
+Yep.
+What do you got?
+Yeah, I'm going with UNH.
+I think it's got some catching up too.
+They're reporting to 13.
+Okay.
+All right, great stuff.
+Good weekend, you, everybody.
+You as well.
+I'll see you three.
