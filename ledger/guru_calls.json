@@ -115,6 +115,7 @@
   "CsUN0IRpuZc",
   "D0nb_kODRSc",
   "D4aM5goQs9I",
+  "DOKdmy85MvY",
   "Dqe8ZC2644M",
   "Dv2px5EDiQU",
   "EIAGqOk-0p4",
@@ -8273,6 +8274,10 @@
     "7d": {
      "pct": -6.66,
      "win": true
+    },
+    "14d": {
+     "pct": -0.61,
+     "win": true
     }
    }
   },
@@ -8293,6 +8298,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.66,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.61,
      "win": true
     }
    }
@@ -8315,6 +8324,10 @@
     "7d": {
      "pct": -6.66,
      "win": false
+    },
+    "14d": {
+     "pct": -0.61,
+     "win": false
     }
    }
   },
@@ -8335,6 +8348,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.66,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.61,
      "win": false
     }
    }
@@ -8357,6 +8374,10 @@
     "7d": {
      "pct": -6.66,
      "win": false
+    },
+    "14d": {
+     "pct": -0.61,
+     "win": false
     }
    }
   },
@@ -8377,6 +8398,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.66,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.61,
      "win": true
     }
    }
@@ -8776,6 +8801,10 @@
     "14d": {
      "pct": -1.95,
      "win": null
+    },
+    "21d": {
+     "pct": 0.22,
+     "win": null
     }
    }
   },
@@ -8801,6 +8830,10 @@
     "14d": {
      "pct": -1.95,
      "win": false
+    },
+    "21d": {
+     "pct": 0.22,
+     "win": true
     }
    }
   },
@@ -9602,6 +9635,10 @@
     "14d": {
      "pct": 18.18,
      "win": false
+    },
+    "21d": {
+     "pct": 26.4,
+     "win": false
     }
    }
   },
@@ -9626,6 +9663,10 @@
     },
     "14d": {
      "pct": 18.18,
+     "win": true
+    },
+    "21d": {
+     "pct": 26.4,
      "win": true
     }
    }
@@ -15614,6 +15655,10 @@
     "7d": {
      "pct": -6.66,
      "win": true
+    },
+    "14d": {
+     "pct": -0.61,
+     "win": true
     }
    }
   },
@@ -15634,6 +15679,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.66,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.61,
      "win": false
     }
    }
@@ -17876,6 +17925,10 @@
     "7d": {
      "pct": 1.27,
      "win": false
+    },
+    "14d": {
+     "pct": 5.3,
+     "win": false
     }
    }
   },
@@ -19129,6 +19182,10 @@
     "14d": {
      "pct": 1.14,
      "win": null
+    },
+    "21d": {
+     "pct": 3.07,
+     "win": null
     }
    }
   },
@@ -19153,6 +19210,10 @@
     },
     "14d": {
      "pct": 1.14,
+     "win": true
+    },
+    "21d": {
+     "pct": 3.07,
      "win": true
     }
    }
@@ -19381,7 +19442,12 @@
    "video_title": "Is Physical AI Tesla's Real Moat? Jeff Lutz Says Yes #Tesla",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19397,7 +19463,12 @@
    "video_title": "Why Is Tesla Stock Falling? Jo Bhakdi's Take #Tesla",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19551,7 +19622,12 @@
    "video_title": "The Fed Hiked. Tom Lee Is Still Bullish.",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 9.07,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19567,7 +19643,12 @@
    "video_title": "TSLA Breaks Below $350 Support: What Bulls Must Do This Week",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19583,7 +19664,12 @@
    "video_title": "TSLA Breaks Below $350 Support: What Bulls Must Do This Week",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19599,7 +19685,12 @@
    "video_title": "TSLA Breaks Below $350 Support: What Bulls Must Do This Week",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19678,7 +19769,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19694,7 +19790,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19710,7 +19811,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19726,7 +19832,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19742,7 +19853,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19758,7 +19874,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 1st, 2026",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19774,7 +19895,12 @@
    "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19790,7 +19916,12 @@
    "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19806,7 +19937,12 @@
    "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19822,7 +19958,12 @@
    "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19838,7 +19979,12 @@
    "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -19854,7 +20000,12 @@
    "video_title": "#TSLA SELL SIGNAL DEEPENS \u2014 $342.02 NEXT? #Tesla #daytrading",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.48,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -20222,7 +20373,12 @@
    "video_title": "The Space Sector Is Breaking Out: $SPCX, $LUNR, $RKLB & $ASTS Targets",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 11.1,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "SPCX",
@@ -20238,7 +20394,12 @@
    "video_title": "The Space Sector Is Breaking Out: $SPCX, $LUNR, $RKLB & $ASTS Targets",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 11.1,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "LUNR",
@@ -20254,7 +20415,12 @@
    "video_title": "The Space Sector Is Breaking Out: $SPCX, $LUNR, $RKLB & $ASTS Targets",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.19,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "RKLB",
@@ -20270,7 +20436,12 @@
    "video_title": "The Space Sector Is Breaking Out: $SPCX, $LUNR, $RKLB & $ASTS Targets",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.21,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ASTS",
@@ -20286,7 +20457,12 @@
    "video_title": "The Space Sector Is Breaking Out: $SPCX, $LUNR, $RKLB & $ASTS Targets",
    "date": "2026-09-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.04,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "DKNG",
@@ -21053,6 +21229,70 @@
    "channel": "Wicked Stocks",
    "video_title": "#TSLA IS RALLYING \u2014 CAN IT BREAK THE $401 SELL ZONE? #Tesla #daytrading",
    "date": "2026-10-06",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 384.27,
+   "stop": 369.02,
+   "target": 401.08,
+   "horizon_days": 5,
+   "quote": "you can go long with a settlement above 38427 or go short with a settlement below 36902",
+   "video_id": "DOKdmy85MvY",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
+   "date": "2026-10-07",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 369.02,
+   "stop": 384.27,
+   "target": 352.84,
+   "horizon_days": 5,
+   "quote": "you can go long with a settlement above 38427 or go short with a settlement below 36902",
+   "video_id": "DOKdmy85MvY",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
+   "date": "2026-10-07",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 396.77,
+   "horizon_days": 21,
+   "quote": "Anticipating a retest of the 39677 to 40108 region. So that is kind of our 2 to 3 week outlook.",
+   "video_id": "DOKdmy85MvY",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
+   "date": "2026-10-07",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": 401.08,
+   "stop": null,
+   "target": 540,
+   "horizon_days": null,
+   "quote": "if we happen to close above 40108 on Friday or any Friday coming up, that shifts our focus decisively into the bullish column",
+   "video_id": "DOKdmy85MvY",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
+   "date": "2026-10-07",
    "affiliated": false,
    "outcomes": {}
   }
