@@ -1,0 +1,1150 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+Time for a quick break to talk about McDonald's.
+When morning hunger hits, nothing satisfies like a McDonald's breakfast,
+especially when it's $5.
+That's right, get a delicious big breakfast with hotcakes for just $5.
+Talk about the perfect breakfast.
+Price and participation may vary.
+I'm Scott Wopner and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+All right guys, thanks so much.
+Welcome to the Halftime Report.
+I'm Scott Wopner, front and center of this hour in a video's mega moment.
+The stock is surging.
+Post journeys, you all know that.
+We'll discuss in debate now what it means for the AI trade and the markets.
+Joining me for the hour, Josh Brown, Malcolm Etheridge, Jason Snipe,
+and Brian Belski.
+We're green across the board,
+sort of figured that would be the case.
+But there are some interesting market moves that we're going to get to
+as much for things that aren't moving on the back of what NVIDIA delivered.
+So the number that jumps out to everybody is the 70% guide for revenue growth in 2028.
+The street was at 44.
+Why?
+Because it's kind of hard to see out to 2028.
+But NVIDIA is attempting to do that.
+It usually never goes out that far for obvious reasons, right?
+It's a tricky proposition to try and do.
+The suggestion is that it would have been even higher if not for supply constraints.
+Gross margins were in line.
+That was a question too.
+Our question is not so much about the print.
+Everybody knows it was amazing.
+But what does it mean now for the stock?
+Down eight of nine days going in, it's having a nice move now.
+16 target hikes.
+Ray J, they go to 515.
+That looks to me to be the highest on the street.
+They were at 352 because they were blown out of the water by what they got.
+Strong buy, they say a trillion dollars in sales by 29 seems possible.
+So everybody owns it.
+Josh, we'll start with you.
+What do you make of what we got and what the stock's doing now?
+Okay.
+So a couple of things jumped out at me.
+We'll start with what you just said, which I think was really interesting.
+Jensen said they have never forecasted out a year in advance,
+but they have more visibility now.
+Why do they always have more visibility?
+It's an installed base that is so gigantic relative to what we were talking about two to three years ago.
+We know not only the amount of data centers all over the world that are starting out with NVIDIA GPUs,
+but what the replacement cycle will look like as NVIDIA upgrades,
+which they're doing on a ridiculously rapid cycle.
+And these chips don't last forever, especially if you're using them for training,
+burnout really fast, the amount of influence that's happening.
+It's not like, all right, we built the data center, we bought 200 black wells.
+We're good for forever.
+We think maybe you're good for three years, four years.
+So that's where that visibility is coming from.
+I thought it was key.
+Two other words that are the most important words out of all of the remarks that I heard.
+One of them is visibility, but the other one is fungibility.
+And this is really critical.
+One of the knocks on the stock over the last year, or one of the overhangs,
+was this idea of competition coming from application-specific integrated circuits,
+coming from all of their competitors doing different things,
+getting by with TPUs, with Trainium, et cetera, et cetera.
+They announced a massive deal with Amazon making it very clear that the GPU will always be central
+to that particular hyperscaler.
+And they talked about the non-hyperscaler revenue, the ACIE.
+Every model, every region runs on NVIDIA.
+They can do compute rent.
+They can do sovereign clouds.
+They can do the AI labs, the NEO clouds.
+The fungibility of NVIDIA compute, the platform itself, is the primary thing here.
+And I thought that that was a really interesting thing for Colette to focus on
+and then for Jensen to double down on during the Q&A.
+Malcolm, your take on what you think this now means for the stock itself.
+Yeah, one of the things I was looking for, I told you yesterday when I was on closing ballot,
+I was looking for was that proof that NVIDIA has figured out a way to become less reliant on Meta and Microsoft.
+It's two biggest customers by a long shot.
+And Josh mentioned for a second the non-hyperscale revenue.
+I think that was an important point because they just started breaking that out as a separate metric.
+Three earnings periods ago.
+And they already have shown that they've taken that number down from 59% to 55%,
+which doesn't sound material until you consider this is a $5 trillion company.
+So every one percentage move matters.
+And so I think it says something to the street that we have figured out a way to sell our chips to whoever is available to buy them.
+Not only that, they've also been investing for years now in growing their next customer to come and unseat those hyperscalers.
+And I think we're seeing that that's finally starting to pay off.
+I feel like when we had this conversation yesterday that you had a reasonable amount of skepticism in your voice
+and in your head in terms of believing that they could accomplish what you think they may have actually accomplished last night.
+Is that fair?
+It's fair except it's not that I didn't think they could accomplish it.
+I didn't think they would accomplish it this fast.
+So them being able to decouple themselves from those two core customers goes a very long way.
+There's another piece that I've been tracking from NVIDIA since before I was even a shareholder,
+which is the level of their receivables versus their inventory.
+And over the last four quarters, that number started to shift from that two to one ratio that it was
+that has been dominant in this streak they've been on for the last three years that made me really like their standing.
+It started to disappear.
+This last period they just reported numbers that show that it's back.
+So we're talking about something like $63 billion in receivables versus $31 billion in inventory.
+So once again this company is all sold out for the next 12 months.
+That again gives me more confidence in the company's ability to deliver and not be so reliant on just two companies.
+Okay, so let's leave that chart up.
+Put that guys back up before me please.
+So, Snipes, do you think this is now finally that moment where we see a considerable
+stair step up like we have in prior instances on that chart after going sideways here for a bit
+to give this stock that next meaningful leg higher?
+I do.
+I do.
+And it's a lot of what Malcolm and Josh just mentioned.
+They have strategically widened the tent.
+Right?
+So if we think about the hyperscourses, they're the most profitable companies in the world.
+That business grew 13% sequentially 102% year over year.
+But if you think about Neocloud, Sovereign, Enterprise, those companies grew 25% and 138% respectively.
+They're growing twice as fast.
+I know it's a much smaller segment.
+But when you widen the tent in the manner in which they are, this is the opportunity.
+This is where all the chickens come to roost.
+And this is the opportunity and inflection point I think for NVIDIA.
+So I like what's happening here.
+I also think about what's going on with private equity, the $500 billion investment that obviously Jensen architected,
+which makes semiconductors an investable asset.
+Financing becomes far more available, which I think is just going to grow this space even more for the entire ecosystem.
+So I like what's happening here.
+I want to address the issue of returning cash.
+I thought Josh used two words that perfectly set us up for that part of the conversation.
+Installed base.
+Can you now look at NVIDIA as having the most important, durable, meaningful installed base,
+like Apple has on the consumer side, NVIDIA now has on the enterprise side.
+And will that mean that this company will think about an Apple-like buyback?
+Maybe not this time because they didn't do a shock and awe buyback decision.
+But they may very well think about doing that in the quarters ahead to which Jensen Wong said to Jim Kramer last night on MAD.
+He does expect buybacks to go up.
+He said the stock was, quote, a tremendous opportunity.
+How would you entertain the idea of an installed base and then returning more cash to shareholders in another Apple-like moment?
+I'm going to use what Malcolm said because he said it first and I'm going to copy him.
+Like we said yesterday on closing bail, you hinted at about this when you started talking about Apple yesterday.
+If you take a look at how you run a business, what Jensen has done, like Apple's done, they've created the annuity.
+You have the base of business.
+You look at that chart, it is a fantastic, amazing long-term chart.
+Josh has a better chart than I am.
+You talk about the stair step pattern of the price increase is number one.
+Number two, I talked about it yesterday, consistency.
+I'll add that from the visibility and fungibility.
+The consistency of this company is amazing.
+Now they've created the base and he, if you saw the way the stock was trading right after the earnings came out,
+down, we'll sell the news.
+Then all of a sudden he started to talk and he reexamined and re-put forward his consistency,
+not only from a deliverable of the product, from the earnings, from the gross margins,
+but now Scott, he has already told you that they're going to be a consistent buyer of their shares.
+For us, a long-term shareholder and a long-term investor, we really like that.
+It's not like Apple is the only maker of mobile devices.
+They have just assembled and installed bases that I think is, inarguably,
+the most powerful installed base in the history of consumer products ever.
+It's not to say that others aren't trying to compete with Nvidia,
+but until somebody comes up with something better,
+which doesn't seem like that's likely to happen in the very near future, to say the least,
+then doesn't it have the same installed base effect that Apple has on its customer base
+that Nvidia has on its?
+I made this argument 10 years ago before there was consumer AI or large language models
+because we were talking about Nvidia in machine learning at that time.
+I've been saying the entire time the secret here is CUDA.
+CUDA has been around almost as long as they've been selling GPUs to the video game industry.
+CUDA far predates AI,
+but CUDA is the thing that every professional in the field has standardized on.
+This is what they've learned.
+This is what they've been certified with and trained with,
+and that software platform is the reason why Nvidia is the default option for all of this build-out.
+What makes this real, for me, what makes this really notable,
+they did $26 billion in buybacks and dividends in Q2,
+which sounds like a lot, it would be for any other company we could talk about,
+but they have an authorized $99 billion buyback in place already.
+At any point they want, that could go to $200 billion.
+It's just authorized, doesn't mean they have to do it.
+Here's what that does if you're long the stock as a shareholder,
+whether you're an institution or whatever.
+When you see this thing inevitably, people get bored with it
+and it trades back down to 211, 212.
+Yeah, there are people selling the stock, maybe smart people.
+Nvidia is buying it from you,
+and they're buying it from you at a below market multiple at those prices,
+so feel free.
+You think there's something better you can buy?
+You think there's another company who can give you 70% revenue growth through 2028,
+give you that level of visibility and you actually believe it?
+Go ahead, buy the stock.
+I don't know of any other.
+Who else can tell you?
+Here's our forecast.
+We think it's locked in already with the sales contracts we have.
+It's 70% plus.
+We're still ahead of everybody in the game.
+And by the way, if you don't believe us, no problem.
+We'll take that stock off your hands.
+Apple did that for 12 years.
+Yeah.
+Multiple rows from 12 times earnings, 10 times X cash,
+all the way up to wherever it is today, 35 times earnings.
+Apple steadily was able to buy stock and justify it
+because they thought it was the best place to put cash.
+That's what I think the shareholders of NVIDIA should take away from today
+in terms of why stay, why not just take the 9% pop right now?
+But a share buyback is not the reason to be owning this company.
+No, it's where the floor comes from.
+Apple's not going to grow, no offense to anyone at Apple.
+Apple's not going to grow at nearly the same rate as NVIDIA is growing their top line.
+They basically double top line revenue in just one year.
+Apple's not going to do that.
+So why do I want them to buy back the shares?
+I want you to take the $50 billion of free cash flow you're throwing off every year
+and plow that back into growth somewhere.
+Like, let's figure out where the next wave is going to come from
+so that when we're not talking about GPUs anymore three years from now,
+Jensen Wong is still the guy we want to hear from.
+Well, why are they mutually exclusive?
+They're not.
+The best companies in history do both.
+Why can't you do both?
+You can.
+I'm just making the point that I don't really care about them
+increasing doubling the share buyback from this point.
+As a shareholder, that's not the primary reason that I want to own NVIDIA shares.
+So when you hear people complaining about it,
+like people who own Berkshire Hathaway don't own it for the dividend.
+Well, I don't think anybody is suggesting that the number one reason you want to own NVIDIA here
+is to plow a bigger buyback.
+I don't think anyone at this desk is suggesting that.
+There's no dividend that Berkshire Hathaway.
+I know that's my point.
+You don't own Berkshire Hathaway because you care about the dividend
+but that hasn't stopped them from being able to.
+We gave a list, I think, over the last couple of days.
+We're thinking about what this report was going to mean,
+not only for NVIDIA itself.
+And I think we're checking the box, at least for a day,
+on what a great report and maybe some intangibles that we didn't anticipate,
+the 70% numbers, the reason why the stock's up 9%.
+Not because of the quarter itself.
+That just blew everybody out of the water.
+So we answered the question, at least initially,
+on the next leg for this stock, potentially.
+The other question we have,
+what does it mean for the AI trade in general?
+What's up with the market reaction today, Jason?
+I'm kind of surprised, I think, on any other time
+you'd sort of look at the NASDAQ.
+They're buying software.
+1.3% gain for the NASDAQ.
+Okay, fine.
+But mega caps, they're mixed at best.
+Three of them in front of me now are red.
+It's not like every chip name in the book is up today on this.
+AMD's down, Micron's down, Marvell's down.
+They're buying the IGD names.
+I get they're buying software.
+Not everything there either, though.
+We'll get to that in a minute.
+But why the, what I think you can credibly say
+is a more muted overall reaction within the tech
+and AI orbit after this?
+No, that's true.
+I mean, that's true if you kind of look at the tape
+and kind of what's going on.
+But I will counter it and say what is working, right?
+So when I think about NVIDIA as really the AI stock,
+the bellwether, right?
+And I almost look at the downstream effects
+and think about like AI infrastructure.
+Those names eaten, other names are working today.
+Cyber security, yes, we heard from Crowd Shrike
+and what an unbelievable report there.
+And obviously Palo Alto and all the other names
+are kind of moving on that report.
+You know, I just think that this is something
+that's going to continue to be digested.
+What happens with market share?
+Memory costs are still an issue, right?
+They did talk about, from a longer term perspective,
+obviously that's kind of the 70% number.
+It talks about the other names outside of hyperscalers,
+but supply chains are still a more short-term challenge.
+Western Digital's down, some of the other memories are down.
+So I think it's a bit of digest on the report,
+but I think in terms of longer-term tailwinds,
+it's a positive.
+Let me submit maybe something else into the courtroom, okay?
+Judges can occasionally just do that.
+I'm just going to take it upon myself to do that.
+What if the reason is because the debate over data centers
+is only growing louder and the backlash seems to be growing too?
+And that is now a formidable push against these stocks,
+a potential existential threat to these stocks,
+at least until you get to and through the midterms.
+If you want some information, Wall Street Journal today,
+data center disenchantment, 71% of respondents said
+they would oppose the construction of a data center
+in their local area.
+Just 53% said they would oppose a nuclear energy plant.
+If that's not a statement in and of itself,
+frankly, I don't know what is.
+Shapiro in Pennsylvania, Abbott in Texas,
+Rogers for Senate in Michigan,
+he came out in support of a one-year moratorium
+on building new data centers.
+This is not a red state thing.
+It's not a blue state thing.
+It seems to be a growing almost every state thing.
+Here's Alger portfolio manager, Ankara Crawford.
+She owns so many of these stocks.
+She was all with me yesterday on closing bell.
+She said she's concerned about the issue. Listen.
+The midterms coming.
+This has been a key worry on the entire AI trade
+that midterms would be almost like a kill the robots
+kind of moment where now it's like kill the AI moment.
+And do we actually stop the growth of artificial intelligence
+in our country, which would be really a disaster
+for us in our country?
+Okay, so that's Ankara Crawford, Sam Altman,
+open AI, of course.
+It's a time magazine yesterday, quote,
+clearly people hate data centers right now.
+At least people are pretty negative on AI.
+I mean, you had Dario Amode of Anthropic talking about
+the negatives of AI recently.
+Is this an existential threat right now?
+No.
+It'll seem that way and then we'll have the midterms
+and the midterms will come and go.
+There'll be a little bit of a reshuffle in the Senate
+and in Congress and we'll be talking about something else.
+Are these names in the penalty box then until then?
+Not really.
+I mean, I don't think that that would be the reason why
+I think what Jason said about supply chains
+and just the fact that these companies can't even meet
+all of the existing demand
+is a bigger reason for why these stocks are in drawdowns.
+I understand that the politics of it, it will get louder.
+And here's what these moratoriums are about.
+They're about incumbents just getting reelected
+and once they do, they'll stop.
+I understand.
+This is not just about politicians.
+This is about people too.
+People are upset and not without reason
+and I'm not dismissing it as an issue like
+should people care about where the clean water is going
+and should people live next door
+to something that's humming or glowing.
+I'm not minimizing the problem that people have with it.
+The point I'm making is these things will get built.
+You might be surprised with where they end up getting built.
+It could be slower.
+Some of these projects take a little longer to come to fruition.
+Isn't that bullish?
+If they get built more slowly,
+doesn't that just lengthen the cycle
+and prevent us from having a full-blown chip
+and photonics bubble?
+I think that's bullish in the rearview mirror.
+To Scott's point, if that is the case,
+that explains why we've seen $800 billion worth of spending commitments
+from four companies this year,
+trying to get ahead of the backlash that they know is coming.
+If companies are not stupid, they know what the public sentiment is
+and a lot of these deals that have been done in the dark,
+so to speak, people's towns coming out
+and saying this was done without us being part of it,
+they knew that was coming.
+Maybe what we're seeing is a pull-forward of all of that demand
+for all of the things that go into the data centers and everything else,
+because they knew November 2026 was when we hit a wall.
+I'm just wondering, give me a caterpillar, for example,
+give me a year to date.
+This is a name that was lumped into a data center or AI play
+for obvious reasons of what they do.
+If you're going to change the equation,
+Belsky, you own cat?
+No, who owns cat here, anybody?
+All right, but if you're going to change,
+but a lot of you guys own,
+I have an importer house, I have cat.
+So if you're going to change the equation on the timing
+of when you think these things are going to be built,
+do you have to rethink how you feel about names like cat,
+at least over the next handful of months?
+And if not, why not?
+Why?
+So I think no.
+I mean, I think the backlogs that these companies,
+the backlogs that these companies have,
+the timing may be somewhat uncertain
+of which project gets built when,
+but we're talking about literally tens of thousands of projects
+all over the world on every continent.
+And I just, I really don't think a midterm election
+is going to change the trajectory meaningfully
+of this build-out.
+I just don't know if the midterms
+are necessarily the clearing event
+that some are talking of them to be.
+We can't agree on anything virtually in this country,
+barely that the sky is blue.
+But yet you have 71% of respondents here,
+71%, seven out of 10 people saying,
+not in my backyard.
+They did this with Cell Tower.
+They did this with Cell Towers a generation ago.
+I was here.
+I was on Wall Street.
+I was investing.
+And I remember hearing the same thing.
+The public doesn't want cell phone towers.
+Well, you got them anyway and life went on
+and people made money.
+It's, there is an issue.
+We're going to debate it.
+It's going to get louder.
+And I'm not even telling you that I'm for
+unlimited build-out of data centers anywhere.
+I just think they're going to get built.
+I think it's the binary action of Scott
+what we thought about.
+We need data centers.
+So then everyone's going to go buy the data set a trade.
+Then we see the shiny objects
+like Micron down pretty big today.
+Why was it down big today?
+Because all of a sudden,
+NVIDIA threw up the number that it did.
+And maybe we should own NVIDIA for the long term.
+Our view on the data center side is,
+let's just keep it simple.
+We want to buy the OG utilities
+because at the end of the day,
+you still need power, right?
+So that's why we met like next era
+and First Energy and Southern Corp.
+Because I think in the meantime,
+those are going to be names
+that I think are going to be much more consistent.
+I get that.
+But that's a great example that you use, utilities.
+I don't know what utilities historically trade at
+from a multiple standpoint,
+but I can probably bet you that a lot of these
+are trading ahead of whatever their historical averages are
+because there's so much excitement
+about the build out of data centers
+and what you're talking about
+and the need for power and what have you.
+And if I'm telling you that the equation may change
+even if it's in the near term,
+then as an investor,
+go ahead and justify ahead of a historically lower multiple
+and you tell me why these stocks
+would deserve to trade where they do now.
+Yeah, there's no doubt that the utility sector
+in the S&P 500 is trading at a premium relative to history,
+but if you take a look at the internal fundamentals,
+free cash flow is up big time
+and debt to equity,
+which is always a big issue with utilities
+is coming down.
+And so that's been very strong longer term for this
+and that's why we remain in the names
+that we just nailed out.
+All right, let's talk software
+because we did have a clean sweep last night.
+Salesforce having its best day since 2020.
+All right?
+Almost seven years,
+actually seven years virtually to the day.
+On their AI growth, their anthropic investment gain,
+they raise their guidance.
+Certainly the pressure comes off a bit.
+The stock's still down on the year.
+Nonetheless, you'll take a 20% gain
+and you'll take what the residual impact here is too.
+Look at Snowflake and ServiceNow, for example.
+Snow's next week, it's up 89% in three months.
+That's an incredible number.
+Malcolm, you own ServiceNow, right?
+Jason owned Snowflake.
+What do you guys think?
+You own Snowflake too.
+I'll just say quickly, CRM checked every box.
+If you are an investor worried about AI disruption
+and you've been sitting in the stock
+and watching it recover since the lows in June,
+you're just saying to yourself,
+please check those boxes and they did it.
+They announced Cloudforce, which is an AI CRM
+powered by, you guessed it, a partnership with Anthropic
+who everybody wants to be in business with right now.
+Free cash flow is up 81% year over year,
+throws that whole narrative out the window.
+And the most important thing,
+new major, not minor, major customer wins and expansions
+with Booz Allen, Mercedes-Benz, the World Cup, Robin Hood.
+These are the boxes people want to check.
+They check the boxes.
+The stock reacted the way it did because it got too cheap.
+Yeah, and a lot of these names are run.
+I mean, look at Snowflake.
+I mean, Snowflake's at 50% year-to-date.
+Brian, it's about 89% in three months.
+You got it.
+And I mean, on the last print, it was a phenomenal print.
+EPS was up 68%, revenue was up 33%.
+Revenue, 30% is their North Star
+and they're obviously trending above that.
+Their whole deal is performative data in the cloud
+and that's what they continue to execute on.
+So that's why I continue.
+You know how cheap this stock was?
+It's up 20% today.
+The best one day ever since the COVID.
+And it's still 17 times forward earnings.
+It's crazy.
+It was 14 going into the report.
+The last thing I'll add to that as far as the trend is concerned.
+And then do that and then talk crowd, too.
+Because crowd's now up 90% year-to-date after what it did
+and you got target raises there, too.
+So do that.
+Well, let me forget Salesforce.
+Let's talk crowd.
+I care a lot more about cybersecurity.
+Octa hit a 52-week high, too.
+So cyber's been big focus today.
+Go ahead.
+What a great day to be here.
+So the big thing from a cybersecurity standpoint
+is these earnings have proven that identity is everything.
+So any of the companies out there talking about identity,
+it's the reason that Palo Alto did the big acquisition
+that they did of cyber arc last year,
+something like $25 billion, I think it was.
+It's because these companies have to get bigger in identity
+because as we're told by Sam Altman and anybody else
+in that space that eventually there will be far more agents
+than they are crawling the Internet
+than there are actual humans,
+you have to have something and someone in place
+to help make sure that those agents don't go rogue.
+Otherwise you get what we've gotten in the last two months
+with all of these big frontier model makers telling us,
+oops, my bad, it jumped out of its sandbox
+and went and attacked one of our friends.
+And so the way that these companies are going to continue to grow
+is going to be able to add in additional products
+and offerings like CrowdStrike, like Octa and others
+where we can sit and confidently tell you
+as the CISO of a company,
+they can help you identify who's supposed to have access to what
+and what they're doing with that information
+and also dynamically insert ourselves and shut them down
+the moment they've tapped into something
+they have no business accessing.
+There are only going to be four or five of these standalone
+cybersecurity companies that can provide
+that level of confidence when they sit
+other than maybe Microsoft
+because that's the big gorilla in the room
+and I think we're going to see a lot more acquisitions
+like the one I'm talking about.
+Octa might be one of the companies
+that are wired very soon because there are very few
+that can do what they do in the world of identity.
+All right, great stuff, great start.
+Coming up, top calls of the day,
+Josh Brown also has his best stocks in the market
+coming up and new name on the list as well.
+We'll tell you about it after the break.
+Hey, everyone, it's Tom Holland here
+and I'm jumping in to tell you about Biro.
+I created Biro because I wanted a non-acolic beer
+focused on what went in, not what was left out.
+So I teamed up with an incredible brewmaster,
+Grant Wood, and created four classic beers
+including crisp pills, wheat, and bold IPA styles
+made with the best ingredients and no shortcuts.
+Exactly what you'd expect from your favorite beer.
+Check us out at birobrewing.com
+and use the code Biro Podcast
+for 20% off your first pack.
+Cheers.
+Goussakumab, taken by injection,
+is a prescription medicine for adults
+with active psoriatic arthritis.
+Serious allergic reactions,
+increased risk of infections,
+or lower ability to fight them,
+and liver problems may occur.
+Before treatment, get checked for infections
+and tuberculosis.
+Tell your doctor if you have an infection,
+flu-like symptoms, or need a vaccine.
+Imagine being a million miles away.
+Explore the possibilities.
+Ask your doctor about trimfaya.
+Tap this ad to see new joint data
+and learn more about trimfaya,
+including important safety information.
+You know that moment when everything lines up,
+when life gives you the green light
+and you just go.
+That's the 2026 Toyota Camry.
+No hesitation, no friction,
+just a car that's right there with you.
+Ready, responsive, in control,
+the whole way through.
+Because when it's your moment,
+you shouldn't have to think twice.
+The 2026 Toyota Camry.
+Go like you mean it.
+Test drive at your local Toyota dealer
+or visit toyota.com today.
+Toyota, let's go places.
+See packages and options at toyota.com
+for future availability.
+Let's do some calls.
+Take a look at Blackstone.
+So the target goes to 171 from 140.
+It's reiterated by today
+at Oppenheimer.
+So that's about 20% more or less from here.
+Jason, you own that.
+And I thought that it was worthwhile
+to have a conversation about what's been happening
+in the private equity space,
+private credit space
+after endless, endless talk.
+For appropriate reasons, by the way.
+For months.
+Because over the last month
+and over the last three months
+this trade's looked a lot better, hasn't it?
+100%. A lot of that is due to
+what's going on with software sentiment.
+Good point.
+We're seeing the price action today.
+It's close to 7% year to day,
+but it's up 8% in the last month.
+Total AUM, $1.35 trillion.
+They've got inflows
+of $263 billion this year.
+So to your point, Scott,
+private credit is acting better.
+Obviously private equity is looking better.
+Multi-asset investing is improving.
+And we already talked about the inflows.
+So the major investment
+as well, which we talked about in the A block
+in terms of AI infrastructure
+is starting to see some yield.
+So I like this space
+like where this is right now
+in terms of
+where it is from a price action standpoint
+and I think it's very investable.
+You're Blackstone and Apollo.
+So you've got a couple of different things.
+You like Apollo here too?
+I like Apollo as well.
+They trade a little differently.
+Different businesses,
+but obviously in the same space.
+Apollo as an alt manager
+and I like what they're doing
+as a trajectory around that private equity
+alt manager space.
+You're Carlisle still, right?
+Yes, I own some Carlisle.
+I'm not really big into this space.
+So these companies
+and their products used to be
+a lot more diversified away
+from just regular stock market beta,
+bond market beta than they are these days.
+I think it's basically all one big trade.
+Barring and recession,
+these companies should all do okay.
+If we do go into a downturn,
+equity investments in these companies
+will probably fall worse.
+So it's highly prosyclical.
+Not as big of a diversifier
+as it used to be.
+I have better charts on my screen
+and I have better uses of cash.
+So I'm not really getting heavily
+or looking for more names in this space.
+Regions financial, I wanted to hit that.
+It got downgraded today.
+Was it buy, it's now at hold.
+It's Deutsche, it's 34 bucks.
+They long-term track record solid,
+right? They have a number of other
+highlights that they say.
+However, they wonder what could drive
+meaningful further upside
+to either earnings or the stock?
+You have an answer?
+Yeah, we do. I think it's a great value
+in dividend growth name.
+12.5 times earnings, 3.5% dividend yield.
+They have a very consistent
+track record of managing their credit.
+And they're a regional bank,
+thanks Brian, Regions Financial,
+but they're in the right region as well.
+We're from an economic perspective
+in terms of not only corporate growth
+but civic growth. That's a good growth
+area, so that's why we like the stock.
+So we think that the earnings are probably too low.
+So we had Nike just
+to show people what the stock is doing now.
+It's having its worst year since 93.
+We're looking at being down
+for five straight years.
+That's incredible to me.
+You sold out of it, right?
+Yeah.
+Like a month ago. I was in the stock
+so Dick Sporting goes with recent.
+Stock was down a bunch because of footlocker
+issues.
+On holdings down a bunch after
+their earnings.
+You're not Nike anymore, are you?
+No, we sold it about six months ago.
+We just didn't see the operating.
+We were on the show that day, we were talking about it
+and
+it's a broken growth stock.
+And from an operational perspective,
+we just didn't see the turn.
+The comps
+on footlocker down 4%.
+But the biggest problem with Dick's are two things.
+Number one, how they talked about their guidance
+and number two, operating margins
+were down more than 500
+basis points from where
+they were projecting it.
+So that lost some credibility. We still like it
+because of the assets that they own.
+I think they'll turn it around.
+But that's clearly now a broken growth story as well.
+So we'll take a break. We will come back with
+Josh Brown's best stocks in the market.
+Said he did a double take
+I said the reveal is next.
+Hey everyone, it's Tom Holland here
+and I'm jumping in to tell you about Biro.
+I created Biro because I wanted
+a non-acolic beer focused on what went in,
+not what was left out.
+So I teamed up with an incredible brewmaster
+Grant Wood and created four
+classic beers including
+crisp pills, wheat and bold
+IPA styles made with the best
+ingredients and no shortcuts.
+Exactly what you'd expect from your favorite beer.
+Check us out at Biro Brewing.com
+and use the code Biro Podcast
+for 20% of your first pack.
+Cheers.
+Don't fight them and liver problems may occur.
+Before treatment
+get checked for infections and tuberculosis.
+Tell your doctor
+if you have an infection, flu-like symptoms
+or need a vaccine.
+Imagine being
+a million miles away.
+Explore the possibilities.
+Ask your doctor about TRIM FIA.
+Tap this ad to see
+new joint data and learn more about
+TRIM FIA including important safety
+information.
+You know that moment when everything
+lines up, when life gives you the green light
+and you just go.
+That's the 2026 Toyota Camry.
+No hesitation, no friction.
+Just a car that's right there with you.
+Ready, responsive,
+in control the whole way through.
+Because when it's your moment, you shouldn't have to think twice.
+The 2026 Toyota Camry.
+Go like you mean it.
+Test drive at your local Toyota dealer
+or visit toyota.com today.
+Toyota, let's go places.
+Let's go.
+We're back on Halftime Report.
+I'm Brandon Gomez with a CNBC news update.
+Closing arguments just finished in a Lindsay Clancy
+trial and the jury is set to begin
+deliberations.
+In a case that has gained national attention,
+the Massachusetts mother is charged with killing her
+three young children. She pleaded not guilty
+claiming she was suffering from
+postpartum psychosis. If convicted,
+she faces life without parole.
+If found not guilty by reason of insanity,
+she would likely be committed to a psychiatric facility.
+Parents and teachers in eastern Congo
+are urging officials to delay
+next week's school reopening as Ebola
+spreads out of control. Health authorities
+report more than 5,700 confirmed cases
+and 2,700 deaths.
+Children 4 and younger face
+a 60% fatality rate.
+The rare strain has no approved
+vaccine or treatment.
+And the NFL is expanding its sports betting lineup
+ahead of the 2026 season.
+The league renewed multi-year deals with
+DraftKings and FanDuel and added fanatics
+as a third official partner.
+The companies get access to NFL branding
+and data while committing to integrity
+rules and responsible gambling efforts.
+Scott?
+Okay, Brandon, thank you. Brandon Gomez.
+Alright, best stocks in the market from
+Josh Brown. Why a double take
+on Airbnb?
+Why?
+Okay, so Airbnb came
+public as a very expensive
+stock and
+just I have these personal biases
+with companies and so does everyone else.
+I would never rent my house out to
+strangers. I understand
+it's a good source of income. It's just not
+that's not for me. And I also
+won't stay in one. And people like
+let me get this straight. You'd rather go to a
+hotel sleeping in a bed that 10
+million people have slept in than
+an Airbnb that maybe had 8 guests
+this year. And I said, you have a
+point and I still don't care.
+So I ignored this thing when it came public
+and my apathy actually played in my favor.
+The stock has not done much. Basically
+it's spent the entire time
+from its IPO until
+two days ago, building
+this massive base, just this
+sideways action. Well now we
+have a breakaway gap in the stock.
+It vaulted the stock onto my list
+of best stocks names along with its
+recent earnings report and it practically
+demands that I pay attention to what's
+going on here. There's a huge inflection
+point. Airbnb
+is becoming an AI beneficiary
+stock right before our eyes. They had
+an unbelievable report the first week
+of August. Brian Chesky said
+AI is the best thing to ever
+happen to Airbnb.
+You could see it in the numbers. The AI
+assistant closed 45%
+of support issues
+last quarter without a human in the
+loop. Support cost
+per booking is down 16% year over
+year. EBITDA margin is now
+35% free cash flow
+hit 1.25 billion in the
+quarter. The street was not expecting
+that much of improvement.
+So let's take the technicals. I can't
+show you candlestick charts here so you
+can't see the gap. Just believe me
+that it exists. The breakaway
+gap out of a two or three year
+base is a very powerful
+pattern. It means the institutions
+all of a sudden overnight
+changed their mind on a name
+and there was so much urgency to buy
+that you have this air pocket.
+The top of that gap is
+20% free. That's your stop.
+Gets back into the gap. Have some
+discipline. Damn it.
+Come out of the trade. So long as
+she stays above, you can follow
+that rise in 50 day and I think
+you'll see the 200 day start to turn
+up now that we're in a bull market.
+Let it consolidate. Don't go crazy
+right this second. Put this name on
+your screen because I think it gets
+above 200. Any takers?
+Why? How many shares can I
+put you down for, sir?
+10 filler kill. You're in
+Marriott, Hilton, Hyatt, Expedia.
+I like those stops better too. Of
+course you do. Why? Because I know
+we're not millennials
+me and you. I don't know if you know this.
+I know how
+with millennials like I do but
+you and I are not millennials.
+No. Why don't you like this one?
+That's why I'm telling you there's a bias.
+We like Marriott better.
+When he said bias, he had
+me at hello. But if you think about
+Marriott in the first place, the whole
+travel thing came out of COVID but we owned it
+before that but the reason I own Marriott
+for so long is because it's the consumer
+discretionary stock and those stocks are
+hard to pick. Then you look at Hilton
+that what they've done now we've added
+Hyatt the last few months because I think
+Hyatt's going to be the next one in
+terms of the momentum and where earnings
+are coming from. I'm long Marriott.
+I agree with everything you just said.
+All of those names that you mentioned
+are all on my best stocks list.
+Hasn't done as much so this is important
+actually. In 2024
+and 2025 it was flat
+or down both years. What did the other
+travel stocks do in that period of time?
+Expedia over the last three years
+plus 223%
+booking
+up 166% of the last three years.
+This stock has been flat
+until now which is why
+it's not that I prefer it to Marriott
+and Hilton. It's a new name
+worth people taking a look at
+who probably have never looked at it before.
+All right, good stuff. That was fun.
+Santoli's next Midday Word.
+Senior markets commentator
+and overtime co-anchor Mike Santoli
+joins us now with his
+Midday Word. I would love your thoughts
+not so much on NVIDIA but
+the effect that it's having on other
+parts of the market or lack thereof
+the fact that you know you got three
+of the mega caps are in the red not
+all the chips are up. What does that tell you?
+This is the mode this market is in Scott
+and hasn't changed just from the fact
+that the largest stock in the index
+is up almost you know 10%
+and it's really accounting for all the upside.
+Now there are co-tales to NVIDIA
+some of the rest of the
+AI food chain is participating but
+the Philadelphia semiconductor
+index of 1.2% it's
+pretty muted.
+Micron opened up at like
+967 it's at 912 right now
+this stock continues not to know
+which way is up within a matter
+of hours so I do think it's kind
+of complicated and it shows you
+that we came into this whole phase
+with look investors had equity
+exposes pretty high I think generally
+they were willing to give the market
+the benefit of the doubt but it is
+a matter of just the dispersion
+keeping the trend intact
+for so long it helps you
+when parts of the market are correcting
+but also when parts of the market
+want to just sort of get up and go
+like NVIDIA wants to do right now
+they want to pay and that is the
+I think there's just the prevailing
+mechanical reality of this market
+it's not really negative I mean
+the S&P is like 1.2% below
+it's all time highs the eco weights
+pretty close but today you have banks
+down it gives you just enough to worry
+about you have even consumer
+is on the downside today so it's
+maybe that's just you know we keep
+the wall of worry intact because
+nobody's happy entirely on a given
+day and look soft to your point
+it has been getting up and going
+look at these moves today almost 18%
+for CrowdStrike and Palos 12
+and Salesforce is 21
+Octus 27 and I wouldn't be surprised
+if tomorrow the trading desk commentary
+is wow that was tough because
+you're either long semis and short
+software the other way around if they both go up
+people get turned around so
+I'm not saying this bad for the overall market
+but I do think that it's
+sort of a little bit of a new wrinkle
+in the equation yeah I'll see it three good stuff
+as always of course Mike Santoli
+we're playing options action next
+Oliver Renek and SpaceX all right
+can't wait for that we'll do it after the break
+we're going to the SIBO we're playing
+options action Oliver Renek and we're talking
+about SpaceX what do you got
+it's right Scott
+stock has done nothing for three weeks
+and for this stock that's a big
+story after debuting is one of the most
+volatile stocks in the market
+SpaceX now wouldn't even crack the top
+25 of the S&P 500 ranked
+implied vol which for SpaceX
+is now down to below 60 in the mid
+50s that figure was
+above 110 and above
+120 for a moment going into its first
+earnings and the end of the first
+lockup period which notably has
+not been a bearish event
+right now the one month implied move is
+just over 10% for SpaceX
+if you told me a month ago this is where it would be
+I probably wouldn't believe you
+what this means is that it's never been
+cheaper to make a directional bet
+on SpaceX with options and today
+traders are betting on upside
+8 of the top 10 most bought contracts
+are upside calls with the most
+popular being the 144 strike
+that expires tomorrow
+that needs another 3.5%
+higher to break even but the bottom line
+with fall cheap old traders saying if you got a
+hunch bet a bunch Scott
+all right good stuff Oliver thank you I'll see
+you at 3 o'clock Oliver Renek we'll take a break
+we got finals coming up
+all right we'll see what this last hour does
+or bells tonight that's important got to
+game out the chair and chair tomorrow as well
+Kevin Worse
+given his big speech
+Jackson Hole we'll discuss that with the former
+Cleveland Fed president Loretta Mester
+Adam Parker I like this debate
+semis versus software
+semis a little squirrelly today
+software looking pretty good Stephanie Ali
+Agha Bryn talking to Tom Lee
+has a call on the market now that
+Nvidia has reported he'll tell you what that is
+coming up later as well
+what do you got final trade wise
+I'm going to stay in my hotel room at Marriott
+okay like that's
+just it you're just going to be on the hotel
+like are you making a broader statement
+I'm making a broader statement best in brand name
+I think it's the best of what they do and I'm
+going to continue to stay there okay we won't
+say which one I you know the legion of
+people outside and waiting for you
+I think it's the JW judge
+Jay Snipes American Express
+it's down so far this year but
+traveling and entertainment spending
+remain possible all right Malcolm
+consolidation coming within cybersecurity
+BUG is the smartest way to play it
+we got crowd strike one more quarter like this
+I might have to get the tick or tattooed
+what a what a tour to force
+yeah all right I'll see you for the last hour
+of the exchanges now you've been listening
+to CNBC's halftime report
+the podcast you can always
+catch us live weekdays at 12
+Eastern only on CNBC
+all opinions expressed by the halftime
+report participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates and may have
+been previously disseminated by them on television
+radio internet or another medium you should
+not treat any opinion expressed on this podcast
+as a specific inducement to make a particular
+investment or follow a particular strategy
+but only as an expression of opinion such
+opinions are based upon information the halftime
+report participants consider reliable but
+neither CNBC nor its affiliates and or
+subsidiaries warrant its completeness or accuracy
+and it should not be relied upon as such to
+the full halftime report disclaimer please visit
+CNBC.com forward slash halftime report disclaimer
+you just got back to your Toyota
+truck and you can't feel your fingers
+you've been out here for 13 days
+now 16 15
+you've lost track
+you're eating something you wouldn't dare look
+in the eyes while taking directions from a phone
+that ran out of signal miles ago
+every bone and muscle
+in your body has filed a formal complaint
+and the only gas you've got left is in
+the tank of your truck but you know what
+you're the happiest you've been in years
+Toyota trucks outlast
+outlive
