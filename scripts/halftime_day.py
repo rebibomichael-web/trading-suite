@@ -22,6 +22,14 @@ and opened a second issue for a second run on one day. Now:
     python scripts/halftime_day.py archive SRC DEST     # create or append
     python scripts/halftime_day.py body MD DAY RUN_ID [--later]
                                                         # issue body / later-run comment
+    python scripts/halftime_day.py late DAY RUN_ID      # ::warning:: if the run
+                                                        # started after its show day
+
+Missed-episode warning (ruled by Mike 2026-10-09, PROV-HTDATE-01 follow-up):
+a scheduled run's SHOW DAY is the latest weekday whose 17:20 UTC cron slot has
+passed. If GitHub's lag pushes the start past that day's New York midnight,
+the key has already rolled to a day with no episode yet — the 80-min poll
+finds nothing and NO_EPISODE exits green. `late` makes that loud instead.
 """
 import datetime
 import os
@@ -29,6 +37,7 @@ import sys
 from zoneinfo import ZoneInfo
 
 TZ = "America/New_York"
+CRON_UTC = (17, 20)        # halftime-summary.yml schedule '20 17 * * 1-5'
 
 
 def halftime_day(now=None):
@@ -81,6 +90,34 @@ def issue_body(summary_md, day, run_id, later=False, now=None):
     return "\n\n".join(head) + "\n\n" + open(summary_md).read()
 
 
+def show_day(now=None):
+    """The weekday whose scheduled slot this run belongs to: the latest
+    Mon–Fri date D with D CRON_UTC <= now (UTC)."""
+    now = now or datetime.datetime.now(datetime.timezone.utc)
+    d = now.astimezone(datetime.timezone.utc).date()
+    while True:
+        slot = datetime.datetime(d.year, d.month, d.day, *CRON_UTC,
+                                 tzinfo=datetime.timezone.utc)
+        if d.weekday() < 5 and slot <= now:
+            return d.isoformat()
+        d -= datetime.timedelta(days=1)
+
+
+def late_warning(day, run_id, now=None):
+    """None if the job key DAY is the run's show day; else the warning text
+    naming the show day, the UTC start and the run id."""
+    now = now or datetime.datetime.now(datetime.timezone.utc)
+    show = show_day(now)
+    if day == show:
+        return None
+    return (f"HALFTIME RUN STARTED AFTER ITS SHOW DAY ENDED — show day {show} "
+            f"(America/New_York) ended before this run started at UTC "
+            f"{now.astimezone(datetime.timezone.utc):%Y-%m-%dT%H:%M:%SZ} "
+            f"(run {run_id}); the job key is {day}, so the poll targets a day "
+            f"with no episode yet. Episode {show} is likely MISSED — backfill "
+            f"it with a workflow_dispatch date={show}.")
+
+
 def main(argv):
     if argv[:1] == ["day"]:
         print(halftime_day())
@@ -91,6 +128,15 @@ def main(argv):
     if len(argv) in (4, 5) and argv[0] == "body":      # body MD DAY RUN_ID [--later]
         sys.stdout.write(issue_body(argv[1], argv[2], argv[3],
                                     later=argv[4:] == ["--later"]))
+        return 0
+    if len(argv) == 3 and argv[0] == "late":            # late DAY RUN_ID
+        msg = late_warning(argv[1], argv[2])
+        if msg:
+            print(f"::warning::{msg}")
+            summ = os.environ.get("GITHUB_STEP_SUMMARY")
+            if summ:
+                with open(summ, "a") as fh:
+                    fh.write(msg + "\n")
         return 0
     print(__doc__, file=sys.stderr)
     return 2

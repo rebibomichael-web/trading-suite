@@ -49,11 +49,15 @@ def fetch(url, timeout=60):
     return urllib.request.urlopen(req, timeout=timeout).read()
 
 
-def find_todays_episode(target_date):
-    """Return (title, mp3_url) for the episode matching target_date, else None."""
+def find_todays_episode(target_date, limit=5):
+    """Return (title, mp3_url) for the episode matching target_date, else None.
+    Scans the newest `limit` items; None = the whole feed (back-catalog
+    dispatch — the feed carries every episode since 2020)."""
     xml = fetch(FEED_URL).decode("utf-8", "ignore")
     m_d_yy = f"{target_date.month}/{target_date.day}/{target_date.strftime('%y')}"
-    for item in re.findall(r"<item>.*?</item>", xml, re.S)[:5]:
+    # digit-bounded, so 1/2/26 never matches an 11/2/26 title on a full scan
+    date_re = re.compile(rf"(?<!\d){re.escape(m_d_yy)}(?!\d)")
+    for item in re.findall(r"<item>.*?</item>", xml, re.S)[:limit]:
         title_m = re.search(r"<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>", item)
         url_m = re.search(r'<enclosure[^>]*url="([^"]+)"', item)
         pub_m = re.search(r"<pubDate>(.*?)</pubDate>", item)
@@ -63,7 +67,7 @@ def find_todays_episode(target_date):
         pub = datetime.datetime.strptime(
             pub_m.group(1).strip(), "%a, %d %b %Y %H:%M:%S %z"
         ).date()
-        if m_d_yy in title or pub == target_date:
+        if date_re.search(title) or pub == target_date:
             return title, url_m.group(1).replace("&amp;", "&")
     return None
 
@@ -161,7 +165,7 @@ def main():
     override = os.environ.get("HALFTIME_DATE", "").strip()
     if override:
         target = datetime.date.fromisoformat(override)
-        episode = find_todays_episode(target)
+        episode = find_todays_episode(target, limit=None)
         if not episode:
             print(f"No episode found for {target}", file=sys.stderr)
             sys.exit(1)

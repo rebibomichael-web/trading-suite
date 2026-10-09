@@ -127,5 +127,117 @@ class IssueBodyAndComment(unittest.TestCase):
         self.assertNotEqual(HD.run_marker("1"), DD.run_marker("1"))
 
 
+class MissedEpisodeWarning(unittest.TestCase):
+    """Ruled 2026-10-09: a run that starts after its show day ended is LOUD."""
+
+    def test_normal_lagged_runs_are_quiet(self):
+        for t in ("2026-10-09T17:20:00", "2026-10-05T23:11:14",
+                  "2026-08-28T01:30:38",            # the lost 08-27 run, under the NY key
+                  "2026-10-10T03:59:59"):           # Fri slot, last second of NY Friday
+            now = at(t)
+            self.assertIsNone(HD.late_warning(HD.halftime_day(now), "1", now), t)
+
+    def test_start_past_ny_midnight_warns_with_day_utc_and_run(self):
+        now = at("2026-10-10T04:00:00")             # Sat 00:00 EDT: Friday's show day is over
+        day = HD.halftime_day(now)
+        self.assertEqual(day, "2026-10-10")
+        self.assertEqual(HD.show_day(now), "2026-10-09")
+        msg = HD.late_warning(day, "37999", now)
+        for part in ("show day 2026-10-09", "UTC 2026-10-10T04:00:00Z", "run 37999",
+                     "date=2026-10-09"):
+            self.assertIn(part, msg)
+        # Mon slot run that starts Tue 05:30Z (Tue 01:30 EDT)
+        now = at("2026-10-13T05:30:00")
+        self.assertEqual(HD.show_day(now), "2026-10-12")
+        self.assertIsNotNone(HD.late_warning(HD.halftime_day(now), "2", now))
+
+    def test_old_utc_key_would_have_warned(self):
+        # what the 08-28 01:30Z run did: keyed 08-28, its show day was 08-27
+        msg = HD.late_warning("2026-08-28", "33133074271", at("2026-08-28T01:30:38"))
+        self.assertIn("show day 2026-08-27", msg)
+
+    def test_before_the_monday_slot_the_show_day_is_friday(self):
+        self.assertEqual(HD.show_day(at("2026-10-12T17:19:59")), "2026-10-09")
+        self.assertEqual(HD.show_day(at("2026-10-12T17:20:00")), "2026-10-12")
+
+    def test_cli_writes_warning_and_step_summary_line(self):
+        import io
+        from contextlib import redirect_stdout
+        with tempfile.TemporaryDirectory() as d:
+            summ = os.path.join(d, "summary")
+            out = io.StringIO()
+            with mock.patch.dict(os.environ, {"GITHUB_STEP_SUMMARY": summ}), \
+                    mock.patch.object(HD, "late_warning",
+                                      lambda day, rid: f"LATE {day} {rid}"), \
+                    redirect_stdout(out):
+                self.assertEqual(HD.main(["late", "2026-10-10", "9"]), 0)
+            self.assertEqual(out.getvalue(), "::warning::LATE 2026-10-10 9\n")
+            self.assertEqual(open(summ).read(), "LATE 2026-10-10 9\n")
+            out = io.StringIO()
+            with mock.patch.dict(os.environ, {"GITHUB_STEP_SUMMARY": summ}), \
+                    mock.patch.object(HD, "late_warning", lambda day, rid: None), \
+                    redirect_stdout(out):
+                HD.main(["late", "2026-10-09", "9"])
+            self.assertEqual(out.getvalue(), "")
+            self.assertEqual(open(summ).read(), "LATE 2026-10-10 9\n")
+
+    def test_cron_constant_matches_the_workflow(self):
+        wf = open(os.path.join(os.path.dirname(__file__), "..", ".github",
+                               "workflows", "halftime-summary.yml")).read()
+        self.assertIn("cron: '%d %d * * 1-5'" % (HD.CRON_UTC[1], HD.CRON_UTC[0]), wf)
+        self.assertIn('halftime_day.py late "$DAY" "$GITHUB_RUN_ID"', wf)
+        self.assertIn('if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then', wf)
+
+
+def _item(title, pub, url):
+    return (f"<item><title><![CDATA[{title}]]></title><pubDate>{pub}</pubDate>"
+            f'<enclosure url="{url}" length="1" type="audio/mpeg"/></item>')
+
+
+class BackCatalogDispatch(unittest.TestCase):
+    """Dispatch dates scan the whole feed (the 08-27/08-28 recovery sat at
+    items 28/29); the scheduled path keeps the newest 5."""
+
+    FEED = "<rss>" + "".join(
+        [_item(f"Show {i} 10/{9 - i}/26", f"Thu, {9 - i:02d} Oct 2026 17:20:00 +0000",
+               f"https://x/{i}.mp3") for i in range(6)]
+        + [_item("Nov show 11/2/25", "Sun, 02 Nov 2025 17:20:00 +0000", "https://x/nov.mp3"),
+           _item("Trading Nvidia 8/27/26", "Thu, 27 Aug 2026 17:18:11 +0000", "https://x/a.mp3"),
+           _item("Jan show 1/2/25", "Thu, 02 Jan 2025 17:20:00 +0000", "https://x/jan.mp3")]
+    ) + "</rss>"
+
+    def setUp(self):
+        import halftime_pipeline as HP
+        self.HP = HP
+        p = mock.patch.object(HP, "fetch", lambda url, timeout=60: self.FEED.encode())
+        p.start()
+        self.addCleanup(p.stop)
+
+    def test_full_scan_finds_deep_episode_top5_does_not(self):
+        d = datetime.date(2026, 8, 27)
+        self.assertIsNone(self.HP.find_todays_episode(d))
+        self.assertEqual(self.HP.find_todays_episode(d, limit=None),
+                         ("Trading Nvidia 8/27/26", "https://x/a.mp3"))
+
+    def test_title_match_is_digit_bounded(self):
+        # 1/2/25 is a substring of 11/2/25; the full scan must not take it
+        self.assertEqual(self.HP.find_todays_episode(datetime.date(2025, 1, 2), limit=None)[1],
+                         "https://x/jan.mp3")
+
+    def test_dispatch_override_uses_the_full_scan(self):
+        seen = []
+
+        def fake_find(target, limit=5):
+            seen.append(limit)
+            return None
+
+        with mock.patch.dict(os.environ, {"HALFTIME_DATE": "2026-08-27"}), \
+                mock.patch.object(self.HP, "preflight_auth", lambda: None), \
+                mock.patch.object(self.HP, "find_todays_episode", fake_find):
+            with self.assertRaises(SystemExit):
+                self.HP.main()
+        self.assertEqual(seen, [None])
+
+
 if __name__ == "__main__":
     unittest.main()

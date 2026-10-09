@@ -64,6 +64,11 @@ jobs:
             DAY=$(python -c "import datetime,sys; print(datetime.date.fromisoformat(sys.argv[1]))" "$INPUT_DATE")
           else
             DAY=$(python scripts/halftime_day.py day)
+            # loud if GitHub's lag pushed a cron start past the show day's end
+            # (a blank-date manual run has no slot to be late for)
+            if [ "$GITHUB_EVENT_NAME" = "schedule" ]; then
+              python scripts/halftime_day.py late "$DAY" "$GITHUB_RUN_ID"
+            fi
           fi
           echo "HALFTIME_DAY=$DAY" >> "$GITHUB_ENV"
           echo "halftime day = $DAY (America/New_York unless dispatched; UTC now $(date -u +%FT%TZ))"
