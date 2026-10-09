@@ -25,6 +25,7 @@ import urllib.parse
 import urllib.request
 
 from halftime_pipeline import ask_claude, preflight_auth
+from digest_day import digest_day
 
 CHANNELS = {
     "Brighter with Herbert": "UC4DBLlq1x0AKmip1QJUcbXg",
@@ -479,7 +480,7 @@ def main():
         for v in new_pending
     ]
 
-    day = now.strftime("%Y-%m-%d")
+    day = digest_day()          # Asia/Jerusalem, once per job (PROV-YTDATE-01)
     if sections:
         # Editorial lead: one synthesized cross-video paragraph. Best-effort —
         # a failure here must never cost the digest itself.

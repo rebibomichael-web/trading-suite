@@ -51,6 +51,16 @@ jobs:
         if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
         run: npm install -g @anthropic-ai/claude-code
 
+      # ONE day key for the whole job, Asia/Jerusalem (PROV-YTDATE-01, ruled
+      # 2026-10-09): archive file, audio file, issue title and the digest's own
+      # `day` all read DIGEST_DAY, so a run crossing midnight between steps
+      # cannot split across two dates. Two runs on one UTC date (10-06) used to
+      # cp-clobber each other's archive and audio.
+      - name: Pick digest day (Asia/Jerusalem)
+        run: |
+          echo "DIGEST_DAY=$(python scripts/digest_day.py day)" >> "$GITHUB_ENV"
+          echo "digest day = $(python scripts/digest_day.py day) (Asia/Jerusalem; UTC now $(date -u +%FT%TZ))"
+
       - name: Run digest
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -64,6 +74,7 @@ jobs:
           if [ -f digest.md ] && [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
             pip install --quiet edge-tts
             python scripts/make_audio.py --input digest.md --kind youtube \
+              --date "$DIGEST_DAY" --append-if-exists \
               || echo "narration failed (non-fatal — text digest unaffected)"
           fi
 
@@ -72,12 +83,12 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          DAY=$(date -u +%Y-%m-%d)
+          DAY="$DIGEST_DAY"
           HAS_DIGEST=0
           if [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
             HAS_DIGEST=1
-            mkdir -p summaries/youtube
-            cp digest.md "summaries/youtube/$DAY.md"
+            # never cp-clobber: a second run on the same day APPENDS (loudly)
+            python scripts/digest_day.py archive digest.md "summaries/youtube/$DAY.md"
           fi
 
           # 1) Persist state FIRST, with retries. The de-dup state (seen +
@@ -111,10 +122,15 @@ jobs:
           # 2) Only now create the issue, and only if one for today doesn't
           #    already exist (idempotent — safe against a re-run).
           if [ "$HAS_DIGEST" = "1" ]; then
-            if gh issue list --repo "$GITHUB_REPOSITORY" --state all \
+            EXISTING=$(gh issue list --repo "$GITHUB_REPOSITORY" --state all \
                  --search "YouTube digest — $DAY in:title" \
-                 --json title --jq '.[].title' | grep -qxF "YouTube digest — $DAY"; then
-              echo "Issue for $DAY already exists — skipping (idempotent)."
+                 --json number,title --jq ".[] | select(.title == \"YouTube digest — $DAY\") | .number" | head -1)
+            if [ -n "$EXISTING" ]; then
+              # LOUD, not quiet: this run's videos are in the day-file (appended)
+              # but NO new issue/email goes out for them.
+              MSG="DIGEST ISSUE SKIPPED — day $DAY (Asia/Jerusalem) already has issue #$EXISTING; this run (UTC $(date -u +%FT%TZ), run $GITHUB_RUN_ID) was appended to summaries/youtube/$DAY.md but NOT emailed."
+              echo "::warning::$MSG"
+              echo "$MSG" >> "$GITHUB_STEP_SUMMARY"
             else
               BODY=digest.md
               if [ -f "audio/youtube/$DAY.mp3" ]; then

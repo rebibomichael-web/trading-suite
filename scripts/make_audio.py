@@ -132,6 +132,9 @@ def main():
     ap.add_argument("--kind", choices=sorted(KIND_TITLE), required=True)
     ap.add_argument("--date", default=datetime.datetime.now(
         datetime.timezone.utc).strftime("%Y-%m-%d"))
+    ap.add_argument("--append-if-exists", action="store_true",
+                    help="if the dated mp3 exists, append this narration to it "
+                         "instead of overwriting (youtube digest, PROV-YTDATE-01)")
     args = ap.parse_args()
 
     md = open(args.input).read()
@@ -142,7 +145,16 @@ def main():
     dest_dir = os.path.join(AUDIO_DIR, args.kind)
     os.makedirs(dest_dir, exist_ok=True)
     dest = os.path.join(dest_dir, f"{args.date}.mp3")
-    synthesize(text, dest)
+    if args.append_if_exists and os.path.exists(dest):
+        part = dest + ".part"
+        synthesize(text, part)
+        with open(dest, "ab") as out, open(part, "rb") as src:
+            out.write(src.read())          # MP3 frame streams concatenate cleanly
+        os.remove(part)
+        print(f"::warning::audio: {dest} ALREADY EXISTS — APPENDED this run's "
+              f"narration (never overwrite)")
+    else:
+        synthesize(text, dest)
     print(f"narrated {args.input} -> {dest} ({os.path.getsize(dest)} bytes, "
           f"{len(text)} chars)")
     removed = prune()
