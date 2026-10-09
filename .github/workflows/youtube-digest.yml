@@ -119,27 +119,36 @@ jobs:
             echo "No state changes to commit."
           fi
 
-          # 2) Only now create the issue, and only if one for today doesn't
-          #    already exist (idempotent — safe against a re-run).
+          # 2) Only now create the issue — or, if this day already has one,
+          #    COMMENT on it (ruled 2026-10-09) so a later run's videos still
+          #    reach email. Idempotent: the issue body and every comment carry
+          #    <!-- digest-run: RUN_ID -->, and a re-run (same RUN_ID) that
+          #    finds its own marker posts nothing.
           if [ "$HAS_DIGEST" = "1" ]; then
+            MARKER="<!-- digest-run: $GITHUB_RUN_ID -->"
             EXISTING=$(gh issue list --repo "$GITHUB_REPOSITORY" --state all \
                  --search "YouTube digest — $DAY in:title" \
                  --json number,title --jq ".[] | select(.title == \"YouTube digest — $DAY\") | .number" | head -1)
             if [ -n "$EXISTING" ]; then
-              # LOUD, not quiet: this run's videos are in the day-file (appended)
-              # but NO new issue/email goes out for them.
-              MSG="DIGEST ISSUE SKIPPED — day $DAY (Asia/Jerusalem) already has issue #$EXISTING; this run (UTC $(date -u +%FT%TZ), run $GITHUB_RUN_ID) was appended to summaries/youtube/$DAY.md but NOT emailed."
-              echo "::warning::$MSG"
-              echo "$MSG" >> "$GITHUB_STEP_SUMMARY"
-            else
-              BODY=digest.md
-              if [ -f "audio/youtube/$DAY.mp3" ]; then
-                { echo "🔊 [Listen to this digest](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/youtube/$DAY.mp3) · [Podcast feed](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/feed.xml)"; echo; cat digest.md; } > digest_body.md
-                BODY=digest_body.md
+              # capture first: `gh … | grep -q` under pipefail can SIGPIPE gh and
+              # read a FOUND marker as not-found (→ a duplicate comment)
+              POSTED=$(gh issue view "$EXISTING" --repo "$GITHUB_REPOSITORY" --json body,comments \
+                   --jq '.body, .comments[].body')
+              if grep -qF "$MARKER" <<<"$POSTED"; then
+                echo "Run $GITHUB_RUN_ID already posted to issue #$EXISTING — nothing to do (idempotent re-run)."
+              else
+                python scripts/digest_day.py body digest.md "$DAY" "$GITHUB_RUN_ID" "$GITHUB_REPOSITORY" --later > digest_comment.md
+                gh issue comment "$EXISTING" --repo "$GITHUB_REPOSITORY" --body-file digest_comment.md
+                # still LOUD: a second run on one day is worth seeing in the Actions list
+                MSG="DIGEST ISSUE DEDUPED — day $DAY (Asia/Jerusalem) already has issue #$EXISTING; this run (UTC $(date -u +%FT%TZ), run $GITHUB_RUN_ID) was appended to summaries/youtube/$DAY.md and posted as a COMMENT on #$EXISTING (emailed)."
+                echo "::warning::$MSG"
+                echo "$MSG" >> "$GITHUB_STEP_SUMMARY"
               fi
+            else
+              python scripts/digest_day.py body digest.md "$DAY" "$GITHUB_RUN_ID" "$GITHUB_REPOSITORY" > digest_body.md
               gh issue create \
                 --title "YouTube digest — $DAY" \
-                --body-file "$BODY" \
+                --body-file digest_body.md \
                 --repo "$GITHUB_REPOSITORY"
             fi
           else

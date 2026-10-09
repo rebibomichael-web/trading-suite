@@ -81,5 +81,39 @@ class NeverOverwrite(unittest.TestCase):
                 os.chdir(cwd)
 
 
+class IssueBodyAndComment(unittest.TestCase):
+    """Ruled 2026-10-09: a later run on an existing day COMMENTS that day's
+    issue; the run marker makes a re-run of the same run post nothing."""
+
+    def test_first_run_body_and_later_comment_carry_the_marker(self):
+        with tempfile.TemporaryDirectory() as d:
+            md = os.path.join(d, "digest.md")
+            open(md, "w").write("### [b](https://www.youtube.com/watch?v=BBB)\n")
+            body = DD.issue_body(md, "2026-10-09", "111", "o/r")
+            self.assertTrue(body.startswith("<!-- digest-run: 111 -->"))
+            self.assertNotIn("Later run", body)
+            self.assertIn("watch?v=BBB", body)
+            c = DD.issue_body(md, "2026-10-09", "222", "o/r", later=True,
+                              now=at("2026-10-09T20:20:00"))
+            self.assertTrue(c.startswith(DD.run_marker("222")))
+            self.assertIn("**Later run — 2026-10-09 23:20 IDT** (run 222)", c)
+            self.assertIn("watch?v=BBB", c)
+            self.assertNotIn(DD.run_marker("111"), c)
+
+    def test_listen_link_only_when_the_day_has_audio(self):
+        with tempfile.TemporaryDirectory() as d:
+            cwd = os.getcwd()
+            os.chdir(d)
+            try:
+                open("digest.md", "w").write("x\n")
+                self.assertNotIn("Listen", DD.issue_body("digest.md", "2026-10-09", "1", "o/r"))
+                os.makedirs("audio/youtube")
+                open("audio/youtube/2026-10-09.mp3", "wb").write(b"x")
+                self.assertIn("main/audio/youtube/2026-10-09.mp3",
+                              DD.issue_body("digest.md", "2026-10-09", "1", "o/r"))
+            finally:
+                os.chdir(cwd)
+
+
 if __name__ == "__main__":
     unittest.main()

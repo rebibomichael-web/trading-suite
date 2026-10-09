@@ -13,6 +13,8 @@ audio (7 summaries lost until restored). So:
 
     python scripts/digest_day.py day                  # prints YYYY-MM-DD
     python scripts/digest_day.py archive SRC DEST     # create or append
+    python scripts/digest_day.py body MD DAY RUN_ID REPO [--later]
+                                                      # issue body / later-run comment
 """
 import datetime
 import os
@@ -52,12 +54,39 @@ def archive(src, dest, now=None):
     return "appended"
 
 
+def run_marker(run_id):
+    """Idempotency marker: a re-run keeps GITHUB_RUN_ID, so one run posts once."""
+    return f"<!-- digest-run: {run_id} -->"
+
+
+def issue_body(digest_md, day, run_id, repo, later=False, now=None):
+    """The issue body (first run of the day) or the COMMENT on that day's
+    existing issue (a later run — ruled 2026-10-09, so its videos still reach
+    email). Both carry the run marker; the workflow checks it before posting."""
+    head = [run_marker(run_id)]
+    if later:
+        now = now or datetime.datetime.now(datetime.timezone.utc)
+        stamp = now.astimezone(ZoneInfo(TZ)).strftime("%Y-%m-%d %H:%M %Z")
+        head.append(f"**Later run — {stamp}** (run {run_id}). These videos arrived "
+                    f"after this day's digest; they are appended to "
+                    f"`summaries/youtube/{day}.md`.")
+    if os.path.exists(f"audio/youtube/{day}.mp3"):
+        raw = f"https://raw.githubusercontent.com/{repo}/main/audio"
+        head.append(f"🔊 [Listen to this digest]({raw}/youtube/{day}.mp3) · "
+                    f"[Podcast feed]({raw}/feed.xml)")
+    return "\n\n".join(head) + "\n\n" + open(digest_md).read()
+
+
 def main(argv):
     if argv[:1] == ["day"]:
         print(digest_day())
         return 0
     if len(argv) == 3 and argv[0] == "archive":
         archive(argv[1], argv[2])
+        return 0
+    if len(argv) in (5, 6) and argv[0] == "body":     # body MD DAY RUN_ID REPO [--later]
+        sys.stdout.write(issue_body(argv[1], argv[2], argv[3], argv[4],
+                                    later=argv[5:] == ["--later"]))
         return 0
     print(__doc__, file=sys.stderr)
     return 2
