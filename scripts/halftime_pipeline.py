@@ -16,6 +16,8 @@ import sys
 import time
 import urllib.request
 
+from halftime_day import halftime_day
+
 FEED_URL = "https://feeds.simplecast.com/qltQrd_8"
 POLL_MINUTES = 80          # show can post 1:07-1:50pm ET; covers EST/EDT drift
 POLL_INTERVAL_SEC = 300
@@ -164,7 +166,8 @@ def main():
             print(f"No episode found for {target}", file=sys.stderr)
             sys.exit(1)
     else:
-        target = datetime.datetime.now(datetime.timezone.utc).date()
+        # the job's one day key (HALFTIME_DAY, America/New_York) — PROV-HTDATE-01
+        target = datetime.date.fromisoformat(halftime_day())
         deadline = time.time() + POLL_MINUTES * 60
         episode = find_todays_episode(target)
         while not episode and time.time() < deadline:

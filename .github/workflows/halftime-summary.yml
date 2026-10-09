@@ -18,6 +18,11 @@ permissions:
   contents: write
   issues: write
 
+# A manual dispatch must not race the scheduled run on the day's issue lookup.
+concurrency:
+  group: halftime-summary
+  cancel-in-progress: false
+
 jobs:
   summarize:
     runs-on: ubuntu-latest
@@ -44,6 +49,25 @@ jobs:
         if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
         run: npm install -g @anthropic-ai/claude-code
 
+      # ONE day key for the whole job (PROV-HTDATE-01, ruled 2026-10-09; class
+      # precedent PROV-YTDATE-01): the episode target, audio file, issue title,
+      # archive files and commit message all read HALFTIME_DAY. America/New_York,
+      # the show's calendar — scheduled runs start 21:00–23:11 UTC, when the
+      # Jerusalem (and sometimes UTC) date is already tomorrow. A back-catalog
+      # dispatch date wins.
+      - name: Pick halftime day (America/New_York)
+        env:
+          INPUT_DATE: ${{ github.event.inputs.date }}
+        run: |
+          set -euo pipefail
+          if [ -n "$INPUT_DATE" ]; then
+            DAY=$(python -c "import datetime,sys; print(datetime.date.fromisoformat(sys.argv[1]))" "$INPUT_DATE")
+          else
+            DAY=$(python scripts/halftime_day.py day)
+          fi
+          echo "HALFTIME_DAY=$DAY" >> "$GITHUB_ENV"
+          echo "halftime day = $DAY (America/New_York unless dispatched; UTC now $(date -u +%FT%TZ))"
+
       - name: Run pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -55,34 +79,57 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
+          set -euo pipefail
           if [ "$(cat summary.md)" = "NO_EPISODE" ]; then
-            echo "No episode today (market holiday) — nothing to deliver."
+            echo "No episode for $HALFTIME_DAY (market holiday) — nothing to deliver."
             exit 0
           fi
-          DAY=$(date -u +%Y-%m-%d)
-          if [ -n "${{ github.event.inputs.date }}" ]; then DAY="${{ github.event.inputs.date }}"; fi
-          # Narrate (best effort) — before delivery so the issue can link it
-          if [ -f summary.md ] && [ "$(cat summary.md)" != "NO_EPISODE" ]; then
-            pip install --quiet edge-tts
-            python scripts/make_audio.py --input summary.md --kind halftime --date "$DAY" \
-              || echo "narration failed (non-fatal)"
-            if [ -f "audio/halftime/$DAY.mp3" ]; then
-              sed -i "1i 🔊 [Listen to this summary](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/halftime/$DAY.mp3) · [Podcast feed](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/feed.xml)\n" summary.md
-            fi
+          DAY="$HALFTIME_DAY"
+          # Narrate (best effort) — before delivery so the issue can link it.
+          # A second run on one day APPENDS to the mp3, never overwrites.
+          pip install --quiet edge-tts || true
+          python scripts/make_audio.py --input summary.md --kind halftime --date "$DAY" \
+            --append-if-exists || echo "narration failed (non-fatal)"
+          if [ -f "audio/halftime/$DAY.mp3" ]; then
+            sed -i "1i 🔊 [Listen to this summary](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/halftime/$DAY.mp3) · [Podcast feed](https://raw.githubusercontent.com/$GITHUB_REPOSITORY/main/audio/feed.xml)\n" summary.md
           fi
           # One-tap Q&A shortcut: pre-filled new-issue link (@claude + context);
           # the reader only types the question. claude.yml answers with the
           # full transcript archive.
           printf '\n\n*[💬 Ask Claude about this episode](https://github.com/%s/issues/new?title=Q%%3A%%20Halftime%%20%s&body=%%40claude%%20Regarding%%20the%%20%s%%20Halftime%%20Report%%3A%%0A%%0A)*\n' "$GITHUB_REPOSITORY" "$DAY" "$DAY" >> summary.md
-          # 1) Email delivery: open an issue — GitHub emails it to you.
-          gh issue create \
-            --title "Halftime Report summary — $DAY" \
-            --body-file summary.md \
-            --repo "$GITHUB_REPOSITORY"
-          # 2) Archive: commit the summary to the repo.
-          mkdir -p summaries transcripts
-          cp summary.md "summaries/$DAY.md"
-          cp transcript.txt "transcripts/$DAY.txt" 2>/dev/null || true
+          # 1) Email delivery: open the day's issue — GitHub emails it. If the
+          #    day already has one, COMMENT on it instead (also emailed).
+          #    Idempotent: the body and every comment carry
+          #    <!-- halftime-run: RUN_ID -->; a re-run that finds its own
+          #    marker posts nothing.
+          TITLE="Halftime Report summary — $DAY"
+          MARKER="<!-- halftime-run: $GITHUB_RUN_ID -->"
+          EXISTING=$(gh issue list --repo "$GITHUB_REPOSITORY" --state all \
+               --search "$TITLE in:title" \
+               --json number,title --jq ".[] | select(.title == \"$TITLE\") | .number" | head -1)
+          if [ -n "$EXISTING" ]; then
+            # capture first: `gh … | grep -q` under pipefail can SIGPIPE gh and
+            # read a FOUND marker as not-found (→ a duplicate comment)
+            POSTED=$(gh issue view "$EXISTING" --repo "$GITHUB_REPOSITORY" --json body,comments \
+                 --jq '.body, .comments[].body')
+            if grep -qF "$MARKER" <<<"$POSTED"; then
+              echo "Run $GITHUB_RUN_ID already posted to issue #$EXISTING — nothing to do (idempotent re-run)."
+            else
+              python scripts/halftime_day.py body summary.md "$DAY" "$GITHUB_RUN_ID" --later > halftime_comment.md
+              gh issue comment "$EXISTING" --repo "$GITHUB_REPOSITORY" --body-file halftime_comment.md
+              MSG="HALFTIME ISSUE DEDUPED — day $DAY (America/New_York) already has issue #$EXISTING; this run (UTC $(date -u +%FT%TZ), run $GITHUB_RUN_ID) was appended to summaries/$DAY.md and posted as a COMMENT on #$EXISTING (emailed)."
+              echo "::warning::$MSG"
+              echo "$MSG" >> "$GITHUB_STEP_SUMMARY"
+            fi
+          else
+            python scripts/halftime_day.py body summary.md "$DAY" "$GITHUB_RUN_ID" > halftime_body.md
+            gh issue create --title "$TITLE" --body-file halftime_body.md --repo "$GITHUB_REPOSITORY"
+          fi
+          # 2) Archive: never cp-clobber — a second run on one day APPENDS (loudly).
+          python scripts/halftime_day.py archive summary.md "summaries/$DAY.md"
+          if [ -f transcript.txt ]; then
+            python scripts/halftime_day.py archive transcript.txt "transcripts/$DAY.txt"
+          fi
           git config user.name "halftime-bot"
           git config user.email "actions@github.com"
           git add summaries/ transcripts/
