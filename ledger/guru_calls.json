@@ -116,6 +116,8 @@
   "D0nb_kODRSc",
   "D4aM5goQs9I",
   "DOKdmy85MvY",
+  "Dj6WtuhOnE0",
+  "Dju3H1wSzK8",
   "Dqe8ZC2644M",
   "Dv2px5EDiQU",
   "EIAGqOk-0p4",
@@ -180,6 +182,7 @@
   "N5EyJgFP3Ww",
   "NCk-_97gwBc",
   "NDaAobWr9TQ",
+  "NLlWSRZ-QMw",
   "NZQJdLBMzpI",
   "NdRn5o2eQjE",
   "O2AgOOgT-Ds",
@@ -215,6 +218,7 @@
   "RdQUKcFX-wE",
   "RqsSFONG8Fk",
   "SMY-YeCmF5A",
+  "SZukzE9AQco",
   "SiTdlq7CuDQ",
   "T4bNo4TkexM",
   "TAtMrl9TIPs",
@@ -236,6 +240,7 @@
   "VmcKyRUGFmc",
   "Vn-oVE88TMo",
   "VpLQ1jXRIoM",
+  "W7Eo0Eauvjg",
   "W9devqWsI1E",
   "WFtBe5d6ABw",
   "WHLVq1oImYQ",
@@ -341,6 +346,7 @@
   "k4lkJcX1b6E",
   "kC1dF1_e-TM",
   "kO5UVdikmT4",
+  "kPnoU-2hYZo",
   "kURHDa2HW6Y",
   "kmJGDbRYYa8",
   "knPU6qMABoo",
@@ -841,6 +847,10 @@
     "7d": {
      "pct": -6.31,
      "win": false
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": false
     }
    }
   },
@@ -862,6 +872,10 @@
     "7d": {
      "pct": -1.94,
      "win": true
+    },
+    "14d": {
+     "pct": 1.47,
+     "win": false
     }
    }
   },
@@ -883,6 +897,10 @@
     "7d": {
      "pct": -1.42,
      "win": true
+    },
+    "14d": {
+     "pct": 11.68,
+     "win": false
     }
    }
   },
@@ -903,6 +921,10 @@
    "outcomes": {
     "7d": {
      "pct": 2.49,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.24,
      "win": false
     }
    }
@@ -925,6 +947,10 @@
     "7d": {
      "pct": -6.31,
      "win": true
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": true
     }
    }
   },
@@ -945,6 +971,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.78,
      "win": false
     }
    }
@@ -967,6 +997,10 @@
     "7d": {
      "pct": -6.31,
      "win": false
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": false
     }
    }
   },
@@ -987,6 +1021,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.78,
      "win": false
     }
    }
@@ -1009,6 +1047,10 @@
     "7d": {
      "pct": -6.31,
      "win": false
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": false
     }
    }
   },
@@ -1029,6 +1071,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.78,
      "win": true
     }
    }
@@ -1051,6 +1097,10 @@
     "7d": {
      "pct": -6.31,
      "win": false
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": false
     }
    }
   },
@@ -1071,6 +1121,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.78,
      "win": false
     }
    }
@@ -1093,6 +1147,10 @@
     "7d": {
      "pct": -6.31,
      "win": true
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": true
     }
    }
   },
@@ -1113,6 +1171,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.78,
      "win": true
     }
    }
@@ -1135,6 +1197,10 @@
     "7d": {
      "pct": -0.64,
      "win": false
+    },
+    "14d": {
+     "pct": -4.37,
+     "win": false
     }
    }
   },
@@ -1155,6 +1221,10 @@
    "outcomes": {
     "7d": {
      "pct": -0.64,
+     "win": true
+    },
+    "14d": {
+     "pct": -4.37,
      "win": true
     }
    }
@@ -1177,6 +1247,10 @@
     "7d": {
      "pct": -0.64,
      "win": null
+    },
+    "14d": {
+     "pct": -4.37,
+     "win": null
     }
    }
   },
@@ -1197,6 +1271,10 @@
    "outcomes": {
     "7d": {
      "pct": -0.64,
+     "win": null
+    },
+    "14d": {
+     "pct": -4.37,
      "win": null
     }
    }
@@ -1219,6 +1297,10 @@
     "7d": {
      "pct": -0.64,
      "win": false
+    },
+    "14d": {
+     "pct": -4.37,
+     "win": false
     }
    }
   },
@@ -1239,6 +1321,10 @@
    "outcomes": {
     "7d": {
      "pct": -0.64,
+     "win": false
+    },
+    "14d": {
+     "pct": -4.37,
      "win": false
     }
    }
@@ -1261,6 +1347,10 @@
     "7d": {
      "pct": -6.31,
      "win": false
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": false
     }
    }
   },
@@ -1281,6 +1371,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.78,
      "win": true
     }
    }
@@ -1303,6 +1397,10 @@
     "7d": {
      "pct": -6.31,
      "win": true
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": true
     }
    }
   },
@@ -1323,6 +1421,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.78,
      "win": false
     }
    }
@@ -1345,6 +1447,10 @@
     "7d": {
      "pct": -6.31,
      "win": false
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": false
     }
    }
   },
@@ -1365,6 +1471,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.78,
      "win": true
     }
    }
@@ -1387,6 +1497,10 @@
     "7d": {
      "pct": -6.31,
      "win": true
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": true
     }
    }
   },
@@ -1407,6 +1521,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.78,
      "win": false
     }
    }
@@ -2622,6 +2740,10 @@
     "14d": {
      "pct": -4.8,
      "win": false
+    },
+    "21d": {
+     "pct": -13.79,
+     "win": false
     }
    }
   },
@@ -2646,6 +2768,10 @@
     },
     "14d": {
      "pct": -4.8,
+     "win": null
+    },
+    "21d": {
+     "pct": -13.79,
      "win": null
     }
    }
@@ -2672,6 +2798,10 @@
     "14d": {
      "pct": -4.8,
      "win": false
+    },
+    "21d": {
+     "pct": -13.79,
+     "win": false
     }
    }
   },
@@ -2696,6 +2826,10 @@
     },
     "14d": {
      "pct": -4.8,
+     "win": false
+    },
+    "21d": {
+     "pct": -13.79,
      "win": false
     }
    }
@@ -2722,6 +2856,10 @@
     "14d": {
      "pct": -4.8,
      "win": null
+    },
+    "21d": {
+     "pct": -13.79,
+     "win": null
     }
    }
   },
@@ -2746,6 +2884,10 @@
     },
     "14d": {
      "pct": -4.8,
+     "win": false
+    },
+    "21d": {
+     "pct": -13.79,
      "win": false
     }
    }
@@ -3349,6 +3491,10 @@
     "14d": {
      "pct": -1.05,
      "win": false
+    },
+    "21d": {
+     "pct": 3.7,
+     "win": true
     }
    }
   },
@@ -3374,6 +3520,10 @@
     "14d": {
      "pct": -1.05,
      "win": false
+    },
+    "21d": {
+     "pct": 3.7,
+     "win": true
     }
    }
   },
@@ -3399,6 +3549,10 @@
     "14d": {
      "pct": -8.31,
      "win": false
+    },
+    "21d": {
+     "pct": -9.89,
+     "win": false
     }
    }
   },
@@ -3423,6 +3577,10 @@
     },
     "14d": {
      "pct": -8.31,
+     "win": false
+    },
+    "21d": {
+     "pct": -9.89,
      "win": false
     }
    }
@@ -7037,6 +7195,10 @@
     "7d": {
      "pct": -6.31,
      "win": null
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": null
     }
    }
   },
@@ -9689,6 +9851,10 @@
     "7d": {
      "pct": -6.31,
      "win": true
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": true
     }
    }
   },
@@ -9709,6 +9875,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.78,
      "win": true
     }
    }
@@ -9731,6 +9901,10 @@
     "7d": {
      "pct": -6.31,
      "win": true
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": true
     }
    }
   },
@@ -9751,6 +9925,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.78,
      "win": false
     }
    }
@@ -9773,6 +9951,10 @@
     "7d": {
      "pct": -6.31,
      "win": false
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": false
     }
    }
   },
@@ -9793,6 +9975,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.78,
      "win": true
     }
    }
@@ -11001,6 +11187,10 @@
     },
     "14d": {
      "pct": 0.18,
+     "win": false
+    },
+    "21d": {
+     "pct": 1.49,
      "win": false
     }
    }
@@ -12962,6 +13152,10 @@
     "7d": {
      "pct": 12.57,
      "win": true
+    },
+    "14d": {
+     "pct": 12.87,
+     "win": true
     }
    }
   },
@@ -12982,6 +13176,10 @@
    "outcomes": {
     "7d": {
      "pct": 9.83,
+     "win": true
+    },
+    "14d": {
+     "pct": 4.04,
      "win": true
     }
    }
@@ -13004,6 +13202,10 @@
     "7d": {
      "pct": 6.23,
      "win": true
+    },
+    "14d": {
+     "pct": 4.82,
+     "win": true
     }
    }
   },
@@ -13024,6 +13226,10 @@
    "outcomes": {
     "7d": {
      "pct": -4.28,
+     "win": false
+    },
+    "14d": {
+     "pct": -7.08,
      "win": false
     }
    }
@@ -13046,6 +13252,10 @@
     "7d": {
      "pct": 5.78,
      "win": true
+    },
+    "14d": {
+     "pct": 18.83,
+     "win": true
     }
    }
   },
@@ -13067,6 +13277,10 @@
     "7d": {
      "pct": -1.13,
      "win": false
+    },
+    "14d": {
+     "pct": -3.73,
+     "win": false
     }
    }
   },
@@ -13087,6 +13301,10 @@
    "outcomes": {
     "7d": {
      "pct": -0.58,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.78,
      "win": false
     }
    }
@@ -14582,6 +14800,10 @@
     "14d": {
      "pct": -6.61,
      "win": false
+    },
+    "21d": {
+     "pct": -5.5,
+     "win": false
     }
    }
   },
@@ -14607,6 +14829,10 @@
     "14d": {
      "pct": 12.96,
      "win": null
+    },
+    "21d": {
+     "pct": 13.87,
+     "win": null
     }
    }
   },
@@ -14631,6 +14857,10 @@
     },
     "14d": {
      "pct": 5.25,
+     "win": null
+    },
+    "21d": {
+     "pct": 5.08,
      "win": null
     }
    }
@@ -17478,6 +17708,10 @@
     "7d": {
      "pct": -6.31,
      "win": true
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": true
     }
    }
   },
@@ -17498,6 +17732,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": false
+    },
+    "14d": {
+     "pct": -0.78,
      "win": false
     }
    }
@@ -17520,6 +17758,10 @@
     "7d": {
      "pct": -6.31,
      "win": false
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": false
     }
    }
   },
@@ -17541,6 +17783,10 @@
     "7d": {
      "pct": -6.31,
      "win": true
+    },
+    "14d": {
+     "pct": -0.78,
+     "win": true
     }
    }
   },
@@ -17561,6 +17807,10 @@
    "outcomes": {
     "7d": {
      "pct": -6.31,
+     "win": true
+    },
+    "14d": {
+     "pct": -0.78,
      "win": true
     }
    }
@@ -19526,7 +19776,12 @@
    "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.23,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "HIMS",
@@ -19542,7 +19797,12 @@
    "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.23,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "HIMS",
@@ -19558,7 +19818,12 @@
    "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.23,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "HIMS",
@@ -19574,7 +19839,12 @@
    "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.23,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "HIMS",
@@ -19590,7 +19860,12 @@
    "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.23,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "META",
@@ -19606,7 +19881,12 @@
    "video_title": "HIMS Stock Analysis: 3-Month & 12-Month Targets + Key Buy Zones",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.69,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CSCO",
@@ -20021,7 +20301,12 @@
    "video_title": "Why Micron Stock Is Down, Don\u2019t Buy Until You Watch This, Best Stocks to Buy Now",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.61,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -20037,7 +20322,12 @@
    "video_title": "Why Micron Stock Is Down, Don\u2019t Buy Until You Watch This, Best Stocks to Buy Now",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.61,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -20053,7 +20343,12 @@
    "video_title": "Why Micron Stock Is Down, Don\u2019t Buy Until You Watch This, Best Stocks to Buy Now",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.61,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -20069,7 +20364,12 @@
    "video_title": "Why Micron Stock Is Down, Don\u2019t Buy Until You Watch This, Best Stocks to Buy Now",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.61,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -20341,7 +20641,12 @@
    "video_title": "Tesla Accidentally Revealed Its Biggest Plan Yet",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.9,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "VKTX",
@@ -20357,7 +20662,12 @@
    "video_title": "Why We\u2019re Back in $VKTX for the 3rd Time After a 44% Gain",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -9.11,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "SPCX",
@@ -20478,7 +20788,12 @@
    "video_title": "Why I\u2019m Long $DKNG at the Strongest Support Level in My System",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.69,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "DKNG",
@@ -20494,7 +20809,12 @@
    "video_title": "Why I\u2019m Long $DKNG at the Strongest Support Level in My System",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.69,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -20510,7 +20830,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 2nd, 2026",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.9,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -20526,7 +20851,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 2nd, 2026",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.9,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -20542,7 +20872,12 @@
    "video_title": "#TSLA JUST REVERSED \u2014 IS THE SELL SIGNAL DEAD? #Tesla #daytrading",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.9,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -20558,7 +20893,12 @@
    "video_title": "#TSLA JUST REVERSED \u2014 IS THE SELL SIGNAL DEAD? #Tesla #daytrading",
    "date": "2026-10-01",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.9,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -21293,6 +21633,70 @@
    "channel": "Wicked Stocks",
    "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
    "date": "2026-10-07",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "The longerterm opportunity for Tesla is like no other company that I've ever seen.",
+   "video_id": "Dj6WtuhOnE0",
+   "channel": "Brighter with Herbert",
+   "video_title": "Elon Just Made His Wildest SpaceX Claim Yet",
+   "date": "2026-10-09",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AXON",
+   "direction": "long",
+   "kind": "call",
+   "entry": 400,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "you could DCA this stock between $300 and $400 and you want to buy appropriately. Where do you think the bottom's at? ... I think that's probably the floor.",
+   "video_id": "SZukzE9AQco",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why Most Investors Lose Money Buying Stocks Right Now!",
+   "date": "2026-10-08",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NOW",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "Software, the SAS apocalypse, you know, service now is GOING TO ZERO. DON'T BUY THAT AT $85.",
+   "video_id": "SZukzE9AQco",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why Most Investors Lose Money Buying Stocks Right Now!",
+   "date": "2026-10-08",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AVGO",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "This is Broadcom, high quality company, $39 stock here, November 2022, and it's just been bulls on parade straight up to 493. And it's going to have a pullback.",
+   "video_id": "SZukzE9AQco",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why Most Investors Lose Money Buying Stocks Right Now!",
+   "date": "2026-10-08",
    "affiliated": false,
    "outcomes": {}
   }
