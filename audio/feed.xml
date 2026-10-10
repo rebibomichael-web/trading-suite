@@ -7,6 +7,12 @@
 <description>Narrated daily YouTube channel digests and CNBC Halftime Report summaries, generated automatically.</description>
 <itunes:author>trading-suite automations</itunes:author>
 <item>
+<title>YouTube digest — 2026-10-10</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-10.mp3" length="3683808" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-10.mp3</guid>
+<pubDate>Sat, 10 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Halftime Report — 2026-10-09</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-09.mp3" length="1966176" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-09.mp3</guid>
@@ -281,18 +287,6 @@
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-11.mp3" length="5172048" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-11.mp3</guid>
 <pubDate>Fri, 11 Sep 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Halftime Report — 2026-09-10</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-10.mp3" length="2316240" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-10.mp3</guid>
-<pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>YouTube digest — 2026-09-10</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-10.mp3" length="5842080" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-10.mp3</guid>
-<pubDate>Thu, 10 Sep 2026 07:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
