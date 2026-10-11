@@ -4192,6 +4192,10 @@
     "7d": {
      "pct": -0.41,
      "win": true
+    },
+    "14d": {
+     "pct": 2.85,
+     "win": false
     }
    }
   },
@@ -4213,6 +4217,10 @@
     "7d": {
      "pct": -0.41,
      "win": false
+    },
+    "14d": {
+     "pct": 2.85,
+     "win": true
     }
    }
   },
@@ -4234,6 +4242,10 @@
     "7d": {
      "pct": -0.41,
      "win": true
+    },
+    "14d": {
+     "pct": 2.85,
+     "win": false
     }
    }
   },
@@ -20609,7 +20621,12 @@
    "video_title": "Why I\u2019m Buying $CELH Before a Potential 60% Breakout",
    "date": "2026-10-02",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.84,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "CELH",
@@ -20625,7 +20642,12 @@
    "video_title": "Why I\u2019m Buying $CELH Before a Potential 60% Breakout",
    "date": "2026-10-02",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.84,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
