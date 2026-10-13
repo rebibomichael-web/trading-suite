@@ -1,0 +1,1225 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+With the Discover Cashback card, it's payback time when you earn cashback on everyday purchases.
+Activate and earn 5% cashback at different categories each quarter on up to $1,500 in purchases.
+That's 5% cashback at different places each quarter, like grocery stores, on gas, and at restaurants.
+It pays to discover.
+Terms Applying, see discover.com slash 5 for details.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report, the podcast,
+the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Alright guys, thanks so much. Welcome to the Halftime Report.
+I'm Scott Wapner. We're live in Beverly Hills today at the Case Summit.
+This annual Get Together is really all about giving retail investors greater access to alternative investments.
+We'll speak to one of those asset managers in just a bit.
+Glenn August of Oak Hill Advisors will join me momentarily.
+I do have Shannon Secocia and Rob Siechen right here by my side as well.
+Josh Brown and Joe Taranova are joining remotely today.
+Guys, it's good to have you with us. We'll check the markets.
+You know by now we are mostly lower. Bank earnings do begin.
+We're watching yields. There's the 10-year yield at 5.22.
+As I said, we'll get into the whole Alts conversation because there is so much money going in that direction.
+It's expected to be $30 trillion globally by 2029.
+But let's talk about what's happening in the markets today and what really is the conversation.
+And that remains the AI trade. Where are we in that trade?
+I thought it was interesting. Paul Tudor Jones was on SquawkBox this morning.
+He said 2027 is going to be a really challenging year.
+He said he's going to be short the entire year and is likening some of what he sees today
+as a dot-com boom and eventual bust. Listen.
+It still feels like 1999, a two-speed market.
+You've got it completely, perfectly bifurcated in the sense that you have,
+obviously everything that's adopting AI and everything that's not,
+and they're going in opposite directions.
+And that was pretty much the case in 1999.
+Alright, so Paul Tudor Jones weighing in on the market.
+I think we should jump off there and really expand on what he's talking about
+and how you see the current market landscape,
+whether you think it's going to be a very challenging year ahead.
+Well, I think he's making the differentiation in terms of what's happening with AI,
+who's doing it, who's not.
+And I think it's actually a little bit more complex than that.
+Right now, you see all-time highs being hit in the S&P 500, for instance.
+Yet, when you look below, the service got 39% of the S&P 500 is below.
+It is 20% below its all-time high mark.
+You look at the Russell 2000, 56% of that benchmark is actually below its all-time,
+20% below its all-time high.
+So I think the challenge for us right now is that you're having these questions around AI,
+the next phase of AI, that implementation, that adoption,
+and that's hitting with full force against the rates question.
+And so not only do you have questions about some of these high flyers on the growth side,
+but you're also seeing that barbell, that cyclical barbell,
+where we saw a lot of people plowing into the broadening out trade.
+People are quickly moving away from that trade because of interest rate and energy price sensitivity,
+and you're getting questions about some of these high flyers.
+And the persistence of that really strong earnings growth,
+those year-over-year comparisons get really tough next year.
+They do. They're ringing the bell, obviously,
+because the summit's about to begin in case everybody was wondering what that was as Shannon was speaking.
+It feels like what Paul Tudor-Jones is really talking about is
+concentration risk in the market today relative to what some saw back then.
+You know, Jonathan Krinsky is talking about that today too.
+He says the last man standing, Mag7 holding things up, but for how long.
+And then Michael Sembelist of JP Morgan last week,
+I think just sort of brought it all together in terms of the concentration risk.
+And I want to get Rob your reaction to it.
+He says a basket of 42 AI stocks accounts for 60 to 80% of all S&P earnings growth,
+price returns, and capital spending since January of 2024.
+At the same time, 60% of S&P 500 stocks are down 20% or more from their all-time highs.
+Only 30% of stocks outperforming the S&P.
+It's one of the lowest figures since 1991.
+It does talk about the bifurcated market that PTJ was recognizing this morning on SquawkBox.
+Is that a risk or just the way things are for obvious reasons?
+I think it's the way things are for obvious reasons, actually,
+because that is where the earnings growth and earnings revisions have been.
+That's where the contracted revenue is.
+That's where visibility is.
+And pricing has improved from a valuation standpoint.
+The challenge is there is this one pillar of strength underpinning everything.
+And not only is it underpinning everything in the market because of the constituency that it makes up,
+whether you add the Mag7 and the chips together and you get to 44 or 45% of the market, right?
+That's huge.
+So if there's any wobble there, and I think that wobble might come in financing
+or just ability to raise capital to continue to fund the build out.
+I am later, not right now.
+It seems to be, in talking to the sources, that that is available now.
+That is not today's problem.
+Paul may be right that that becomes next year's problem.
+And any wobble that ultimately changes that one fundamental pillar impacts energy.
+And by the way, it impacts the consumer because the wealth effect that we have right now
+that's driving up spending in this country.
+You start to get a wobble in the market with the amount of people that own stocks in the market today at all time highs.
+I think you could see a little economic deceleration on that.
+Well, that's why Carl was just, when he was talking to the Wells Fargo CFO,
+brought up the point of, you know, they say, well, the stock market isn't the economy,
+but maybe now it actually is.
+It is now.
+It is now.
+And frankly, if you look at all the growth in the economy with the tensions on rates
+that Shannon just talked about, other companies are going to get squeezed.
+There's going to be a squeeze out of capital.
+It's different if you're growing 30%, 40% to be able to pay higher rates
+when others aren't having that same growth and they can't.
+And so that's why you've seen this kind of case-shaped re-rating.
+I don't think it's over yet, though.
+And I think your highest conviction bet still should be in this space.
+I know the chips are a little scared, stocks are a little wary right now
+because every headline that comes out that looks like this train may crash
+and we want to get off, but I just don't think the time to get off yet.
+Josh, because as HSBC today says, when they say don't fight the AI trade,
+earnings continue to be exceptional.
+You can't be at the end of the cycle if earnings are still going to be exceptional.
+Shannon mentions tough comps and maybe earnings are peaking or in the process of.
+But how do you meld that call?
+Earnings continue to be exceptional with the fact that you do have a bifurcated market,
+one that's so top-heavy as Paul Tudor-Jones and Michael Sembelist have been talking about.
+Nobody's asking the obvious question, so I'll ask it.
+What happens if and when interest rates fall?
+What does the market do?
+What does the S&P 493 do in response to a little bit of pressure coming out of the 10-year
+or even, God forbid, the 2-year?
+Like what we've seen in the last 15 years, 17 years, excuse me,
+is this pattern where we have a group of leadership stocks,
+they push the index at a nominal level higher.
+There is hand-wringing about weaker internals.
+We don't have full participation at every phase of the market
+or at every single instance of a new high.
+And people say it's all being held up by five companies.
+By the way, those companies change, but we'll put that aside.
+And the conclusion that everyone draws is
+it's like a table being held up by three legs
+and now there's only two legs and now there's only one leg.
+The actual history of the stock market over the last 17 years,
+most of which Scott, you and I have documented live on air multiple days a week,
+is that eventually if the market is able to hold up
+and avoid a correction, despite the crumbling internals,
+all of a sudden and the catalyst changes,
+the rest of the marketplace catch up.
+We have seen this time and time again.
+I'm not saying it's guaranteed to go that way this time.
+I just want people to remember that is the way that it is usually gone.
+So what is the catalyst? What happens? I don't know.
+Something comes down in the Middle East, oil prices fall.
+All of a sudden you see weights come in as inflation expectations are held in check.
+Maybe a dovish commentary from a Fed speaker, something overseas.
+It's just amazing to me that nobody could tackle this question
+conversely.
+It seems so obvious to everyone that we're on our last legs here
+because large cap tech is doing all the work.
+Large cap tech is where most of the earnings growth is going to be.
+And if you listen to commentary out of Goldman City, JP Morgan,
+none of them are seeing anything with the consumer
+that tells them that this is about to end.
+So let's just not be so sure of how this definitely has to resolve.
+We've seen too many examples of a positive resolution
+to negative divergence in the internals.
+I just don't think, Joe, that many expect rates to come down
+markedly anytime soon.
+I mean, as long as inflation expectations remain elevated,
+as long as the Fed is talking about hiking interest rates,
+and it plays right into what Black Rock's Rick Reader just did.
+And he sort of front ran it on closing bell with me a week or so ago
+when he said stocks are a B minus right now.
+Well, he's acted.
+He downgrades U.S. stocks, and he turns bullish on short-term bonds.
+We upgrade treasuries, favoring those.
+In turn, we take profits, downgrading equities to neutral
+to manage potential volatility around the AI buildout.
+Higher yields, potentially excessive Fed tightening expectations,
+create room to unwind their treasury underweight.
+A mainstay for most of the last six years.
+It speaks to the competition that exists today
+that hasn't existed for the better part of the last six years.
+Yeah.
+Yeah, so you have these two forces at play.
+On one hand, you have the phenomenal, robust earnings
+that are being driven from the technology sector.
+And by the way, when we say the stock market is the economy,
+let's narrow that phrase and basically say technology is the economy.
+On the other side of it, you have the headwind force of higher oil
+and more importantly, higher yields.
+They're pushing against each other, and the result of that
+is this resiliency that you see in the market.
+And Scott, I think the resiliency that you see in the market
+is fully represented by the fact that these trillion-dollar companies
+are not so much focused on the fact that yields continue to rise.
+So if yields stay elevated, the broadening trade,
+that does not come into play as you move through the remainder of the year
+into 2027.
+You have the ability, though, to play defense in the trillion-dollar companies
+and that's why the market stays elevated.
+So if you're going to tell me we're going to get a rollover
+in the entirety of the complex, tell me what exactly will be
+the conditions, the headwinds that will present themselves
+that are not there now that are going to force the correction.
+How about this?
+How about this?
+I'll give you one.
+How about this?
+Okay, I'll give you one.
+What if the cost of capital continues to rise to the point
+where it gets too punitive to raise debt for the AI build-out
+and all of the spending commitments that have already been pledged
+by the hyperscalers?
+I mean, some are talking about that possibility.
+I think we're there already.
+I think you're beginning to see it.
+I think that's why we're beginning to narrow further
+and further where the appreciation is in the market
+and it's isolated to a very select few names,
+the trillion-dollar companies.
+You could have an unhealthy market,
+which is how I characterize the market currently
+but still have a resilient market because you're Apple,
+because you're Meta, because you're Microsoft are working
+and that's what's going on now.
+You have to take down those trillion-dollar companies.
+If you're going to get the poll through to Jones 2027,
+be short narrative.
+I don't know.
+Goldman's Tony Pascarillo today says the tactical set-ups net positive.
+I'm not sure he says, quote,
+that I can remember a time when a market that was on the highs
+was attracting so little chase.
+Right, because you still have a lot of doubters
+who are waiting for, to Rob's point,
+that one pillar to crack and fall.
+Well, and I think that's the challenge right now
+is that at each point over the last 12 months or so,
+there have been these inflection points
+that investors and many professional investors,
+institutional investors have said,
+whoa, we've got to take a step back.
+We need to take money off the table.
+And yet that has been the wrong decision
+and has continued to be the wrong decision
+because at each turn what ends up happening is to Joe's point,
+there's another leader and there is evidence of demand.
+And I think that's what we haven't seen.
+We haven't seen, Scott, any decline
+in that evidence of demand.
+Like there is still meaningful demand out there,
+whether it's in the power trade or whether it's for chips.
+At each turn where we get those questions,
+something comes in the next month, in the next two months
+that materially changes the outlook for demand
+and those demand expectations continue to rise.
+You know where there's also demand?
+According to the Wall Street Journal today,
+which writes about it, in the appetite of individual investors
+to continue to be hungry for risk.
+Daily trading volumes in single stock options
+have recently reached about $700 billion
+near level seen during the 2021 meme stock mania.
+So there's still an appetite
+in the investing community to take on risk.
+Bank of America's Global Fund Manager Survey.
+So if you're talking about individual investors
+with an appetite for risk,
+institutions apparently still have them too
+because investors remain bullish
+and they're overweight tech.
+Yeah, I think there's an underlying level of caution
+on the institutional side I'm going to say
+but the individual side, there's a lot of YOLO out there.
+These short-term options all on the call side,
+buying upside while understanding your exposure.
+You've got the most, by the way,
+Fund Manager Survey investors, 37% overweight technology.
+It's the most since August of 2020.
+Of course, because that's the only game in town.
+That should be no surprise.
+This has been an earnings-driven market.
+It's been an earnings revision-driven market.
+We are coming into an important three weeks
+with 70% of companies reporting
+and we're going to get great visibility into it.
+I see no reason for it to change yet.
+What if it's peaking?
+Okay, so you're bringing up a great point.
+What if 30% today for, let's say, tech earnings?
+What if that's the best, that's as good as it's going to get?
+Does that change anything?
+At the margin for forward return expectations,
+because one of the most important things
+in kind of betting on categories or betting on sectors
+is the change in the rate of change.
+It's not the first derivative.
+It's the second derivative that most investors look to.
+Specifically, quantitative investors look to that.
+I think that deceleration could lead to a hiccup,
+but then it becomes the relative strength of those earnings still
+and the price you're paying for those earnings
+relative to the rest of the market.
+Josh made up a great point, Scott,
+which is there can be things
+and I think it's why Rick made this decision.
+It's not equity exhaustion.
+It's that forward returns may come in a little bit,
+but the bond market has re-rated to a two-standard deviation event
+and now you have a shock absorber
+that you can go by at a reasonable valuation
+in the event something unwinds.
+That's why, as he says, he thinks that stocks are a B minus.
+Now, he didn't say this as part of his note,
+but maybe you can infer
+that maybe he thinks bonds are now a B plus,
+where they were like a D.
+Well, they were a D.
+Now they're going home with the ribbon on the report card
+and the lollipop.
+They're getting picked in the class now
+where they were ignored for a long time
+and I do think there's some of that.
+By the way, Josh pointed out some of the things.
+You don't need a calamity to have bond yields behave
+and collect the coupon and maybe come in a little bit.
+By the way, if that happens, he also said
+you're going to see a broadening out to some of these areas
+which indicates underlying market health.
+Now, it's not all Pollyanna out there.
+I mean, there is risk in the market
+that you have to pay attention to
+and I think that risk is borne out in ability to finance.
+When all these companies start coming to market
+and you see them, you know, taxing the system,
+the Apollo's, the KKR's
+and how much can they lend to this space?
+What other private credit is going into this space?
+A lot as we're going to learn
+over the next couple of days at this very summit
+and what you're going to hear in the ballroom
+over there is a lot.
+It's like the private credit appetite
+and maybe a certain degree of risk
+is just moving along from software to somewhere else
+and it's concentrated in its own right
+and it's going to remain that way.
+I mean, you raise an interesting point,
+one that's going to be topic number one, two and three here.
+Well, but I think to be fair,
+after the SAS Pocalypse in February,
+you know, coming into that, Scott,
+spreads were very tight in the private credit space
+and there was a very light covenants.
+There was a significant amount of debt
+that was being taken on that probably didn't have
+the right growth profile to justify
+the risk that investors were taking on.
+But you also have, at this point,
+you have a combination of investment grade
+public issuance with the amount of debt
+that's being raised in the private credit market.
+But one could argue that since the reset in February,
+you're actually seeing sort of a new paradigm
+or shift in terms of the quality
+of that underlying lending universe
+and the likelihood is that this is probably
+a good time for private credit.
+To your point, everyone is moving quickly
+out of software to everything else,
+but it's all AI adjacent.
+And so now you've got a public credit market that has AI,
+you've got a private credit market that has AI.
+And I think what investors really need to think about
+is how do you diversify?
+Do you diversify into areas like high yield
+where you have that less of that exposure?
+There's a lot to think about and it's going to be on,
+certainly in the topic here.
+Well, because it speaks to really the conversation
+that we're having.
+What sort of return can you get from Treasuries
+versus what sort of return can you get from stocks?
+If 2027 is going to be what Paul Tudor-Jones believes
+a more challenging year,
+then you're going to want to reach for yield
+and return somewhere else.
+And that's why the private markets have become so popular,
+as I said, more than $30 trillion by 2029.
+Your clients are in the private markets
+probably bigger than they've ever been.
+Actually, no.
+We're active allocators to that,
+but there's not been broad acceptance
+because investors have been scared off
+by what I think is a lot of headline risk in the space.
+So if you look at our target allocations,
+they're 20 to 30%.
+When you look across our, you know,
+120 billion of assets,
+it's more like 14, 15
+than you actually see from an implementation standpoint.
+You think it's still a tough sell
+because I thought it was interesting
+when Kristen Olsen from Goldman came on,
+not that long ago, and they had just done a survey
+which suggested that all of this noise
+and everything else around private credit
+and software and redemptions
+really hasn't dampened the appetite at all.
+Not on the institutional side.
+On the individual side, it has.
+There's this silly liquidity premium being paid.
+It's evidenced in the public markets.
+There's also something that's kind of interesting
+happening in private markets.
+I think we paint it with one broad brush.
+But there is a need for those companies
+to finance all the things that we're talking about.
+There's also attractive parts of that market,
+none attractive.
+Let me give you an example.
+Large PE has more capital than ever
+and less opportunity than ever.
+Small PE funds have less capital
+and tons more opportunities.
+The return forward returns should be higher there.
+If you look for those disconnects,
+secondaries, for example,
+most of these big funds are returning
+very limited capital over the last several years.
+Secondaries are required for that liquidity
+because some of these institutional investors
+need that money to finance their actuarial draw
+on their endowments.
+Not everything you can just lump up alternatives.
+There's great categories and weaker categories.
+And even within the weaker categories,
+there's very strong opportunities.
+Assetbacks, for example.
+It's an interesting space.
+I do wonder what the fallout is.
+A year ago, we're asking questions
+at this very event.
+Private credit, is it a bubble?
+What's the impact of software?
+Now you've had over the last year
+so many stories about redemptions
+and how your clients might be feeling
+about this area of the market now.
+I think the challenge is that
+it really comes down to individual investors,
+Scott, as a comparison of the relative opportunity.
+As much as I understand
+that people might have become hesitant or reticent
+because of what's happened in terms of the quality
+of those underlying investments,
+at the end of the day, the public equity markets
+here in the U.S. have been so strong.
+And that's the comparable for many investors.
+It's public equity versus private equity.
+It's how do I want to access the equity market.
+And so I do think that looking out
+over the next couple of years, though,
+there is a very real continuation
+of this drought of distribution.
+There needs to be the secondary capital,
+secondary co-investments.
+And the other thing is that
+there are still a lot of really good companies
+that are still private.
+And the ability to create value
+from those companies is not at IPO.
+It's well before then.
+Investors who want to play in that space
+and really be on the cusp of growth,
+you need to be in private markets
+in order to partner that exposure.
+Yeah, because some of these companies are now so mature
+by the time they hit the public market
+if they ever do.
+This space is the life-splud of the real economy.
+Yes, you have this drag effect
+with these larger cap companies
+because of the spending they create.
+But the life-splud of tomorrow
+is private equity
+and private credit funding
+for wonderful businesses
+that can, you know, do great things.
+All right, we're back here in a moment.
+We do have a news alert crossing on Google.
+Mackenzie Segalos has that for us.
+What are we learning here, Mack?
+So, Scott, Google just announcing
+that it's broadening access to Gemini
+for Argon, opening its most powerful
+AI model yet to developers, enterprises,
+and then also paying customers
+after initially keeping it tightly gated
+since launching almost two weeks ago.
+Argon has been available only to a small group
+of enterprise cloud customers
+and trusted cybersecurity defenders.
+So, today marks its first broad
+pressure test at the frontier,
+making it Google's first real chance
+in almost a year to prove that it can retake
+ground with a major new model.
+Gemini 3, remember,
+really put the company back
+at the front of the AI race last November,
+but that momentum has faded as rivals
+keep pushing out splashier releases.
+That, of course, includes Meta, which just yesterday
+debuted its new Muse models.
+Both Google and Meta increasingly focused
+on agents but with a different pitch.
+You've got Meta leaning into personal
+intelligence and memory, while Google
+is positioning Argon around these
+agentic workflows across coding,
+finance, legal, cybersecurity,
+and science. The wider rollout
+also follows buy-in
+from the U.S. government after
+Google submitted Argon for voluntary
+safety testing ahead of launch.
+Scott, those shares moving higher, about 1%.
+All right, we'll watch both.
+Mac, thanks. I mean, Meta is the best
+performing of the mega caps over the last month.
+Apple, by the way, hitting a new high
+today as well. So still a lot to
+follow. We're just getting started here
+at the Case Summit in Beverly Hills.
+Coming up next, our half-time headliner
+today, Oak Hill Advisors founder Glenn August.
+He's all in on Alts.
+He'll join us exclusively next.
+With the Discovered Cashback card,
+it's payback time when
+you earn cashback on everyday purchases.
+Activate and earn
+5% cashback at different categories
+each quarter on up to $1,500
+in purchases. That's
+5% cashback at different places
+each quarter, like grocery stores,
+on gas, and at restaurants.
+It pays to Discover. Terms applying,
+see discover.com
+slash 5 for details.
+More people. More devices.
+More AI.
+The way we live today takes a lot of energy.
+Wind and solar are powerful
+but not always available.
+That's where natural gas comes in
+with reliable energy whenever it's
+needed. Companies like
+Energy Transfer work behind the scenes
+safely transporting these resources
+to facilities across the country
+through a network of underground pipelines.
+Learn more at ittakesenergy.com
+including many cancers, autoimmune disorders,
+neurodegenerative diseases, and more.
+Add blood panels to test over 80 biomarkers.
+And you've got information about your body
+you may never have had before.
+Book your scan at prenuvo.com.
+That's P-R-E-N-U-V-O dot com.
+All right, welcome back to Here to Case
+in Beverly Hills with more than $100 billion
+under management. Oak Hill Advisors
+is in the thick of the alternative investment
+universe with several strategies.
+The newest is the AI build out.
+Let August, his founder and CEO of Oak Hill
+joins us once again.
+It's good to see you again.
+I guess it's our annual visit.
+Last year it was cockroaches.
+Last year we were all about
+AI a bubble, the comment
+it was Jamie Dimon who talked about
+cockroaches, we're talking about
+software and redemptions.
+We'll get to all that in a minute.
+I do want to start on what one of your
+newest opportunities is.
+The AI build out.
+Direct lending around the data centers
+for both infrastructure and power.
+What kind of opportunity do you see there?
+We have a lot of opportunity across
+the infrastructure space.
+We focus on private credit as you know,
+liquid credit, stress credit, distress credit
+and clearly the AI build out is just
+the most extraordinary CAPEX
+investment of all time.
+Whether it's 3 trillion, 5 trillion
+or 10 trillion, there's a lot of
+capital that needs to get raised
+and again I think as the amount
+of capital gets raised
+spreads are actually going to widen
+and make it even more attractive because
+what we're seeing is a lot of investors
+already at the early stages are starting
+to fill up and so whether it's power
+generation, whether it's constructing data
+centers, whether it's chip financing, we're
+looking at all those if not.
+Turbines is an area.
+You are investing in that.
+We are actually investing in that.
+We just were able to do a transaction
+with a group of turbines that are powering
+a data center and there was a large
+institution that had some pressure to sell
+and we created an opportunity that
+was two to one over collateralized
+at a very, very attractive yield at a discount
+that we think will make mid-teens return.
+Where is your, I guess your confidence level
+on whether all of these
+data center projects that are
+pledged are actually
+going to get built and that
+these investments that people are making
+are actually going to pay off.
+I mean there's the news over the last 24 hours
+AI models may soon
+self-replicate without access
+to data centers according to
+Anthropic.
+See anything?
+Look, I do feel like
+we are in this moment where the
+demand for compute is so great
+and the expectation
+of deployment of power
+and data centers is so great
+that I'm not sure they're all going to get built.
+And again, we obviously have the
+commitment where people don't want
+power and data centers in their backyards.
+I think there's capital constraints
+but the demand for compute is great
+and so I think there's going to be good opportunity
+and again what we're trying to do is not
+take risk on is the data center
+existing 15 years from now
+and we look at transactions, we're looking at
+a much shorter timeframe that's backed by
+an investment-grade company with a five-year
+type horizon. I wonder what you make
+of this note from Jeffries
+around credit risk, around the
+build-out where they say, quote,
+there's a 2008 real estate
+credit angle to this AI boom
+in the sense that the hyperscalers
+have invested in data centers on the
+assumption of a promise
+by the assumed tenants of future payment
+in exchange for future compute.
+The result of that of around
+2.3 trillion in aggregate
+contracted backlog across
+the four big platforms, that's Microsoft,
+that's Alphabet, that's Amazon
+and Oracle, about half
+is owed by open AI
+and Anthropic. Do you see any credit risk
+around this? I think there's credit risk.
+I do think there's risk, ultimately
+longer term there's risk
+with open AI and Anthropic being the end user.
+In the interim right now
+when you have the hyperscalers
+taking their risk over a five-year time frame
+I think there's much less risk.
+That's how I process it. I guess that's
+opportunity that you
+always try and look for.
+There's definitely opportunity after when
+there's such a demand for capital
+and people are starting to get filled up.
+So again if you think about
+5 to 10 trillion of
+CapEx needs and you think about the size
+of the investment grade and below investment
+grade markets, you're talking about
+potentially 20-30 percent
+allocations which is too high. So we're going to need to develop
+other sorts of finance and again
+I think that's going to create very attractive
+opportunities. When are we going to have another credit cycle?
+So a lot of people want
+a credit cycle but the economy
+is really good.
+The capital markets are in
+much better shape. I mean I've been doing this
+for 39 years. The banks
+don't have a lot on their balance sheet.
+It's been syndicated out.
+The loan market is held 70 percent
+by CLOs which basically
+don't have market to market.
+The high yield market is double B.
+60 percent of the market is double B credit.
+The private credit market
+for all the talk of redemptions
+last year is actually doing just fine.
+And so if you have a good economy
+and you have a good capital
+markets, there's no sign of imminent
+recession. And again
+just to be clear, today
+in the credit markets about 5 percent
+of the high yield market is trading
+at stress levels. In the bank loan
+market it's about 9 percent.
+The 5 percent is at a very low
+level. It's kind of at the 20-year lows.
+And the 9 percent
+if you strip out the 4 percent of software
+is at 5 percent. That's basically a low
+and 9 is in line with where it's been.
+And so there's not signs of stress.
+What you hear about though is idiosyncratic
+issues.
+Companies in secular decline.
+Companies with over leveraged balance sheets.
+Sectors like building products
+where interest rates going up
+has basically had a real impact on those companies.
+But broadly speaking
+the credit markets are doing just fine.
+What's your outlook for rates?
+I mean because at the end of the day
+if rates continue to back up like they
+have then our conversation takes a different turn, doesn't it?
+Well again I think that
+because there's not as much leverage
+in the system
+it has less impact. There's no doubt
+that as we've moved up from
+in effect the short-term expectations
+have really moved 200 basis points because people
+thought we were going to 3
+and now people think we're going to 5.
+The economy can handle that
+and actually for investors
+who are looking to lock in yields
+the opportunity to invest off of a 5 percent
+in a 5-year with 300 basis points
+has spread in high yield and loans
+with 300, 400 in loans
+500 in private credit
+put some leverage, use some
+buy, take complexity premium
+and you actually have the opportunity to make
+high single digits and low double digits.
+There is a lot of
+debt coming due
+in the next few years.
+Again the bifurcation of the market
+is the name of the game today
+so you have 90 percent
+of the market trading at very healthy
+levels and you have 10 percent
+trading at triple C below
+80 or distressed levels.
+That 10 percent, $150
+billion of triple C debt
+coming due over the next few years.
+There's a real opportunity there Scott
+on the stress side, on the capital solution side
+everyone is throwing out some
+of those troubled credits
+and trying to find the attractive opportunities
+amongst them. In software
+there's a lot of dispersion obviously
+in software it's dispersion
+it's not bifurcation but interestingly
+today 75 percent
+of software loans
+are trading above 90
+20 percent is trading below 80
+so the question is
+are the ones trading below 80 who's going to be a survivor
+or not and again the ability to
+pick credit that's how we make
+our returns. Lastly
+the whole reason we're here
+in that case as a platform
+exists to begin with
+is to make that connection between the retail
+community and asset managers
+like yourself. You just launched a new retail
+fund this year
+tell me more. So
+two things one is
+institutional investors put
+25 to 35 percent
+of their capital in alternatives
+the individual investor has
+zero to 15
+it makes sense in a portfolio to have
+alternatives so we have a couple of different products
+one that's focused on senior loans
+one that's focused on multi-strategy
+credit and we think the opportunity to
+bring what we do for institutions
+we manage money for 7 of the top 10
+US pension plans 7 of the top 10
+sovereign wealth funds to bring
+that product offering
+to the wealth channel makes a ton of
+sense for us and we think makes a ton of
+sense for investors. I appreciate the time
+as always very much Glen it's good to see a
+here case. That's Glen August still ahead
+Josh Brown he's back with best stocks in
+the market and a new name that just hit
+us.
+With the Discover Cashback card
+it's payback time when you earn cash
+back on everyday purchases
+activate and earn 5% cash
+back at different categories each quarter
+on up to $1500 in
+purchases. That's 5% cash
+back at different places each quarter
+like grocery stores on gas
+and at restaurants. It pays to
+discover terms applying see discover.com
+slash 5 for details
+Every house has a beginning
+hours starts with a rebellion
+this is not just fashion
+this is freedom worn out
+loud a place where individuality
+isn't a look it's a
+law perfect is
+boring the algorithm doesn't
+know you you do
+look is never just a look
+it's a declaration it's
+time to step out and into somewhere
+new step into the house of
+Burl and find a Burlington near you
+here's something you may not know
+only 14% of cancers in the U.S.
+are caught through routine screenings
+prenuvo's whole body
+MRI may help close that gap
+screening for over 500
+conditions including most
+solid tumors all in under an hour
+prenuvo's body panels
+also test over 80 biomarkers
+for a deeper understanding of your health
+no radiation no
+contrast book your scan at
+prenuvo.com that's
+p-r-e-n-u-v-o.com
+welcome back to the halftime
+report I'm Dominic Chew with your
+CNBC news update
+Kimberly Guilfoyle addressed her
+departure today as the U.S.
+ambassador to Greece after the
+White House press secretary said
+she had been asked to step down
+in a statement on social media she
+said serving in the role has been
+the honor of a lifetime and called
+the allegations against her false
+President Trump said yesterday he was
+considering firing her and made a
+Republican donor to pay off a credit
+card bill the Supreme Court said
+today it will take up a case over
+whether the department of governmental
+efficiency or DOGE formed by
+Elon Musk is subject to freedom
+of information act requests
+the justices will hear an appeal from the
+Trump administration seeking to stop the
+release of information about the
+agency's attempts to downsize the
+government and Hillary Clinton is
+getting into the podcasting business
+the former secretary of state and
+presidential hopeful is launching a
+limited series on the midterm
+elections called high stakes alongside
+box media and journalist Kara
+Swisher the podcast debuts tomorrow
+and runs through mid November
+that is your CNBC news update
+halftime report returns after this
+keep it right here all right we're
+back in Beverly Hills time for
+Josh Brown's best stocks in the
+market do we have a new name today
+or where's the spotlight shining
+Josh so we wrote up two stocks
+I thought Robin Shannon did a great
+job of explaining how the stock
+market sort of has become the
+economy again because these are
+companies that you would not
+associate with AI or the high tech
+trade but they're both putting up
+big numbers because they're
+selling into this cat-back
+frenzy we're going to focus on
+we're going to focus on expd
+this is expediter's
+international of Washington because
+I think it's a really fascinating
+situation the technical say this
+stock is about to break out
+Wall Street hates it they
+think this company had an earnings
+report in early August that just
+absolutely blew the street away
+second quarter earnings were up
+51% which was
+21% above the
+consensus and
+they said air freight revenue
+jumped 57% mostly
+on higher tonnage you know what
+that is that shipping chips and
+to the hyperscalers from all over the
+world there's also another thing
+with tariffs where every time the
+tariffs get weirder this is a
+customs broker so the paperwork
+becomes more expensive they make more
+money and they had some tech
+related restructuring that
+helped their margins and what ends
+up happening is five of the
+17 analysts who cover the
+stock have a sell or a
+strong sell rating you very
+rarely see that in a stock
+it's a really interesting
+situation because it's
+been building a tight
+range between 183
+and 195 the rising
+50 day at 187 is
+climbing up right below it
+196 would be the breakout
+we're like literally right there
+RSI is only 57
+we're not going to
+break out of the stock
+we're not going to
+break out of the stock
+RSI is only 57 we're not
+crazy over bought we're telling
+traders to stop as 183
+that's the September low
+also the 50 day we're saying
+investors can anchor to
+177 which was the
+early August post earnings
+pullback low if it stays above
+those levels we think the stock
+continues higher the other name we won't
+spend time on is Johnson controls
+they're doing data center cooling
+same type of story this was
+RSI or a tech stock and then all of a
+sudden it was look at the trend on
+this bad boy this one is already
+broken out and is doing a low
+volume test of that breakout
+right now
+yeah the other Johnson controls and
+by the way you do also own old
+Dominion and JB Hunt right which
+which report later this week I
+mean at least there are in the
+best stock so it's a theme
+that you've liked
+yeah JB Hunt does not have nearly
+as expeditors but I will tell you
+EXPD
+is the 8th best stock
+in the S&P transportation
+sector this year it's
+up 30% on the year
+there are not many stocks doing
+anywhere near what this name is doing
+which is why it's attracted a lot of attention
+but the street doesn't believe those
+drivers that gave them that
+monster quarter are
+going to repeat it's 28
+times for a cyclical
+so I'm not saying that
+I think Wall Street's wrong
+that's why we have risk management
+that's why we use stops Wall Street
+may be vindicated but their average price
+target judge is 159
+they are way behind
+where the expeditors prices right now
+so either the buyers who have
+taken this up to new highs
+will look like geniuses
+and Wall Street will have an egg on its face
+or vice versa the sell side will be
+vindicated I love this game
+we're all going to find out together
+good stuff we'll take a break we'll come back
+we'll have an alts version of options action
+Oliver Renick is next
+we're back at the Case Summit here in Beverly Hills
+where the alts boom is front and center
+and competition for dollars in the alts
+space is spilling over into the options market
+that's where Oliver Renick takes a look today
+live from the SIBO global markets
+in Chicago what do you see
+hey Scott not to blow up
+the party in Beverly Hills but as alternative
+asset managers approach a two-year
+bear market the options
+story is not about the trading around these
+stocks but the options market
+itself as an understated threat
+to the industry the big pitch from
+private credit right now is that it's a solution
+to what many see as a treasury
+bond problem in portfolios
+for which many investors want alternatives
+Chicago's solution is the options
+market going after the same
+slice of pie and in many respects
+doing a better job with risk
+to find trades guaranteed outcomes
+and structured products that offer better
+yield than treasuries without
+the credit risk of private finance
+look at the boom in box spreads
+which trade billions a day here at SIBO
+the huge rise in buffer
+ETFs case in point
+Goldman Sachs purchase of innovator funds
+Wheaton Illinois based earlier
+this year private credit promises
+juicy yields but
+carries sector risk and a lack of
+transparency and options
+all the math is right in front of you
+Scott really interesting
+look Oliver thank you Oliver Renick in
+Chicago we're talking bank earnings right
+after the break let's kick some bank
+earnings around because they're a bit
+mixed in the market today Joe I'll give
+you the first shot at this with your take
+on Goldman Sachs and JPMorgan
+that the trading
+revenue was going to be lighter than expected
+oh yeah
+I could I could hear Scott so we
+anticipated that trading I'm sorry
+yeah trading revenue is going to be lighter
+than we expected that in fact is what we
+got but the equity division in
+particular JP Morgan came out particularly
+strong up 49% relative
+to last year the struggle really was
+in commodities and currencies
+that was offset
+with some better guidance as it relates
+to net interest margin so I think
+ultimately the resiliency
+you're seeing in both JP Morgan
+and Goldman Sachs relates to the fact
+that you saw some position
+winding over the third
+quarter and I think that's why the stock
+is supported today I purchased
+JP Morgan back in June I've been trading
+around it a maintaining position there
+Goldman Sachs got you know I've had for
+the better part of the last three years
+yeah no doubt answer me
+here well I think it's
+56.5 billion in combined
+net interest income for JP Morgan city
+and Wells that actually
+should be something that we care about in a rising rate environment
+but I actually think more importantly
+that's a good read through for regional because they're
+not as beholden to the trading
+revenue as the big banks
+are
+listen I think loan demand was
+okay and and and I am was
+kind of flat not a lot
+of credit issues I think it was
+pretty solid season for the
+banks and I think the read through
+is if the capital markets
+activity can pick up listen they got surprised
+by rates like everybody they're fixed
+income divisions in many cases
+well in JP's case did not
+do as well and so
+when you look at them I think
+the read through is the more capital
+market sensitive will be
+fine if you have the right
+capital market sensitive though
+aren't we I mean the IPO market
+is not I don't think nearly as
+robust as many thought
+it would be for the duration of the year
+correct rather than that
+is the trading of
+securities right yeah naturally
+there's the coming public but also
+the making markets in securities
+got a blockbuster afternoon
+by the way I want to
+remind you from case here in
+Beverly Hills on closing bell this
+equity partner CEO Robert
+Smith is going to join us here
+the case CEO Matt Brown and
+fortress CEO drew McKnight
+so we're going to continue to kick
+around the alternatives space
+whether it's right for you
+you've heard about allocation
+size and what you think
+should be the right allocation for your own
+portfolios and we'll ask our experts
+over the last hour a reminder as well
+on Thursday we're going to go from to San Francisco
+from here in Los Angeles and
+do a special AI in America
+it's going to be live from one market in
+San Francisco as we really
+assess where we are take the pulse
+of AI in America where the best
+opportunities the risks that
+everyone seems to be talking about
+on almost an everyday basis we'll get to the bottom
+down we've got some special guests joining
+us along the way as well
+let's do some final trades Joe turn over
+you want to start us off sure Scott
+how about West pharmaceuticals
+steering away from energy and technology
+I like this name moving forward
+who's JP Morgan Josh Brown is that you
+it sure is you have a fairly
+rare dip in the stock this was
+363 in August now it's
+335 I like it here
+I mean the financials as a group I didn't
+get your take earlier so you want to give me your quick
+read through here
+I mean they basically said everything
+looks as solid as it did last quarter
+even though people want to hear some deterioration
+story it's not in the data
+it's not in the labor market it's not in the
+company's credit metrics
+all right you must be Rob
+meta which as I said earlier is the
+best performing in the mega caps over
+the last month and it's still
+the cheapest and it's got some of the
+best things happening at the business
+right now so I love that yeah muse
+comes to market and it's sort of stock
+kind of takes a different trajectory
+certainly happen it's up again
+just shy of 3%
+today what do you got energy
+this you know the Middle East is not going
+away and if you look at refiners they remain
+the the go to in this space
+all right good stuff thanks everybody it's good to have you guys next to me here at case I'll see you on the closing
+bell the exchange is now
+you've been listening to CNBC
+c's halftime report the podcast
+you can always catch us live
+weekdays at 12 Eastern
+only on CNBC
+all opinions expressed by the halftime
+report participants are solely their opinions and do not reflect
+the opinions of CNBC or its parent company
+or affiliates and may have been previously disseminated
+by them on television radio internet or
+another medium you should not treat any opinion
+expressed on this podcast as a specific
+inducement to make a particular investment or follow
+a particular strategy but only as an
+expression of opinion such opinions are based upon
+information the halftime report participants consider reliable
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or
+accuracy and it should not be relied upon as such
+to view the full halftime report disclaimer please visit
+CNBC dot com forward slash halftime report disclaimer
+CNBC change makers
+spotlighting women who innovate lead boldly
+and are transforming business
+do you know someone who is rewriting the future
+nominations for the 2027
+list are open now at
+changemakers nominations dot CNBC dot com
