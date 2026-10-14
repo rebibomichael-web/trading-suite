@@ -1,0 +1,1329 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich.
+Edward Jones, member SIPC.
+Want more cash?
+You can get a $450 bonus after your first 45 deliveries with Uber Eats.
+That's $450 on top of your earnings.
+Yes, really.
+So sign up and start delivering with Uber Eats.
+Complete within 14 days of sign up and 11-1 term supply see after details.
+I'm Scott Wapner and you're listening to CNBC's Half Time Report,
+the podcast, the most profitable hour of the trading day.
+Record this live weekdays at 12 Eastern.
+Listen in.
+Thank you, Carla, Mike.
+Welcome to the Half Time Report.
+I am Frank Holland in for the Judge Scott Wapner.
+Front and center at this hour.
+Higher yields is a hotter than expected inflation report.
+Raises rate high gods and puts pressure on stocks.
+The Investing Committee is right here to debate the next move for your money.
+With me for the hour we have Joe Taranova,
+Kerry Firestone, Liz Thomas, and Steve Weiss will be along very shortly.
+Before we begin, quick check of the markets.
+You can see a lot of red up here.
+The Dow pretty close to flat, fractionally lower.
+The S&P down almost one percent.
+The NASDAQ composite down one and a third percent.
+The NASDAQ 100 down about a similar level as well.
+The small caps.
+The Russell 2000 down over one and a half percent.
+And we got to take a look at bond yields right now.
+Right now, kind of close to multi-decade high,
+still a bit lower than levels we saw just in the last two weeks.
+The two year right now, 4.86.
+The 10 year, 5.25.
+And the 30 year at 5.57.
+And that's where we start our conversation, Joe.
+I'm going to turn to you.
+Are these rising rates again at multi-decade highs?
+Are they a threat to the bull market that just celebrated its fourth birthday?
+Look, I think that yesterday to begin the show,
+Scott asked me a fantastic question.
+And what I said was, I believe this is an unhealthy market
+because we're relying on a very small concentrated basket of stocks to carry us.
+Carry us through the earning season.
+Unfortunately, to Scott's question,
+rising yields present the challenge in terms of accessing the debt markets
+to fund the build out for AI.
+And when Scott asked the question, he said,
+well, what if that ultimately becomes an impediment?
+I said, well, we're already here.
+I didn't make that up.
+You saw what was building over the last several days
+was some uncomfortable trading in the high yield market
+forced tech companies specifically like CoreWeave.
+We could show CoreWeave, which is down 15% today for the equity,
+but you're looking at the bonds trading 80 cents on a dollar.
+That's troubling for one of the original neoclouds that is so reliant on the debt market.
+So it's spilling over into Oracle.
+I think it's one of the reasons why the market is so soft today.
+And I think it's something that you have to give consideration to
+in a market environment where it's just this small group of stocks
+that's carrying us higher.
+Yeah, the concentration risk is something a lot of people put notes about.
+We're going to get more on tech coming up just a bit later in the show.
+But Kerry, I want to ask you the same question.
+Is this race situation?
+Is this a threat to the bull market again?
+Four years strong as of right now?
+Well, it's not clear, Frank, that it's a threat to the bull market
+if you're looking over a long period of time.
+But let's just look at what's happened since the end of March,
+just since the end of March.
+So we're looking at seven months, six and a half months.
+We've got a couple of charts here.
+The S&P's up 19.5%.
+This is when we had a 5% drawdown because of the price of oil,
+the war, some fears about AI and valuations.
+Market came down 5%.
+Market's up 19.5% since then.
+And if you look at what's happened with some of these stocks,
+the low of the MAG babies, alphabet, up 34%.
+Sorry, 30%, Apple, 34%.
+They're all up in the 30% to 40% plus percent range.
+So we've had a tremendous move in technology and the S&P
+as a whole in many parts of the S&P.
+Now, recently that's been weaker.
+So let's not look at this as anything other than we've got
+high inflation, we've got higher rates.
+Yes, the market has had this enormous run.
+Maybe we're a little ahead of ourselves.
+There should be some reaction to the market
+because of interest rates.
+And if it were to come in 5% to 10%,
+that would be healthy in our opinion.
+All right.
+So you're seeing a healthy pullback with something,
+something you would welcome.
+Yeah.
+But the fact that the pullback would probably come from
+a lot of names that are driving the earning strength
+that we've been seeing.
+Wouldn't that also be concerning?
+I mean, how could it be good on both ends?
+Well, I think that it would be reasonable to expect
+that the earnings we hear about two weeks from now
+are the ones that matter.
+Nobody really cares that much, unfortunately,
+about what's happening with financials.
+And then we'll talk about other sectors of the market.
+What they really want to know is what happens
+with the Max 7 and with the big chip companies.
+So if they come in, so remember,
+the moves have been extraordinary.
+I think it would be better if it resets the market
+somewhat lower.
+I mean, I do think people have concerns
+surrounding the financial sector
+because myself and others.
+The earnings are good.
+But myself and others came into the year
+from the perspective of how do you want to position
+overwhelmingly bullish to owning the financials.
+And individually, I own personally, I own J.P. Morgan.
+So you have to acknowledge that not so much the results
+but the reaction to some of the earnings
+is somewhat troubling from the banks.
+And also, I think in the start of the year, at least,
+people saw financials as a direct beneficiary
+of the strength of tech.
+Broadening out.
+So if tech becomes weaker, then I think that may change
+the thesis when it comes to financials.
+But Liz, I want to give you a chance to win.
+Can I bounce to the Max 7 topic off of you very quickly?
+BTIG's Krinsky came out with a note saying
+the Max 7 is holding things together.
+But for how long?
+Question mark on that.
+Max 7 is Alaska hortic stocks that are important
+to the S&P that hasn't shown any weakness,
+according to the note, of course,
+in counting today's action.
+It's also the group that's the most widely owned right now
+for their perceived safety to rates and geopolitical risk.
+But again, as Joe's pointing out,
+we're seeing some parts of tech move lower on higher rates.
+Always hard to pick a fight with new highs,
+but if this trend begins to reverse,
+that's likely what causes the S&P to finally see
+some sustained weakness.
+It's emblematic of the concentration that Joe referenced.
+We're back into this concentrated game
+of a handful of stocks leading the broad market higher.
+So on an index level, everything is going to look okay,
+but we're not broad anymore,
+and we still have a lot of stocks that are under pressure,
+and I am absolutely in the camp
+that I don't like how financials are trading here,
+and earnings were okay.
+I don't know that I feel like they were good.
+In fact, I'll say, I'll say, I know I don't feel like
+they were good.
+I think they were mixed,
+and I think there were maybe some surprising disappointments
+in the earnings reports and some of the nuanced points
+and even some of the comments from CEOs
+from the big banks.
+So there are some things that changed
+in the environment for financials.
+We're having a slowdown or at least a concern
+over a slowdown in deal flow,
+and that took a decent amount off of names
+like Goldman Sachs and some of the other ones
+that are really involved in the IPO market.
+But I think the bigger concern here for me,
+and I talk about this a lot,
+and I was saying it going into financials
+starting to trade a little bit more pressured,
+is that I look at financials to either confirm or deny
+the cyclical nature of the economy,
+the cyclical nature of the market.
+And right now, they're not confirming it.
+They're confirming that we're in a rough patch,
+that things are not really going all that great.
+And I think that it's very possible
+that through the midterms, we stay in this sort of rough patch.
+I think there's a lot of headwinds
+that the market is trying to face right now,
+and investors are trying to digest.
+And not many of them are showing any foreseeable solution.
+So I think through midterms, we're still struggling.
+Towards the end of the year,
+I think there's a big possibility, if not probability,
+for a relief rally.
+Yeah, I think where you have some concern
+with financials as well is there's three stocks
+I would look at today.
+I would look at Blackstone.
+I would look at KKR.
+I would look at Evercore.
+Each one of those private equity names,
+they've rolled over once again.
+I think in the case of Blackstone,
+in the middle of August,
+you were talking about a relief rally up to 150.
+It's rolled back over once again.
+So look, it's not like I'm coming on the show.
+I'm saying I'm bearish.
+I'm not bullish.
+I'm not bearish.
+I'm just acknowledging,
+based on the positions that I have,
+I don't feel so comfortable today,
+based on what I'm seeing in the reaction
+in a lot of financials.
+And then certainly, as it relates
+to situations like Corweave and Oracle.
+You know, to Liz's point,
+some of the commentary from the C-suite in general,
+Jamie Dimon said,
+client activity moderated somewhat
+during the quarter.
+The CFO actually put a bit of a finer point on it,
+saying that things slowed down
+in the second half of September
+than the CFO of Wells Fargo saying,
+trading activity slowed meaningfully in September.
+So I mean, you're hearing some comments from the C-suite
+that I'm sure seems, not sure,
+but it seems like a wang on the financials today.
+I want to get to a move in the financials actually.
+Bank stocks being led to the downside,
+but Bank of America,
+after a Q3 revenue miss,
+halftime committee member,
+Stephanie Link owns it
+and is making a move in the name today.
+She's joining us by the phone.
+Link, great to see you as always,
+or at least hear from you.
+What move are you making?
+Hey Frank, yeah,
+I'm trimming pretty big time Bank of America,
+and I'm adding to Wells Fargo.
+So I think you want to be very specific
+in terms of what you own in the banks.
+And quite frankly, Bank of America
+was very disappointing.
+This is excluding the charge,
+which was disappointing too,
+but it's a one-time thing.
+With the quarter itself,
+I mean, it was all right on NII,
+Net Interest Income,
+and Net Interest Margins,
+loans and credit was all good.
+But see income fell 13%,
+trading total revenue down five,
+equities only up 11,
+and that compares to JPMorgan up 49,
+and even Citigroup up 14,
+and FICC was very disappointing down 17.
+Again, JP and Citigroup outperformed.
+So I think they're losing a little bit of share,
+and this is just one quarter.
+It kind of, it is very volatile per quarter,
+but I just feel like there's a better opportunity
+in Wells Fargo at this point after their quarter.
+I understand why the quarter was soft
+because the core earnings beat,
+but it was mainly taxes,
+their PPNR, pre-provision,
+net revenue was a little softer,
+but the story is progressing as I hope.
+The key to the stock working
+is stabilizing the net interest income
+and net interest margin.
+That has been a drag on the stock,
+and we saw improvements in both areas
+in the third quarter.
+So NIM grew 2.4 basis points.
+That's down versus,
+that's up rather versus down 13% base,
+13 basis points in the first quarter
+and four base points in the second.
+Their guide was good for net interest margin,
+net interest income also is stabilizing.
+And so now you can focus on growth,
+and the example and growth in their quarter,
+the average loans grew 11%
+in CNI, credit card and auto.
+Expenses in line, they've got a great
+ROTCE path of 17, 18%.
+So I think you want to take advantage
+of this weakness in this particular stock
+because I do think that the CEOs do
+a really commendable job going from defense to offense.
+Yeah, Wells Fargo down about 1% today
+for the year, down more than 14%.
+Steph Link, trimming B of A adding to Wells Fargo.
+Link, great to see you as always. Thank you.
+Thank you.
+Kerry, I want to come over to you.
+No ownership of Wells or Bank of America on the desk,
+but do you have some thoughts about Steph's move?
+I don't think it's a bad move,
+but I would say one thing about the banks in general,
+and I don't know if either of you noticed this,
+but other than Morgan Stanley,
+which I have not read,
+I went through the transcripts of the other banks
+and no one has mentioned
+that they are starting to generate substantial revenue
+as a result of using a lot of AI.
+They all acknowledge.
+Correct, they're all acknowledging
+that they're spending a lot on AI
+and it's an important factor on their platforms,
+but no one has talked about
+how they're generating earnings
+and profitability from it.
+I think the market is waiting for that
+and hoping that they'll see it soon
+and hear it from the CEOs
+because we know how much it's costing.
+I want to welcome Steve Weiss into the conversation.
+Weiss, great to see you.
+We're talking about financials right now.
+We're actually on Goldman,
+one of the better performers this cycle.
+Yeah, so look, Goldman had a great quarter,
+again, distinguished themselves.
+Morgan Stanley did as well,
+but you're in a rising rate environment,
+so that's going to hit both their pipeline
+of M&A deals as well as the IPO pipeline.
+So, and when you take a look at components of it,
+equity trading really helped.
+Fixed income trading, commodities trading,
+not so much.
+So it's a mixed bag.
+So it depends what your holding period is.
+I'd say for the next six months,
+maybe nine months,
+these are going to be very tough stock to hold.
+Don't expect the performance there.
+However, on a relative performance basis,
+it will be there
+because I'm not comfortable
+with basically most parts of the market.
+So for example, for a short-term trade,
+I'm sure the IWM, which is the Russell,
+small cap stocks will be particularly hard hit
+with rising rates,
+not to mention the exposure that the IWM,
+that the Russell has, in financial stocks.
+So while I think the long-term future,
+intermediary future is very bright for these,
+that the market's in this period of time
+where you just have to make too many excuses
+to perpetuate the bull store.
+So going back to your initial question, Frank,
+while they were adjusting my camera to get me on,
+look, it's a rising rate environment
+and there's an inverse correlation
+to how equities perform generally.
+It doesn't mean it's a disaster necessarily,
+but it does mean, as we saw in 2007,
+that there are problems that come out
+that you haven't considered before
+that cause the markets really tight.
+Again, I'm not looking for that,
+I'm looking at what's in the positive bull case
+versus what's not,
+what's not being talked about in the bear case.
+In the bull case, you've got 30% earnings growth.
+Okay, that's already done,
+most of that's been pulled forward, number one.
+And number two, it's highly concentrated
+in a certain segment of the market
+and that segment of the market
+has shown particular vulnerability
+with the rest of the market,
+and these are generalizations, but they're accurate,
+trading very poorly.
+So again, I've been saying for the last month or so,
+I don't believe it's now the time to put
+new money in the market and wherever it is.
+And minor moves like down 5% or 10% in equity
+aren't dislocating the price enough
+to get me excited.
+Joe, I want to come over to you.
+We're spending a lot of time talking about the big banks.
+You also own State Street, those shares down about 6%.
+Oh Frank, thank you for reminding me
+that we have that in the ETF.
+That's wonderful of you.
+Very high expectations coming into this report
+for State Street and they had a miss.
+The miss wasn't significant.
+It was a small miss on net revenue, on AUM.
+You had a little bit softer in terms
+of the fee revenue itself,
+but the street was anticipating much more
+and when you have that high expectation
+and a high bar to exceed, you have to meet it
+and when you don't, you get punished
+to the degree that they're getting punished today.
+Why is that the case?
+Because you look towards positioning
+and you say to yourself,
+when you look at the financial sector,
+this was one of the names
+that had the resiliency
+and the relative outperformance to the rest of the sector.
+Therefore, you had a lot of the momentum funds
+that were allocated in that direction.
+I think State Street year to date
+was up about 24% coming into today.
+So, for you, the technical oriented
+investors and traders out there,
+you're coming down towards a 200 day moving average.
+You want to take a shot there against 156.
+Good luck.
+So, frankly, it holds benefit us
+with our ownership in the ETF,
+but this is a classic example of a stock
+that had really high expectations
+and slightly missed, and that's the reason it's down.
+Yeah, down up 6.3% right now.
+I want to switch gears a bit.
+Get over to our Mackenzie Sigalos,
+who's following the latest on OpenAI's fight with Apple,
+Mac, coming over to you.
+So, Frank, OpenAI is escalating
+its trade secret fight with Apple,
+telling a federal judge
+that a former OpenAI employee
+who has since returned to Apple
+has done 100 confidential files
+about an unreleased OpenAI device
+to personal accounts before then leaving the company.
+OpenAI says that those files
+included detailed device images,
+engineering and manufacturing data,
+as well as supplier information,
+and that the same employee
+then later presented OpenAI's product plans
+to senior Apple leadership.
+OpenAI adding in this brief
+that it's concerned that its trade secrets
+could now be circulating inside Apple
+as Apple pushes further into AI hardware,
+and that the company wants the ability
+to investigate and potentially bring counterclaims
+against Apple.
+Now, I'm in touch with Apple,
+and they are pushing back,
+telling me that it has found no evidence
+to support OpenAI's allegations.
+Apple saying that it searched for the one file
+that OpenAI specifically identified
+and did not find it on any Apple system.
+The company also disclosing to me
+that OpenAI has not responded
+to requests for more information
+and calls the filing
+and attempt to distract from
+its own allegations that OpenAI employees
+took Apple's confidential information.
+Frank?
+Mackenzie Sagalos,
+the very latest on OpenAI and Apple.
+Mack, thank you very much.
+Good to see you.
+While we're talking about tech,
+very important to note
+that the SOXX ETF,
+the semiconductor ETF,
+won pace for its seventh down day in a row,
+longest losing streak potentially
+if it holds today since May of 2025.
+Kara, you're looking over at me.
+Is that a concerning sign?
+Chips seem to be a bellwether
+of where the tech trade is going.
+Tech also the worst performing sector today
+as we see rates again at multi-decade highs
+after a hotter than expected CPI.
+It's not surprising.
+If you look at the performance
+of the SOXX as a group
+over the last year,
+it's unbelievable.
+I mean, there's never been
+such an acceleration
+and, you know,
+phenomenal interest in chip stocks
+in the history of the market.
+So I don't think anybody
+should be surprised that the stocks
+are going down.
+What we need to watch
+is how far they get
+in this decline
+and whether we can accelerate the pace.
+Maybe they'll be off 30%.
+I would say 30% is where
+lots of times the cycle goes up
+and then they drop about a third
+before they start to plateau.
+And history is shown again and again.
+That's happened with NVIDIA,
+Micron, TSM,
+Texas Instruments, et cetera.
+It's not healthy.
+Does that mean you just sell them
+because you're afraid?
+I think you've already missed the boat
+to sell them at a peak.
+I think that trimming is fine,
+but the stocks will probably come back
+once they've hit a level
+that people again feel comfortable
+and that could be a few weeks from now.
+It's important to know that you're saying trim.
+If you look at the chart here,
+the SOXX up over 70% year to date.
+Weiss, I want to come over to you.
+You own NVIDIA.
+Any concerns about the chip trade in general?
+I own NVIDIA.
+I own Taiwan Semi,
+which is a much bigger position for me
+than NVIDIA,
+but it's the same play essentially.
+Yeah, of course there have been concerns.
+Are the stocks telling you
+that the cat-back cycle is peaked
+because the stocks typically discount
+peaks a year ahead of time?
+Now, peak doesn't mean
+necessarily it could be.
+It means a flat-telling in spending.
+If you're not continuing to see
+the growth in the spending
+on that means the cat-back
+is going into the semis,
+then valuations will be reset even further.
+Look, I don't know what it means.
+We have seen this to Carrie's point.
+Multiple times they're in the cycle.
+Right now, I'm still sticking with Taiwan Semi
+as one of my largest positions
+and also holding on to NVIDIA.
+NVIDIA does give me a little pause though
+because the market seems to be at that point.
+Over the last whatever year
+of not rewarding the company
+that everything's assumed
+that they're going to continue to grow
+and even though the multiples compress
+quite a bit as earnings
+and revenues have grown,
+it's still not getting the award.
+We saw a minor rally after this recent quarter
+but in the scope of things
+and relative to a Taiwan Semi,
+it's really been a punk performer.
+I wanted to point out ASML.
+Saying that they're getting order interest through
+2030, stock actually
+not moving a lot, but Liz, I want to come over to you.
+They're so critical for the chip supply chain.
+If this company is saying they're getting orders
+for the next four years, is this much to do
+about nothing and maybe just a healthy pullback
+that Carrie was calling for when it comes to chips?
+Yeah, I mean, there
+haven't been fundamental deterioration
+factors that have come in yet
+and the real concern, and this was partially
+to Carrie's point, the real concern would be
+if demand actually slowed and we started to see
+it in the fundamentals, the revenue
+growth of some of these companies.
+But the reality is that markets have been trading
+on short term news
+headlines, whether company specific,
+rate specific, I think it makes a lot of sense
+that long duration stocks
+like semiconductors would be under pressure on a day
+when yields are rising.
+Markets have been trading on some of those short
+term headlines, but the fundamentals
+for these companies are very long term.
+We're looking at three to five years into the future.
+A lot of these are committed out that far
+and we're still in a year
+where they couldn't produce enough
+stuff to fulfill demand, right?
+That's not over. So I think
+at this point, it's difficult to get
+really all that bearish on the semiconductor
+complex, but the way that they're trading
+is it easy to get emotional
+about it and look at it and wonder if everything
+is over? Sure. I mean, I think we're all
+doing that a little bit and you don't want to look at a chart later
+and say, oh, I should have known, right?
+But in a time when it feels like things
+are falling really sharply, that's rarely
+the right time to run for the door.
+So Joe, you got a lot of skin in the game,
+Qualcomm, Texas Instruments, AMD,
+KLA Lamb Research, we can go on
+Micron. Are you getting emotional at all
+right now? Do I look emotional?
+Yes.
+Look, I think that the reaction that
+you have to have for
+the price action today
+is a full understanding of where
+everyone right now is allocated
+and they are allocated in the
+direction of the AI trade, in the direction
+of technology, and certainly in the
+direction of the trillion-dollar companies.
+We've narrowed the investment
+thesis and the opportunity as we move
+through Q3 to that
+isolated segment of the market
+and what we're seeing currently
+is that if in fact we're going
+to have this retreat for
+equities, if we are going to have the pressure
+that we're seeing from higher
+yields, if we're going to have
+the debt markets signaling to us
+with companies like Corweave
+that maybe they're not trading at
+what we would call
+the most desirable valuation,
+if you're going to have that then you're
+going to have a reduction in positioning
+leading into earnings.
+It leads to the opportunity for
+earnings to be the saviour
+for these trillion-dollar companies. We could very easily
+see that at the back end
+of October that you hear from the
+Mag7 and others and they kind of
+revive the bull market that's been
+in place for the better part of this year,
+but you have to react and understand
+that what's in front of you right now
+could lead to further selling pressure
+as people pare back some of the positioning
+in the areas of the market where there's been
+the outperformance and really the only place to hide.
+The unemotional Joe Teranova.
+Coming up next on Halftime, a CNBC exclusive
+our Morgan Brennan is on site in Texas
+with the Lockheed Martin CEO
+and the Undersecretary of Defense. You don't want to miss this one.
+Halftime is back in just two minutes.
+You're scheduled. All at a great price.
+Just pick a plan, add the channels you want
+and skip the ones you don't. Want to pause
+your subscription? Well, Sling lets you do
+that and you can keep watching over
+600 free channels. I mean
+the only thing better than flexible TV
+is free TV, right? Sling
+lets you do that. Base pack required.
+Visit Sling.com to learn more.
+This Monday.com ad was created by a team of people
+and AI agents. The agents wrote the copy
+and managed the timelines. While our human creative director
+made the decision to stop intruders before they break in.
+2. We sound the alarm at points of entry.
+3. Our agents request emergency response.
+Plan starting around a dollar a day.
+Right now get 60% off your new system
+with professional monitoring at simplysafe.com
+slash SXM. Outdoor deterrence plans
+started 49.99 a month. Visit simplysafe.com
+slash licenses for alarm license information.
+This Monday.com ad was created by a team of people
+and managed the timelines. While our human creative director
+made sure it all made sense. Easy.
+Create your own AI agent today
+on Monday.com.
+We're back on halftime. I'm Brandon Gomez
+with the CNBC news update. FBI director
+Kash Patel is reportedly in Russia for a meeting.
+Two people familiar with the matter tell
+our sister network MSNOW that it's
+not widely understood what the purpose of this trip
+is. Politico reported in July
+that Patel was planning the visit
+and senior House Democrats urged Patel
+to call it off in the letter sent last week.
+A jury in Miami found former
+Dolphin's wide receiver Tariq Hill
+liable today for two counts of battery
+over allegations of abuse made by his ex-wife.
+He was not found liable on
+eight remaining counts. The jury
+also awarded the woman $500,000
+in damages. And Mexican
+President Claudia Scheinbaum says she
+will sign a presidential decree today
+that requires all digital platforms to protect
+children and teens from violent
+sexual and other harmful content.
+It comes after an attack by two
+former students on a high school in
+Mexico in early October. The decree
+includes social networks and streaming
+sites. If companies fail to follow it
+Scheinbaum says the government will back
+a bill to punish the platforms.
+Frank, that's your news this hour. I'll send things back to you.
+Brandon Gomez, thank you very much.
+Brandon Gomez from CNBC HQ.
+Welcome back to Halftime. Lucky Martin
+cutting the ribbon on a new missile facility today
+in an effort to expand production of critical
+U.S. defense munitions.
+Morgan Brennan is live at the site in Texas
+at the CNBC Exclusive.
+Hi Frank, that's right.
+I am here in Texas. I'm joined by
+the CEO and chairman of Lockheed Martin
+Jim Takelet and the honorable Michael Duffy
+the Undersecretary of Acquisition
+and Sustainment for the Department of Defense.
+It's great to be with both of you here today.
+I think just to start Jim
+the moment that we're in
+when we are so focused as a country on
+missiles and munitions what you're doing here
+and how it speaks to growing manufacturing
+footprint a different manufacturing footprint
+across the country right now.
+So Morgan, we are bringing the best
+of American industry into this site
+and many others. And just today
+Secretary and I saw
+Hadrian's new production
+cell using their automated
+machines that they built in the United States
+designed and built in the United States.
+So robotics are everywhere.
+Hadrian's our latest partner in bringing robotics
+to our production system
+and on the other end of the spectrum
+you have one of the most storied
+industrial companies in the world
+and that's General Motors. So the GM
+leadership team from their defense
+business is here and working
+with us already to bring
+their manufacturing expertise
+their supply chain skills
+to this mission
+because what I like to say to my
+team here and every other place I go
+is that we may be in the
+aerospace and defense industry
+but we're in the business of deterrence
+to arm conflict and so we should
+go out to every sector of the economy
+the tech sector, the telecom sector
+manufacturing, robotics
+AI and bring
+all that best technology
+all that best capacity and capability
+to this mission
+that Secretary Duffy's team
+is responsible for. So we're trying to bring
+all of American industry into places like this
+so that we can get better and better at what we do.
+Yeah, and of course we're having this conversation
+as your exponentially
+growing production of key missiles
+and interceptors, things like that
+interceptors impact three Patriot missiles
+which I know parts and components of both
+of those programs and others are made here.
+So Secretary Duffy
+it's well documented that we've seen these
+drawdowns and stockpiles of some of these
+critical missiles and munitions and even just
+in the last couple days reports of
+the US military rationing some interceptors
+and the government telling
+some allies that maybe they're going to have to wait a little longer
+for their orders of some weapons
+systems. Your response to that
+how would you describe the current situation?
+Well my response to it
+is here we are
+responding to the need for us to really
+ramp up the deterrence
+and the munitions
+stockpiles for our country.
+We all know the threats are great across the world
+and we've
+put the challenge to industry and industry
+is responding. Jim and his team
+walked us through as he mentioned this great partnership
+with Hadrian and General Motors
+is an opportunity to bring really America's
+strength which is our industrial and economic
+might to bear on the
+problem of how do we
+protect the American people and how do we ensure
+that we've got the munitions
+the military force that we need
+and in the meantime
+we're creating 2,000 jobs here in
+Dallas, 6,000 across the country
+just in this
+project alone. Across the country
+we're seeing the kind of growth we need to ensure that
+we can supply the military what they need
+to ensure that we can
+capture any threat and also
+bring that kind of reindustrialization
+to our population
+in America. For Lockheed Jim
+this is part of an $8 billion plus investment
+over the coming years to build out
+and expand your missile
+production and capabilities here
+how quickly can you
+ramp production of something like
+Patriot Missiles and what should we expect next year and beyond?
+So we are tripling
+or quadrupling
+the production rate of these kinds of
+defensive and sometimes
+strike missiles.
+That is not easy to do as one company
+and that's why we need a lot of
+American industry to partner with us.
+We have a plan, a joint plan
+to get for example
+600 Patriot MSC Missiles a year
+which is the typical sort of run rate
+to 2,000
+and 2,000 plus eventually
+over a reasonable amount of time
+so we're going to do this
+we're going to do it fast, we're going to do it effective
+and we're basically automating
+this and other sites
+in a way that can make that happen.
+So the automation part, the robotics
+advanced
+out of manufacturing, those are the kinds
+of skill sets that are going to enable us to meet
+those kinds of goals
+for the department. And the other
+thing I say to everybody I meet
+do not underestimate the American
+workforce. Like Mike said
+we're going to add 6,000 people
+just in our company that work on these products
+but we're doubling, tripling
+or quadrupling the production rate
+because the American worker
+can either transition or be hired
+to use those new technologies
+to do things more efficiently
+and effectively than we ever could before.
+What do you see as the bottlenecks though? Because the supply chain has been a big issue
+for years now. It has been
+and one of the great things
+about say the GM partnership
+is they have suppliers that actually could
+do some of the tasks that we need.
+The other approach to this
+is we are working with the department
+and I'll let Mike speak to it
+but they're standing up
+their own advisory team
+to help small and medium suppliers be more
+effective. A third thing that we're
+doing together is
+we're going to the capital markets.
+So for example, some of the leading
+financial firms in the country, what we have
+done is
+given each one for every munition
+that we operate and scale
+the list of the 20 key suppliers
+that would need third-party financing
+to be able to triple
+their production.
+Some of the big financial institutions in the
+United States have those lists
+that are reaching out to those companies
+so that they can have not just the labor
+but the capital to meet these
+goals that we jointly have.
+We're talking about hundreds of billions of dollars
+worth of deals, whether it's Lockheed
+or RTX or others, Boeing, etc.
+that you have struck
+and the Pentagon has struck this year
+over into undefined
+contracts. The key here is
+when do we actually see these contracts
+funded
+and what does that mean when we are
+looking at a midterm election
+and there are questions about proposals
+around reconciliation to actually see it funded.
+Sure. Well listen, I think President Trump
+is leading on the issue of ensuring
+that we get the resourcing we need
+to rebuild the military.
+We still have to work that through Congress.
+Congress of course is out of session right now
+they'll be back in November and December
+and we expect to work hard with our
+partners and colleagues in Congress
+to ensure that we can secure the funding
+that can enable these contracts. I mean we've
+taken, I think over the last year and a half
+we've taken feedback from industry
+the secretary rolled out
+an acquisition transformation strategy
+which is aimed at reducing the burden
+of doing business with the federal government.
+We have pursued these agreements, we've entered
+into with all the key munitions
+these contracts and so
+I think that missing piece is funding. It'll be
+an essential last step for us
+as we come to the year end to ensure
+we can really supercharge this growth effort.
+Yeah, I have to wrap this up. I have one more
+quick question for you Jim and that is
+the demand picture is obviously big
+and it's insatiable and yet
+defense stocks are actually lower since the start
+of Epic Fury. Has that surprised you?
+What do you think investors need to know or understand
+about the landscape right now? I think
+when investors need to know and understand
+that this demand
+is fleeting, it's permanent
+there's a way I
+discuss this with my team again
+and our investors which is
+we're trying to solve kind of a master engineering
+equation here and the equation
+is how do we maintain effective deterrence
+in the world that we live in today
+so you have an escalating threat
+we have technology moving faster
+digitally and Newtonian
+faster than any time
+in human history and there is a limited
+defense budget. At some level
+it will be limited, it will not double or triple.
+And so to solve that engineering
+equation we have to change the relationship
+between government
+and industry writ large
+like we've been talking about today
+and part of the way to do that are
+these long-term agreements
+that will add a backlog that I think
+our investors will have to take
+notice of. We're actually getting more
+efficient at what we do and
+there's opportunity for margin expansion
+if we perform which we fully intend
+to do because the department
+leadership as well as
+industry leadership realizes
+the only way to solve that equation
+is to make the Pentagon
+relationship with industry
+more like a commercial business relationship
+and less like a cost-based
+contract relationship.
+And I think we're seeing that because we're getting
+not only a commitment from the government
+to ensure long-term deals
+but companies like Lockheed are making
+their own investment in this capital to get this growth
+and I think that will be part of what makes
+this stick. Okay. Secretary
+Duffy Jim it's great to have this conversation
+with you. Frank I'm going to toss it back
+to you in the studio but we're going to continue this conversation
+we're going to add some other guests to it as
+well and we're going to really talk about
+how the strong manufacturing data
+the growth in GDP
+it's not just an AI infrastructure story
+defense is contributing to all of that as well
+and we'll be rolling that out on morning call right
+early tomorrow.
+Alright I'm Morgan Brennan with a CNBC exclusive. Morgan thank
+you very much coming up committee
+move Steve Weiss just sold a big name we're going to
+walk you through that trade coming up next
+finally TV on
+your terms with sling you can stream
+the shows and sports you love on your schedule
+all at a great price
+just pick a plan add the channels you want
+and skip the ones you don't want to pause your
+subscription well sling let you do
+that and you can keep watching over
+600 free channels I mean
+the only thing better than flexible TV
+is free TV right sling let
+you do that base pack required
+visit sling.com to learn more
+this
+Monday.com ad was created by a team
+of people and AI agents
+the agents wrote the copy and managed
+the timelines while our human
+creative director made sure it all made
+sense easy create your own
+AI agent today on Monday.com
+when an intruder approaches
+a home they expect a camera what they
+don't expect stop this is simply
+safe police are on the way using
+smart AI cameras live us
+based agents help deter intruders in
+under 30 seconds don't just record
+a break in stop it from ever happening
+plan starting around a dollar a day
+right now gets 60% off your
+new system with professional monitoring at
+simply safe.com slash sxm
+30 seconds response time requires monitoring
+plan with outdoor protection starting at 4999
+a month visit simply safe.com slash licenses for
+alarm license information
+we have a committee moved to hit Steve coming over to you
+you sold Netflix
+you sold Netflix
+yes I did Frank
+it was not a big position
+I had gone back into it that say fairly
+recently
+but give my view in the market
+and my view in the consumer
+I just don't believe that that's where I
+want to be putting my dollars
+so I think it's dead money I don't see
+anything really wrong with the stock
+here it's absorbed a lot of news
+today's news I guess is somewhat welcome
+you don't want to see people lose
+information of cost
+particularly when you're seeing demand slow
+down so I think all the streamers
+gonna have a tough time going forward
+particularly as they raise prices
+on virtually all the streaming services
+except Netflix most recently
+so I'd rather keep that cash
+from the sideline at this point
+stocks just not going to get away from us here
+Netflix shares down about 25%
+year-to-date when it's some calls of the day
+next era target trimmed at Morgan Stanley
+but they still see more upside
+30% upside
+Kerry you own this one shares down
+fractionally lower today
+well next there is a plan more power
+we need power generation in this country
+they are the largest
+builder of new power
+and we therefore think if there's
+a long runway to go
+all right ladies want to come over to you
+Morgan Stanley reiterates gold is a top commodity
+pick what's your take on gold
+I like gold here I
+was out of it earlier in spring
+what was driving gold but I think
+there is and I agree with Morgan Stanley
+there is structural demand for gold again
+and I think central banks as we go through
+this period of fiscal
+indiscipline
+I'll call it I think central banks will continue
+to have demand for gold and we're going to see
+gold perk up again before your end
+indiscipline listen
+and Liz and I have talked about gold and silver
+on air over the last couple of months I still
+do not trust the move that we're seeing
+in the precious metals it looks like
+it's a metabolic peak earlier in the year
+if you could look at December silver it's down
+6% today with yields rising
+in an environment where you think
+it would be some form of
+a port in a storm
+and it's not at all
+all right we got to leave it there coming up we got Mike Santoli's
+market memo stay with us
+and we're back with senior markets commentator
+and overtime co-anchor Mike Santoli with his
+market memo Mike great to have you here
+we've been talking about this all day tech
+rates are higher after that high than expected
+CPI tech the worst performing sector today
+what are your thoughts I mean coming
+into this week I think the prevailing thought
+was we might have emerged
+from a period where macro
+challenges were potentially
+going to stress the market and we
+were going to get into earning season and that could allow
+the average stock to maybe catch up to
+the dominant AI
+tech theme little bit of
+you know sand in the gears on that trade
+from CPI from rates and I think credit
+most of all because you can deal with
+higher treasury yields of credit spread stay tight
+so I think a little bit of this
+unnerved action
+in the AI
+debt dependent hardware cat-backs
+food chain is what has
+the rotational action in the market
+a little bit unable to rescue the indexes
+so that's what I would say now coming into it
+I still think you had small caps
+semis and banks
+in pretty nasty downturns
+and so in that kind of environment you wouldn't really expect
+the SMP to be within one percent of its record highs
+as we were coming into today so
+you know nothing is decisive about
+today but I do think a lot of the things
+you would want to grab on to
+to say people are finding something to do
+they're not really there aside from pure defensives
+Mike Centoli's market memo we'll see you coming up in OT
+later today Mike thank you very much
+all right the earning setup on more committee
+names coming up next stay with us have time
+back right after this break and we're back
+with the setup J.B. Hunt reporting tomorrow
+after the bell Joe you own this one in the Joe
+T ETF so this is an interesting
+name CFO Brad Delco
+last month came out
+he guided that earnings would be down
+five to ten percent on rising
+costs estimated somewhere around
+twenty five million so the street
+is at is expecting here that you
+are going to see deceleration and earnings
+on those rising costs a lot
+of the logistics names
+have been under pressure recently
+of all the names that we own and
+Josh Brown highlighted it yesterday in his
+best stocks in the market
+expeditors of Washington
+to us that's the strongest
+both technically and fundamentally and
+they benefit from just basically being
+a broker that's leasing
+large space for logistics
+you know Joe to your point J.B. Hunt also
+has a pretty sizable brokerage business itself
+I want to show a chart right here this is container
+shipping rates in the spot market
+hitting a post pandemic high pandemic
+was a totally different situation but post
+pandemic at a high does that give you
+a lot of confidence of going forward
+just the fact that a lot of these are going to be consumer goods
+they have to be shipped from a warehouse
+to somewhere else so that should be business
+for other carriers yeah so excellent
+point Frank I think look there's a
+couple of dynamics here that kind
+of have complicated the story
+the the tariffs
+for sure led to
+a little bit of friction as it related
+to acquiring
+large carrier space
+but I think the setup
+is a positive one for J.B. Hunt
+going into tomorrow
+because we've gotten in front of what
+we expect to be the contraction
+in earnings so
+the reaction to it will be interesting
+but at least we know the bad
+news is out and what you hope they
+deliver tomorrow is a little bit better
+than what they guided to one month ago
+yeah we'll get a look at transfers prologous
+earlier in the day than J.B. Hunt after the bell
+all right stay with us final trades they're coming up next
+all right welcome back to half time
+we have new data crossing on mortgage rates
+right over to our Diana Olek
+well Frank the average rate on the 30 year
+fixed jump 10 basis points this
+morning to 7.56%
+according to mortgage news
+daily now rates are about
+125 basis points
+higher than they were a year ago so a really
+strong jump obviously the home building
+stocks you look at the ETF
+ITB they have not been loving this
+since rates began rising at the beginning
+of September again but
+the 10 basis point jump today puts
+right back where we were about a week
+ago rates had been pulling back a little bit
+but we got that hotter than expected CPI
+we also saw a new forecast
+this morning from Fannie Mae which
+had rates for all of next year the 30
+year fixed at 6.8% they revised
+that higher to 7.5%
+so they do not expect
+rates to come down anytime soon Frank
+all right Diana Olek thank you very
+much also coming up tomorrow you
+don't want to miss a special look at AI in America
+live from one market in San Francisco
+for both halftime and for closing
+bell again special shows for both halftime
+and closing bell on AI in America
+all right now we're going to turn to final
+trades Mr. Steve Weiss going to start with you
+yes I'm going with the
+10 year while I think rates
+will continue to rise this is a
+pretty good entry point and a great return
+Liz
+well since Steve is using the 10 year I won't use it
+again using
+aerospace and defense this time I think
+trading down because of the expectation of a
+sweep of Congress but the war isn't over
+so it has opportunity carry
+thermal fissure
+this stock has finally broken out
+is taking years to get over the
+COVID hangover and now
+we're finally starting to see money
+loosen up for research and that's good for
+thermal JOT giving you the last word
+when was the last time we could
+say Pfizer is on
+a 52 week high well the last time
+would be 2021 that's five
+very long years ago that's
+where we are right now Pfizer 52 week high
+yeah little context obviously that's during the
+pandemic so quite a bit of a go
+one quick look at the markets right now you can see
+we're in the red across the board the S&P pulling back
+1% the NASDAQ down 1.5%
+that does it for halftime the exchange
+starts right now
+you've been listening to CNBC's
+halftime report the podcast
+you can always catch us live
+weekdays at 12 Eastern
+only on CNBC
+all opinions expressed by the halftime report participants
+are solely their opinions and do not reflect
+the opinions of CNBC or its parent company
+or affiliates and may have been previously disseminated
+by them on television, radio, internet, or another medium
+you should not treat any opinion expressed
+on this podcast as a specific inducement
+to make a particular investment or follow a particular
+strategy but only as an expression of opinion
+such opinions are based upon information
+the halftime report participants consider reliable
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or
+accuracy and it should not be relied upon as such
+to view the full halftime report disclaimer
+please visit CNBC.com forward
+halftime report disclaimer
+when an intruder approaches a home
+they expect a camera
+what they don't expect
+stop this is simply safe, police are on the way
+using smart AI cameras
+live US based agents help deter intruders
+in under 30 seconds
+don't just record a break-in
+stop it from ever happening
+plan starting around a dollar a day
+right now get 60% off your new system
+with professional monitoring
+30 seconds response time requires monitoring plan
+with outdoor protection starting at $49.99 a month
+visit simply safe.com slash licenses for alarm
+license information
