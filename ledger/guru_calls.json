@@ -1834,6 +1834,10 @@
     "7d": {
      "pct": 3.67,
      "win": true
+    },
+    "14d": {
+     "pct": 3.82,
+     "win": true
     }
    }
   },
@@ -1854,6 +1858,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.67,
+     "win": false
+    },
+    "14d": {
+     "pct": 3.82,
      "win": false
     }
    }
@@ -2026,6 +2034,10 @@
     "7d": {
      "pct": 1.02,
      "win": true
+    },
+    "14d": {
+     "pct": 11.48,
+     "win": true
     }
    }
   },
@@ -2146,6 +2158,10 @@
    "outcomes": {
     "7d": {
      "pct": 17.61,
+     "win": true
+    },
+    "14d": {
+     "pct": 12.34,
      "win": true
     }
    }
@@ -2293,6 +2309,10 @@
     "7d": {
      "pct": 2.73,
      "win": false
+    },
+    "14d": {
+     "pct": -5.65,
+     "win": true
     }
    }
   },
@@ -2314,6 +2334,10 @@
     "7d": {
      "pct": 2.73,
      "win": true
+    },
+    "14d": {
+     "pct": -5.65,
+     "win": false
     }
    }
   },
@@ -2335,6 +2359,10 @@
     "7d": {
      "pct": 2.73,
      "win": true
+    },
+    "14d": {
+     "pct": -5.65,
+     "win": false
     }
    }
   },
@@ -2356,6 +2384,10 @@
     "7d": {
      "pct": 2.73,
      "win": true
+    },
+    "14d": {
+     "pct": -5.65,
+     "win": false
     }
    }
   },
@@ -2376,6 +2408,10 @@
    "outcomes": {
     "7d": {
      "pct": 2.73,
+     "win": null
+    },
+    "14d": {
+     "pct": -5.65,
      "win": null
     }
    }
@@ -2398,6 +2434,10 @@
     "7d": {
      "pct": 2.73,
      "win": true
+    },
+    "14d": {
+     "pct": -5.65,
+     "win": false
     }
    }
   },
@@ -2572,6 +2612,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.01,
+     "win": null
+    },
+    "14d": {
+     "pct": 8.34,
      "win": null
     }
    }
@@ -3380,6 +3424,10 @@
     "14d": {
      "pct": 0.09,
      "win": true
+    },
+    "21d": {
+     "pct": 0.23,
+     "win": true
     }
    }
   },
@@ -3491,6 +3539,10 @@
     },
     "14d": {
      "pct": 3.45,
+     "win": true
+    },
+    "21d": {
+     "pct": 14.15,
      "win": true
     }
    }
@@ -4040,6 +4092,10 @@
     "7d": {
      "pct": 17.61,
      "win": true
+    },
+    "14d": {
+     "pct": 12.34,
+     "win": true
     }
    }
   },
@@ -4385,6 +4441,10 @@
     "7d": {
      "pct": -1.86,
      "win": false
+    },
+    "14d": {
+     "pct": -5.94,
+     "win": false
     }
    }
   },
@@ -4405,6 +4465,10 @@
    "outcomes": {
     "7d": {
      "pct": -2.91,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.25,
      "win": false
     }
    }
@@ -5047,6 +5111,10 @@
     "7d": {
      "pct": 3.67,
      "win": true
+    },
+    "14d": {
+     "pct": 3.82,
+     "win": true
     }
    }
   },
@@ -5067,6 +5135,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.67,
+     "win": false
+    },
+    "14d": {
+     "pct": 3.82,
      "win": false
     }
    }
@@ -5239,6 +5311,10 @@
     "7d": {
      "pct": 1.02,
      "win": true
+    },
+    "14d": {
+     "pct": 11.48,
+     "win": true
     }
    }
   },
@@ -5259,6 +5335,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.02,
+     "win": false
+    },
+    "14d": {
+     "pct": 11.48,
      "win": false
     }
    }
@@ -5531,6 +5611,10 @@
     "7d": {
      "pct": 0.3,
      "win": false
+    },
+    "14d": {
+     "pct": -9.41,
+     "win": true
     }
    }
   },
@@ -5552,6 +5636,10 @@
     "7d": {
      "pct": 0.3,
      "win": false
+    },
+    "14d": {
+     "pct": -9.41,
+     "win": true
     }
    }
   },
@@ -5573,6 +5661,10 @@
     "7d": {
      "pct": 0.3,
      "win": false
+    },
+    "14d": {
+     "pct": -9.41,
+     "win": true
     }
    }
   },
@@ -5594,6 +5686,10 @@
     "7d": {
      "pct": 0.3,
      "win": false
+    },
+    "14d": {
+     "pct": -9.41,
+     "win": true
     }
    }
   },
@@ -5615,6 +5711,10 @@
     "7d": {
      "pct": 0.3,
      "win": true
+    },
+    "14d": {
+     "pct": -9.41,
+     "win": false
     }
    }
   },
@@ -6093,6 +6193,10 @@
     "7d": {
      "pct": 3.67,
      "win": true
+    },
+    "14d": {
+     "pct": 3.82,
+     "win": true
     }
    }
   },
@@ -6213,6 +6317,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.02,
+     "win": true
+    },
+    "14d": {
+     "pct": 11.48,
      "win": true
     }
    }
@@ -6684,6 +6792,10 @@
    "outcomes": {
     "7d": {
      "pct": 10.28,
+     "win": null
+    },
+    "14d": {
+     "pct": 4.24,
      "win": null
     }
    }
@@ -7225,6 +7337,10 @@
     "7d": {
      "pct": 6.92,
      "win": false
+    },
+    "14d": {
+     "pct": -11.92,
+     "win": true
     }
    }
   },
@@ -7246,6 +7362,10 @@
     "7d": {
      "pct": 6.92,
      "win": false
+    },
+    "14d": {
+     "pct": -11.92,
+     "win": true
     }
    }
   },
@@ -7442,6 +7562,10 @@
     "7d": {
      "pct": 3.52,
      "win": true
+    },
+    "14d": {
+     "pct": 6.75,
+     "win": true
     }
    }
   },
@@ -7463,6 +7587,10 @@
     "7d": {
      "pct": 3.52,
      "win": true
+    },
+    "14d": {
+     "pct": 6.75,
+     "win": true
     }
    }
   },
@@ -7483,6 +7611,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.52,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.75,
      "win": false
     }
    }
@@ -7630,6 +7762,10 @@
     "7d": {
      "pct": 3.67,
      "win": true
+    },
+    "14d": {
+     "pct": 3.82,
+     "win": true
     }
    }
   },
@@ -7676,6 +7812,10 @@
     "7d": {
      "pct": 1.55,
      "win": true
+    },
+    "14d": {
+     "pct": -0.88,
+     "win": false
     }
    }
   },
@@ -7696,6 +7836,10 @@
    "outcomes": {
     "7d": {
      "pct": 0.97,
+     "win": true
+    },
+    "14d": {
+     "pct": 2.91,
      "win": true
     }
    }
@@ -7718,6 +7862,10 @@
     "7d": {
      "pct": 3.74,
      "win": true
+    },
+    "14d": {
+     "pct": 2.99,
+     "win": true
     }
    }
   },
@@ -7738,6 +7886,10 @@
    "outcomes": {
     "7d": {
      "pct": 5.18,
+     "win": true
+    },
+    "14d": {
+     "pct": 1.45,
      "win": true
     }
    }
@@ -7809,6 +7961,10 @@
    "outcomes": {
     "7d": {
      "pct": 4.55,
+     "win": null
+    },
+    "14d": {
+     "pct": 5.96,
      "win": null
     }
    }
@@ -8389,6 +8545,10 @@
     "7d": {
      "pct": 1.94,
      "win": false
+    },
+    "14d": {
+     "pct": 4.9,
+     "win": false
     }
    }
   },
@@ -8510,6 +8670,10 @@
     "7d": {
      "pct": 17.61,
      "win": null
+    },
+    "14d": {
+     "pct": 12.34,
+     "win": null
     }
    }
   },
@@ -8555,6 +8719,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.67,
+     "win": true
+    },
+    "14d": {
+     "pct": 3.82,
      "win": true
     }
    }
@@ -8727,6 +8895,10 @@
     "7d": {
      "pct": 1.02,
      "win": true
+    },
+    "14d": {
+     "pct": 11.48,
+     "win": true
     }
    }
   },
@@ -8773,6 +8945,10 @@
     "7d": {
      "pct": -1.8,
      "win": false
+    },
+    "14d": {
+     "pct": -20.09,
+     "win": false
     }
    }
   },
@@ -8793,6 +8969,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.8,
+     "win": null
+    },
+    "14d": {
+     "pct": -20.09,
      "win": null
     }
    }
@@ -11317,6 +11497,10 @@
     "7d": {
      "pct": 17.61,
      "win": true
+    },
+    "14d": {
+     "pct": 12.34,
+     "win": true
     }
    }
   },
@@ -11363,6 +11547,10 @@
     "7d": {
      "pct": 17.61,
      "win": true
+    },
+    "14d": {
+     "pct": 12.34,
+     "win": true
     }
    }
   },
@@ -11383,6 +11571,10 @@
    "outcomes": {
     "7d": {
      "pct": 17.61,
+     "win": true
+    },
+    "14d": {
+     "pct": 12.34,
      "win": true
     }
    }
@@ -11746,6 +11938,10 @@
     "7d": {
      "pct": -2.87,
      "win": false
+    },
+    "14d": {
+     "pct": -14.97,
+     "win": false
     }
    }
   },
@@ -11766,6 +11962,10 @@
    "outcomes": {
     "7d": {
      "pct": -2.87,
+     "win": false
+    },
+    "14d": {
+     "pct": -14.97,
      "win": false
     }
    }
@@ -11788,6 +11988,10 @@
     "7d": {
      "pct": -2.87,
      "win": false
+    },
+    "14d": {
+     "pct": -14.97,
+     "win": false
     }
    }
   },
@@ -11808,6 +12012,10 @@
    "outcomes": {
     "7d": {
      "pct": -2.87,
+     "win": true
+    },
+    "14d": {
+     "pct": -14.97,
      "win": true
     }
    }
@@ -12721,6 +12929,10 @@
     "7d": {
      "pct": 17.61,
      "win": true
+    },
+    "14d": {
+     "pct": 12.34,
+     "win": true
     }
    }
   },
@@ -13057,6 +13269,10 @@
     "7d": {
      "pct": -0.51,
      "win": null
+    },
+    "14d": {
+     "pct": -13.17,
+     "win": null
     }
    }
   },
@@ -13077,6 +13293,10 @@
    "outcomes": {
     "7d": {
      "pct": -0.51,
+     "win": false
+    },
+    "14d": {
+     "pct": -13.17,
      "win": false
     }
    }
@@ -13099,6 +13319,10 @@
     "7d": {
      "pct": -0.51,
      "win": true
+    },
+    "14d": {
+     "pct": -13.17,
+     "win": true
     }
    }
   },
@@ -13119,6 +13343,10 @@
    "outcomes": {
     "7d": {
      "pct": -0.51,
+     "win": true
+    },
+    "14d": {
+     "pct": -13.17,
      "win": true
     }
    }
@@ -13166,6 +13394,10 @@
     "7d": {
      "pct": 3.67,
      "win": true
+    },
+    "14d": {
+     "pct": 3.82,
+     "win": true
     }
    }
   },
@@ -13186,6 +13418,10 @@
    "outcomes": {
     "7d": {
      "pct": 17.61,
+     "win": false
+    },
+    "14d": {
+     "pct": 12.34,
      "win": false
     }
    }
@@ -13357,6 +13593,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.02,
+     "win": false
+    },
+    "14d": {
+     "pct": 11.48,
      "win": false
     }
    }
@@ -13895,6 +14135,10 @@
     "7d": {
      "pct": 1.94,
      "win": false
+    },
+    "14d": {
+     "pct": 4.9,
+     "win": false
     }
    }
   },
@@ -13915,6 +14159,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.02,
+     "win": true
+    },
+    "14d": {
+     "pct": 11.48,
      "win": true
     }
    }
@@ -13937,6 +14185,10 @@
     "7d": {
      "pct": 1.02,
      "win": false
+    },
+    "14d": {
+     "pct": 11.48,
+     "win": false
     }
    }
   },
@@ -13957,6 +14209,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.02,
+     "win": null
+    },
+    "14d": {
+     "pct": 11.48,
      "win": null
     }
    }
@@ -14487,6 +14743,10 @@
     "14d": {
      "pct": -2.57,
      "win": false
+    },
+    "21d": {
+     "pct": 9.0,
+     "win": true
     }
    }
   },
@@ -14683,6 +14943,10 @@
     "7d": {
      "pct": 3.01,
      "win": false
+    },
+    "14d": {
+     "pct": 8.34,
+     "win": false
     }
    }
   },
@@ -14704,6 +14968,10 @@
     "7d": {
      "pct": 3.01,
      "win": true
+    },
+    "14d": {
+     "pct": 8.34,
+     "win": true
     }
    }
   },
@@ -14724,6 +14992,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.01,
+     "win": null
+    },
+    "14d": {
+     "pct": 8.34,
      "win": null
     }
    }
@@ -14940,6 +15212,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.67,
+     "win": true
+    },
+    "14d": {
+     "pct": 3.82,
      "win": true
     }
    }
@@ -15519,6 +15795,10 @@
     "7d": {
      "pct": 3.67,
      "win": true
+    },
+    "14d": {
+     "pct": 3.82,
+     "win": true
     }
    }
   },
@@ -15539,6 +15819,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.67,
+     "win": false
+    },
+    "14d": {
+     "pct": 3.82,
      "win": false
     }
    }
@@ -15711,6 +15995,10 @@
     "7d": {
      "pct": 1.02,
      "win": true
+    },
+    "14d": {
+     "pct": 11.48,
+     "win": true
     }
    }
   },
@@ -15731,6 +16019,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.02,
+     "win": false
+    },
+    "14d": {
+     "pct": 11.48,
      "win": false
     }
    }
@@ -15928,6 +16220,10 @@
     "7d": {
      "pct": 3.67,
      "win": true
+    },
+    "14d": {
+     "pct": 3.82,
+     "win": true
     }
    }
   },
@@ -16023,6 +16319,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.02,
+     "win": true
+    },
+    "14d": {
+     "pct": 11.48,
      "win": true
     }
    }
@@ -18060,6 +18360,10 @@
     "7d": {
      "pct": 2.82,
      "win": true
+    },
+    "14d": {
+     "pct": -0.76,
+     "win": false
     }
    }
   },
@@ -19220,6 +19524,10 @@
     "7d": {
      "pct": 4.55,
      "win": true
+    },
+    "14d": {
+     "pct": 5.96,
+     "win": true
     }
    }
   },
@@ -19291,6 +19599,10 @@
     "7d": {
      "pct": 3.67,
      "win": true
+    },
+    "14d": {
+     "pct": 3.82,
+     "win": true
     }
    }
   },
@@ -19311,6 +19623,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.67,
+     "win": true
+    },
+    "14d": {
+     "pct": 3.82,
      "win": true
     }
    }
@@ -19473,6 +19789,10 @@
    "outcomes": {
     "7d": {
      "pct": 1.02,
+     "win": true
+    },
+    "14d": {
+     "pct": 11.48,
      "win": true
     }
    }
@@ -21270,6 +21590,10 @@
     "7d": {
      "pct": 2.77,
      "win": true
+    },
+    "14d": {
+     "pct": 3.44,
+     "win": true
     }
    }
   },
@@ -21440,6 +21764,10 @@
    "outcomes": {
     "7d": {
      "pct": 3.67,
+     "win": true
+    },
+    "14d": {
+     "pct": 3.82,
      "win": true
     }
    }
@@ -22507,7 +22835,12 @@
    "video_title": "10 Stocks to Watch as the Market Pushes Higher | Wicked Market Leaders",
    "date": "2026-10-03",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.14,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "GOOGL",
@@ -22649,7 +22982,12 @@
    "video_title": "10 Stocks to Watch as the Market Pushes Higher | Wicked Market Leaders",
    "date": "2026-10-03",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 10.35,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "INTC",
@@ -23143,7 +23481,12 @@
    "video_title": "Tesla (TSLA) & SPCX Breakout? My Thoughts on PLTR and SOFI",
    "date": "2026-10-05",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.48,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "SPCX",
@@ -23159,7 +23502,12 @@
    "video_title": "Tesla (TSLA) & SPCX Breakout? My Thoughts on PLTR and SOFI",
    "date": "2026-10-05",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "PLTR",
@@ -23175,7 +23523,12 @@
    "video_title": "Tesla (TSLA) & SPCX Breakout? My Thoughts on PLTR and SOFI",
    "date": "2026-10-05",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 10.35,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "SOFI",
@@ -23191,7 +23544,12 @@
    "video_title": "Tesla (TSLA) & SPCX Breakout? My Thoughts on PLTR and SOFI",
    "date": "2026-10-05",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.33,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "T",
