@@ -1,0 +1,1692 @@
+At Edward Jones, we believe rich is more than caring about the latest and greatest.
+It's also taking care of what gives your life meaning.
+That's why your dedicated financial advisor meets you where you are, with personalized
+financial strategies that help protect what matters, so you can preserve your progress
+while creating a path forward.
+The key to being rich is knowing what counts.
+Let's find your rich together.
+Edward Jones, member SIPC.
+With the Discover Cashback card, it's payback time when you earn cash back on
+everyday purchases. Activate and earn 5% cash back at different categories each
+quarter on up to $1,500 in purchases. That's 5% cash back at
+different places each quarter, like grocery stores, on gas, and at
+restaurants. It pays to discover. Terms applying,
+see Discover.com slash 5 for details.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Carl, thanks so much. Welcome to that special halftime report today,
+AI in America. I am Scott Wapner at One Market in San Francisco and over
+the next hour and during closing bell later on this afternoon,
+we'll look deep into the AI trade, assess the risks and rewards of this
+societal transformation, and what the recent action in the stock
+market suggests about the road ahead for investors.
+Altimeter's Brad Gerstner is with me today for the hour.
+He's been in nearly every major meeting at the White House
+that they've held on AI. Snowflake CEO is going to join me as well today at
+the future of software in this AI age. Remains a hotly debated subject.
+The investment committee with me as well. Josh Brown, Stephanie Link,
+Malcolm Etheridge. Can't wait to hear from everybody today.
+You know what the market picture looks like, but let's show you because the
+dow's up big, but AI stocks are not. I want to start
+with you as we think about semis, what's happening with core weave,
+and we'll get to core weave more specifically in a moment.
+Is this about AI slowdown concerns? Is this about
+debt levels and interest rates going up? Is this about choice C,
+all of the above? What do you think?
+Of course, it's all of the above. First, great to be back here.
+We talked about this maybe a month ago. The number one question in the market
+today is do the AI revenues justify the CapEx build out?
+I mean, frankly, it goes back to the conversation I had with Sam Altman
+on my podcast last October when I asked him the question, how can you
+make a trillion dollars in spending commitments when you have $13 billion
+in gap revenue? Well, what happened this year is revenues exploded higher.
+Remember the forecast for Anthropic at the start of this year,
+$30 billion. Now a lot of the reports have them doing
+at least $100 billion. We'll get into that a little bit today,
+but the fact of the matter is AI revenues exploded higher this year
+and now we're in this phase of consolidation. People are starting to worry
+is open source commoditizing the frontier labs or the revenues sustainable
+and at the same time then they're hearing in the marketplace that
+things may have slowed down. So that plus higher rates,
+plus some of the political stuff going on in the background,
+background has people scared. I will tell you, I'm on the more
+positive side of this, but I think it's good. We have this churn in the market,
+it avoids bubbles. Okay, you're on the more positive side,
+but your actions suggest that you are getting more cautious,
+don't they? I mean, you've taken your exposure down. Yes. I mean, I
+did, you know, a presentation at the All-In Summit
+about a month ago. I said I had taken my exposure down to medium,
+small. I think I had shared that with you just the week before then
+and the reason for that is I saw a lot of these AI stocks
+in April and May we had the biggest move in semis
+in history, right? And that was, that fuse was lit by the
+Anthropic Revenue Report in March of the year and I just thought they got
+ahead of themselves that we were going to consolidate a little bit
+and it turns out there were even more fears that came along, inflation,
+rates, etc. So our exposures are the lowest they've
+been in three years, right, over the course of the last couple
+months. The lowest they've been in three years, how can you then
+profess how sort of positive you still are?
+Remember, I live in two simultaneous but different worlds.
+One world is I manage money for people in a hedge fund and so my job
+is to make sure I avoid some of the drawdown. In my long only fund and in
+my, you know, growth funds and venture funds,
+we're investing for the next five to ten years. So I'm telling you
+when I look at 27 and 28, I'm even more positive and we can get into why.
+But you have to acknowledge that there's going to be chop along the way
+so it doesn't surprise me at all that we've had some of that chop, some of
+that consolidation. Why am I getting more positive? Why am I
+leaning in and maybe start buying over the course of the next couple
+weeks because I'm seeing prices come in and start to get enticing.
+Well, I mean, Josh, that's the trillion dollar question.
+Whether there's more pain to be had in this market, whether we're going to
+get to some levels that are attractive, not only to a Brad Gerstner,
+but to a Josh Brown and any investor who is now watching this program
+thinking about where we are and where they think we're going.
+Yeah, look, I think something really interesting happened this week.
+We finally got the answer or part of the answer to the riddle
+that everybody's been wondering about. The question was why
+have rates been marching higher really since June but accelerating
+into the end of September and early October? And it was this big debate.
+Is it oil prices feeding into inflation expectations?
+Is it reverse crowding out where all this debt coming from the AI
+CAPEX build out is making it so the government has to raise the rate in
+order to entice buyers? I think what we learned yesterday
+was the latter is a really big driver of rates. Think about what happened.
+We had a hot PPI, hot CPI doesn't really matter because in the end
+bonds fell when it looked like there would be less bonds coming
+from the core weaves and the neoclouds and maybe even some of the
+established incumbents in data centers. All of a sudden we had
+this crazy moving rates, what looks like a blow-off top
+in the five year, in the 10 year. That tells you how much
+of the rise in rates is coming from just too many bonds being offered by
+corporate America. If we think there's going to be a slowdown
+there and that's what the stock prices of Nebius and
+Core Weave and the rest tell you, all of a sudden we get rates come in
+and look what's working in the market today. Everything other than AI caught a
+big bid from healthcare to even staples. We're seeing housing related plays
+move. That's a really interesting situation I
+think for people that are trying to figure out where from here.
+The answer for stock market investors is, hey,
+do yourself a favor instead of adding the fifth semiconductor name to your
+portfolio, look elsewhere. That's what the market is telling us today.
+Well Steph, there's been a debate about the looking elsewhere, right?
+I mean, the market became much more concentrated
+at the expense of the elsewhere which you've been advocating for
+repeatedly and now maybe the pendulum is starting
+to swing back the other way as we ask more serious questions about where we are
+in the AI trade. Well I don't think it's one or the other. I think it's both and
+you know I have been adding to technology on any of the declines but I
+also have been very much exposed to, yeah, the 493 other
+stocks and other sectors. I think the reason is because
+the economy continues to grow in the face of higher rates and higher
+inflation, we're still growing north of 3%.
+And like today's data, I know we were all focused on PPI
+and yesterday's CPI but did you look at retail sales, how great that was, and
+weekly jobless claims, a four-week moving average of 198,000, the
+lowest level. Since 1969 you look at some of the
+like the manufacturing regional series like the Philly Fed, the
+Empire Fed. There are a lot of good things that
+are happening beyond technology, beyond AI, and yeah, I think we
+should see a catch up because I think you are going to see earnings.
+I thought the bank earnings this week, yeah, a little sloppy, but outside of
+capital markets and M&A, the rest of the businesses are humming and you
+have these stocks that have been, at one point, Morgan Stanley was up 25%
+this year, got flat on the year and so the valuations are coming down.
+At the same time Scott, in the semiconductor space, I do not think
+that AI and the food chain, I do not think it is dead.
+We have not seen any kind of change in the $1 trillion spend that we are
+seeing from the hyperscalers. Rates certainly going to hurt some of
+the bad players that have bad balance sheets.
+Poor Weave has 50 billion in debt. Oracle has 167 billion in debt so
+sure, higher rates are going to hurt them, but you have got cash
+generators that are actually down just as much that are
+opportunities, NVIDIA and Broadcom, Micron, I know we will get to all
+of them later, but you have very healthy companies that are getting
+caught up in this tail end of just concern and I think you're
+going to see opportunities in tech as well as beyond tech.
+Malcolm, what do you make of what's been happening with the AI
+centric trade? Yeah, I think that what we're seeing is
+potentially a changing of the guard. So I heard Brad mentioned we're
+probably going to see a tremendous amount of
+shop between now and when we finally get there.
+I'm listening to Josh and Stephanie talk about looking
+outside of the Mag7, let's say, or the hyperscalers for the
+opportunity to stick with the AI trade or to diversify and what I
+think we're looking at is not necessarily a changing of the
+guard in the sense that AI is no longer going to be the thing
+that's powering the economy as well as the stock market.
+Maybe what we're looking at is just some other companies
+beneath the surface that we haven't really paid attention to
+because they're not the chips, they're not the core weaves of
+the Nebius, they're not the hyperscalers, the Mag7 that's
+doing all the building. They're the companies that are
+really going to weaponize the AI technology as it's as it's
+being constructed right now and they're going to figure out
+ways to do a lot more with a lot less and that is what's
+going to drive the second leg of the AI revolution. And I
+think that's probably the question that we should be
+looking to answer. Is it one where we've got to actually
+take the market down entirely to make that rotation or is
+it one that we can successfully make the leap
+between where we are right now and those companies that
+will come out as the new leaders at the forefront of
+the AI revolution. I'm thinking software obviously that's
+that's a very direct link but I'm looking also at the
+companies beyond that. You heard Brian Moynihan for
+example talking about how they've had to add a thousand
+people to their 3,000 piece orchestra to help build
+out their cyber security outfit but it's also expected
+that they're going to see something like a $700
+million savings starting next year just from what
+they've done to deploy AI across the bank and
+that's one company out of however many thousands of
+global enterprises. So I think that's where the real
+opportunity is that investors should be paying
+attention to and figuring out how to get to where the
+puck is going. You Brad have really said and I think
+you said it as much already that sort of all roads
+kind of lead back to open AI and Anthropic. Right.
+And the hope that their revenues are going to grow
+fast enough to meet the commitments that the
+market expects them to make. It's kind of the
+whole story at this point. You were at the
+investor day yesterday. I was. You have. You've been
+an early investor in Anthropic. Would you make
+of what you heard? Well I can't get into anything
+that was said in the room yesterday but what I
+will share is this. If I had to do a vibe check
+coming out of the room I found it very
+fascinating. You had a lot of the most important
+investors in the world in the room and I
+would say the vibe check was a nine or a 10 out
+of 10. Very bullish in terms of how they feel
+about this company. Now they're probably looking
+at it over a one two three year time horizon
+not over the next 30 days. If you look at what
+was reported that was said in the room and the
+reaction in the market to that was quite
+negative. Right. Or at least my interpretation
+of it was quite negative. So you had this
+you know this asymmetry between I think
+how people feel about it certainly from
+an altimeter perspective. The information
+I've gathered gathered over the last few
+weeks including yesterday make me more
+bullish on Anthropic, their IPO and the
+road ahead not less bullish but you know
+they're going to have to wait until they
+flip the S1 and they can share some of
+that information with the world do their
+roadshow and I can't wait for this
+company to get public because retail
+investors are going to be excited
+about this and long only in mutual funds
+and sovereigns and you know lots of
+folks and they should get the chance
+to invest in this business and you
+know and then I'll be able to share a
+lot more you know of what we want
+to say but the fact of the matter is
+I think that AI like I you know I just
+did this podcast with Jensen
+you know I think it's accelerating
+it's accelerating because we're entering
+a recursive loop where the machine
+is building more of what comes next
+right the machines are building 80 90
+percent of the code that you know that
+drives the next product release
+that is a recursive loop that
+accelerates some people call this
+the singularity right but I think
+that that's what we're going to see
+in 27 so remember the breakthrough
+we saw with opus 4.5 last December
+that led to clod code
+without that we wouldn't have had any of
+these revenues
+okay that was one product now imagine
+having a variety those breakthroughs
+for cyber for knowledge work for bio
+for material sciences I think we're on
+the verge of having clod code moments
+for a lot of these industries and it's
+going to drive a lot of it I know
+you're limited as you said
+to what you're you're allowed to
+save I appreciate you
+confirming that you're in the room
+as an early investor
+Arcate Rooney is not limited into what
+she can say about this and you do have
+the numbers that were reported and how
+investors are reacting to what we know
+what can you tell us exactly well Brad
+we'll let you off the hook you don't
+need to share the numbers we've talked
+to some folks that were in the room
+we do have those new numbers that
+were shared
+at anthropics investor day here in
+San Francisco yesterday so I did talk
+to folks who are in there
+not Brad but anthropic did tell
+investors the revenue was just shy
+of 17 billion for the third quarter
+that was up 45 percent
+from what we're hearing sequentially
+is sequentially I should say
+so objectively that is strong growth
+for any tech name but for comparison
+revenue was up about 140 percent
+quarter to quarter earlier this year
+so the bar is just sky high for
+anthropic and a lot of these AI names
+the street
+is reacting to that this morning
+D.A. Davidson I thought put it
+well this morning
+they said the market does appear
+to be reading
+the anthropic update as a negative
+which is understandable considering
+how on edge this market has been
+about anything around the AI trade
+the bulls though are absorbing
+the news pointed to profitability
+so this was a topic
+in the room as well yesterday
+from what we're hearing anthropic
+did tell investors it was profitable
+on an adjusted adjusted basis
+in the quarter 80 plus margins
+so the reaction to those results
+do again speak to expectations
+overall plus some jitters about
+the spending behind the AI boom
+if all of it is justified
+based on some of this revenue
+growth also if anthropic can support
+what has been reported to be a
+two trillion dollar valuation
+that is the number that we have heard
+being floated anthropic
+is targeting an IPO before
+Thanksgiving no date
+quite yet guys but
+we're waiting on that S1 flip
+so we so Brad can talk about it
+the not good enough
+seems to be the the trending outcome
+whether it's Piper Sandler today
+and that's what they're saying
+the numbers are obviously huge
+you you said you know you dropped
+the podcast
+that you just did with Jensen
+into which he's as bullish
+as he's ever has sounded
+it sounds to me about
+where he thinks revenue growth
+is going to go for the labs
+right right I think I think
+Jensen in the podcast
+I asked him the question
+are you confident that they're
+going to 2x revenue next year
+which if they exited this year
+at what is reported to be
+a hundred billion or something
+like that that would be like
+200 billion exit next year
+so I wanted to know what his
+opinion was on that
+he's a big investor in
+anthropic he's a big investor
+in open AI and he said
+I'm pretty sure it was
+something to the effect that
+at least 2x next year
+so I think that a lot of the
+investors that are closest
+to the pipeline of what is
+happening on the models
+remember this
+all of the revenue is
+derivative of model capability
+none of the revenue
+would have happened this year
+without clawed code
+clawed code became better
+than any software engineer
+at writing software
+so it replaced them
+and that revenue skyrocketed
+they're looking into the
+models that are already
+completed Scott
+not speculating on what
+they might do
+the models that are already
+completed in the labs
+and saying with high confidence
+it's going to unlock
+other products like clawed code
+I happen to agree with that
+but that's what makes a market
+I also like the consolidation
+of the job I think the debate
+you're seeing in the market
+is the right debate
+the questions are the right
+questions
+and so we'll see when this
+thing comes public
+I suspect if they choose to
+come public
+there's going to be
+tremendous demand
+based on everything I know
+about the company
+remember in the SpaceX
+IPO I think it was a hundred
+billion dollar offering
+you had I think about 350
+billion dollars
+of demand for that offering
+and the stock's done incredibly
+well coming out of that
+I suspect here
+you would have over 500
+billion dollars of demand
+for this offering
+so I think the stock would
+do fine
+wear it prices none of us
+like I don't really care
+I don't think the company
+really cares
+is it at one five
+is it at one seven five
+is it at two
+like those things are irrelevant
+if you're going to own
+the stock over the course
+of next year or two
+anything about that
+it's a great point
+I wonder at what point
+open source
+the what open AI has done
+we know you're also an investor
+in open AI
+what point competition
+starts to bite into the revenue
+growth and I mean
+there was a slowdown
+sequentially
+so you look at
+the expectation
+but that's slower
+than what they saw
+in the first quarter
+what what do you think
+is going on there
+I mean is it
+is it more competition
+is it open source
+or people just getting burnt
+out from spending
+big on these expensive models
+so first I would say
+the open source competition
+in the open AI competition
+has existed all year
+right so some people look
+at their Q2 numbers
+and say oh those were good
+but they also had
+that competition there
+so I might look
+for something else
+as explanation
+I've seen a lot of reports
+out there
+on maybe you know
+they they turned
+the knob down on distillation
+there's been a lot of
+conversation in Washington
+and other places
+about the need
+for the labs themselves
+to cut back
+on the distillation
+this is Chinese
+models mostly
+running lots
+millions and billions
+of dollars
+of queries against
+these models
+which generate revenue
+right but then allow
+those competitors to catch up
+it's a national security
+threat
+and so the company
+as has been reported
+you know suggested
+they were going to do
+something about that
+so that may have been
+I think they were close to
+you know
+if not solving it
+making significant steps
+against it
+I I think it's fair to say
+that Anthropic is devoting
+significant compute resources
+and significant intellectual
+resources to stopping this
+Dario is very
+very committed to that
+and so
+if they were to do that
+and if that is
+what has been
+you know again
+I've seen all these reports
+out there
+the five to seven percent of
+revenue and all this stuff
+that would be billions of
+dollars of revenue
+that would have been in Q2
+but would have come out of
+Q3
+so if you
+normalize those two things
+that might look a little
+different
+well the irony is that
+these open source models
+the cheaper ones
+that are almost as good
+as Anthropic
+you're saying
+have been
+essentially ripped off
+from Anthropic and Open AI
+so I think for our audience
+that's a
+that is sort of the full
+picture here
+that you know
+they make money on these
+but
+what's happening in the
+background is they are
+copying those models
+and offering basically a
+discount version
+let me
+let me
+let me be very clear
+about two things
+number one is
+I want there
+to be a very vibrant
+ecosystem of competition
+including open source
+and there will be
+right
+you saw the results
+out of Muse this week
+thinking machines
+is on the result
+of some big breakthroughs
+reflection just
+you know
+launched a new
+open source model
+we see what Google is doing
+so we have
+very very healthy
+competition
+I might argue
+this is the most
+competitive market
+in all of technology
+okay
+and they're posting these results
+with that in mind
+with that said
+if you said to me Brad
+are they extending their lead
+over everybody else
+or is the lead shrinking
+I think the consensus view
+in the world
+shrinking
+is that it's shrinking
+I think and I am on the exact
+opposite side of that
+when you think about recursive
+loops
+of intelligence
+they increase at an
+accelerating rate
+and intelligence is the log
+of compute
+these guys are adding
+the most compute next year
+so you're ahead
+you're entering a recursive loop
+and you have the most compute
+now
+you're comparing
+Chinese model
+to their released models
+each of these labs
+has models complete
+inside the labs
+that they're doing
+safety testing on
+and lots of other things
+so they may be generations ahead
+to the benchmarks
+that you're looking at
+and comparing to
+for example
+Navier stokes
+was not solved by Astra
+so you have to ask
+what solved it
+what solved the
+millennium math problems
+at open AI
+well clearly an unreleased model
+solve those things
+that is much further along
+than the open source models
+so you disagree then
+with Gavin Baker
+who post quote
+why are the frontier models
+cutting price
+might it possibly
+just possibly be the result
+of the fact that they're losing
+share
+to open weight models
+you agree with that
+so look at what in fact happened
+number one
+every generation of model
+becomes much much more capable
+okay
+so with the same amount of compute
+you're producing
+a lot more intelligence density
+and you get to choose
+what to do with that gain
+you can either harvest it
+in which case
+you keep the margin
+or you share that margin back
+and you get more competitive
+what did AWS do
+over the last 10 years
+when they had those improvements
+right
+a hundred price cuts
+over a course of 10 years
+to expand their competitive moat
+it was beneficial for the consumer
+also beneficial for the company
+what I would say
+is look at their lower level of models
+haiku and sonnet
+they're going to have
+closed source models that are cheap
+as cheap as or cheaper
+than the open source models
+but on the frontier
+the frontier intelligence
+people are still going to pay
+a lot of money for frontier intelligence
+you think they will
+I mean one of the other things
+I thought interesting
+that Gavin brought up
+was this
+this run rate revenue
+that everybody's been so focused on
+I had heard that anthropics
+trying to move away from that
+of course as they go public
+but it's a snapshot
+in time that then people extrapolate
+sort of look over the full year
+do you
+think we should be moving away from that
+and that has sort of been
+how all the AI labs
+in private markets have been
+disclosing that revenue
+let me let me also add before you answer that
+on another post of his
+no one I mean literally
+no one in the supply chain
+takes the ridiculous one trillion
+in unfunded spending commitments
+from open and anthropic
+even vaguely seriously
+they're functionally irrelevant
+and should be obvious to everyone
+so put that with
+with what you're saying
+these are all sort of questions
+that are being raised
+on the other side of
+I mean listen
+the bull bear debate
+I talk to Gavin all the time
+and he's by the way
+he's still positive on
+on open AI and anthropic
+I want to make sure that that's totally clear
+I talk to him all the time
+he's a great analyst
+he's on the right side of this
+I'm just saying
+there's not a lot of daylight
+Gavin's like
+the frontier labs
+are going to capture
+a huge portion of the economic value
+and the open source labs
+are because we're dealing with
+the largest TAM
+in the history of the world
+go back to run rate here for a second
+I agree with you
+run rate is valuable
+because it tells us something
+about the pulse
+the health of the business
+at a given moment in time
+I don't particularly love it
+when you release that
+as a public market company
+it's like roblox
+releasing DA use every month
+right how many daily
+average users
+because we habituate people
+to that monthly cadence
+and the stocks all like this
+it's not great for investors
+but I think another way
+to think about the health of the business
+how many customers
+did you add last month
+how much did they spend
+how much of the fortune 500
+do you have
+how much of the fortune 2000 that you
+so I think if you peeled back the onion
+on those things
+at anthropic and open AI
+they tell incredible stories
+I will stipulate this
+this is the largest cat
+I've been out here for 25 years
+there is not a single person
+or a single company
+small medium or large
+that's not going to use AI
+100% of them are going to use it
+let's say 20 to the 30% of their usage
+is open source
+and let's say 50% of their usage
+over time is going to be on the frontier
+for companies like Lily and Bristol
+and the most important companies in the world
+it is a massive market
+for all these guys
+and we are just getting started
+Kate, thank you so much
+for being here with us
+we'll see you later on this afternoon
+as well as Kate Rooney continues
+to participate in our AI in America special
+let's hit core weave
+okay
+let's do it
+stocks down again
+seems to be the poster stock right now
+at the heart of all of the concerns
+that we see
+Steph was talking about
+50 billion in debt
+yields are like 15%
+CDS
+blowing out
+etc etc etc
+where does your position
+currently stand in core
+yeah so I don't own core today
+you don't own it
+but you know listen
+we were
+I know you were pre-IPO
+and you've been a big investor in this name
+we have
+but you know I told you
+that over the course of the last three months
+we took our exposures down
+to the lowest levels we've had
+not because of anything specific to core
+but just because I said
+AI is overshot
+we're going to have a period of consolidation
+we wanted to make sure
+that you know we bought
+we moved 10% of our book
+two months ago into meta
+we moved 10% into Tesla
+we were diversifying into other names
+that we were excited about
+we had to go somewhere to get that capital
+so we diversified out of AI
+and took our overall exposures down
+let me say a few things though about core
+we number one the team
+that's running core
+we've one of the best in the business
+90% of the stuff that I read out there
+is like misinformation
+with respect to core
+we like the idea
+that they have to pay 15% on their debt
+no 15% is the public mark
+on 20% of their debt
+they're still paying 9% on that
+and all the stuff that is secured by the GPUs
+which is 80% of everything they borrow
+is rock solid and relatively cheap
+so I think there's probably opportunity today
+in core we've in both the equity and the debt
+I'm sure my team is back at the shop
+working away on that
+and somebody will make the pitch to me
+but you know this is what happens
+Scott in these moments
+everybody freaks out
+oh my god
+Anthropics revenue
+was a little less than we thought it was going to be
+oh my god
+we're not going to build out all this compute
+so they just sell everything in the compute stack
+because it had gone up in a parabolic fashion in April and May
+so Jensen was speaking in Sweden today
+says Nvidia doesn't need to backstop core we've
+says core weaves cost of capital is quote
+actually decreasing
+says core weaves strength is improving every day
+but the market seems like it's going to be jittery
+around this name for a while
+simply because of the amount of debt that it's taken out
+you've got the data center debate
+which is now still feels like it's escalating
+yeah I mean I think there were some probably some weak hands
+they got funded by venture capitalists
+maybe even some in the public market
+some of them that had their IPOs pulled
+so I think you'll see some washing out
+but the fact of the matter is
+I think core we've like I said
+Mike in trader who runs that business
+one of the best
+I think their capital stack is good
+I think their partnerships like they have with
+Nvidia are fantastic
+they're going to be one of the new AI
+hyperscalers you know these neoclouds
+that make it to the other side
+but on a market to market basis
+let me just say one thing
+they want public I think a 30 bucks a share
+I don't know the stocks at 60 bucks a share today
+it's still a double off the IPO
+which occurred sometime in the last two years
+right not terrible
+it's just that the stock went up to maybe 180
+dollars a share
+when people said oh I'm going to give it an AI multiple
+and now they're saying oh maybe it's a GPU rental business
+and maybe a GPU rental business
+should not have the same multiple
+then I'm giving to an anthropocore SpaceX
+and that is the type of market behavior that we want
+it's separating winners from losers
+it's applying appropriate multiples
+so I wouldn't panic in this moment
+and frankly I think if I were
+if you put a gun to my head today
+and you said buy yourself a core weave
+I'm a buyer a core weave today
+we'll leave it there
+we'll take a break
+we'll come back up next
+the debate over AI safety
+as more big players are now speaking out
+this special halftime report
+AI in America
+back from San Francisco right after this
+it's payback time when you earn cash back on everyday purchases
+activate and earn 5% cash back at different categories
+each quarter on up to 1500 dollars in purchases
+that's 5% cash back at different places each quarter
+like grocery stores on gas and at restaurants
+it pays to discover
+terms applying see discover.com slash five for details
+this monday.com ad was created by a team of people
+and AI agents
+the agents wrote the copy
+and managed the timelines
+while our human creative director
+made sure it all made sense
+easy create your own AI agent today on monday.com
+AI is here transforming how we work live and lead
+and the women I talk to aren't waiting for the future
+they're shaping it
+I'm Julia Borstin
+senior media and tech correspondent at CNBC
+this is CNBC Changemakers
+where I talk with the female leaders
+transforming business
+as AI reshapes the world
+follow and listen to CNBC Changemakers
+women leading in the age of AI
+wherever you get your podcasts
+so we're back at one market in san francisco
+AI safety and security has been the conversation
+ever since Anthropix Dario Amade published
+his paste the frontier letter
+back with Brad here
+so Satya Nadella of Microsoft had his own post over the weekend
+in which he said quote
+we need a human controlled emergency break
+in case models behave unexpectedly
+or get compromised
+and can't simply rely on insurance assurances
+from the model makers
+what's your take on that
+I think it's a good idea
+and you know we had this meeting at the White House
+two weeks ago
+and he shared good ideas like that
+as did Jensen and and Elon and and Jeff Bezos
+and Dario and and Greg Brockman etc
+and that's what was so terrific about that meeting
+everybody got to throw these ideas on the table
+I actually think you'd be surprised
+how little daylight there is
+again when I read Twitter
+it sounds like there's huge daylight between where Dario is
+and where Satya is as an example
+I think most people agree that we need to have some level of
+you know engineering software led containment
+you know and there are other things we need to do
+and perhaps we ought to talk about what those other things are
+but I like Satya's idea
+I think other people like Satya's idea
+OpenShell
+which was announced by Nvidia as another version of this right
+which is the ability to deploy these models safely
+nobody's going to rely just on the model companies
+right of course they're going to
+you know look at their entire data state
+we're going to have Shridhar on from Snowflake here in a little bit
+and they're going to think about their current software providers
+and the things they can do to make sure that they contain or
+or put a safety break on it
+what do you mean when you know
+engineering software led containment
+does that mean uh
+I mean do you do you think we need a larger regulatory
+look at all of this because that seems to be where the heart of the debate is now
+whether we need uh you know some sort of agency
+level oversight
+into what's happening here because we truly don't know what we don't know
+about what these models are capable of doing
+you know I I asked this question to Jensen on the pod you know
+do you worry about the world that you're bringing your kids into
+and I can just tell you for everybody in that room we all had kids
+we all have kids
+we all care deeply about the future of the country
+and deeply about the future we create for our kids
+and I think we all have a lot of confidence we can do it safely
+let's just first talk about what was the we
+you guys everybody in in in that room
+including a lot of regulators like you know
+Jay Clayton who was in that room
+but let me just talk about what we have
+because I think it's very mischaracterized
+we have a frontier model review framework right
+that is led by the commerce department Casey
+every frontier model is going to get reviewed
+before it gets released
+we are the only country on the planet that's actually sanctioned
+a frontier model and pulled it out of production
+like we did earlier this year with mythos
+so this idea that we're not reviewing the frontier models
+is a farce
+second what we signed at the White House
+the White House Accord on superintelligence
+is a Sarbanes-Oxley-like approach
+internal audits external audits
+board oversight creates massive liability for these companies
+but that was a law that was a law
+and let me just give you the third
+this is a non-binding agreement signed by a bunch of tech leaders
+the third leg on the stool
+the third leg on the stool the S.I force
+led by Jay Clayton
+Emile Scott-Coupor etc on it
+that's going to oversee critical industries and cyber
+so we have a three-legged stool and approach
+to regulation in this country
+and I know that Bernie and Elizabeth
+and a lot of other people in the Senate are saying
+oh my god we're not doing anything
+this is crazy
+we need to have the FDA for AI
+we need to take a breath and realize
+there is a massive amount of work going on
+to keep America safe
+we're four years into this
+okay we have very powerful models
+we just talked about all the anti-distillation work
+that's getting done
+you can imagine that commerce is currently
+reviewing the next wave of models
+coming out of these two companies
+why haven't we released the model Scott
+well maybe because we're spending a lot of time
+reviewing the models
+but if you listen to senators
+they would have you believe that no work
+is being done on this
+so I think we first need to acknowledge
+that there's a lot more being done
+than is being characterized
+whether or not we need more
+remember the fourth bullet point
+in the White House Accord on Superintelligence
+was this is just a start
+we will reconvene this group routinely
+we will have to evolve the framework
+as the technology evolves
+and so I feel good about that
+I'm not saying that we never need
+right to formalize
+or codify any of this stuff into law
+but we did the right thing
+and we moved quickly
+and we got a good regulatory framework
+what if I'll go back to
+what if we don't know exactly
+what we're supposed to be
+preparing for or
+essentially putting guardrails around
+it goes to what Bill Gates was talking about
+that AI is going to be like an evolutionary event
+that it's going to grow quote
+insanely smarter at an exponential rate
+in the years ahead
+and we're not going to be able
+as humans to keep up with it
+so if we can't keep up with it as humans
+how do we know what the power ultimately
+is going to be
+and how to put those guardrails around it
+well I think it's really important
+like we have to have a pro-human approach
+to how we bring it into existence
+right we train the model
+this is a piece of software
+at the end of the day right
+we're not it's not a new species
+that we're bringing into into being
+is a piece of software
+that we are training
+so how we choose to train it
+the frameworks
+we want those disclosed
+right we want those audited
+we want those reviewed
+those are all the things that these
+three legs of the store are meant to address
+but I will also say this
+it's going to have to be the case
+that the intelligence is going to
+have to be the one to oversee the intelligence
+right so the people who are in the best position
+to monitor this
+and the cyber capabilities
+out of the models themselves
+right because they're going to be so capable
+so to me I of course we have to be
+very thoughtful about this
+we all have to get together and evolve this
+but I don't think you know it
+is there a group of humans that I think
+has the platonic right truth
+as to how we set this up
+do I think there's an FDA for AI
+that can give us the 10 commandments
+on how we run
+no I think that'll set us back
+remember there is no safety off the frontier
+if we end up in second place
+if China gets there first
+I can guarantee we're not safe
+okay I want to go to that
+then because of what Alexander Wang said
+the head of meta AI right
+the designer of news
+who said recently quote
+I personally changed my own opinion on this matter
+talking about China
+in the past I was very worried about China
+I had read these old speeches that were given
+by the PRC officials in the past
+that talked about how they viewed AI
+as this opportunity to leapfrog the west
+that's what this whole discussion is about quote
+but as time's gone on
+I think we're painting them to be too much of a boogie man
+when they're going to see the same things
+that we see in terms of this is powerful technology
+there's going to be a lot of shared goals
+in making sure that AI goes well
+I think it's I think it's well said by Alex
+but I would say this
+the only difference I would add
+trust but verify
+like trust but verify
+am I just going to trust
+that they're going to take care of all of this for us
+no I'm not going to trust that
+right but I do think it's encouraging
+she had a second meeting
+I was at the she stayed dinner a few weeks ago
+second face-to-face meeting
+with the president this year
+we've never had
+the presence of the two countries
+meet more than one time a year
+now they've met twice
+and they're committed to meeting another two times
+so that coordination
+and there was a lot of conversation about AI
+not only between President Xi and President Trump
+but also between Besant
+and his counterpart in China
+so I think there's a lot of important
+conversation going on
+and coordination going on
+I'm hopeful
+I think that some of the things Alex says
+it may in fact be right
+but I think we have to verify as well as trust
+okay this important conversation continues
+after the break up next
+the future of software in the age of AI
+Snowflake CEO Shridhar Ramaswamy is here
+he'll be right at this desk next
+This Monday.com ad was created by a team of people and AI agents
+Reese, our content agent wrote the copy based on our best practices
+like mentioning Monday.com three times
+that was the second
+Johnny, our coordination agent built the timeline
+and kept everyone aligned
+Olivia, our human creative director
+stayed in the loop
+because agents are great
+but they don't always know when a joke lands
+she had one note
+tell listeners it only takes minutes to build an agent
+so minutes
+create your own AI agent today on Monday.com
+AI is here transforming how we work
+live and lead
+and the women I talk to aren't waiting for the future
+they're shaping it
+I'm Julia Borsden
+senior media and tech correspondent at CNBC
+This is CNBC Changemakers
+where I talk with the female leaders
+transforming business
+as AI reshapes the world
+follow and listen to CNBC Changemakers
+women leading in the age of AI
+wherever you get your podcasts
+All right we're turning on the time machine
+because it was three years ago
+in these very same seats
+that our next guest joined Brad and me
+as the CEO of Neva Systems
+a company that was bought by Snowflake
+well, Sridhar Ramaswamy was then named Snowflake CEO
+and as you see he is back with us now
+so welcome back as we
+I think really try and do a three years later
+pulse check on where we are
+and I want you to listen to what you told us then
+and then we can react to it after we listen
+pay attention to this
+everything as I said from email to how you buy products to
+how you approve things
+how you analyze what's going on with your business
+is going to be changed in a big way
+and so there's a huge market
+for brand new applications
+that are going to be built
+on top of the things that are existing
+okay you were obviously correct
+and we've taken leaps further haven't we
+that's right that's right
+I think pretty much everyone underestimated
+what we could do with AI
+AI went from here's a cute chatbot to oh cool
+I can attach it to the real world
+and get information about it too
+oh wait this can actually think through complicated things
+and take actions on our behalf
+that's what we call the agentic enterprise
+in the world of enterprises
+and that's the pool that you're seeing with
+Snowflake success how we did last quarter
+what we guided to for this quarter
+and how much more work that we all have to do
+it's combining intelligence and data to drive how we work
+do you still think in some ways we're underestimating
+the power of what artificial intelligence
+super intelligence as some are calling it now presents
+absolutely I think it's very early
+I think all of us for the past 50 years
+have navigated this world of information
+just super painfully
+I joke to people that most of my life
+for the past 50 years
+I've pretty much been copying text from one screen
+into another screen that's my life
+that's kind of all our lives
+and I think AI can distill all of that away
+and focus us on what's the thing that really matters
+what's the judgment that you need to bring to the table
+and I think we are very very early in that journey
+the software trade has been so volatile as you know
+and the IGV is way off of its lows
+and your stock has had an amazing year
+do you feel like we're getting better
+in understanding the winners from the losers
+and how the winners are actually going to win
+I think it's early
+there's going to be a lot of impact on all kinds of things
+but I think all of us also need to internalize
+that the act of software creation
+is just fundamentally different
+and the example that I give to people
+is like software has become industrialized
+and we are still trying to figure out
+what exactly that means
+that means that software has gone from
+you know dude in a garage
+or five people in the team
+doing this slowly, painfully, crafting it to
+you can mass produce software
+and we think that areas like data platforms
+become more powerful in a world like this
+because storing, accessing, acting on
+high quality information
+ends up having such a big impact
+but it's also a little bit of what happened to media
+there's going to be lots and lots of software
+and there are going to be fewer players
+that are going to be very effective
+delivering it both to consumers
+as well as enterprise
+you no longer own it in your hedge fund
+but you have a lot of exposure personally
+to the stock still
+it's one of my biggest personal holdings
+so great job this year
+the stock's up 50%
+but to your point Scott
+part of the reason that I continued to own it
+in a big way was this difference between
+you talk about IGV as though all software
+is created equal
+the fact of the matter is
+talk to us a little bit about
+what makes the data platform
+so different than application software perhaps
+and what you see happening
+with your data platform
+that gives you so much excitement
+about the future
+first of all what needed
+reams and reams of software
+purchases, installing, integrating
+has disappeared
+because you can now reason with data in English
+in fact one of my data teams
+that doesn't write a lot of software
+they always just worked on data setup systems
+they've had a huge impact on my company
+the sales team with the finance team
+because they don't know any better
+and that's what I mean by industrialization
+because you can write a sequence of English
+and have the underlying systems
+take actions on your behalf
+that's the power of data platforms
+because the distance between
+what humans want to do
+and data has collapsed
+it's also collapsed the distance
+between how people implement software
+the system integrators
+and the data platforms
+because you can do that a whole lot faster
+it's just made the aperture
+of what's possible with Snowflake
+so much bigger
+Josh I'd love to get you and Steph involved
+as you both own the stock
+and I believe we're still bullish on it
+Josh you first
+yes I am bullish
+and I love this awakening
+that's taken place this year
+probably mostly in the last three months
+where enterprises can run
+agentic flows directly in the data
+we're not talking about layers on top of anymore
+and I think that's really helped the share price
+I'd love to hear your take on
+if a CIO
+we're making a decision right now
+about where to put their agents
+why would they choose Snowflake
+over Databricks
+I know there's been a convergence between
+the lake the warehouse
+what you guys do what they do
+talk about how that decision gets made
+and why that should be a catalyst
+for Snowflake going forward
+well we have always been
+the enterprise grade platform
+where people have put their most valuable data in
+and the big differentiator for us
+has been that our product is super tightly integrated
+it's not a bunch of do-it-yourself pieces
+that you have to assemble
+if you create an agent for example
+it automatically obeys all the access restrictions
+on the data that is you know
+that's that's underneath
+and we make it super easy
+for you to get value then
+from from from these agents
+it's also we are enterprise grade
+ready whether it is permissions
+or things like disaster recovery
+that a lot of our customers
+really really care about
+it's the time to value and simplicity
+where we stand out
+and you know customers like Kraft Heinz
+you went from
+perhaps getting competitive intelligence
+every couple of weeks
+to getting it in real time
+there are tons and tons of examples
+like this of how quickly people get value
+from the data that they have brought into Snowflake
+how about you Steph
+Sridhar, thanks for joining us today
+I'm a long-term shareholder
+very happy so thank you
+thank you
+so you have done some M&A
+Neva observe
+to increase your technology talent
+but also to expand your platform capability
+so how do you balance
+organic R&D against token acquisitions
+as you fill in the gaps
+in the agente the agectic stack
+this is a great question
+I think you know Brad and I were just talking
+AI is made as possible
+for us to create software
+just a whole lot faster
+I would say the bar for big acquisitions
+has gone up in a big way
+because the messiness of things like
+you know actually getting the merger done
+and getting the teams to work together
+is extraordinarily high
+we continue to make strategic acquisitions
+we acquired a company called Natoma
+which brings this technology called MCP
+which like basically connects our agents
+to all the applications
+that are sitting within an enterprise
+we will be thoughtful about these acquisitions
+they're more likely to be small
+rather than big
+so that they're not distracting
+but it's not an either or
+we are investing heavily
+into how do we create
+new aspects of data platforms faster
+in-house
+about also acquired companies
+I want young hungry CEOs
+that want to go make a big difference in the world
+well you have news today
+before I let you go
+this partnership expansion with lumen
+that's our technologies
+to build a private secure lane
+that lets enterprises now move on-prem data
+into snowflakes platform
+without touching the public internet
+that sounds to me like a safety and security
+type conversation
+it's also an ease of use conversation
+because lumen works with many many
+companies on the planet
+they power their infrastructure
+like they basically their tech infrastructure
+of all kind
+but getting highly capable agents
+observability on top of the data is a pain
+we want to make it super easy
+to bring that information
+over into over into snowflake
+you're very excited for this partnership
+all right we appreciate your time
+excited that you're back with us
+after again three plus years
+as we take a pulse check on where we are
+in AI in America
+Shredor thanks
+thank you Scott
+Shredor
+all right half time live from one market
+in san francisco back
+right after this
+welcome back a special AI edition
+of josh brown's best stocks in the market
+is that what we're looking at today
+yeah and we uh for the first time
+got a chance to write up Palantir
+because it made the list
+as of last week
+and we were super excited
+we were super excited to be able to do that
+this is a roller coaster
+this is a stock that in the last few years
+has had a drawdown
+as much as 85 percent
+it's got a
+insanely high beta
+it really moves
+and just to give an example
+of what i'm talking about
+this is a stock that hit a record high
+last november
+we talked about it on the show that day
+then it got cut in half
+into into june
+during the whole sass apocalypse
+and then it doubled
+and it's back on the list
+the thing is
+the fundamentals got better
+and better and better
+the entire time the stock was falling
+revenue growth has now accelerated
+accelerated not just grown
+for nine straight quarters
+in the middle of 2024
+they were reporting 27 growth
+last quarter 93 growth
+their us commercial business is
+absolutely exploding
+people will look at this and say
+oh my god it's so expensive
+it always has been
+that's not what we're doing here with this column
+what we're trying to do is outline the technical setup
+what i would say is for
+people that have a little bit longer time frame
+than a day trader
+166 is the line
+that's where both september lows came in
+stock bounced off that level
+rsi about 63
+not at all crazy extended
+i think it could work here
+but you have to accept
+the stock is a roller coaster
+on any given day
+something crazy could happen
+it's not for everyone
+okay thank you for that
+we'll take a break
+we'll get final trades
+including one i think from brad
+you're gonna give us one right
+why not
+all right we'll do it after the break
+all right three o'clock eastern this afternoon
+closing bell our special
+continues on ai in america
+nikesha rora
+the palo alto ceo of course
+he joins us
+we look very much forward to that
+michel askin the reflection ai
+ceo will join us as well
+their new open source model
+that's a huge story
+the nobel winning economist
+on the future of jobs
+will join us today
+and the tech investor
+jeff richards
+so we got a we got a stacked hand
+later on
+we look forward to that as well
+you have a final trade
+i'll go to you first
+well yeah i like it
+i'm gonna go unorthodox
+i'm gonna go unorthodox
+so um
+if we have an
+anthropic ipo this year
+right that's my trade
+it's non-consensus
+there's a lot of chatter
+a lot of negative chatter
+coming out of yesterday
+i think when we look back
+in 10 years from now
+the google and the amazon
+of this era
+have now become more clear to me
+right and i think anthropic
+will be one of the
+enduring and great companies
+in the country
+i know you keep saying
+if we do
+do you expect that we will
+yes
+very much so
+when do you think
+what's your best guess
+in terms of when they're
+going to go public
+yeah i think that's
+i think we're talking
+you know weeks not
+not months
+oh okay
+it's been great having
+you here
+yeah thanks for having
+thanks
+it's been awesome
+malcom what's your final
+trade today
+yeah i'm gonna go
+crowd strike
+and i'll point you to
+my previous comments
+about b of a spending
+a couple hundred million
+in six months
+to address cyber
+vulnerabilities
+all right
+we'll ask
+nikesh obviously later
+about the vulnerability
+of cyber attacks
+from from all
+everything that
+we've really been talking
+about
+Stephanie link
+what about you
+well as fargo
+so i bought after
+they reported earnings
+i thought it was
+a solid quarter
+the turnaround
+is definitely beginning
+and the stock is
+very cheap
+how about netflix
+there josh
+tell us more
+um i actually
+like it as a trade
+from a risk reward
+standpoint 67
+now a double bottom
+stock is acting
+defensively on red days
+for the naztac
+i think you could
+risk five points
+here earnings
+next week
+okay
+guys great stuff
+i'll see in a couple
+hours the exchanges now
+you've been listening
+to cnbc's
+halftime report
+the podcast
+you can always
+catch us live
+weekdays
+at 12 eastern
+only on cnbc
+all opinions expressed
+by the halftime report
+participants are solely
+their opinions
+and do not
+reflect the opinions
+of cnbc
+or its parent company
+or affiliates
+and may have been
+previously disseminated
+by them on television
+radio internet
+or another medium
+you should not
+treat any opinion
+expressed on this
+podcast
+as a specific inducement
+to make a particular
+investment
+or follow a particular
+strategy
+but only as an
+expression of opinion
+such opinions
+are based upon
+information the
+halftime report
+participants consider
+reliable
+but neither cnbc
+or its affiliates
+and or subsidiaries
+warrant its completeness
+or accuracy
+and it should not be
+relied upon as such
+to view the full
+halftime report disclaimer
+please visit cnbc.com
+forward slash
+halftime report disclaimer
+AI is here
+transforming how we work
+live and lead
+and the women I talk to
+aren't waiting for the
+future
+they're shaping it
+I'm Julia Borstin
+senior media
+and tech correspondent
+at cnbc
+this is cnbc
+change makers
+where I talk with
+the female leaders
+transforming business
+as AI reshapes
+the world
+follow and listen
+to cnbc change makers
+women leading
+in the age of AI
+wherever you get
+your podcasts
