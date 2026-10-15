@@ -1576,6 +1576,10 @@
     "14d": {
      "pct": 0.47,
      "win": true
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": false
     }
    }
   },
@@ -1601,6 +1605,10 @@
     "14d": {
      "pct": 0.47,
      "win": false
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": true
     }
    }
   },
@@ -1626,6 +1634,10 @@
     "14d": {
      "pct": 0.47,
      "win": false
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": true
     }
    }
   },
@@ -1651,6 +1663,10 @@
     "14d": {
      "pct": 0.47,
      "win": true
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": false
     }
    }
   },
@@ -1676,6 +1692,10 @@
     "14d": {
      "pct": 0.47,
      "win": true
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": false
     }
    }
   },
@@ -2188,6 +2208,10 @@
     "14d": {
      "pct": 0.47,
      "win": false
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": true
     }
    }
   },
@@ -2213,6 +2237,10 @@
     "14d": {
      "pct": 0.47,
      "win": true
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": false
     }
    }
   },
@@ -2238,6 +2266,10 @@
     "14d": {
      "pct": 0.47,
      "win": true
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": false
     }
    }
   },
@@ -2263,6 +2295,10 @@
     "14d": {
      "pct": 1.63,
      "win": true
+    },
+    "21d": {
+     "pct": -0.52,
+     "win": false
     }
    }
   },
@@ -5590,6 +5626,10 @@
     "14d": {
      "pct": 0.47,
      "win": true
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": false
     }
    }
   },
@@ -9436,6 +9476,10 @@
     "14d": {
      "pct": -0.61,
      "win": true
+    },
+    "21d": {
+     "pct": -3.41,
+     "win": true
     }
    }
   },
@@ -9460,6 +9504,10 @@
     },
     "14d": {
      "pct": -0.61,
+     "win": true
+    },
+    "21d": {
+     "pct": -3.41,
      "win": true
     }
    }
@@ -9486,6 +9534,10 @@
     "14d": {
      "pct": -0.61,
      "win": false
+    },
+    "21d": {
+     "pct": -3.41,
+     "win": false
     }
    }
   },
@@ -9510,6 +9562,10 @@
     },
     "14d": {
      "pct": -0.61,
+     "win": false
+    },
+    "21d": {
+     "pct": -3.41,
      "win": false
     }
    }
@@ -9536,6 +9592,10 @@
     "14d": {
      "pct": -0.61,
      "win": false
+    },
+    "21d": {
+     "pct": -3.41,
+     "win": false
     }
    }
   },
@@ -9560,6 +9620,10 @@
     },
     "14d": {
      "pct": -0.61,
+     "win": true
+    },
+    "21d": {
+     "pct": -3.41,
      "win": true
     }
    }
@@ -17885,6 +17949,10 @@
     "14d": {
      "pct": -0.61,
      "win": true
+    },
+    "21d": {
+     "pct": -3.41,
+     "win": true
     }
    }
   },
@@ -17909,6 +17977,10 @@
     },
     "14d": {
      "pct": -0.61,
+     "win": false
+    },
+    "21d": {
+     "pct": -3.41,
      "win": false
     }
    }
@@ -18588,6 +18660,10 @@
     },
     "14d": {
      "pct": 0.47,
+     "win": null
+    },
+    "21d": {
+     "pct": -0.97,
      "win": null
     }
    }
@@ -20451,6 +20527,10 @@
     "14d": {
      "pct": 5.3,
      "win": false
+    },
+    "21d": {
+     "pct": -1.87,
+     "win": true
     }
    }
   },
@@ -20833,6 +20913,10 @@
     "14d": {
      "pct": 4.03,
      "win": null
+    },
+    "21d": {
+     "pct": 6.14,
+     "win": null
     }
    }
   },
@@ -20854,6 +20938,10 @@
     "7d": {
      "pct": 7.89,
      "win": true
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": true
     }
    }
   },
@@ -20874,6 +20962,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.35,
      "win": false
     }
    }
@@ -21096,6 +21188,10 @@
     "7d": {
      "pct": 7.89,
      "win": true
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": true
     }
    }
   },
@@ -21116,6 +21212,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.26,
+     "win": null
+    },
+    "14d": {
+     "pct": -20.77,
      "win": null
     }
    }
@@ -21313,6 +21413,10 @@
     "7d": {
      "pct": 7.89,
      "win": null
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": null
     }
    }
   },
@@ -21333,6 +21437,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.98,
+     "win": null
+    },
+    "14d": {
+     "pct": -12.12,
      "win": null
     }
    }
@@ -21355,6 +21463,10 @@
     "7d": {
      "pct": 15.2,
      "win": true
+    },
+    "14d": {
+     "pct": 4.89,
+     "win": true
     }
    }
   },
@@ -21376,6 +21488,10 @@
     "7d": {
      "pct": 7.89,
      "win": true
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": true
     }
    }
   },
@@ -21396,6 +21512,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": true
+    },
+    "14d": {
+     "pct": 6.35,
      "win": true
     }
    }
@@ -21443,6 +21563,10 @@
     "7d": {
      "pct": 7.89,
      "win": false
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": false
     }
    }
   },
@@ -21463,6 +21587,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.35,
      "win": false
     }
    }
@@ -21485,6 +21613,10 @@
     "7d": {
      "pct": 7.89,
      "win": false
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": false
     }
    }
   },
@@ -21505,6 +21637,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": true
+    },
+    "14d": {
+     "pct": 6.35,
      "win": true
     }
    }
@@ -21527,6 +21663,10 @@
     "7d": {
      "pct": 7.89,
      "win": true
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": true
     }
    }
   },
@@ -21548,6 +21688,10 @@
     "7d": {
      "pct": 7.89,
      "win": false
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": false
     }
    }
   },
@@ -21568,6 +21712,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.35,
      "win": false
     }
    }
@@ -21815,6 +21963,10 @@
     "7d": {
      "pct": 7.89,
      "win": null
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": null
     }
    }
   },
@@ -21894,6 +22046,10 @@
     "7d": {
      "pct": 7.89,
      "win": false
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": false
     }
    }
   },
@@ -21914,6 +22070,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.35,
      "win": false
     }
    }
@@ -21936,6 +22096,10 @@
     "7d": {
      "pct": 7.89,
      "win": true
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": true
     }
    }
   },
@@ -21956,6 +22120,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.35,
      "win": false
     }
    }
@@ -21978,6 +22146,10 @@
     "7d": {
      "pct": 7.89,
      "win": false
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": false
     }
    }
   },
@@ -21998,6 +22170,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.35,
      "win": false
     }
    }
@@ -22020,6 +22196,10 @@
     "7d": {
      "pct": 7.89,
      "win": false
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": false
     }
    }
   },
@@ -22040,6 +22220,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": true
+    },
+    "14d": {
+     "pct": 6.35,
      "win": true
     }
    }
@@ -22062,6 +22246,10 @@
     "7d": {
      "pct": 7.89,
      "win": false
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": false
     }
    }
   },
@@ -22082,6 +22270,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": false
+    },
+    "14d": {
+     "pct": 6.35,
      "win": false
     }
    }
@@ -22104,6 +22296,10 @@
     "7d": {
      "pct": 6.48,
      "win": true
+    },
+    "14d": {
+     "pct": 3.48,
+     "win": true
     }
    }
   },
@@ -22124,6 +22320,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": null
+    },
+    "14d": {
+     "pct": 3.48,
      "win": null
     }
    }
@@ -22146,6 +22346,10 @@
     "7d": {
      "pct": 7.89,
      "win": true
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": true
     }
    }
   },
@@ -22166,6 +22370,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": true
+    },
+    "14d": {
+     "pct": 6.35,
      "win": true
     }
    }
@@ -22314,6 +22522,10 @@
     "7d": {
      "pct": 9.07,
      "win": null
+    },
+    "14d": {
+     "pct": 5.58,
+     "win": null
     }
    }
   },
@@ -22334,6 +22546,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": true
+    },
+    "14d": {
+     "pct": 3.48,
      "win": true
     }
    }
@@ -22356,6 +22572,10 @@
     "7d": {
      "pct": 6.48,
      "win": true
+    },
+    "14d": {
+     "pct": 3.48,
+     "win": true
     }
    }
   },
@@ -22376,6 +22596,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": false
+    },
+    "14d": {
+     "pct": 3.48,
      "win": false
     }
    }
@@ -22398,6 +22622,10 @@
     "7d": {
      "pct": 7.89,
      "win": true
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": true
     }
    }
   },
@@ -22418,6 +22646,10 @@
    "outcomes": {
     "7d": {
      "pct": 7.89,
+     "win": true
+    },
+    "14d": {
+     "pct": 6.35,
      "win": true
     }
    }
@@ -22440,6 +22672,10 @@
     "7d": {
      "pct": 7.89,
      "win": true
+    },
+    "14d": {
+     "pct": 6.35,
+     "win": true
     }
    }
   },
@@ -22460,6 +22696,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": false
+    },
+    "14d": {
+     "pct": 3.48,
      "win": false
     }
    }
@@ -22482,6 +22722,10 @@
     "7d": {
      "pct": 6.48,
      "win": false
+    },
+    "14d": {
+     "pct": 3.48,
+     "win": false
     }
    }
   },
@@ -22502,6 +22746,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": true
+    },
+    "14d": {
+     "pct": 3.48,
      "win": true
     }
    }
@@ -22524,6 +22772,10 @@
     "7d": {
      "pct": 6.48,
      "win": true
+    },
+    "14d": {
+     "pct": 3.48,
+     "win": true
     }
    }
   },
@@ -22544,6 +22796,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": false
+    },
+    "14d": {
+     "pct": 3.48,
      "win": false
     }
    }
@@ -22566,6 +22822,10 @@
     "7d": {
      "pct": 6.48,
      "win": false
+    },
+    "14d": {
+     "pct": 3.48,
+     "win": false
     }
    }
   },
@@ -22586,6 +22846,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": false
+    },
+    "14d": {
+     "pct": 3.48,
      "win": false
     }
    }
@@ -22608,6 +22872,10 @@
     "7d": {
      "pct": 6.48,
      "win": false
+    },
+    "14d": {
+     "pct": 3.48,
+     "win": false
     }
    }
   },
@@ -22628,6 +22896,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": false
+    },
+    "14d": {
+     "pct": 3.48,
      "win": false
     }
    }
@@ -22650,6 +22922,10 @@
     "7d": {
      "pct": 6.48,
      "win": false
+    },
+    "14d": {
+     "pct": 3.48,
+     "win": false
     }
    }
   },
@@ -22671,6 +22947,10 @@
     "7d": {
      "pct": 6.48,
      "win": false
+    },
+    "14d": {
+     "pct": 3.48,
+     "win": false
     }
    }
   },
@@ -22691,6 +22971,10 @@
    "outcomes": {
     "7d": {
      "pct": 6.48,
+     "win": true
+    },
+    "14d": {
+     "pct": 3.48,
      "win": true
     }
    }
@@ -23838,7 +24122,12 @@
    "video_title": "Nobody Owns SpaceX Yet\u2026 Why?",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TLT",
@@ -23854,7 +24143,12 @@
    "video_title": "TLT Sell Signal Remains Intact | What It Means for Interest Rates",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.26,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TLT",
@@ -23870,7 +24164,12 @@
    "video_title": "TLT Sell Signal Remains Intact | What It Means for Interest Rates",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.26,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TLT",
@@ -23886,7 +24185,12 @@
    "video_title": "TLT Sell Signal Remains Intact | What It Means for Interest Rates",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.26,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TLT",
@@ -23902,7 +24206,12 @@
    "video_title": "TLT Sell Signal Remains Intact | What It Means for Interest Rates",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.26,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -23918,7 +24227,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 7th, 2026",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -23934,7 +24248,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 7th, 2026",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -23950,7 +24269,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 7th, 2026",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -23966,7 +24290,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 7th, 2026",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -23982,7 +24311,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 7th, 2026",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "ASTERA LABS",
@@ -24014,7 +24348,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 8th, 2026",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24030,7 +24369,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 8th, 2026",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24046,7 +24390,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 8th, 2026",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24062,7 +24411,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 8th, 2026",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24078,7 +24432,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 8th, 2026",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24094,7 +24453,12 @@
    "video_title": "#TSLA IS RALLYING \u2014 CAN IT BREAK THE $401 SELL ZONE? #Tesla #daytrading",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24110,7 +24474,12 @@
    "video_title": "#TSLA IS RALLYING \u2014 CAN IT BREAK THE $401 SELL ZONE? #Tesla #daytrading",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24126,7 +24495,12 @@
    "video_title": "#TSLA IS RALLYING \u2014 CAN IT BREAK THE $401 SELL ZONE? #Tesla #daytrading",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24142,7 +24516,12 @@
    "video_title": "#TSLA IS RALLYING \u2014 CAN IT BREAK THE $401 SELL ZONE? #Tesla #daytrading",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24158,7 +24537,12 @@
    "video_title": "#TSLA IS RALLYING \u2014 CAN IT BREAK THE $401 SELL ZONE? #Tesla #daytrading",
    "date": "2026-10-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.43,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24174,7 +24558,12 @@
    "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24190,7 +24579,12 @@
    "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24206,7 +24600,12 @@
    "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -24222,7 +24621,12 @@
    "video_title": "#TSLA A LITTLE PULLBACK BEFORE THE NEXT MOVE TO $401? #Tesla #daytrading",
    "date": "2026-10-07",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.82,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
