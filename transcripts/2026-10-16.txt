@@ -1,0 +1,729 @@
+At Edward Jones, we believe rich is more than caring about the latest and greatest.
+It's also taking care of what gives your life meaning.
+That's why your dedicated financial advisor meets you where you are, with personalized
+financial strategies that help protect what matters, so you can preserve your progress
+while creating a path forward.
+The key to being rich is knowing what counts.
+Let's find your rich together.
+Edward Jones, member SIPC.
+With the Discover Cashback card, it's payback time when you earn cash back on
+everyday purchases. Activate and earn 5% cash back at
+different categories each quarter on up to $1,500 in purchases.
+That's 5% cash back at different places each quarter, like grocery stores,
+on gas, and at restaurants. It pays to discover. Terms applying,
+cdiscovered.com slash 5 for details.
+I'm Scott Wapner and you're listening to CNBC's Half Time Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Welcome to the Half Time Report everybody. I'm Leslie Picker in for Scott Wapner
+today. Front and center this hour. Big spend.
+Bigger questions as we close out a tough week for the tech.
+More tech with AI funding costs coming under more scrutiny. We'll discuss
+and debate with the investment committee. With me for the hour, Kevin Simpson, Jason
+Snipe, Rob Siechin and Malcolm Average, good crew today. Let's check
+on the markets. Near session lows, you can see the Dow approaching
+the flatline right now. The S&P down 0.6% and the NASDAQ, the key
+laggard with tech under pressure today down 1.4%. The 10-year pretty stable
+today at 5.098% at this time. So it has been a week. I was just
+kind of reflecting back. We had the AI rethink. We had
+anthropic numbers that people perceived to be weaker than expected.
+We had bank earnings that came in and really underwhelmed the street
+as well. How are you thinking about just the
+overall setup given everything that has changed? Oh, and by the way, CPI, PPI
+coming in hotter than expected too on the macro front.
+Was this kind of an inflection point of a week on the multitude of factors
+that have really been driving the markets? I think, Leslie, it was a
+multitude of factors, but we still have to focus almost squarely on the AI
+trade because I think that what we saw this week was a
+reality check. You look at CoreWe, the Neoclouds, even some of the semis,
+they got hit very, very badly this week and I think it makes sense
+that the investors are wondering, you know, what is going to happen with
+this super spend? Can we just continue to perpetuity to spend
+hundreds and hundreds of billions of dollars without some type of
+return on that capex? And I think what we're looking at now is
+something that's kind of healthy, which is, you know, show me a little bit of a
+return. And from that standpoint, you know, we'll
+be sitting here in five, 10 years from now and there'll be
+haves, there'll be have-nots, there'll be some of these companies that survive,
+but I think it's really impressive that we're starting to identify
+at least some sanity in this trade. Who's going to be the
+profit centers and maybe the have-nots will be
+suffering? So I think it was an important week, but really a week about AI.
+As we think about, though, the haves and have-nots, how much does cost of capital
+now play into that? Because for so long, as we were talking about higher
+interest rates, as bonds were selling off, AI was kind of seen and held up as
+this, you know, special place that wouldn't be affected by
+higher interest rates. And this week really felt like that
+conversation changed. Credit is now a key pressure point as
+made evident by CoreWeave in the AI trade. Is that, is that
+what we should be looking at? Those who have too much debt,
+higher interest costs, higher cost of capital if they need to go out and
+do some more financing, and those who are in a much better place on their balance
+sheet? No, I think that's a, that's absolutely a
+story. I mean, obviously yields on the move,
+oil obviously has been a structural issue throughout the,
+throughout the balance of this year, I think. And I, and I totally believe
+that yields have not peaked as of yet. I think they can potentially go
+higher, so there's no doubt about it. Anyone who has leverage on the
+balance sheet and the cost of capital continue to increase
+is disproportionately affected by what's happening.
+Clearly, the story with the neoclouds this week hasn't been great. I mean, the
+semis are down 10 percent. They've been in a protracted drawdown.
+You know, but and obviously to your point, Leslie, the financials have been
+somewhat of a mixed bag this week. I think the Wall Street-oriented names
+like Goldman Sachs was a clean beat, but others, maybe the money
+center is not as great. So it's, it's been an
+interesting start. You see Staples and the
+international and health care obviously performing this week, so it's kind of,
+the market has taken somewhat of a defensive tone, but I think you'll see
+some chop, and I think part of that is healthy for the market as you see the
+RSP and the broader story starting to work a little bit better
+than mass impedance. Yeah, it's definitely been kind of violent under the
+surface. How much higher though do you think yields could go? If we
+haven't seen the peak, where do you see the ceiling?
+I could see another 30 basis points potentially, right? From here or from the,
+from peak levels? From here, from here, for sure.
+Yeah, so we'll see. There's a multitude of kind of various factors that could
+potentially push us, but I definitely don't think they're
+peaked as of yet. And Rob, tech is on pace for its
+worst week since June. It's the worst sector of the week. It is
+down again today, one of the few laggards today.
+Do you see that as a blip or the beginning of a more of a market trend?
+Well, I don't think it can be more of a market trend until these
+financing issues actually manifest themselves
+writ large. I think you heard it from David Solomon
+not too long ago where he said the companies that need financing
+are going to get financing. We'll figure out a way to get that done.
+And the impact. At a price. At a price.
+Always. Well, it's always at a price, and it's always at a relative price to
+what else you could get in the risk-free rate. But nonetheless, they'll get
+financing, and I think the growth rates on some of these businesses
+are so high that they can handle that. There is a drag-up effect
+to other parts of the fixed income market, though, in businesses that can't
+quite handle higher rates. So I don't believe that the spreading
+out, the broadening out trade, is going to continue to work.
+Honestly, I think interest rates staying persistently elevated,
+but probably reaching an interim peak. I think, you know, you certainly can buy
+fixed income here. There's no doubt. But tech right now trades at a 9% premium
+to the market. Okay. That's one of the lowest we've
+seen in a long time. Back in the dot com, it was 100%
+premium to the market. In addition, the market has paid attention to these
+possible issues, has paid attention to the possible
+rotational slowdown, just the delta, the change in the rate of change
+of the way they're growing. And it's paid attention in the form of
+multiple re-rating. And now what you can do is you can buy
+a lot of these companies at 20-ish times earnings that are the healthiest,
+highest quality companies in the world. And I still think you want to
+gravitate towards those in a high-rate environment.
+I think we can guess intermittently as to when the trade's going to end,
+and everybody's going to try to time the semis on when to get out a year in
+advance. Good luck with that. I'll start to go when we
+see the fundamentals really starting to deteriorate.
+And the financing, tough. The fundamentals, still very strong.
+And so the pillar that we rest on, I think is pretty solid. If I had to
+place my bets anywhere, it would be fixed income as a shock absorber,
+quality fixed income, treasuries, munis, those type of things.
+And then still maintaining your exposure to this theme,
+which I think is the theme of a generation. Malcolm, do you feel like valuations have
+compressed to the point where you would be buying some of the
+places that have been overstretched? Or are you still kind of nervous about the
+headlines that we see with regard to regulation, data
+center, moratoriums across the country? I mean, there's,
+you know, picket any day. There are concerns about safety and
+overbuild and debt levels. I mean, there's just no shortage of
+headlines to kind of scare you out despite the valuation.
+Yeah, Les, I think what you're essentially getting at is that there is a
+sentiment problem that is building right now with the AI trade, even if,
+to Rob's point, the fundamentals are still there. I completely agree that the
+fundamentals look good. I think the sentiment shift
+is really going to be hinged on what the earnings look like
+over the next few weeks from the big tech companies that are doing the spending
+here, especially the guidance part of those earnings calls. If the
+companies are still talking about increasing their spend
+to build out the data centers you asked about as an example,
+I don't know that the market is going to be willing to reward them the way that
+it has been over the last two or three years,
+now that we're really focusing on the fact that the debt
+pile is going to have to grow in order for that spending to happen. So Kevin
+used the word sanity, which I think is the perfect word to use.
+Maybe we're seeing investors get a little bit more sanity
+to their approach to the markets right now where before we were willing to
+suspend our collective disbelief and buy into this idea that we could just
+continue to grow and grow and grow into perpetuity
+and somehow it was going to all work itself out, that magical thinking
+aspect of it. But I think now we're starting to get
+indications, maybe from like an anthropic for example, which
+its IPO is going to have a tremendous impact on this market and where we
+go, we're starting to get indications that maybe these things
+that we've been ignoring all this time should be mattering,
+should have mattered all along but they definitely should matter now.
+And so I think to answer your point a little bit more succinctly,
+it's probably a wait-and-see moment until we get to the earnings period
+rather than trying to jump in and buy some of these beaten-down tech names
+now. That's interesting because Scott was of
+course out in San Francisco with altimeters Brad
+Gerstner and I think we have a thought available of
+kind of what he said about the potential to kind of pick up
+places that have sold off quite a bit. I have to acknowledge that there's going
+to be chop along the way so it doesn't surprise me at all
+that we've had some of that chop, some of that consolidation, why am I getting
+more positive, why am I leaning in and maybe start buying
+over the course of the next couple weeks because I'm seeing prices come in
+and start to get enticing again. Anyone else in the Gerstner camp here?
+Well I understand his argument but I also want to recognize that just because
+the stock is down off of its highs doesn't mean that it's cheap just yet.
+Now I was saying that from the perspective of owning six semiconductor
+names across our two portfolios. So I'm not bearish on these names by
+any means but I'm not sure I'm as enthusiastic to
+rush into it just yet. I think they may get a little bit
+cheaper. What do you guys think? You know my stance on it is the
+broadening out trade helps us rotate out of some of the stocks that have
+underperformed. We've done it on the show perhaps a little
+early already where we are upping the quality of the portfolio and I think
+the quality of earnings is highest in those names.
+Oh by the way they have re-rated to a point where they're cheap
+relative to history and cheap relative to the market.
+Right so that is an important re-rating. Now I'm not
+overly enthusiastic about anything as evidenced by the fact that we are
+building fixed income exposure but the reality of it is I think you need to
+be incredibly surgical. You need to pay attention to credit
+and financing issues. You're seeing some of those manifest
+themselves in the triple C. Just as Malcolm said you just saw
+Anthropic possibly repriced their IPO target. I read it on the way in
+to probably a billion and a trillion and a half relative
+to where they were thinking about it's all those things have an impact and I
+think the healthy thing that's happening is investors are paying attention
+now to this and usually when there's an issue
+it's not something that's so obvious like this.
+It's a derivative consequence to what you know what's happening
+in the markets. It could be a rate move. I think it would have to come from
+earnings honestly because that's been the central tenant that underpins this
+and if you see a wobble in earnings that's when I think the market gets
+nervous. I don't suspect we're going to see that
+yet given what we're seeing in some of the spend.
+I think it really depends on whether you're in some of these names or not
+right and you know to Kev's point I mean a lot of them have run a lot
+you know the AI infrastructure names and neoclouds
+you know the nebiuses of the world have really moved so
+as prices have come in some and even to Malcolm's point earlier
+you know respecting 30% earnings for this quarter right so
+we want to see what these reports say over the next couple weeks what the
+guidance is going forward and you know you could
+potentially start to inch in as we've seen some of the pull back over the
+last couple weeks. I think that could be an opportunity if
+you're not there. Malcolm. Yeah I think the chips
+conversation that you guys are having is the perfect place to be talking
+about this it's indicative of basically everything that's
+happening with the second order and third order effects in the market.
+I don't feel like as an investor you need to be out of this market we've all
+seen the studies about how you end up getting yourself into trouble trying
+to get out of the market in time when they get in you miss the 10 best days
+of the year you miss the whole year basically but I do think this is a
+moment where you need to be looking at whether you really need to own
+the third fourth or fifth best name in that particular
+sector or the fourth fifth best name to play that trend right so you can be in
+the chips but nvidia is a great chip name to own
+amd is a great chip name to own do i really need to go all the way down
+to the more speculative names right now as we're having these questions about
+the market do i really need to own seven or eight or nine or ten
+i can own asml and be part of the the value chain i can own taiwan semi and
+be part of the value chain i can own amd as i mentioned in nvidia and that
+is a very safe way to play the chip space where
+all of the real traffic is going to flow through all those names i just mentioned
+the others are just sort of the the other way to try and
+game the system if you will to squeeze out a little bit more juice above the
+biggies and i think that might be where you stand to get into some
+trouble in this particular market where things a little bit
+how do you define best that was it best performance is it best margins is it
+market share i mean how should investors be
+assessing what number one two and three are based on a variety of metrics
+that's a fair question really what i'm saying is
+the majority of the market share the majority of the
+capital is going to flow through certain names so asml
+they basically build the machines that all of the chips that get delivered
+flow through so they're in a very important part
+of the stack taiwan semi basically produces every single chip
+that happens outside of north korea for all the american
+you know chip designers so it's got to flow through taiwan semi
+they have the lion's share of the business nvidia we all know it's the
+biggest company in the world for a reason so
+outside of that everything becomes a little bit more speculative so really i'm
+just talking about where the capital flows the most
+and where the the purchase orders are likely
+to stick even if some of these companies get into trouble and say
+maybe those commitments that we made a year ago two years ago that the market
+got so excited about maybe we've got to walk them back
+where's the last place that people are likely to cancel those orders that's
+what i'm looking for yeah and malcolm makes a great
+point it's the core plays versus the derivative plays and those
+four companies you mentioned do touch every part of the production
+ecosystem right and at the periphery there's some companies that are higher
+beta ways to get that exposure i would say this though
+you don't need to think about selling because one of the great things and i
+know kevin does a lot of this is in the options market where you're
+you're getting a lot of money for writing calls and you can do a put
+spread caller on the downside to manage your risk
+and i'm telling you it's cheap as i've ever seen it because volatility is not
+that high it's come in a little bit this i mean it's
+moved up a little bit this week and so it's a little more expensive but
+sometimes when we're worried about a period of time a digestion period
+we'll put on these hedges portfolio hedges using the smp or the cues as a
+proxy hedge and ultimately that allows clients that if
+markets re-rate those positions you know increase in size and they can
+effectively buy the market down it's a great way to manage risk and i think
+it's something a lot more people should be thinking about versus selling you
+can't do that in an ira account this is more for your traditional
+high net worth investor yeah more tax efficient too presumably
+100 in the ira you can sell a covered call
+right so there's always a way to hedge and i think rob makes a great point
+now it's interesting because just in kind of reading the notes this morning
+barkley says the best of the ai trade may be over and investors should be
+more selective which kind of speaks to what you
+were talking about the best maybe over but that doesn't mean it's over it doesn't
+mean it's over but in terms of more dispersion
+more stock picking more selection and being more
+choiceful with regard to your portfolio outside of semis
+does that still hold up do you think or is that
+you know basically a semi-play and then everything else will kind of follow
+along jason i'm looking at you yeah i think i think
+it's a it's a few things as we kind of look at the macro effects and
+you know what the cost of capital like we were talking about earlier you want to
+be in companies that can absorb and and grow through that is not
+nearly as leverage to the capital stack right and
+what that potentially could mean to their bottom line and
+i do think it's it's important to kind of be
+selective going forward i mean as you know you we look at the hyperscalers and
+whether it's an invidio or an apple and apple obviously has had a great year
+which has taken a very defensive tone it's it's pricey
+but those are the types of names that i think that are capex light
+right you're talking about buybacks very strong balance sheets
+in a cycle that we're in i think those are the names
+that have better return upside in the short run right as we kind of start
+to see some more stabilization of what's going on
+you know across capital markets so i think i think those are the names i'd be
+more attracted to here in the tech side is apple you all own apple
+is apple in this environment a hedge to some of the volatility in the tech
+trade you can make the argument that it's a
+little bit safer because they don't have the capex play they set that out so one
+of the neat charts to look at is looking at capex from the hyperscalers
+versus the decline in capex for apple so they're not going to capital
+markets to raise money when interest rates are higher it's more
+problematic i don't know it's it's kind of at what price
+right so apple is probably one of the more expensive if not the most
+expensive right now of all of all the mag seven
+we own it we own it as a neutral where you know it's tough to be underweight
+apple that that has proven to be one of the most
+dangerous trades in finance and they make up such a large constituent part of
+the indices that it's tough to be underweight and as you saw at the
+beginning of the year if you came into the beginning of the year
+underweight apple you would have been licking some wounds so
+most we go is kind of the neutral there plus we've owned it
+for a very long time but i think when i think long term
+just like when we were thinking about the cellular theme
+the benefit doesn't accrue to the foundation it accrues to the
+application layer above it and the application layer
+gets most of their benefit from those that own the customer
+if you think about who owns more customers than anybody
+apple meta those type of firms are going to do it now
+meta happens much cheaper that's why we're way overweight but
+this is uh these are the types of things that i think you need to think about
+for chapter two of this beyond the foundational layer
+and meta of course reporting earnings next week so we should get an updated
+snapshot on on what they're up to and what they're doing and
+speaking of earnings it was a pretty rough week for financials this week
+namely banks which are getting a decent bounce today
+despite some of the sell-off going into earnings
+sell-off on on some of the names after earnings
+what do you see as the biggest pain point of the week Malcolm
+yeah i think that the whole conversation around net interest margin with
+yields being what they are has been a tremendous challenge for all
+financials right it it makes perfect sense it's
+perfectly logical but i also think that focusing on net interest margin for
+the big six and even more specifically the big three
+goldman morgan stanley and jp morgan which have
+such diversified mixes of what they do to generate revenue
+is a missed opportunity so i actually have been adding to these names i added
+to all three that i just mentioned um as recently as last week
+once we got to a place where they were 10 sold down or more
+because i think that what we're missing brian wonahan made some
+remarks earlier this week uh where he pointed out the fact that the company
+has like 130 open activities right now as it relates to ai and deploying ai
+projects throughout the company one company with 130 projects and they're
+expecting it to yield starting next year about 700 million dollars in
+savings which probably doesn't sound like a lot for a company that did like 100
+more way more than 100 billion dollars in annual revenue
+but when you just think about that across the entire financial sector
+all of the banks the big six banks that have the resources to be able to
+spend that way to find these little inefficiencies that they can solve
+using ai on a long-term basis i'm talking five years
+roughly imagine what an uptake that looks like for these companies
+regardless of what interest rates happen to be
+going forward i think that's where investors are getting hung up that they
+might be missing the opportunity that's unfolding
+do you think though that the expenses are also rising alongside those
+potential use cases given that these are institutions they're
+heavily regulated the cyber risks are
+bigger in the banking system potentially than maybe anywhere else just given how
+important it is to the sanctity of the economy
+they have to spend to keep up with all of these model developments and make
+sure that there's no bad actor that infiltrates the system are you concerned
+that those expenses could outweigh some of the efficiency gains of
+the ai that they're they're using internally
+i think it's a perfectly reasonable concern but i also think it's a
+temporary expense versus a long-term solve so
+the companies who are spending you know a couple hundred million dollars i'm
+continuing to use brian onehands remarks as my example
+couple hundred million dollars to save seven hundred million dollars next year
+well we're missing the fact too that as that number increases the
+investments already been made so you will see that return on those
+dollars presumably faster than the companies that are
+spending to build out the ai infrastructure in the first
+place can realize the returns themselves
+the companies that are deploying the tech that they're building are the ones that
+will see the more immediate more tangible benefits
+and that's where i think investors who are becoming a little bit disenchanted
+with the ai conversation in general need to be looking where's the next
+place that it's actually going to be weaponized throughout the
+organization to improve those margins and improve my return as an investor
+now worse performance even worse than the banks
+within financials was the alternatives this week
+jason i know you own a few of these and you know the
+i'm curious how much of that you think relates to the ai build out questions
+yeah private credit vehicles within these these firms and kind of their
+potential exposure to any default risk or any
+distress risk that has come to the forefront
+you know in terms of sentiment this week yeah i mean i mean i still think
+the majority of the story is about yields you know and why
+you know fundraising the potential pressure on fundraising
+what i what i'll also say is you know blackstones
+blackstone and api or apollo or the names that i own in the space on the
+private equity and you know blackstones at 1.35 trillion
+in terms of AUM so scale is a real deal there i do like
+both blackstone and apollo in this sense that
+they do have very diversified revenue streams
+in the space right it's not just ai it's not just data center there's
+for for apollo as an example they have a very rich insurance business in the
+theme so i think that's an opportunity and you
+know to your point les i think private credit
+redemptions are still happening they're not front front and center
+anymore right um but they are still happening but i for these
+particular two i think they're better positioned because of their scale
+than some of the others in the space but i do i continue to see the pressure
+um and be perfectly honest with you as
+kinds the macro starts to unfold a bit more there might be an opportunity for
+us to add you know in a few quarters for now yeah it's it's funny you
+mentioned the private credit redemptions because the redemptions are
+still happening but compared to previous quarters even on the bank
+earnings calls and i listened to the the big six this week
+nobody really mentioned private credit at all whereas
+in previous quarters it's been a much bigger piece of the conversation
+the solve for that though is kind of self-fulfilling right
+because as financing gets tougher their importance matters more forward
+returns will elevate it will attract investors
+that is what's happening in the bond market right now as yields go up
+it's attracting demand and that's a self-correcting
+mechanism oils the same all these things when supply adjusts
+the market adjusts and i think you could see in this space and we may
+re-add to blackstone or apollo or one of the names that we held
+because i do think you know they're throwing the baby out with the
+bathwater and let's remember there is a lot of equity that sits under the
+credit most of these companies are the the right companies
+are going to get financed and if you're working with the
+the best underwriters you'll be you'll be in good shape
+all right coming up committee moves kevin simpson is ready to walk you through
+his brand new buy in one sector at record highs the trade is next
+half time is back in two minutes some of the most important design choices are
+the ones that go unnoticed the details that together make
+it experience feel intuitive comfortable and above all exhilarating
+at akira that means looking closely at how every detail could make your
+experience behind the wheel more rewarding every lesson learned and
+every idea refined becomes part of what comes next and it lives
+inside every mdx adx and integra that's precision crafted
+performance that's akira ever notice how every new
+ai tool asks you to explain your business to it all over again
+google workspace with gemini skips that you get google's ai built right into
+the premium versions of gmail docs sheets and more no new tools no
+extra logins just one subscription that gives you personalized ai
+right inside your actual workflow make work less work
+try google workspace with gemini at go.gle
+slash workspace with gemini with the discovered cashback card
+it's payback time when you earn cashback on everyday purchases
+activate and earn 5 cashback at different categories each quarter on
+up to fifteen hundred dollars in purchases that's five percent
+cashback at different places each quarter like grocery stores on gas and at
+restaurants it pays to discover terms applying
+see discover.com slash five for details back on half time report i'm contessa
+brewer with your cnbc news update the ncda is suing
+ohio governor mike demyne over his executive order
+that allows the class of 2022 college athletes to play in a fifth season
+the order lets ohio schools ignore an nca
+eligibility rule excluding athletes who have already completed four seasons
+ncda says individual states cannot set their own eligibility standards
+shawn diddy combs being moved from a new jersey federal prison to allow a
+security to a low for security security facility in
+pennsylvania the bureau of prisons confirmed the transfer but
+gave no reason it follows reports that combs
+smuggled alcohol and a phone behind bars
+officials denied a separate report that he was injured in a fight
+he's serving more than four years on racketeering and sex trafficking charges
+and the president trump is taking his midterm campaign push to georgia today
+rallying with republican senate nominee mike collins
+and gubernatorial nominee rick jackson the battleground state visit aims to
+energize republican voters ahead of the november third elections
+which really could reshape the final years of the trump presidency
+all right that's the news now leslie i'll send it back to you contessa
+thank you contessa brewer for us we have a committee move
+today in health care kevin you brought abbey
+yeah we've been really high on biotech really high on pharma
+these have been stealth winners over the past quarter i've been listening to you
+talk about abbey for three years now so we figured
+follow you into the trade jason you know we were a little reluctant early on
+and regrettably because it's done so well but we thought this may be a
+turnaround story that would take more time they had a super drug
+humana that came off of patent and they've replaced it with
+skyrizzy renvoke and and other immunology drugs that are up like 24
+percent 24 percent respectively eight billion
+dollars from these things over the last quarter it's not just that it's also
+neuroscience was up 20 percent and i'm not looking at you when i talk
+about bowtex or the botox or some of the other things that they do
+but it's a great company it's a great business
+you're looking at more peptides i would think when you look at me
+you've turned to other parts of the business so
+we like the two and a half percent dividend we like the double digit growth
+rate and this just fills out our suite of health care stocks that we're
+super excited about moving forward i mean it's up 25 percent hit a record high
+yesterday up again today i mean would you be chasing a good stocks going
+higher so when we buy a position leslie we
+we take a small position to start so really we initiated a one percent
+position we ultimately want to get it up to five percent
+on any pullbacks and any weakness we'll add to it but i've waited for a long time
+and i feel like there's enough going right for this company that we don't
+want to hang on anymore on the sidelines as we see kind of
+rotation out of tech this week a little bit out of banks as
+well i mean it's health care the place that
+is poised to benefit you think yeah no i think i think there's a humongous
+opportunity obviously it's it's the tone of the market has been
+somewhat defensive this year i love what obviously kev has done here with
+at v it's run a lot since july it's up 25 percent
+as you mentioned les so far this year but it has been about diversifying away
+they have replaced that humor revenue right immunology oncology and neuroscience
+obviously doing doing the work here so we like companies on the biopharma
+space like this that are diversifying revenue margin
+expansion and just growing the business overall so i think there's an
+opportunity in health care broadly definitely one to watch as well as
+the sector mike santolli's market memo is next
+some of the most important design choices are the ones that go unnoticed
+the details that together make an experience feel intuitive comfortable
+and above all exhilarating at acura that means looking closely at how every
+detail could make your experience behind the wheel more rewarding every lesson
+learned and every idea refined becomes part of what comes next and it lives
+inside every mdx adx and integra that's precision crafted performance
+that's acura with the discover cashback card it's payback time when you earn
+cashback on everyday purchases activate and earn five percent cashback at
+different categories each quarter on up to $1,500 in purchases
+that's five percent cashback at different places each quarter
+like grocery stores on gas and at restaurants it pays to discover
+terms applying see discover.com slash five for details
+we must write the fights we must win
+the future we must secure together for our nation
+this is what's in front of us this determines what's next for all of us
+we are marines we were made for this we are back with senior markets commentator
+and overtime co-anchor mike santolli with his market memo
+mike you got the AI trade uh on the reverse on the reverse again
+they yes yesterday you had this intraday levitation you seemed like you got
+short-term sold out in some of the hardest hit parts of hardware the core
+weaves and semis today you're kind of going back and testing to see if
+yesterday's loads were for real if you look at the semiconductor index the
+ndx all that stuff so it has the feel of
+something that's a little bit forced or it's a little bit let's
+you know let's really try to reduce risk here
+don't know of anything specific going on but that's the kind of erratic action
+you sometimes get when you know you're having
+some people really have to get blown out of of those levered positions
+but the equate s and p and everybody loves it right everyone wants a broadening
+is barely down at all so you do have the market trying to kind of rotate
+around into into strength here i don't know if you can extrapolate
+this week and say this is the world we're in for a little while
+everybody seems to be talking about hyperscalar earnings is going to be the
+thing that you'll be able to anchor to going
+toward the end of the month it's a little little ways between now and then
+but i think the credit markets are going to be the arbiter of whether in
+fact we have to keep worrying or if this is just another one of these
+mini-panics and i also keep pointing out this process has been going on
+for four months that's when we saw the peak and all this stuff
+and it's been this like waves of reckoning in that area in terms of you
+know what we're expecting out of earnings from
+especially the memory names and those like yeah i guess what's different this week
+is a core weave is a potential canary in the whole mine and you know
+is that the financial conditions have tightened it's registering where it's
+kind of supposed to register so i don't know that you should necessarily
+say that's an unhealthy thing but it's an uncomfortable thing
+because of how the indexes are basically skewed in that direction
+yeah that and the interconnectivity of the whole trade as well mike
+thank you straight ahead the setup on netflix and layoffs and executive
+shakeups how the committee is positioned ahead of earnings next
+on halfback welcome back shares of netflix are lower after announcing a
+major content leadership shakeup ahead of the company's earnings report next
+tuesday everyone owns it i mean 2.7 percent lower today
+what do you make of this this shift in and the content suite that they have
+well peter rice is in he starts on the 26th um
+i think this company is incredibly well positioned we just
+you know we just added to it in march um when i look into next week
+given that we're not going to get much news on subscriber trends i think the
+big news is where content goes and what what potential acquisitions
+might they be considering and uh you know i think you
+continue to be patient around this name i think it's a fine named own again
+relatively new for us down a bit since we've we bought it
+it's kind of one of those things where we should have probably waited until it
+reached a level to get in but i like i like the company
+Malcolm what do you think are these are these good levels um
+i mean isabeden was great in terms of content but not getting a boost from
+that quite yet yeah i'm honestly surprised to see the
+markets reaction to the news today i think that the this whole time the
+markets basically been saying when are you going to do something to shake up
+the existing business model when are you going to do something to compete with
+youtube because you have a youtube problem this is them
+sort of answering that question in a way it kind of tips the hand
+in the direction that they're heading in the sense that they're bringing in a
+guy who's got a background in like legacy
+live tv coming from you know the disney espn
+abc universe and trying to focus now on live sports which we already knew was
+going to be a focus for them but the bigger events they can have a spectacle
+around have a draw around those kind of things
+yes they do still need to figure out a way to create the cheap
+user-generated content that keeps people hooked to the platform the way
+that youtube and youtube shorts has but this is at least them showing
+a step in the right direction and a willingness to pivot
+since the market has obvious the street the analyst community has
+obviously turned sour on the existing model and saying we want to see
+something different have you own it too you think this is
+overdone yeah i love the move the only reason i would give for the stock
+being down today is the timing doing this a few days before earnings that
+biggest shakeup is probably making the street a little bit nervous
+obviously not to malcolm robbs or me how about you
+yeah no i think i think that's probably part of the story
+listens down 25 they've obviously really
+heavily focused on profitability over the last year
+away from you know what what the streaming ads are
+so the ad business i think will be strong i think they really need to focus on
+the content spend obviously the sports is expensive
+but potentially maybe a new squid game you know sequel would be profitable
+right i mean i think that's what they really need to kind of focus on
+and i think they will you know cut of six percent of the staff thousand
+positions you know kind of going into earnings on tuesday
+we'll see but i think it's attractively priced at this point
+yeah repositioning there all right coming up we'll take you inside the
+alternatives universe and the increasing popularity of all
+investments we've got fresh data plus who is the most bullish next
+welcome back to half-time investors are turning to alternatives to diversify
+exposure and protect against concentration risk and new data shows the
+momentum is set to build robert frank joins us with the look
+inside the alternative universe robert
+Leslie good to see well millionaire investors planning to add to their
+alternative investments in the next two years 38 percent of millionaires
+surveyed planned to increase their allocation to alternatives with only
+seven percent planning a reduction that's according to a nurse new survey
+from goldman sacks now 93 percent agree that they are
+quote overall happy with their alternative
+investments so what about all these headlines about private
+credit troubles and all these redemptions well
+nearly two-thirds of wealthy investors view alts still as quote high risk or
+very high risk and that is up from last year
+alts investors site risk and volatility is their top concern
+also big concerns lack of liquidity and lockups we've seen a lot of that with
+those redemptions and of course high fees now
+the more investors know about alts in those risks
+the more likely they are to invest 26 percent of those familiar with alts
+plan to invest in the next year that compares with only five percent
+for those who aren't as familiar now millennials are the most bullish on
+alts half of millennials plan to increase their alts in the next two
+years that compares with just 18 percent of
+boomers and about a third of gen xers leslie i know you do a lot of
+reporting on this space and we'll have to see how these higher rates in the
+tremors in the neocloud affect private credit but for now
+at least the wealthy investors seem to be adding to their allocations
+yeah those are the big questions we're actually asking in the a block today
+robert thank you and rob i want to come to you because i know we were talking
+about the broadening trade and whether it's the time
+to be doing more of that rotating out of the ai trade and into other places
+and we actually spoke with the warburg pinkest CEO in a rare interview
+earlier this week jeffrey perlman about the top questions he's getting from
+investors right now one of the single biggest things i'm
+hearing from our investors as i travel around the world
+is they look at this and they see one large single
+correlated bet and in the public markets you have 10 companies that
+essentially represent 50 of the s and p 500
+they're looking for ways to diversify and actually in private assets and
+especially private equity there is a lot less exposure in a way
+if this continues that level of concentration is i think
+going to be net additive to private to private assets and especially to
+private equity what do you think i think he's
+absolutely right we are big believers in the asset class have
+been for a long time obviously there's times in
+certain parts of the asset classes where forward returns elevate whether
+that be coming out of a real estate crisis and diving
+in to fund that or or coming out of 22 when venture
+companies were having trouble raising money and going into venture debt
+i think we've done too much categorization of alternatives is one asset
+class and it's really broad and it's really
+diversified and it really as he said provides the ability to get returns
+that sometimes are even uncorrelated with the market
+there's attractive income you can go into hedge funds which are usually tax
+inefficient for individual investors but there's ways to wrap that
+in private placement life insurance which shields some of that
+burden and i think the portfolio benefits of having alternatives
+is are significant and will continue to be
+especially as you see elevated concentration
+again as outlined in the public markets and
+really the lower end of public markets not trading as well
+is kind of a mid-market private equity you see some of the companies that trade
+in mid-market private equity it elevated multiples to what you see
+in the public markets and so i think this is going to become a much more
+interesting space pro forma yeah maybe less of an alternative and more
+more mainstream as as the years go on up next
+options action with oliver renick half-time is back into
+let's get to today's options action oliver renick joins us from cibo global
+markets in chicago oliver
+hey leslie the combination of a rally in oil prices but a drop in treasury yields
+is creating some interesting trades this week
+as investors reconsider how to hedge stocks on the energy side the most
+popular trade is petro bros now up 115 percent year to date
+with a handful of the biggest options trades on the tape today
+and some of the most one-sided flow we've seen recently
+options volume was 10 times the average this morning across 200 000 trades
+and 94 000 of those were call trades likely initiated by buyers by
+comparison it looks like less than 2000 puts were bought
+meanwhile the firming of treasury bond prices
+might be enticing some traders back into gold there was more call buying
+than put buying in the gld etf the number of open calls reached to the
+highest relative to puts in a month and the biggest trade was someone selling
+11 million dollars of puts expiring in mid-january
+all right oliver thank you oliver renick for us final trades are next
+we are back with final trades Malcolm yeah i'm going service mount today i'm
+encouraged by the way this company's leaning into a genetic governance with
+the new ai passport tool they've also gotten
+a couple of rating upgrades and some price target increases so i'm glad to
+see it's not just me and bill McDermott out here telling
+people they're missing something on this one
+rob uh jp morgan the headline miss gave you an opportunity to buy a
+world-class franchise with some healthy trends in place jason
+eaten order growth is up 40 i like this one here
+and kevin i would use today's pullback in cyber security to buy sentinel
+yeah down nine percent today a pretty mixed picture with regard to sectors
+specifically you can see the s&p down 0.7 percent the nasdaq down by about 0.5
+1.5 that doesn't for halftime the exchange starts right now
+you've been listening to cnbc's halftime report the podcast
+you can always catch us live weekdays at 12 eastern
+only on cnbc all opinions expressed by the halftime report participants are
+solely their opinions and do not reflect the opinions of cnbc or its parent
+company or affiliates and may have been previously disseminated by them on
+television radio internet or another medium
+you should not treat any opinion expressed on this podcast as a specific
+inducement to make a particular investment or follow a particular
+strategy but only as an expression of opinion
+such opinions are based upon information the halftime report
+participants consider reliable but neither cnbc nor its affiliates
+and or subsidiaries warrant its completeness or accuracy and it
+should not be relied upon as such to view the full halftime report disclaimer
+please visit cnbc.com forward slash halftime report disclaimer
+sign up at odoo.com that's odoo.com
