@@ -880,6 +880,10 @@
     "14d": {
      "pct": 1.47,
      "win": false
+    },
+    "21d": {
+     "pct": 2.96,
+     "win": false
     }
    }
   },
@@ -904,6 +908,10 @@
     },
     "14d": {
      "pct": 11.68,
+     "win": false
+    },
+    "21d": {
+     "pct": 4.27,
      "win": false
     }
    }
@@ -14968,6 +14976,10 @@
     "14d": {
      "pct": 12.87,
      "win": true
+    },
+    "21d": {
+     "pct": -6.4,
+     "win": false
     }
    }
   },
@@ -15022,6 +15034,10 @@
     "14d": {
      "pct": 4.82,
      "win": true
+    },
+    "21d": {
+     "pct": -17.12,
+     "win": false
     }
    }
   },
@@ -15046,6 +15062,10 @@
     },
     "14d": {
      "pct": -7.08,
+     "win": false
+    },
+    "21d": {
+     "pct": -24.94,
      "win": false
     }
    }
@@ -15100,6 +15120,10 @@
     },
     "14d": {
      "pct": -3.73,
+     "win": false
+    },
+    "21d": {
+     "pct": -16.24,
      "win": false
     }
    }
@@ -22560,6 +22584,10 @@
     "7d": {
      "pct": -4.23,
      "win": false
+    },
+    "14d": {
+     "pct": 0.27,
+     "win": true
     }
    }
   },
@@ -22581,6 +22609,10 @@
     "7d": {
      "pct": -4.23,
      "win": false
+    },
+    "14d": {
+     "pct": 0.27,
+     "win": true
     }
    }
   },
@@ -22602,6 +22634,10 @@
     "7d": {
      "pct": -4.23,
      "win": false
+    },
+    "14d": {
+     "pct": 0.27,
+     "win": true
     }
    }
   },
@@ -22623,6 +22659,10 @@
     "7d": {
      "pct": -4.23,
      "win": false
+    },
+    "14d": {
+     "pct": 0.27,
+     "win": true
     }
    }
   },
@@ -22644,6 +22684,10 @@
     "7d": {
      "pct": -4.23,
      "win": false
+    },
+    "14d": {
+     "pct": 0.27,
+     "win": true
     }
    }
   },
@@ -22665,6 +22709,10 @@
     "7d": {
      "pct": -0.69,
      "win": false
+    },
+    "14d": {
+     "pct": 1.49,
+     "win": true
     }
    }
   },
@@ -23617,6 +23665,10 @@
     "7d": {
      "pct": -9.11,
      "win": false
+    },
+    "14d": {
+     "pct": -10.29,
+     "win": false
     }
    }
   },
@@ -23763,6 +23815,10 @@
     "7d": {
      "pct": 2.69,
      "win": true
+    },
+    "14d": {
+     "pct": -0.21,
+     "win": false
     }
    }
   },
@@ -23784,6 +23840,10 @@
     "7d": {
      "pct": 2.69,
      "win": true
+    },
+    "14d": {
+     "pct": -0.21,
+     "win": false
     }
    }
   },
@@ -24899,7 +24959,12 @@
    "video_title": "Why Most Investors Lose Money Buying Stocks Right Now!",
    "date": "2026-10-08",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.31,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "AVGO",
