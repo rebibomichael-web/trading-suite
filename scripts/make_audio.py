@@ -38,10 +38,13 @@ KIND_TITLE = {
 def md_to_speech(md, kind):
     """Markdown digest -> text that reads well aloud."""
     text = md
-    # Issue text inserts U+200B after '@', inside '#<digits>', and inside
-    # '<!--' so GitHub will not mention or autolink. Strip it before the
-    # handle, URL, and comment filters, or those patterns no longer match
-    # and the narration speaks the handles and the markers.
+    # Drop comments that were escaped for the issue (<\u200b!-- ... -->)
+    # before removing U+200B. Un-escaping first turns a post's literal
+    # "<!-- roster -->" back into a roster opener, and the roster regex
+    # then eats the rest of the X section through the real footer.
+    text = re.sub(r"<\u200b!--.*?-->", "", text, flags=re.S)
+    # Remaining U+200B sits after '@' and inside '#<digits>'. Strip it so
+    # the handle filter matches; otherwise narration speaks the handles.
     text = text.replace("\u200b", "")
     # drop the digest's channel-roster table (Y-6) — a reference footer, not narration
     text = re.sub(r"<!-- roster -->.*?<!-- /roster -->", "", text, flags=re.S)
@@ -61,6 +64,8 @@ def md_to_speech(md, kind):
     # X posts are spoken with the digest; raw URLs and @handles are not.
     text = re.sub(r"https?://\S+", "", text)
     text = re.sub(r"(?<![\w])@[A-Za-z0-9_]+", "", text)
+    # "DiCarlo (@handle)" would otherwise be spoken as "DiCarlo ()".
+    text = re.sub(r"\s*\(\s*\)", "", text)
     text = text.replace("**Today's read:**", "Today's read.")
     text = text.replace("**", "").replace("*(", "(").replace(")*", ")")
     text = text.replace("---", "\n")

@@ -48,13 +48,10 @@ from zoneinfo import ZoneInfo
 # day key is still computed once in the workflow.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 _ISSUE_REF = re.compile(r"#(\d+)")
-# Scheme URLs and scheme-less host/path tokens. '@' and '#123' inside them
-# must stay literal or the link breaks (medium.com/@bob, ...#123).
-_URL = re.compile(
-    r"https?://[^\s<>]+"
-    r"|(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}(?::\d+)?(?:/[^\s<>]*)?",
-    re.IGNORECASE,
-)
+# GitHub only autolinks http:// and https://, and only then ignores @ and
+# #digits inside the link. Scheme-less text such as x.com/@user and a.co/#5
+# is still a mention and an issue link, so it must be escaped.
+_URL = re.compile(r"https?://[^\s<>]+", re.IGNORECASE)
 
 X_API = "https://api.x.com/2"
 # One call. The API allows 5–100. Replies and reposts are excluded from the
@@ -197,8 +194,9 @@ def escape_for_issue(text):
     came from a post or from Claude. Structural markers (<!-- x-posts -->)
     are added after this and must not be passed through it.
 
-    URL spans are copied through unchanged. A zero-width space inside
-    medium.com/@bob or a fragment such as #123 would break the link.
+    Only http:// and https:// spans are copied through unchanged. A
+    zero-width space inside one of those would break a link GitHub
+    autolinks. Scheme-less hosts are escaped with the rest of the text.
     """
     if not text:
         return text

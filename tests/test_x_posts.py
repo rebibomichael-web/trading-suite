@@ -415,16 +415,31 @@ class IssueSafety(unittest.TestCase):
         }]
         rendered = X._render_account(ACCOUNT, "Summary @someone #9", posts)
         self.assertIn("https://medium.com/@bob/story#123", rendered)
-        self.assertIn("medium.com/@bob#88", rendered)
-        self.assertNotIn("medium.com/@\u200b", rendered)
+        self.assertNotIn("https://medium.com/@\u200b", rendered)
         self.assertNotIn("#\u200b123", rendered)
-        self.assertNotIn("#\u200b88", rendered)
+        # Scheme-less hosts are not autolinked, so @ and #digits still escape.
+        self.assertIn("and medium.com/@\u200bbob#\u200b88", rendered)
+        self.assertNotIn("and medium.com/@bob#88", rendered)
         self.assertIn("@\u200bsomeone", rendered)
         self.assertIn("#\u200b241", rendered)
         self.assertIn("#\u200b9", rendered)
         self.assertNotIn("@someone", rendered)
         self.assertNotIn("#241", rendered)
         self.assertNotIn("#9", rendered)
+
+    def test_schemeless_hosts_escape_mentions_and_issue_refs(self):
+        posts = [{
+            "id": "150",
+            "text": "see x.com/@user now and a.co/@torvalds and a.co/#5",
+            "created_at": "2026-10-19T15:00:00Z",
+        }]
+        rendered = X._render_account(ACCOUNT, "x.com/@user and a.co/#5", posts)
+        self.assertIn("x.com/@\u200buser", rendered)
+        self.assertIn("a.co/@\u200btorvalds", rendered)
+        self.assertIn("a.co/#\u200b5", rendered)
+        self.assertNotIn("x.com/@user", rendered)
+        self.assertNotIn("@torvalds", rendered)
+        self.assertNotIn("a.co/#5", rendered)
 
     def test_post_label_is_jerusalem_not_utc(self):
         # 22:30 UTC on 2026-10-19 is 01:30 the next morning in Israel (IDT, UTC+3).
@@ -609,6 +624,7 @@ class AudioAndCoverage(InTemp):
             "**Peter DiCarlo** · Smart Money Trader · "
             "[@pdicarlotrader](https://x.com/pdicarlotrader)\n\n"
             "Watch $TSLA support at 250, target 280. "
+            "DiCarlo (@pdicarlotrader) "
             "https://x.com/pdicarlotrader/status/150\n\n"
             "- [Oct 19](https://x.com/pdicarlotrader/status/150) — "
             "$TSLA 250 to 280 @pdicarlotrader\n"
@@ -620,6 +636,8 @@ class AudioAndCoverage(InTemp):
         self.assertIn("Tesla target 400", speech)
         self.assertIn("X posts", speech)
         self.assertIn("Peter DiCarlo", speech)
+        self.assertIn("DiCarlo", speech)
+        self.assertNotIn("()", speech)
         self.assertIn("250", speech)
         self.assertIn("TSLA", speech)
         self.assertNotIn("http", speech)
@@ -654,6 +672,31 @@ class AudioAndCoverage(InTemp):
         self.assertNotIn("roster", speech)
         self.assertNotIn("secret-level", speech)
         self.assertNotIn("x-posts", speech)
+
+    def test_forged_roster_comment_does_not_cut_x_narration(self):
+        posts = [{
+            "id": "150",
+            "text": "Before <!-- roster --> after the marker, target 280 holds.",
+            "created_at": "2026-10-19T22:30:00Z",
+        }]
+        section = X._render_ok([
+            X._render_account(ACCOUNT, "Levels first. $TSLA 250.", posts),
+        ])
+        self.assertIn("<\u200b!-- roster -->", section)
+        md = (
+            section
+            + f"\n{D.ROSTER_START}\n| Channel | x |\n|---|---|\n| Kaspa Silver | 1 |\n"
+            + f"{D.ROSTER_END}\n"
+        )
+        speech = A.md_to_speech(md, "youtube")
+        self.assertIn("Before", speech)
+        self.assertIn("target 280 holds", speech)
+        self.assertIn("TSLA", speech)
+        self.assertIn("250", speech)
+        self.assertNotIn("Kaspa", speech)
+        self.assertNotIn("roster", speech)
+        self.assertNotIn("<!--", speech)
+        self.assertNotIn("|", speech)
 
     def test_coverage_does_not_count_x_posts(self):
         with open("summaries/youtube/2026-10-20.md", "w") as fh:
