@@ -21,6 +21,11 @@ on:
     # lag the nominal fire time is 23:15 IDT / 22:15 IST the previous evening.
     - cron: '15 20 * * *'
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Exercise the X fetch and skip the state push and the GitHub issue"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -35,6 +40,10 @@ jobs:
   digest:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    env:
+      # Set only for a manual dry run. Scheduled runs leave this empty.
+      # github.event.inputs values are strings; a boolean input arrives as "true".
+      DIGEST_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && 'true' || '' }}
     steps:
       - uses: actions/checkout@v4
 
@@ -48,7 +57,7 @@ jobs:
       - name: Install Claude Code CLI (subscription auth)
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
-        if: env.CLAUDE_CODE_OAUTH_TOKEN != ''
+        if: env.CLAUDE_CODE_OAUTH_TOKEN != '' && env.DIGEST_DRY_RUN != 'true'
         run: npm install -g @anthropic-ai/claude-code
 
       # ONE day key for the whole job, Asia/Jerusalem (PROV-YTDATE-01, ruled
@@ -67,11 +76,22 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           WEBSHARE_PROXY_USERNAME: ${{ secrets.WEBSHARE_PROXY_USERNAME }}
           WEBSHARE_PROXY_PASSWORD: ${{ secrets.WEBSHARE_PROXY_PASSWORD }}
-        run: python scripts/youtube_digest.py
+          # Optional pay-per-use bearer token. Absence skips the X section only.
+          # Never echo this value; Actions masks secrets, and the script must not print it.
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: |
+          echo "dry_run flag: ${DIGEST_DRY_RUN:-off}"
+          python scripts/youtube_digest.py
 
       - name: Narrate digest (best effort)
         run: |
-          if [ -f digest.md ] && [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
+          if [ "${DIGEST_DRY_RUN}" = "true" ]; then
+            echo "dry run — skipping narration"
+            exit 0
+          fi
+          # NOTHING = nothing at all (no videos and no X posts). NO_VIDEOS is
+          # the previous sentinel; still treat it as empty.
+          if [ -f digest.md ] && [ "$(cat digest.md)" != "NOTHING" ] && [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
             pip install --quiet edge-tts
             python scripts/make_audio.py --input digest.md --kind youtube \
               --date "$DIGEST_DAY" --append-if-exists \
@@ -83,18 +103,26 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
+          if [ "${DIGEST_DRY_RUN}" = "true" ]; then
+            echo "dry run — not committing state or creating an issue"
+            echo "---- digest.md ----"
+            cat digest.md
+            exit 0
+          fi
           DAY="$DIGEST_DAY"
           HAS_DIGEST=0
-          if [ "$(cat digest.md)" != "NO_VIDEOS" ]; then
+          BODY="$(cat digest.md)"
+          if [ "$BODY" != "NOTHING" ] && [ "$BODY" != "NO_VIDEOS" ]; then
             HAS_DIGEST=1
             # never cp-clobber: a second run on the same day APPENDS (loudly)
             python scripts/digest_day.py archive digest.md "summaries/youtube/$DAY.md"
           fi
 
           # 1) Persist state FIRST, with retries. The de-dup state (seen +
-          #    pending backlog) must be durably pushed before the issue is
-          #    created — otherwise a failed push would re-summarize the same
-          #    videos next run and post a duplicate digest (and re-bill Claude).
+          #    pending backlog + X since_id / cached user id) must be durably
+          #    pushed before the issue is created — otherwise a failed push
+          #    would re-summarize the same videos next run and post a duplicate
+          #    digest (and re-bill Claude, and re-read the same X posts).
           git config user.name "halftime-bot"
           git config user.email "actions@github.com"
           git add summaries/youtube/state.json || true

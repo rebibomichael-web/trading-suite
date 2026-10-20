@@ -40,6 +40,8 @@ def md_to_speech(md, kind):
     text = md
     # drop the digest's channel-roster table (Y-6) — a reference footer, not narration
     text = re.sub(r"<!-- roster -->.*?<!-- /roster -->", "", text, flags=re.S)
+    # keep the X posts section (it is part of the briefing) but drop its markers
+    text = re.sub(r"<!--\s*/?x-posts\s*-->", "", text)
     # drop UI-only lines: "Ask Claude" pills and any Listen links
     text = re.sub(r"^\*\[💬[^\n]*$", "", text, flags=re.M)
     text = re.sub(r"^🔊[^\n]*$", "", text, flags=re.M)
@@ -49,6 +51,9 @@ def md_to_speech(md, kind):
     # "**Channel** · Jul 14" byline -> "From Channel, July 14."
     text = re.sub(r"\*\*([^*]+)\*\*\s*·\s*(\w+ \d+)", r"From \1, \2.", text)
     text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)     # remaining links
+    # X posts are spoken with the digest; raw URLs and @handles are not.
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"(?<![\w])@[A-Za-z0-9_]+", "", text)
     text = text.replace("**Today's read:**", "Today's read.")
     text = text.replace("**", "").replace("*(", "(").replace(")*", ")")
     text = text.replace("---", "\n")

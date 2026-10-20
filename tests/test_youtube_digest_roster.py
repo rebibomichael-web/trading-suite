@@ -55,6 +55,8 @@ def run_digest(live):
          mock.patch.object(D, "preflight_auth"), \
          mock.patch.object(D, "ask_claude", return_value="A summary."), \
          mock.patch.object(D, "fetch_transcript", return_value="words " * 50), \
+         mock.patch.object(D, "collect_x_posts",
+                           return_value={"status": "empty", "section": ""}), \
          redirect_stdout(out):
         D.main()
     with open("digest.md") as fh:
@@ -184,7 +186,7 @@ class DigestRosterTests(InTempRepo):
     def test_no_videos_day_keeps_sentinel(self):
         write_snapshot({}, meta={})
         md, _ = run_digest({D.CHANNELS[CH[0]]: [entry("old", age_h=30 * 24)]})
-        self.assertEqual(md, "NO_VIDEOS")   # workflow sentinel contract kept: no footer
+        self.assertEqual(md, "NOTHING")   # nothing-at-all sentinel (was NO_VIDEOS)
 
     def test_all_unavailable_still_fails_run(self):
         os.remove(D.FEED_SNAPSHOT_PATH)
