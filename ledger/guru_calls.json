@@ -230,6 +230,7 @@
   "RdQUKcFX-wE",
   "RqsSFONG8Fk",
   "SC2xbjFe4-E",
+  "SKrGZWgnH1A",
   "SMY-YeCmF5A",
   "SZukzE9AQco",
   "SiTdlq7CuDQ",
@@ -26121,6 +26122,22 @@
    "channel": "Brighter with Herbert",
    "video_title": "Can SpaceX Really Hit $1 Quadrillion? Jo Bhakdi #SpaceX",
    "date": "2026-10-15",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "CRWV",
+   "direction": "neutral",
+   "kind": "mention",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "A stunning reversal for Coreweave. The stock is now green after falling 10% earlier today.",
+   "video_id": "SKrGZWgnH1A",
+   "channel": "Fundstrat",
+   "video_title": "Fundstrat: Is it time to buy the tech dip?",
+   "date": "2026-10-16",
    "affiliated": false,
    "outcomes": {}
   }
