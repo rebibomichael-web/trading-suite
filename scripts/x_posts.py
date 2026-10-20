@@ -2,8 +2,9 @@
 """X posts for the daily YouTube digest. Self-contained: a later newscast can
 import this module without the video pipeline.
 
-One official user-timeline call per configured account per run (no scrape, no
-Dell snapshot, no pagination):
+One official user-timeline read per configured account per run, plus a single
+extra page when that window is longer than max_results (no scrape, no Dell
+snapshot):
 
     GET https://api.x.com/2/users/{id}/tweets?since_id=...&max_results=20
     Authorization: Bearer $X_BEARER_TOKEN
@@ -36,10 +37,17 @@ Owner setup (once), in the X Developer Console at https://developer.x.com :
 import datetime
 import json
 import os
+import re
 import socket
 import urllib.error
 import urllib.parse
 import urllib.request
+from zoneinfo import ZoneInfo
+
+# Same zone as digest_day.TZ / DIGEST_DAY. Post labels use it; the digest's
+# day key is still computed once in the workflow.
+JERUSALEM = ZoneInfo("Asia/Jerusalem")
+_ISSUE_REF = re.compile(r"#(\d+)")
 
 X_API = "https://api.x.com/2"
 # One call. The API allows 5–100. Replies and reposts are excluded from the
@@ -159,13 +167,27 @@ def _parse_posts(payload):
 
 
 def _when(created):
-    """Post timestamp for the link label. Not the digest day — that stays
+    """Post timestamp in Asia/Jerusalem. Not the digest day — that stays
     DIGEST_DAY, computed once in the workflow."""
     try:
         dt = datetime.datetime.fromisoformat(created.replace("Z", "+00:00"))
     except (ValueError, AttributeError):
         return "post"
-    return dt.strftime("%b %d")
+    if dt.tzinfo is None:
+        dt = dt.replace(tzinfo=datetime.timezone.utc)
+    return dt.astimezone(JERUSALEM).strftime("%b %d")
+
+
+def escape_for_issue(text):
+    """Break GitHub mentions, issue autolinks, and HTML comments in text that
+    came from a post or from Claude. Structural markers (<!-- x-posts -->)
+    are added after this and must not be passed through it."""
+    if not text:
+        return text
+    text = text.replace("<!--", "<\u200b!--")
+    text = _ISSUE_REF.sub(lambda m: "#\u200b" + m.group(1), text)
+    text = text.replace("@", "@\u200b")
+    return text
 
 
 def _excerpt(text, limit=180):
@@ -176,12 +198,14 @@ def _excerpt(text, limit=180):
 
 
 def _prompt_body(account, posts):
+    # No leading @handle: Claude echoes it, and that string would become a
+    # GitHub mention once the summary is posted on the issue.
     chunks = []
     for p in posts:
         text = p["text"].strip()
         if len(text) > 1200:
             text = text[:1200].rstrip() + "…"
-        chunks.append(f"@{account['handle']} · {_when(p['created_at'])}\n{text}")
+        chunks.append(f"{account['name']} · {_when(p['created_at'])}\n{text}")
     return "\n\n---\n\n".join(chunks)
 
 
@@ -191,13 +215,16 @@ def _render_account(account, summary, posts):
     head = f"**{account['name']}**"
     if label:
         head += f" · {label}"
-    head += f" · [@{handle}](https://x.com/{handle})"
+    head += f" · [{handle}](https://x.com/{handle})"
     lines = [head, ""]
     if summary:
-        lines += [summary.strip(), ""]
+        lines += [escape_for_issue(summary.strip()), ""]
     for p in posts:
         url = f"https://x.com/{handle}/status/{p['id']}"
-        lines.append(f"- [{_when(p['created_at'])}]({url}) — {_excerpt(p['text'])}")
+        lines.append(
+            f"- [{_when(p['created_at'])}]({url}) — "
+            f"{escape_for_issue(_excerpt(p['text']))}"
+        )
     return "\n".join(lines)
 
 
@@ -223,7 +250,7 @@ def _resolve_user_id(account, rec, token, opener):
     return uid
 
 
-def _timeline_url(user_id, since_id):
+def _timeline_url(user_id, since_id, until_id=None):
     params = {
         "max_results": str(max(5, min(100, int(X_MAX_RESULTS)))),
         "exclude": "retweets,replies",
@@ -231,40 +258,126 @@ def _timeline_url(user_id, since_id):
     }
     if since_id and str(since_id).isdigit():
         params["since_id"] = str(since_id)
+    if until_id and str(until_id).isdigit():
+        params["until_id"] = str(until_id)
     query = urllib.parse.urlencode(params)
     return f"{X_API}/users/{urllib.parse.quote(str(user_id))}/tweets?{query}"
 
 
+def _page_meta(payload):
+    meta = payload.get("meta")
+    return meta if isinstance(meta, dict) else {}
+
+
+def _raw_ids(payload):
+    ids = []
+    for item in payload.get("data") or []:
+        if isinstance(item, dict) and str(item.get("id") or "").isdigit():
+            ids.append(str(item["id"]))
+    return ids
+
+
+def _load_pages(user_id, since_id, until_id, token, opener):
+    """The newest page, and one older page when X says the window continues.
+    A second page is the most we will pay for in a single run."""
+    url = _timeline_url(user_id, since_id, until_id)
+    first = _get_json(url, token, opener)
+    pages = [first]
+    nxt = _page_meta(first).get("next_token")
+    if nxt:
+        more = url + "&" + urllib.parse.urlencode({"pagination_token": str(nxt)})
+        pages.append(_get_json(more, token, opener))
+    return pages
+
+
+def _merge_pages(pages):
+    posts = []
+    seen = set()
+    raw = []
+    newest = []
+    truncated = False
+    for i, payload in enumerate(pages):
+        meta = _page_meta(payload)
+        if str(meta.get("newest_id") or "").isdigit():
+            newest.append(str(meta["newest_id"]))
+        raw.extend(_raw_ids(payload))
+        for post in _parse_posts(payload):
+            if post["id"] in seen:
+                continue
+            seen.add(post["id"])
+            posts.append(post)
+        if i == len(pages) - 1 and meta.get("next_token"):
+            truncated = True
+    posts.sort(key=lambda p: int(p["id"]))
+    candidates = [n for n in newest + raw + [p["id"] for p in posts] if str(n).isdigit()]
+    top = max(candidates, key=int) if candidates else ""
+    return posts, top, truncated
+
+
+def _advance_window(rec, handle, since_id, top, oldest, truncated):
+    """Move the cursor past posts we have summarized.
+
+    A window that still continues past the two pages we read must not jump
+    to the newest id: that would skip the older unread posts. Keep since_id
+    and set until_id to the oldest post we did read (X treats until_id as
+    exclusive). high_water remembers the newest id already summarized so the
+    run that finishes the backlog can step past it.
+    """
+    if truncated and since_id and oldest:
+        prev = rec.get("high_water")
+        best = int(top)
+        if str(prev or "").isdigit():
+            best = max(best, int(prev))
+        rec["until_id"] = str(oldest)
+        rec["high_water"] = str(best)
+        print(f"X @{handle}: more posts remain below {oldest}; "
+              f"since_id stays {since_id}")
+        return
+    best = int(top)
+    if str(rec.get("high_water") or "").isdigit():
+        best = max(best, int(rec["high_water"]))
+    rec["since_id"] = str(best)
+    rec.pop("until_id", None)
+    rec.pop("high_water", None)
+
+
 def _fetch_account(account, state, token, ask_claude, opener):
-    """One timeline call. Returns a markdown block, or '' when nothing is new.
-    Advances since_id only after the posts are in hand, so a failed call
-    retries next run instead of skipping them."""
-    rec = _account_record(state, account["handle"])
+    """Timeline read for one account. Returns a markdown block, or '' when
+    nothing new is worth showing.
+
+    since_id advances only after a non-empty summary, or when every returned
+    post had no text (those were billed and cannot be summarized). A failed
+    or empty summary leaves the cursor where it was so the next run retries.
+    """
+    handle = account["handle"]
+    rec = _account_record(state, handle)
     user_id = _resolve_user_id(account, rec, token, opener)
     since_id = str(rec.get("since_id") or "")
-    payload = _get_json(_timeline_url(user_id, since_id), token, opener)
-    meta = payload.get("meta") if isinstance(payload.get("meta"), dict) else {}
-    if meta.get("next_token"):
-        print(f"X @{account['handle']}: capped at {X_MAX_RESULTS} "
-              f"(older posts in this window were not fetched)")
-    posts = _parse_posts(payload)
+    until_id = str(rec.get("until_id") or "")
+    pages = _load_pages(user_id, since_id, until_id, token, opener)
+    posts, top, truncated = _merge_pages(pages)
     if not posts:
+        # Empty bodies were still returned (and billed). Step past them.
+        if top:
+            rec["since_id"] = str(top)
+            rec.pop("until_id", None)
+            rec.pop("high_water", None)
+            print(f"X @{handle}: posts had no text; advanced since_id to {top}")
         return ""
     summary = ""
     try:
         summary = (ask_claude(
             f"{X_SUMMARY_INSTRUCTIONS}\nAuthor: {account['name']} "
-            f"(@{account['handle']})",
+            f"({handle})",
             _prompt_body(account, posts),
         ) or "").strip()
     except Exception as e:
-        print(f"X @{account['handle']}: summary failed ({type(e).__name__}); "
-              f"listing the posts without a summary")
+        print(f"X @{handle}: summary failed ({type(e).__name__}); "
+              f"listing the posts without advancing since_id")
         summary = ""
-    newest = str(meta.get("newest_id") or "")
-    if not newest.isdigit():
-        newest = posts[-1]["id"]
-    rec["since_id"] = newest
+    if not summary:
+        return _render_account(account, "", posts)
+    _advance_window(rec, handle, since_id, top, posts[0]["id"], truncated)
     return _render_account(account, summary, posts)
 
 

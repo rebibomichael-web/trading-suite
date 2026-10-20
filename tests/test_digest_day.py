@@ -99,6 +99,8 @@ class IssueBodyAndComment(unittest.TestCase):
             self.assertIn("**Later run — 2026-10-09 23:20 IDT** (run 222)", c)
             self.assertIn("watch?v=BBB", c)
             self.assertNotIn(DD.run_marker("111"), c)
+            self.assertNotIn("These videos arrived", c)
+            self.assertIn("This run arrived after this day's digest", c)
 
     def test_listen_link_only_when_the_day_has_audio(self):
         with tempfile.TemporaryDirectory() as d:

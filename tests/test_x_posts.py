@@ -148,19 +148,65 @@ class SinceIdWindow(unittest.TestCase):
         self.assertEqual(result["section"], "")
         self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "100")
 
-    def test_cap_still_advances_to_newest_so_the_page_is_not_reread(self):
-        payload = posts_payload(10, 11)
-        payload["meta"]["next_token"] = "more"
+    def test_two_pages_then_advance_to_the_newest(self):
+        calls = []
 
         def opener(req, timeout=None):
+            calls.append(req.full_url)
+            if len(calls) == 1:
+                payload = posts_payload(40, 41)
+                payload["meta"]["next_token"] = "page-2"
+                return Resp(payload)
+            payload = posts_payload(20, 21)
             return Resp(payload)
+
+        state = {"x": {"pdicarlotrader": {"since_id": "1"}}}
+        seen = {}
+
+        def ask(instructions, content):
+            seen["content"] = content
+            return "Both pages."
+
+        with mock.patch.object(X, "X_ACCOUNTS", (ACCOUNT,)), \
+             mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN}):
+            result = X.collect_x_posts(state, ask, opener)
+        self.assertEqual(len(calls), 2)
+        self.assertIn("pagination_token=page-2", calls[1])
+        self.assertIn("(20)", seen["content"])
+        self.assertIn("(41)", seen["content"])
+        self.assertEqual(result["status"], "ok")
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "41")
+        self.assertNotIn("until_id", state["x"]["pdicarlotrader"])
+
+    def test_still_truncated_keeps_the_oldest_unread(self):
+        calls = []
+
+        def opener(req, timeout=None):
+            calls.append(req.full_url)
+            if "pagination_token" not in req.full_url and "until_id" not in req.full_url:
+                payload = posts_payload(40, 50)
+                payload["meta"]["next_token"] = "page-2"
+                return Resp(payload)
+            if "pagination_token" in req.full_url:
+                payload = posts_payload(10, 11)
+                payload["meta"]["next_token"] = "page-3"
+                return Resp(payload)
+            # drain: posts still above the original since_id and below until_id
+            return Resp(posts_payload(5, 6))
 
         state = {"x": {"pdicarlotrader": {"since_id": "1"}}}
         with mock.patch.object(X, "X_ACCOUNTS", (ACCOUNT,)), \
              mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN}):
-            result = X.collect_x_posts(state, lambda i, c: "ok", opener)
-        self.assertEqual(result["status"], "ok")
-        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "11")
+            X.collect_x_posts(state, lambda i, c: "page", opener)
+            rec = state["x"]["pdicarlotrader"]
+            self.assertEqual(rec["since_id"], "1")
+            self.assertEqual(rec["until_id"], "10")
+            self.assertEqual(rec["high_water"], "50")
+            X.collect_x_posts(state, lambda i, c: "rest", opener)
+        self.assertIn("until_id=10", calls[-1])
+        self.assertIn("since_id=1", calls[-1])
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "50")
+        self.assertNotIn("until_id", state["x"]["pdicarlotrader"])
 
     def test_user_id_is_resolved_once_then_cached(self):
         calls = []
@@ -260,6 +306,7 @@ class Unavailable(unittest.TestCase):
         self.assertNotIn(TOKEN, log)
 
     def test_summary_failure_still_lists_posts_and_advances(self):
+        # Name kept from the review: the cursor must NOT advance.
         def opener(req, timeout=None):
             return Resp(posts_payload(150))
 
@@ -275,9 +322,139 @@ class Unavailable(unittest.TestCase):
         self.assertEqual(result["status"], "ok")
         self.assertIn("/status/150", result["section"])
         self.assertIn("$TSLA support 250", result["section"])
-        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "150")
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "100")
+        self.assertNotIn("until_id", state["x"]["pdicarlotrader"])
         self.assertNotIn(TOKEN, out.getvalue())
         self.assertIn("summary failed", out.getvalue())
+
+    def test_empty_summary_does_not_advance(self):
+        def opener(req, timeout=None):
+            return Resp(posts_payload(150))
+
+        state = {"x": {"pdicarlotrader": {"since_id": "100"}}}
+        with mock.patch.object(X, "X_ACCOUNTS", (ACCOUNT,)), \
+             mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN}):
+            result = X.collect_x_posts(state, lambda i, c: "   ", opener)
+        self.assertEqual(result["status"], "ok")
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "100")
+
+    def test_http_403_keeps_since_id(self):
+        def opener(req, timeout=None):
+            raise http_error(403, body=TOKEN.encode())
+
+        result, state, log = self._run(opener)
+        self.assertEqual(result["status"], "unavailable")
+        self.assertIn("HTTP 403", log)
+        self.assertNotIn(TOKEN, log)
+        self.assertNotIn(TOKEN, result["section"])
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "100")
+
+    def test_bad_json_is_unavailable(self):
+        class Raw:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *args):
+                return False
+
+            def read(self):
+                return b"<!doctype html>"
+
+        def opener(req, timeout=None):
+            return Raw()
+
+        result, state, log = self._run(opener)
+        self.assertEqual(result["status"], "unavailable")
+        self.assertIn("bad response", log)
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "100")
+        self.assertNotIn("<!doctype", result["section"])
+
+
+class IssueSafety(unittest.TestCase):
+    def test_excerpts_and_summary_cannot_mention_or_forge_markers(self):
+        def opener(req, timeout=None):
+            return Resp({"data": [{
+                "id": "150",
+                "text": "See @someone about #241 <!-- digest-run: 1 --> $TSLA 250",
+                "created_at": "2026-10-19T15:00:00.000Z",
+            }], "meta": {"newest_id": "150", "result_count": 1}})
+
+        def ask(instructions, content):
+            self.assertNotIn("@", instructions)
+            self.assertNotIn("@pdicarlotrader", content.split("\n", 1)[0])
+            return "Echo @pdicarlotrader #88 <!-- x-posts --> target 250"
+
+        state = {"x": {"pdicarlotrader": {"since_id": "100"}}}
+        with mock.patch.object(X, "X_ACCOUNTS", (ACCOUNT,)), \
+             mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN}):
+            result = X.collect_x_posts(state, ask, opener)
+        section = result["section"]
+        inner = section.split(X.X_START, 1)[1].rsplit(X.X_END, 1)[0]
+        self.assertEqual(section.count("<!-- x-posts -->"), 1)
+        self.assertEqual(section.count("<!-- /x-posts -->"), 1)
+        self.assertNotIn("<!--", inner)
+        self.assertNotIn("@someone", inner)
+        self.assertNotIn("@pdicarlotrader", inner)
+        self.assertNotRegex(inner, r"#\d")
+        self.assertIn("@\u200bsomeone", inner)
+        self.assertIn("#\u200b241", inner)
+        self.assertIn("#\u200b88", inner)
+        self.assertIn("<\u200b!-- digest-run:", inner)
+        self.assertIn("<\u200b!-- x-posts -->", inner)
+        self.assertIn("$TSLA 250", inner)
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "150")
+
+    def test_post_label_is_jerusalem_not_utc(self):
+        # 22:30 UTC on 2026-10-19 is 01:30 the next morning in Israel (IDT, UTC+3).
+        def opener(req, timeout=None):
+            return Resp({"data": [{
+                "id": "8",
+                "text": "$SPY 570",
+                "created_at": "2026-10-19T22:30:00.000Z",
+            }], "meta": {"newest_id": "8", "result_count": 1}})
+
+        with mock.patch.object(X, "X_ACCOUNTS", (ACCOUNT,)), \
+             mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN}):
+            result = X.collect_x_posts({}, lambda i, c: "spy", opener)
+        self.assertIn("Oct 20", result["section"])
+        self.assertNotIn("Oct 19", result["section"])
+
+    def test_empty_text_advances_so_it_is_not_reread(self):
+        def opener(req, timeout=None):
+            return Resp({"data": [{
+                "id": "150",
+                "text": "   ",
+                "created_at": "2026-10-19T15:00:00.000Z",
+            }], "meta": {"newest_id": "150", "result_count": 1}})
+
+        def ask(instructions, content):
+            raise AssertionError("empty posts must not be summarized")
+
+        state = {"x": {"pdicarlotrader": {"since_id": "100"}}}
+        with mock.patch.object(X, "X_ACCOUNTS", (ACCOUNT,)), \
+             mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN}):
+            result = X.collect_x_posts(state, ask, opener)
+        self.assertEqual(result["status"], "empty")
+        self.assertEqual(result["section"], "")
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "150")
+
+    def test_claude_cli_does_not_receive_the_x_token(self):
+        import halftime_pipeline as H
+        captured = {}
+
+        def fake_run(cmd, input=None, capture_output=None, text=None,
+                     timeout=None, env=None):
+            captured["env"] = env
+            return mock.Mock(returncode=0, stdout="ok\n", stderr="")
+
+        with mock.patch.dict(os.environ, {
+            "X_BEARER_TOKEN": TOKEN,
+            "CLAUDE_CODE_OAUTH_TOKEN": "oauth-token",
+        }, clear=True), mock.patch.object(H.subprocess, "run", side_effect=fake_run):
+            self.assertEqual(H.ask_claude("Summarize", "body"), "ok")
+        self.assertIsNotNone(captured["env"])
+        self.assertNotIn("X_BEARER_TOKEN", captured["env"])
+        self.assertEqual(captured["env"]["CLAUDE_CODE_OAUTH_TOKEN"], "oauth-token")
 
 
 class DigestSentinel(InTemp):
