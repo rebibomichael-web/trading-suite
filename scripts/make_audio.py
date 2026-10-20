@@ -38,10 +38,17 @@ KIND_TITLE = {
 def md_to_speech(md, kind):
     """Markdown digest -> text that reads well aloud."""
     text = md
+    # Issue text inserts U+200B after '@', inside '#<digits>', and inside
+    # '<!--' so GitHub will not mention or autolink. Strip it before the
+    # handle, URL, and comment filters, or those patterns no longer match
+    # and the narration speaks the handles and the markers.
+    text = text.replace("\u200b", "")
     # drop the digest's channel-roster table (Y-6) — a reference footer, not narration
     text = re.sub(r"<!-- roster -->.*?<!-- /roster -->", "", text, flags=re.S)
     # keep the X posts section (it is part of the briefing) but drop its markers
     text = re.sub(r"<!--\s*/?x-posts\s*-->", "", text)
+    # leftover comments (a forged marker that arrived escaped, now restored)
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
     # drop UI-only lines: "Ask Claude" pills and any Listen links
     text = re.sub(r"^\*\[💬[^\n]*$", "", text, flags=re.M)
     text = re.sub(r"^🔊[^\n]*$", "", text, flags=re.M)

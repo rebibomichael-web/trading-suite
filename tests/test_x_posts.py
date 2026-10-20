@@ -404,6 +404,28 @@ class IssueSafety(unittest.TestCase):
         self.assertIn("$TSLA 250", inner)
         self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "150")
 
+    def test_excerpt_urls_keep_at_and_hash(self):
+        posts = [{
+            "id": "150",
+            "text": (
+                "Link https://medium.com/@bob/story#123 and medium.com/@bob#88 "
+                "plus @someone #241"
+            ),
+            "created_at": "2026-10-19T15:00:00Z",
+        }]
+        rendered = X._render_account(ACCOUNT, "Summary @someone #9", posts)
+        self.assertIn("https://medium.com/@bob/story#123", rendered)
+        self.assertIn("medium.com/@bob#88", rendered)
+        self.assertNotIn("medium.com/@\u200b", rendered)
+        self.assertNotIn("#\u200b123", rendered)
+        self.assertNotIn("#\u200b88", rendered)
+        self.assertIn("@\u200bsomeone", rendered)
+        self.assertIn("#\u200b241", rendered)
+        self.assertIn("#\u200b9", rendered)
+        self.assertNotIn("@someone", rendered)
+        self.assertNotIn("#241", rendered)
+        self.assertNotIn("#9", rendered)
+
     def test_post_label_is_jerusalem_not_utc(self):
         # 22:30 UTC on 2026-10-19 is 01:30 the next morning in Israel (IDT, UTC+3).
         def opener(req, timeout=None):
@@ -605,6 +627,33 @@ class AudioAndCoverage(InTemp):
         self.assertNotIn("x-posts", speech)
         self.assertNotIn("Kaspa", speech)
         self.assertNotIn("|", speech)
+
+    def test_rendered_section_narration_drops_handles_urls_and_comments(self):
+        summary = (
+            "Watch @pdicarlotrader and @elonmusk. $TSLA support 250. "
+            "https://example.com/secret-level <!-- roster -->"
+        )
+        posts = [{
+            "id": "150",
+            "text": "Echo @elonmusk https://x.com/elonmusk/status/9 <!-- roster --> $TSLA 250",
+            "created_at": "2026-10-19T22:30:00Z",
+        }]
+        section = X._render_ok([X._render_account(ACCOUNT, summary, posts)])
+        self.assertIn("@\u200bpdicarlotrader", section)
+        self.assertIn("@\u200belonmusk", section)
+        self.assertIn("<\u200b!-- roster -->", section)
+        speech = A.md_to_speech(section, "youtube")
+        self.assertIn("Peter DiCarlo", speech)
+        self.assertIn("TSLA", speech)
+        self.assertIn("250", speech)
+        self.assertNotIn("@", speech)
+        self.assertNotIn("http", speech)
+        self.assertNotIn("<!--", speech)
+        self.assertNotIn("\u200b", speech)
+        self.assertNotIn("elonmusk", speech)
+        self.assertNotIn("roster", speech)
+        self.assertNotIn("secret-level", speech)
+        self.assertNotIn("x-posts", speech)
 
     def test_coverage_does_not_count_x_posts(self):
         with open("summaries/youtube/2026-10-20.md", "w") as fh:

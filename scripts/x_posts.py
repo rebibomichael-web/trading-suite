@@ -48,6 +48,13 @@ from zoneinfo import ZoneInfo
 # day key is still computed once in the workflow.
 JERUSALEM = ZoneInfo("Asia/Jerusalem")
 _ISSUE_REF = re.compile(r"#(\d+)")
+# Scheme URLs and scheme-less host/path tokens. '@' and '#123' inside them
+# must stay literal or the link breaks (medium.com/@bob, ...#123).
+_URL = re.compile(
+    r"https?://[^\s<>]+"
+    r"|(?:[a-zA-Z0-9-]+\.)+[a-zA-Z]{2,}(?::\d+)?(?:/[^\s<>]*)?",
+    re.IGNORECASE,
+)
 
 X_API = "https://api.x.com/2"
 # One call. The API allows 5–100. Replies and reposts are excluded from the
@@ -178,16 +185,31 @@ def _when(created):
     return dt.astimezone(JERUSALEM).strftime("%b %d")
 
 
-def escape_for_issue(text):
-    """Break GitHub mentions, issue autolinks, and HTML comments in text that
-    came from a post or from Claude. Structural markers (<!-- x-posts -->)
-    are added after this and must not be passed through it."""
-    if not text:
-        return text
+def _escape_issue_chunk(text):
     text = text.replace("<!--", "<\u200b!--")
     text = _ISSUE_REF.sub(lambda m: "#\u200b" + m.group(1), text)
     text = text.replace("@", "@\u200b")
     return text
+
+
+def escape_for_issue(text):
+    """Break GitHub mentions, issue autolinks, and HTML comments in text that
+    came from a post or from Claude. Structural markers (<!-- x-posts -->)
+    are added after this and must not be passed through it.
+
+    URL spans are copied through unchanged. A zero-width space inside
+    medium.com/@bob or a fragment such as #123 would break the link.
+    """
+    if not text:
+        return text
+    parts = []
+    last = 0
+    for match in _URL.finditer(text):
+        parts.append(_escape_issue_chunk(text[last:match.start()]))
+        parts.append(match.group(0))
+        last = match.end()
+    parts.append(_escape_issue_chunk(text[last:]))
+    return "".join(parts)
 
 
 def _excerpt(text, limit=180):
