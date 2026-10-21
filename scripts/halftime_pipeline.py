@@ -134,12 +134,17 @@ def _ask_api(instructions, content):
 
 
 def _ask_cli(instructions, content):
+    # The digest step's environment also holds X_BEARER_TOKEN. The Claude
+    # subprocess does not need it, and must not receive it.
+    env = os.environ.copy()
+    env.pop("X_BEARER_TOKEN", None)
     result = subprocess.run(
         ["claude", "-p", f"{instructions}\n\nThe transcript follows on stdin."],
         input=content,
         capture_output=True,
         text=True,
         timeout=900,
+        env=env,
     )
     if result.returncode != 0:
         # The CLI prints auth/API errors to stdout, not stderr.

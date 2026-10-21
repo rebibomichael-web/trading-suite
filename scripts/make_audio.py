@@ -38,8 +38,20 @@ KIND_TITLE = {
 def md_to_speech(md, kind):
     """Markdown digest -> text that reads well aloud."""
     text = md
+    # Drop comments that were escaped for the issue (<\u200b!-- ... -->)
+    # before removing U+200B. Un-escaping first turns a post's literal
+    # "<!-- roster -->" back into a roster opener, and the roster regex
+    # then eats the rest of the X section through the real footer.
+    text = re.sub(r"<\u200b!--.*?-->", "", text, flags=re.S)
+    # Remaining U+200B sits after '@' and inside '#<digits>'. Strip it so
+    # the handle filter matches; otherwise narration speaks the handles.
+    text = text.replace("\u200b", "")
     # drop the digest's channel-roster table (Y-6) — a reference footer, not narration
     text = re.sub(r"<!-- roster -->.*?<!-- /roster -->", "", text, flags=re.S)
+    # keep the X posts section (it is part of the briefing) but drop its markers
+    text = re.sub(r"<!--\s*/?x-posts\s*-->", "", text)
+    # leftover comments (a forged marker that arrived escaped, now restored)
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
     # drop UI-only lines: "Ask Claude" pills and any Listen links
     text = re.sub(r"^\*\[💬[^\n]*$", "", text, flags=re.M)
     text = re.sub(r"^🔊[^\n]*$", "", text, flags=re.M)
@@ -49,6 +61,11 @@ def md_to_speech(md, kind):
     # "**Channel** · Jul 14" byline -> "From Channel, July 14."
     text = re.sub(r"\*\*([^*]+)\*\*\s*·\s*(\w+ \d+)", r"From \1, \2.", text)
     text = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", text)     # remaining links
+    # X posts are spoken with the digest; raw URLs and @handles are not.
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"(?<![\w])@[A-Za-z0-9_]+", "", text)
+    # "DiCarlo (@handle)" would otherwise be spoken as "DiCarlo ()".
+    text = re.sub(r"\s*\(\s*\)", "", text)
     text = text.replace("**Today's read:**", "Today's read.")
     text = text.replace("**", "").replace("*(", "(").replace(")*", ")")
     text = text.replace("---", "\n")

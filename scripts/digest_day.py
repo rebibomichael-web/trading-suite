@@ -67,8 +67,8 @@ def issue_body(digest_md, day, run_id, repo, later=False, now=None):
     if later:
         now = now or datetime.datetime.now(datetime.timezone.utc)
         stamp = now.astimezone(ZoneInfo(TZ)).strftime("%Y-%m-%d %H:%M %Z")
-        head.append(f"**Later run — {stamp}** (run {run_id}). These videos arrived "
-                    f"after this day's digest; they are appended to "
+        head.append(f"**Later run — {stamp}** (run {run_id}). This run arrived "
+                    f"after this day's digest; it is appended to "
                     f"`summaries/youtube/{day}.md`.")
     if os.path.exists(f"audio/youtube/{day}.mp3"):
         raw = f"https://raw.githubusercontent.com/{repo}/main/audio"

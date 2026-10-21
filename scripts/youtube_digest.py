@@ -12,8 +12,9 @@ per run. Any surplus is remembered in state["pending"] and summarized on a
 later run (oldest first), so a busy day or a skipped run never silently drops
 videos.
 
-Exit codes: 0 = digest written (or NO_VIDEOS marker if nothing new),
-nonzero = real failure.
+Exit codes: 0 = digest written (or NOTHING if there is nothing new at all —
+no videos and no X posts), nonzero = real failure. X failures never fail
+the run: the digest still ships, with one line "X posts unavailable".
 """
 import datetime
 import html
@@ -26,6 +27,7 @@ import urllib.request
 
 from halftime_pipeline import ask_claude, preflight_auth
 from digest_day import digest_day
+from x_posts import collect_x_posts, unavailable_section
 
 CHANNELS = {
     "Brighter with Herbert": "UC4DBLlq1x0AKmip1QJUcbXg",
@@ -74,7 +76,9 @@ OVERVIEW_INSTRUCTIONS = (
     "odds, dates, levels), and attribute claims briefly to their channel or "
     "video. Opinionated connective framing is welcome ('the skeptical "
     "counterweight', 'the palate cleanser') but NEVER invent facts that are "
-    "not in the summaries. No headers, no bullet lists — flowing prose only."
+    "not in the summaries. No headers, no bullet lists — flowing prose only. "
+    "If an X posts section is appended, mention it only when it adds a "
+    "concrete ticker, level, or call the videos do not already cover."
 )
 
 
@@ -376,7 +380,33 @@ def roster_footer(feed_status, snap_meta, seen, new_pending, summarized_now,
     ])
 
 
+def _dry_run():
+    return os.environ.get("DIGEST_DRY_RUN", "").strip().lower() in ("1", "true", "yes")
+
+
+def _run_x_dry():
+    """workflow_dispatch dry run: exercise the X fetch only.
+
+    No video fetch, no Claude preflight, no state.json write. A missing token
+    soft-fails and the process exits 0.
+    """
+    try:
+        result = collect_x_posts({}, ask_claude)
+    except Exception as e:
+        print(f"X posts unavailable ({type(e).__name__})")
+        result = {"status": "unavailable", "section": unavailable_section()}
+    if result.get("status") == "empty":
+        open("digest.md", "w").write("NOTHING")
+    else:
+        open("digest.md", "w").write(result.get("section") or "NOTHING")
+    print(f"dry run: X status={result.get('status')} "
+          f"(no state commit, no issue)")
+
+
 def main():
+    if _dry_run():
+        _run_x_dry()
+        return
     preflight_auth()
     state = load_state()
     seen = set(state["seen"])
@@ -480,18 +510,33 @@ def main():
         for v in new_pending
     ]
 
+    # X is best-effort and self-contained. A failure here must not skip the
+    # video digest or fail the job. since_id lands in this same state dict,
+    # which the workflow commits before creating the issue.
+    try:
+        x_result = collect_x_posts(state, ask_claude)
+    except Exception as e:
+        print(f"X posts unavailable ({type(e).__name__})")
+        x_result = {"status": "unavailable", "section": unavailable_section()}
+    x_ok = x_result.get("status") == "ok" and bool(x_result.get("section"))
+
     day = digest_day()          # Asia/Jerusalem, once per job (PROV-YTDATE-01)
-    if sections:
+    if sections or x_ok:
         # Editorial lead: one synthesized cross-video paragraph. Best-effort —
-        # a failure here must never cost the digest itself.
+        # a failure here must never cost the digest itself. Same threshold as
+        # before (two or more videos); X is only folded in when that lead runs.
         overview = None
         if len(sections) >= 2:
+            material = "\n\n---\n\n".join(sections)
+            if x_ok:
+                material += "\n\n---\n\n" + x_result["section"]
             try:
-                overview = ask_claude(OVERVIEW_INSTRUCTIONS,
-                                      "\n\n---\n\n".join(sections)).strip()
+                overview = ask_claude(OVERVIEW_INSTRUCTIONS, material).strip()
             except Exception as e:
                 print(f"WARN: overview generation failed: {e!r}")
-        digest = "Daily summaries of new videos from your followed channels.\n\n"
+        digest = ""
+        if sections:
+            digest = "Daily summaries of new videos from your followed channels.\n\n"
         if overview:
             ask_all = ask_claude_link(
                 "💬 Ask Claude about today's digest",
@@ -499,20 +544,34 @@ def main():
                 f"@claude Regarding the {day} YouTube digest:\n\n",
             )
             digest += f"**Today's read:** {overview}\n\n{ask_all}\n\n---\n\n"
-        digest += "\n---\n\n".join(sections)
-        try:
-            digest += "\n" + roster_footer(feed_status, snap_meta, seen,
-                                           new_pending, summarized_now, now, day)
-        except Exception as e:   # best effort — never cost the digest itself
-            print(f"WARN: roster footer failed: {e!r}")
+        if sections:
+            digest += "\n---\n\n".join(sections)
+        x_section = ""
+        if x_ok:
+            x_section = x_result["section"]
+        elif x_result.get("status") == "unavailable" and sections:
+            x_section = x_result.get("section") or unavailable_section()
+        if x_section:
+            digest += ("\n\n---\n\n" if sections else "") + x_section
+        if sections:
+            try:
+                digest += "\n" + roster_footer(feed_status, snap_meta, seen,
+                                               new_pending, summarized_now, now, day)
+            except Exception as e:   # best effort — never cost the digest itself
+                print(f"WARN: roster footer failed: {e!r}")
         open("digest.md", "w").write(digest)
         print(f"Digest written: {len(sections)} videos for {day}"
+              + (" + X posts" if x_ok else "")
               + (" (with editorial lead)" if overview else ""))
     else:
-        open("digest.md", "w").write("NO_VIDEOS")
+        # Nothing at all — no videos and no X posts. X being down is not a
+        # digest; the note was already logged. (Replaces the NO_VIDEOS marker,
+        # which the workflow still treats as empty.)
+        open("digest.md", "w").write("NOTHING")
         print("No new videos across all channels.")
 
-    # Always persist: even on a NO_VIDEOS day the pending backlog may have changed.
+    # Always persist: even on a NOTHING day the pending backlog, or the X
+    # since_id / cached user id, may have changed.
     save_state(state)
 
     # A run that couldn't see ANY channel (live or snapshot) must not look like
