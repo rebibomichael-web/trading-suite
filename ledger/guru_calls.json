@@ -26,6 +26,7 @@
   "2s2ZnurhLao",
   "2srpd_dfjNg",
   "2w5tZ-4S-68",
+  "2ylEnj-YT7A",
   "3Asjyx4q8p4",
   "3BuYIaO6kJE",
   "3LqALndboAs",
@@ -105,6 +106,7 @@
   "B2sxfVtzCy8",
   "B6PVM0BUPQI",
   "BBFOi4QHXQA",
+  "BYeR7WGqtUE",
   "Bd_KSzKY-QU",
   "BmRjWVN8AQo",
   "BtrUP6BEoZ8",
@@ -23399,6 +23401,10 @@
     "14d": {
      "pct": 6.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": true
     }
    }
   },
@@ -23423,6 +23429,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.91,
      "win": false
     }
    }
@@ -23681,6 +23691,10 @@
     "14d": {
      "pct": 6.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": true
     }
    }
   },
@@ -23705,6 +23719,10 @@
     },
     "14d": {
      "pct": -20.77,
+     "win": null
+    },
+    "21d": {
+     "pct": -30.76,
      "win": null
     }
    }
@@ -23934,6 +23952,10 @@
     "14d": {
      "pct": 6.35,
      "win": null
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": null
     }
    }
   },
@@ -23958,6 +23980,10 @@
     },
     "14d": {
      "pct": -12.12,
+     "win": null
+    },
+    "21d": {
+     "pct": -14.63,
      "win": null
     }
    }
@@ -23984,6 +24010,10 @@
     "14d": {
      "pct": 4.89,
      "win": true
+    },
+    "21d": {
+     "pct": -0.97,
+     "win": false
     }
    }
   },
@@ -24009,6 +24039,10 @@
     "14d": {
      "pct": 6.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": true
     }
    }
   },
@@ -24033,6 +24067,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.91,
      "win": true
     }
    }
@@ -24088,6 +24126,10 @@
     "14d": {
      "pct": 6.35,
      "win": false
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": false
     }
    }
   },
@@ -24112,6 +24154,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.91,
      "win": false
     }
    }
@@ -24138,6 +24184,10 @@
     "14d": {
      "pct": 6.35,
      "win": false
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": false
     }
    }
   },
@@ -24162,6 +24212,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.91,
      "win": true
     }
    }
@@ -24188,6 +24242,10 @@
     "14d": {
      "pct": 6.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": true
     }
    }
   },
@@ -24213,6 +24271,10 @@
     "14d": {
      "pct": 6.35,
      "win": false
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": false
     }
    }
   },
@@ -24237,6 +24299,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.91,
      "win": false
     }
    }
@@ -24524,6 +24590,10 @@
     "14d": {
      "pct": 6.35,
      "win": null
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": null
     }
    }
   },
@@ -24607,6 +24677,10 @@
     "14d": {
      "pct": 6.35,
      "win": false
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": false
     }
    }
   },
@@ -24631,6 +24705,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.91,
      "win": false
     }
    }
@@ -24657,6 +24735,10 @@
     "14d": {
      "pct": 6.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": true
     }
    }
   },
@@ -24681,6 +24763,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.91,
      "win": false
     }
    }
@@ -24707,6 +24793,10 @@
     "14d": {
      "pct": 6.35,
      "win": false
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": false
     }
    }
   },
@@ -24731,6 +24821,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.91,
      "win": false
     }
    }
@@ -24757,6 +24851,10 @@
     "14d": {
      "pct": 6.35,
      "win": false
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": false
     }
    }
   },
@@ -24781,6 +24879,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.91,
      "win": true
     }
    }
@@ -24807,6 +24909,10 @@
     "14d": {
      "pct": 6.35,
      "win": false
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": false
     }
    }
   },
@@ -24831,6 +24937,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.91,
      "win": false
     }
    }
@@ -24907,6 +25017,10 @@
     "14d": {
      "pct": 6.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": true
     }
    }
   },
@@ -24931,6 +25045,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.91,
      "win": true
     }
    }
@@ -25207,6 +25325,10 @@
     "14d": {
      "pct": 6.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": true
     }
    }
   },
@@ -25232,6 +25354,10 @@
     "14d": {
      "pct": 6.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.91,
+     "win": true
     }
    }
   },
@@ -25256,6 +25382,10 @@
     },
     "14d": {
      "pct": 6.35,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.91,
      "win": true
     }
    }
@@ -27024,6 +27154,10 @@
     "7d": {
      "pct": -1.43,
      "win": false
+    },
+    "14d": {
+     "pct": -1.83,
+     "win": false
     }
    }
   },
@@ -27044,6 +27178,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.43,
+     "win": true
+    },
+    "14d": {
+     "pct": -1.83,
      "win": true
     }
    }
@@ -27066,6 +27204,10 @@
     "7d": {
      "pct": -1.43,
      "win": true
+    },
+    "14d": {
+     "pct": -1.83,
+     "win": true
     }
    }
   },
@@ -27087,6 +27229,10 @@
     "7d": {
      "pct": -1.43,
      "win": true
+    },
+    "14d": {
+     "pct": -1.83,
+     "win": true
     }
    }
   },
@@ -27107,6 +27253,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.43,
+     "win": false
+    },
+    "14d": {
+     "pct": -1.83,
      "win": false
     }
    }
@@ -27250,6 +27400,10 @@
     "7d": {
      "pct": -1.43,
      "win": true
+    },
+    "14d": {
+     "pct": -1.83,
+     "win": true
     }
    }
   },
@@ -27270,6 +27424,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.43,
+     "win": true
+    },
+    "14d": {
+     "pct": -1.83,
      "win": true
     }
    }
@@ -27292,6 +27450,10 @@
     "7d": {
      "pct": -1.43,
      "win": false
+    },
+    "14d": {
+     "pct": -1.83,
+     "win": false
     }
    }
   },
@@ -27313,6 +27475,10 @@
     "7d": {
      "pct": -1.43,
      "win": true
+    },
+    "14d": {
+     "pct": -1.83,
+     "win": true
     }
    }
   },
@@ -27333,6 +27499,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.43,
+     "win": true
+    },
+    "14d": {
+     "pct": -1.83,
      "win": true
     }
    }
@@ -27599,7 +27769,12 @@
    "video_title": "#TSLA $373 HOLDS OR SELLOFF ACCELERATES #Tesla #daytrading",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -27615,7 +27790,12 @@
    "video_title": "#TSLA $373 HOLDS OR SELLOFF ACCELERATES #Tesla #daytrading",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -27631,7 +27811,12 @@
    "video_title": "#TSLA $373 HOLDS OR SELLOFF ACCELERATES #Tesla #daytrading",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -27647,7 +27832,12 @@
    "video_title": "#TSLA $373 HOLDS OR SELLOFF ACCELERATES #Tesla #daytrading",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28209,7 +28399,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 14th, 2026",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28225,7 +28420,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 14th, 2026",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28241,7 +28441,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 14th, 2026",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28257,7 +28462,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 14th, 2026",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28273,7 +28483,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 14th, 2026",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.41,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -28289,7 +28504,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 14th, 2026",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.27,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28517,7 +28737,12 @@
    "video_title": "Is Ethereum undervalued?",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.84,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "SPCX",
@@ -28533,7 +28758,12 @@
    "video_title": "Elon Just Said \"Never Seen Anything Like It\"",
    "date": "2026-10-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.59,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -29507,6 +29737,70 @@
    "video_id": "tCAhJ6lDZLo",
    "channel": "Traders Helping Traders",
    "video_title": "SPY & QQQ Just Hit a Buy Zone (New Highs Next?)",
+   "date": "2026-10-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 375,
+   "stop": null,
+   "target": 383.71,
+   "horizon_days": 1,
+   "quote": "if you're looking at a day tradable you know uh structure you can buy 3750 and sell 38371.",
+   "video_id": "2ylEnj-YT7A",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 21st, 2026",
+   "date": "2026-10-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 390.86,
+   "horizon_days": 5,
+   "quote": "yesterday's buy signal following the testing of 34821 the buy signal yesterday above 37050 does keep this channel top at 390.86 in reach. You know this is probably a 3 to 5day target",
+   "video_id": "2ylEnj-YT7A",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 21st, 2026",
+   "date": "2026-10-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": 348.21,
+   "stop": null,
+   "target": 332.21,
+   "horizon_days": 5,
+   "quote": "a settlement below the 34821 formation that would indicate a good October high. I would then expect 332.21 within 3 to 5 days or less",
+   "video_id": "2ylEnj-YT7A",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 21st, 2026",
+   "date": "2026-10-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": 396.1,
+   "stop": null,
+   "target": 229.8,
+   "horizon_days": null,
+   "quote": "We had a sell signal 3 months ago above this nearly 2-year channel bottom that set off a sell signal down to 22980. I still see that as realistic, holding below 39610.",
+   "video_id": "2ylEnj-YT7A",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 21st, 2026",
    "date": "2026-10-20",
    "affiliated": false,
    "outcomes": {}
