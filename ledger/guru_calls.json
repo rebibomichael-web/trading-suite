@@ -24967,6 +24967,10 @@
     "14d": {
      "pct": 3.48,
      "win": true
+    },
+    "21d": {
+     "pct": 8.92,
+     "win": true
     }
    }
   },
@@ -24991,6 +24995,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": null
+    },
+    "21d": {
+     "pct": 8.92,
      "win": null
     }
    }
@@ -25225,6 +25233,10 @@
     "14d": {
      "pct": 5.58,
      "win": null
+    },
+    "21d": {
+     "pct": -0.34,
+     "win": null
     }
    }
   },
@@ -25249,6 +25261,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": true
+    },
+    "21d": {
+     "pct": 8.92,
      "win": true
     }
    }
@@ -25275,6 +25291,10 @@
     "14d": {
      "pct": 3.48,
      "win": true
+    },
+    "21d": {
+     "pct": 8.92,
+     "win": true
     }
    }
   },
@@ -25299,6 +25319,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": false
+    },
+    "21d": {
+     "pct": 8.92,
      "win": false
     }
    }
@@ -25412,6 +25436,10 @@
     "14d": {
      "pct": 3.48,
      "win": false
+    },
+    "21d": {
+     "pct": 8.92,
+     "win": false
     }
    }
   },
@@ -25436,6 +25464,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": false
+    },
+    "21d": {
+     "pct": 8.92,
      "win": false
     }
    }
@@ -25462,6 +25494,10 @@
     "14d": {
      "pct": 3.48,
      "win": true
+    },
+    "21d": {
+     "pct": 8.92,
+     "win": true
     }
    }
   },
@@ -25486,6 +25522,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": true
+    },
+    "21d": {
+     "pct": 8.92,
      "win": true
     }
    }
@@ -25512,6 +25552,10 @@
     "14d": {
      "pct": 3.48,
      "win": false
+    },
+    "21d": {
+     "pct": 8.92,
+     "win": false
     }
    }
   },
@@ -25536,6 +25580,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": false
+    },
+    "21d": {
+     "pct": 8.92,
      "win": false
     }
    }
@@ -25562,6 +25610,10 @@
     "14d": {
      "pct": 3.48,
      "win": false
+    },
+    "21d": {
+     "pct": 8.92,
+     "win": false
     }
    }
   },
@@ -25586,6 +25638,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": false
+    },
+    "21d": {
+     "pct": 8.92,
      "win": false
     }
    }
@@ -25612,6 +25668,10 @@
     "14d": {
      "pct": 3.48,
      "win": false
+    },
+    "21d": {
+     "pct": 8.92,
+     "win": false
     }
    }
   },
@@ -25636,6 +25696,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": false
+    },
+    "21d": {
+     "pct": 8.92,
      "win": false
     }
    }
@@ -25662,6 +25726,10 @@
     "14d": {
      "pct": 3.48,
      "win": false
+    },
+    "21d": {
+     "pct": 8.92,
+     "win": false
     }
    }
   },
@@ -25686,6 +25754,10 @@
     },
     "14d": {
      "pct": 3.48,
+     "win": true
+    },
+    "21d": {
+     "pct": 8.92,
      "win": true
     }
    }
@@ -26253,6 +26325,10 @@
     "14d": {
      "pct": 0.86,
      "win": true
+    },
+    "21d": {
+     "pct": 5.6,
+     "win": true
     }
    }
   },
@@ -26277,6 +26353,10 @@
     },
     "14d": {
      "pct": 0.86,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.6,
      "win": true
     }
    }
@@ -26303,6 +26383,10 @@
     "14d": {
      "pct": -22.61,
      "win": false
+    },
+    "21d": {
+     "pct": -23.38,
+     "win": false
     }
    }
   },
@@ -26328,6 +26412,10 @@
     "14d": {
      "pct": -15.07,
      "win": false
+    },
+    "21d": {
+     "pct": -22.98,
+     "win": false
     }
    }
   },
@@ -26352,6 +26440,10 @@
     },
     "14d": {
      "pct": -28.41,
+     "win": false
+    },
+    "21d": {
+     "pct": -30.51,
      "win": false
     }
    }
@@ -27049,6 +27141,10 @@
     "7d": {
      "pct": -2.82,
      "win": false
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": true
     }
    }
   },
@@ -27069,6 +27165,10 @@
    "outcomes": {
     "7d": {
      "pct": 2.26,
+     "win": false
+    },
+    "14d": {
+     "pct": 4.01,
      "win": false
     }
    }
@@ -27091,6 +27191,10 @@
     "7d": {
      "pct": 2.26,
      "win": false
+    },
+    "14d": {
+     "pct": 4.01,
+     "win": false
     }
    }
   },
@@ -27112,6 +27216,10 @@
     "7d": {
      "pct": 2.26,
      "win": null
+    },
+    "14d": {
+     "pct": 4.01,
+     "win": null
     }
    }
   },
@@ -27132,6 +27240,10 @@
    "outcomes": {
     "7d": {
      "pct": 2.26,
+     "win": false
+    },
+    "14d": {
+     "pct": 4.01,
      "win": false
     }
    }
@@ -27295,6 +27407,10 @@
     "7d": {
      "pct": -2.82,
      "win": true
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": false
     }
    }
   },
@@ -27316,6 +27432,10 @@
     "7d": {
      "pct": -2.82,
      "win": true
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": false
     }
    }
   },
@@ -27337,6 +27457,10 @@
     "7d": {
      "pct": -2.82,
      "win": false
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": true
     }
    }
   },
@@ -27358,6 +27482,10 @@
     "7d": {
      "pct": -2.82,
      "win": false
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": true
     }
    }
   },
@@ -27379,6 +27507,10 @@
     "7d": {
      "pct": -2.82,
      "win": true
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": false
     }
    }
   },
@@ -27525,6 +27657,10 @@
     "7d": {
      "pct": -2.82,
      "win": false
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": true
     }
    }
   },
@@ -27546,6 +27682,10 @@
     "7d": {
      "pct": -2.82,
      "win": true
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": false
     }
    }
   },
@@ -27567,6 +27707,10 @@
     "7d": {
      "pct": -2.82,
      "win": false
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": true
     }
    }
   },
@@ -27588,6 +27732,10 @@
     "7d": {
      "pct": -2.82,
      "win": false
+    },
+    "14d": {
+     "pct": 2.29,
+     "win": true
     }
    }
   },
@@ -27689,7 +27837,12 @@
    "video_title": "#TSLA TESTING CRITICAL $375 SUPPORT \u2014 $347.43 NEXT IF IT BREAKS #Tesla #daytrading",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -27705,7 +27858,12 @@
    "video_title": "#TSLA TESTING CRITICAL $375 SUPPORT \u2014 $347.43 NEXT IF IT BREAKS #Tesla #daytrading",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -27721,7 +27879,12 @@
    "video_title": "#TSLA TESTING CRITICAL $375 SUPPORT \u2014 $347.43 NEXT IF IT BREAKS #Tesla #daytrading",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -27737,7 +27900,12 @@
    "video_title": "#TSLA TESTING CRITICAL $375 SUPPORT \u2014 $347.43 NEXT IF IT BREAKS #Tesla #daytrading",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -27753,7 +27921,12 @@
    "video_title": "#TSLA TESTING CRITICAL $375 SUPPORT \u2014 $347.43 NEXT IF IT BREAKS #Tesla #daytrading",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28779,7 +28952,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 15th, 2026",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28795,7 +28973,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 15th, 2026",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28811,7 +28994,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 15th, 2026",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28827,7 +29015,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 15th, 2026",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28843,7 +29036,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 15th, 2026",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28859,7 +29057,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 15th, 2026",
    "date": "2026-10-14",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 5.26,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "SPCX",
