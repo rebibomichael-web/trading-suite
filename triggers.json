@@ -108,7 +108,9 @@
   "MU|below|890.99": "2026-10-16",
   "GOOGL|below|326.44": "2026-10-22",
   "OXY|above|63.84": "2026-10-23",
-  "NEM|below|111.32": "2026-10-23"
+  "NEM|below|111.32": "2026-10-23",
+  "CRWD|above|255.2": "2026-10-23",
+  "KLAC|below|145.94": "2026-10-23"
  },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
