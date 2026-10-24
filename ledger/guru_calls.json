@@ -348,6 +348,7 @@
   "frWWjVd64d4",
   "fyx24wrrL9A",
   "gCCG7e9jJo0",
+  "gGWjIQjx-Ps",
   "gL7nK_Izr5I",
   "gOFMvfeauQQ",
   "gOcNm0TWc_o",
@@ -25083,6 +25084,10 @@
     "14d": {
      "pct": 0.27,
      "win": true
+    },
+    "21d": {
+     "pct": -0.58,
+     "win": false
     }
    }
   },
@@ -25108,6 +25113,10 @@
     "14d": {
      "pct": 0.27,
      "win": true
+    },
+    "21d": {
+     "pct": -0.58,
+     "win": false
     }
    }
   },
@@ -25133,6 +25142,10 @@
     "14d": {
      "pct": 0.27,
      "win": true
+    },
+    "21d": {
+     "pct": -0.58,
+     "win": false
     }
    }
   },
@@ -25158,6 +25171,10 @@
     "14d": {
      "pct": 0.27,
      "win": true
+    },
+    "21d": {
+     "pct": -0.58,
+     "win": false
     }
    }
   },
@@ -25183,6 +25200,10 @@
     "14d": {
      "pct": 0.27,
      "win": true
+    },
+    "21d": {
+     "pct": -0.58,
+     "win": false
     }
    }
   },
@@ -25208,6 +25229,10 @@
     "14d": {
      "pct": 1.49,
      "win": true
+    },
+    "21d": {
+     "pct": -10.62,
+     "win": false
     }
    }
   },
@@ -25784,6 +25809,10 @@
     "14d": {
      "pct": -15.14,
      "win": false
+    },
+    "21d": {
+     "pct": -21.95,
+     "win": false
     }
    }
   },
@@ -25808,6 +25837,10 @@
     },
     "14d": {
      "pct": -15.14,
+     "win": false
+    },
+    "21d": {
+     "pct": -21.95,
      "win": false
     }
    }
@@ -25834,6 +25867,10 @@
     "14d": {
      "pct": -15.14,
      "win": false
+    },
+    "21d": {
+     "pct": -21.95,
+     "win": false
     }
    }
   },
@@ -25858,6 +25895,10 @@
     },
     "14d": {
      "pct": -15.14,
+     "win": false
+    },
+    "21d": {
+     "pct": -21.95,
      "win": false
     }
    }
@@ -26275,6 +26316,10 @@
     "14d": {
      "pct": 2.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.78,
+     "win": true
     }
    }
   },
@@ -26299,6 +26344,10 @@
     },
     "14d": {
      "pct": -10.29,
+     "win": false
+    },
+    "21d": {
+     "pct": -15.34,
      "win": false
     }
    }
@@ -26470,6 +26519,10 @@
     "14d": {
      "pct": -0.21,
      "win": false
+    },
+    "21d": {
+     "pct": 8.22,
+     "win": true
     }
    }
   },
@@ -26495,6 +26548,10 @@
     "14d": {
      "pct": -0.21,
      "win": false
+    },
+    "21d": {
+     "pct": 8.22,
+     "win": true
     }
    }
   },
@@ -26519,6 +26576,10 @@
     },
     "14d": {
      "pct": 2.35,
+     "win": false
+    },
+    "21d": {
+     "pct": 5.78,
      "win": false
     }
    }
@@ -26545,6 +26606,10 @@
     "14d": {
      "pct": 2.35,
      "win": true
+    },
+    "21d": {
+     "pct": 5.78,
+     "win": true
     }
    }
   },
@@ -26570,6 +26635,10 @@
     "14d": {
      "pct": 2.35,
      "win": false
+    },
+    "21d": {
+     "pct": 5.78,
+     "win": false
     }
    }
   },
@@ -26594,6 +26663,10 @@
     },
     "14d": {
      "pct": 2.35,
+     "win": true
+    },
+    "21d": {
+     "pct": 5.78,
      "win": true
     }
    }
@@ -27778,6 +27851,10 @@
     "7d": {
      "pct": -0.03,
      "win": false
+    },
+    "14d": {
+     "pct": -0.65,
+     "win": false
     }
    }
   },
@@ -27799,6 +27876,10 @@
     "7d": {
      "pct": 6.31,
      "win": true
+    },
+    "14d": {
+     "pct": 12.34,
+     "win": true
     }
    }
   },
@@ -27819,6 +27900,10 @@
    "outcomes": {
     "7d": {
      "pct": -4.39,
+     "win": null
+    },
+    "14d": {
+     "pct": -10.25,
      "win": null
     }
    }
@@ -28026,7 +28111,12 @@
    "video_title": "Elon: \"Even We Find It Very Difficult\"",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -28042,7 +28132,12 @@
    "video_title": "Elon: \"Even We Find It Very Difficult\"",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -8.03,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28138,7 +28233,12 @@
    "video_title": "Elon's Hidden Message Nobody Caught",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28154,7 +28254,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 16th, 2026",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28170,7 +28275,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 16th, 2026",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28186,7 +28296,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 16th, 2026",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28202,7 +28317,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 16th, 2026",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28218,7 +28338,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 16th, 2026",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28234,7 +28359,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 16th, 2026",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28250,7 +28380,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 16th, 2026",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28371,7 +28506,12 @@
    "video_title": "Why I'm Buying This Market Dip, Best Stocks to Buy Now!",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -8.03,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -28387,7 +28527,12 @@
    "video_title": "Why I'm Buying This Market Dip, Best Stocks to Buy Now!",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -8.03,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "ORCL",
@@ -28403,7 +28548,12 @@
    "video_title": "Why I'm Buying This Market Dip, Best Stocks to Buy Now!",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.64,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AVGO",
@@ -28419,7 +28569,12 @@
    "video_title": "Why I'm Buying This Market Dip, Best Stocks to Buy Now!",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.12,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AAOI",
@@ -28435,7 +28590,12 @@
    "video_title": "Why I'm Buying This Market Dip, Best Stocks to Buy Now!",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -18.7,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CRWV",
@@ -28451,7 +28611,12 @@
    "video_title": "Why I'm Buying This Market Dip, Best Stocks to Buy Now!",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -20.22,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28698,7 +28863,12 @@
    "video_title": "#TSLA SELL SIGNAL ACTIVE \u2014 $347.59 IN SIGHT #Tesla #daytrading",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28714,7 +28884,12 @@
    "video_title": "#TSLA SELL SIGNAL ACTIVE \u2014 $347.59 IN SIGHT #Tesla #daytrading",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28730,7 +28905,12 @@
    "video_title": "#TSLA SELL SIGNAL ACTIVE \u2014 $347.59 IN SIGHT #Tesla #daytrading",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28746,7 +28926,12 @@
    "video_title": "#TSLA SELL SIGNAL ACTIVE \u2014 $347.59 IN SIGHT #Tesla #daytrading",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28762,7 +28947,12 @@
    "video_title": "#TSLA SELL SIGNAL ACTIVE \u2014 $347.59 IN SIGHT #Tesla #daytrading",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28778,7 +28968,12 @@
    "video_title": "#TSLA SELL SIGNAL ACTIVE \u2014 $347.59 IN SIGHT #Tesla #daytrading",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -28794,7 +28989,12 @@
    "video_title": "#TSLA SELL SIGNAL ACTIVE \u2014 $347.59 IN SIGHT #Tesla #daytrading",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.35,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -29078,7 +29278,12 @@
    "video_title": "Can SpaceX Really Hit $1 Quadrillion? Jo Bhakdi #SpaceX",
    "date": "2026-10-15",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.6,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CRWV",
@@ -30005,6 +30210,38 @@
    "channel": "Wicked Stocks",
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 21st, 2026",
    "date": "2026-10-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "CBRS",
+   "direction": "exit",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I set an alarm right around 117 and what happens, price hits it and I tag out of the position.",
+   "video_id": "gGWjIQjx-Ps",
+   "channel": "Traders Helping Traders",
+   "video_title": "I Broke My Own Rules and Lost 40%",
+   "date": "2026-10-22",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "IREN",
+   "direction": "exit",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "something like IREN where I just closed this out for a loss, but it broke my swing low, right? I did what I should have done here.",
+   "video_id": "gGWjIQjx-Ps",
+   "channel": "Traders Helping Traders",
+   "video_title": "I Broke My Own Rules and Lost 40%",
+   "date": "2026-10-22",
    "affiliated": false,
    "outcomes": {}
   }
