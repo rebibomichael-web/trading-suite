@@ -1,6 +1,6 @@
 {
-"fetched_at": "2026-10-22T01:10:05.048281+00:00",
-"written_at": "2026-10-23T01:10:04.170611+00:00",
+"fetched_at": "2026-10-24T01:10:02.524294+00:00",
+"written_at": "2026-10-24T01:10:02.524294+00:00",
 "channels": {
 "Brighter with Herbert": [
 {
@@ -648,6 +648,12 @@
 ],
 "Traders Helping Traders": [
 {
+"id": "gGWjIQjx-Ps",
+"title": "I Broke My Own Rules and Lost 40%",
+"published": "2026-10-22T22:28:16+00:00",
+"description": "#stockmarket #stockstobuynow \n\n\ud83d\udea8 Free Smart Money Zones Training\n\nNew 7\u2011lesson course where I show the exact rules I use to find true discount ranges and institutional buy zones on any stock. No card.\n\nhttps://capitalist-academy1.teachable.com/p/smart-money-zones-free-5-lesson-training"
+},
+{
 "id": "tCAhJ6lDZLo",
 "title": "SPY & QQQ Just Hit a Buy Zone (New Highs Next?)",
 "published": "2026-10-20T01:00:23+00:00",
@@ -730,55 +736,49 @@
 "title": "SPY Market Trap? The Key Level That Determines Whether $750 Holds",
 "published": "2026-09-17T20:57:41+00:00",
 "description": "#stockmarket #stockstobuynow \n\n\ud83d\udea8 Free Smart Money Zones Training\n\nNew 7\u2011lesson course where I show the exact rules I use to find true discount ranges and institutional buy zones on any stock. No card.\n\nhttps://capitalist-academy1.teachable.com/p/smart-money-zones-free-5-lesson-training"
-},
-{
-"id": "WNNhfW1W0FM",
-"title": "Why $GNRC Broke Out 40% After Hours | Amazon Data Center Deal Explained",
-"published": "2026-09-16T23:00:22+00:00",
-"description": "\ud83d\udea8 Free Smart Money Zones Training\n\nNew 7\u2011lesson course where I show the exact rules I use to find true discount ranges and institutional buy zones on any stock. No card.\n\nhttps://capitalist-academy1.teachable.com/p/smart-money-zones-free-5-lesson-training"
 }
 ]
 },
 "meta": {
 "Brighter with Herbert": {
 "last_ok": "2026-10-22T01:10:05.048281+00:00",
-"consecutive_errors": 1,
-"last_error": "HTTP 404"
+"consecutive_errors": 2,
+"last_error": "HTTP 500"
 },
 "Matt Pocius on Tesla Stock & Money": {
 "last_ok": "2026-10-22T01:10:05.048281+00:00",
-"consecutive_errors": 1,
+"consecutive_errors": 2,
 "last_error": "HTTP 404"
 },
 "Fundstrat": {
 "last_ok": "2026-10-22T01:10:05.048281+00:00",
-"consecutive_errors": 1,
+"consecutive_errors": 2,
 "last_error": "HTTP 404"
 },
 "Fundstrat Capital": {
 "last_ok": "2026-10-22T01:10:05.048281+00:00",
-"consecutive_errors": 1,
+"consecutive_errors": 2,
 "last_error": "HTTP 404"
 },
 "Mr. FIRED Up Wealth": {
 "last_ok": "2026-10-22T01:10:05.048281+00:00",
-"consecutive_errors": 1,
+"consecutive_errors": 2,
 "last_error": "HTTP 404"
 },
 "Kaspa Silver": {
 "last_ok": "2026-10-22T01:10:05.048281+00:00",
-"consecutive_errors": 1,
+"consecutive_errors": 2,
 "last_error": "HTTP 404"
 },
 "Wicked Stocks": {
 "last_ok": "2026-10-22T01:10:05.048281+00:00",
-"consecutive_errors": 1,
+"consecutive_errors": 2,
 "last_error": "HTTP 404"
 },
 "Traders Helping Traders": {
-"last_ok": "2026-10-22T01:10:05.048281+00:00",
-"consecutive_errors": 1,
-"last_error": "HTTP 404"
+"last_ok": "2026-10-24T01:10:02.524294+00:00",
+"consecutive_errors": 0,
+"last_error": null
 }
 }
 }
