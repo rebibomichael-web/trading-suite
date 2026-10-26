@@ -1,0 +1,1295 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+Some of the most important design choices are the ones that go unnoticed,
+the details that together make an experience feel intuitive, comfortable, and above all, exhilarating.
+At Acura, that means looking closely at how every detail can make your experience behind the wheel more rewarding.
+Every lesson learned and every idea refined becomes part of what comes next,
+and it lives inside every MDX, ADX, and Integra.
+That's precision-crafted performance. That's Acura.
+I'm Scott Wapner, and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Carl, thanks very much. Welcome to the Halftime Report.
+I'm Scott Wapner, front and center of this hour, this huge week for the markets,
+the bulk of mega-cap tech earnings, the Fed decision.
+Now we have Anthropics S1. Is it ready to go public?
+We'll kick all of it around, of course, with the investment committee joining me for the hour today.
+Joe Teranova, Anastasia Amoroso, Jim Laventhal, Steve Weiss.
+Check the markets. We're green across the board, so starting the week on a strong one,
+but it was going to be a huge week under any scenario, obviously, given what's on the plate.
+But I think with the consternation around the AI trade, it takes all the more importance
+and certainly kicks that level up, and we will get to the Anthropics S1,
+discuss that coming IPO in a moment. But, Joe, so Alphabet Microsoft Wednesday,
+Fed Wednesday, Amazon Thursday, given everything that we've been discussing
+for almost every day, what's it all mean?
+Well, I think it is directly tied to the AI trade.
+And it is all about hearing from these three hyperscalers
+and how much capital they are allocating in the direction of compute.
+I think it's critically important. It's obvious to me. I left here on Wednesday.
+The S&P futures were at $77.50. Subsequent to that, for sure.
+You're bullish. You're kind of on your heels a little bit here.
+So you need to hear something really good from earnings,
+which the expectation is you're going to hear.
+More importantly, though, is the price reaction.
+So I was thinking of exactly that.
+What's the reaction?
+That it's all about what happens to the stocks.
+You know that the earnings are going to be good.
+You know the commentary is going to be good.
+Everybody's kind of front-run that, to some respect.
+Every time you hear about a new deal about compute, this, that, and the other,
+all you can do is draw a line back to where the spend is coming from.
+So you feel like that's going to be strong.
+I'm glad you raised the price action because it's been bad.
+It's been bad.
+And companies that have knocked the ball out of the park,
+they've stumbled running to first base.
+Yeah.
+And look, I'm going to maintain the perspective and bias that I have.
+I find it very difficult to believe in a year in which the market
+has done such a phenomenal job vacillating
+and then vacillating in a way that's very supportive from equal weight
+back to market cap weighted from one sector to another,
+kind of building these bridges to support the resiliency theme in the market.
+I have a hard time believing that we're just going to now fall apart
+as we move towards the end of the year.
+I've said that.
+I think in November we will have a very optimistic, strong push to the end of the year.
+And I find it difficult to believe that the AI trade would not participate in that.
+I like the fact that we're seeing deleveraging.
+I'm focused on sentiment and positioning.
+But I will acknowledge from a price perspective, if you are bullish, which I am,
+doesn't look too good right now.
+And you need to see some really good reactions to earnings coming up over the next couple of weeks.
+Weiss, which side of this are you on?
+Are you on the side of RBC and HSBC who respectively say,
+we remain on guard for a 5% to 10% pullback in the S&P in the near term?
+To near term we cut equities to neutral.
+That's one side of the ledger.
+On the other is Wolff, which says little evidence that fundamentals have deteriorated
+enough to justify moves of this magnitude.
+Mike Wilson, we think the correction that began in June is now in its final stages.
+Which side are you on?
+The latter?
+Well, I'm cautious.
+You're on the former.
+You're on guard.
+I'm on guard.
+Okay.
+And for me, a lot of it comes back to what's going to happen in the Middle East.
+Because, you know, if we don't comment down there, and the market's up today
+because they're saying, oh, diplomatic avenues are being pursued.
+But they've never paid off and they never will pay off unless we take a subpart deal.
+But if you go after oil, which everybody says they're going to do, including the U.S.,
+then you've got a disaster in the market.
+There's no other way to put it.
+Now, if you're taking that out, which is impossible to do, you've taken it out
+in terms of what's going on in the cloud.
+Again, I'll say it again, even though it's sort of annoying how often I say it.
+Stocks peak a year before cap-expending peaks.
+Not stops, but peaks.
+And when you're seeing like the neoclouds that I think Musk is absolutely dead on,
+some will survive like a lambda, you know, great balance sheet, not a lot of debt.
+You're going to take on debt, but others won't.
+And what that does, it informs valuation the rest of the group.
+So it's not as if pick a stock is going to do poorly.
+It's what is the money it's going to be there.
+And with the finance that we have and rates going up, you're seeing financing
+much, much tougher to get.
+Yeah, but you can't equate the valuations of the neoclouds versus the megacaps.
+No, no longer.
+I mean, they're still ridiculously valued, but...
+Not the megacaps.
+No, not the megacaps.
+But that's my point.
+Right, so on the megacaps, I like the megacaps.
+I particularly like Alphabet.
+That stock's been destroyed.
+It's 315.
+So I think that's extremely cheap given their growth, given how they're
+employing AI and given their cloud.
+Now, in terms of the others, I also like Meta quite a bit.
+Now, I can't tell you if the next move is going to be lower because you're right.
+I mean, Meta had a good quarter.
+I thought a really good quarter.
+They tempered the cat-backs even though the market, you know, commentators say, oh,
+they increased cat-backs.
+That's not true.
+Right?
+They said it's going to be flat.
+But...
+They raised the...
+They raised, like, the midpoint of their raise.
+Right, they raised the midpoint at the top end of the state.
+Right?
+So, look, I still like the megacaps.
+I still think they'll do well whether they do well if the orange
+reporter or not, but like with Meta, if they get crushed even though
+they're full positions, I'll buy it.
+Well, so let's make a distinction, though.
+Yeah.
+Because you're not negative the whole AI trade.
+No.
+You can't be.
+No.
+Now, you could be as negative as you want towards the ones that have more
+issues than the others.
+Right.
+But we need to be careful in describing how cautious you are because
+you're not that cautious on the hyperscalers themselves.
+Not at all.
+Nor is like a DA Davidson today which says, we believe Microsoft,
+Amazon, and Google will succeed whether AI slows down or speeds up.
+Really?
+Because they're trading at some of their most attractive valuations
+ever.
+It's actually back to my point.
+Right.
+So what will Alphabet do?
+Say they report an inline quarter.
+I think the stocks should go up.
+Look where it's come from.
+Right now it's the most unloved of all the megacaps stocks,
+but I think it's too well.
+I think to me that is a permanent compounder.
+Now, when I get to others like AMD, I can't justify the
+earnings there.
+When I get to a company like Broadcom, which is not terribly
+expensive, but look at what's happened to that stock.
+Stock's been decimated.
+Everybody's tried to buy it.
+Okay.
+So you're making a good point.
+And that point is that you need to be right now
+hyper-disciplined in where in the AI curve you're investing.
+Before it was buy the AI trade or don't buy the AI trade.
+Most people were buying the AI trade.
+Right.
+Now it's like buy the AI trade, but you better be selective
+within that orbit or you're going to, you know,
+you could get hit.
+That's right.
+You got to be selective.
+And there's so many examples of that.
+If you look at kind of divergence of performance of
+hyperscalers, the next seven stocks since the last
+reporting season, you've got some that are up 30, 40%.
+There are others that are, you know, down.
+And, you know, I think the big distinction that
+investors are drawing right now is how much cat-backs
+are these companies are actually going to have
+and how much of that is dead-fueled.
+So Scott, I'm actually fairly optimistic on hyperscalers
+that are reporting this week in particular assuming
+they don't focus on upsizing cat-backs numbers necessarily
+because to your point, that trade does not actually,
+that does not work anymore.
+I don't know if it works.
+I don't know where we are in terms of what was first deemed.
+We don't want you to spend too much.
+Now it's like, well, we better see you
+committing to spending what you said you're going to spend
+or now we're going to worry that we have a problem.
+What do you see that we don't see?
+Why did you promise this and now you're not spending?
+Are we further towards the end than the beginning?
+All of these questions that were never on the plate
+are now suddenly on our plate.
+They are today and I think the key question is
+what are we seeing in terms of cloud revenues
+and also what are we seeing in terms of cloud backlogs?
+And I will tell you right now, we're looking for about
+$2.3 trillion, $2.3 trillion in backlog
+in cloud revenues.
+So assuming those hyperscalers meet those expectations,
+I think that's positive.
+The other thing that I would do if I were reporting earnings
+this week, I would really focus on the fact that they
+can sustain the debt levels.
+Investors really worried about that, Scott,
+but if you look at the interest coverage ratios
+for hyperscalers, they're significant.
+And even when we think about the new clouds,
+some of them, the banks require them to hedge
+their interest costs.
+So it's not like interest rates are rising
+and all of a sudden their finances are deteriorating.
+So I think to your original point,
+the markets are really becoming discerning
+who's got their debt management under control
+and I do think the hyperscalers do.
+So we'll see what the earnings this week do
+to change the narrative or change opinion
+about the market at large.
+Tony Pascarillo has a note this morning which says
+the bull market is intact, but there are warning signs.
+He's worried that the market's overly complacent.
+The bull market should live on, he says,
+but it will pack less punch and be messier
+along the way.
+For the first time since March,
+a risk appetite indicator has turned negative.
+So I mean, the market definitely has a more
+cautious, sort of wicy in tone overall,
+not towards the mega caps, but overall.
+I feel pretty good about things, Scott.
+And I don't want to bury the lead here.
+Why is the market up today?
+Because one big risk is being answered today,
+which is, will the funding be available?
+Steve, you made a great point about the Middle East.
+That's a real risk.
+That's still there.
+Another real risk is inflation.
+But there was a third risk of,
+are we going to find the financing?
+It's not just the S1 from Anthropic.
+It's also SpaceX that issued $40 billion of debt.
+It's also that Meta's coming to market for,
+I believe it's $95 billion in securities offerings.
+And these are coming because the soft road shows
+and the bankers are saying that the funding is there.
+It removes a risk.
+Now, yes, there's still the risk,
+will there be a return on these investments?
+Forgive me, but that's a 2028 discussion,
+not a 2026 discussion.
+Underneath those risks, growing GDP,
+good labor markets, excellent profit growth,
+you put that all together.
+I don't know how Microsoft will trade
+after earnings this week.
+I'm sure it's going to be a terrific earnings report.
+I feel equally certain that the markets
+will rally to new highs by year end.
+Look, I'm not...
+Is he too complacent?
+Is he too complacent like Tony Pascarello
+says some are?
+I don't see the complacency there.
+I don't see the complacency in the market.
+I mean, I think the market has been,
+you know, we haven't hit a new high in months.
+We're only 2% off of an all-time high on the S&P.
+That literally is nothing.
+Exactly, but if you take a look at the average stock,
+and Joe has these numbers typically on tip of the tongue,
+we're trading at low end.
+You know, we're not even above the 200-day moving average.
+So the technicals, underlying technicals,
+components of the market don't show a market
+that's 2% off its high.
+So there's been a correction.
+There's not been complacency at all in the market.
+Why aren't you focused more on that?
+The fact that under the surface,
+the markets look like garbage.
+It has.
+Yeah.
+So a couple of thoughts there.
+First off, I mean, if you look at the equate S&P 500,
+it's outperforming the market cap weighted S&P 500.
+Now, something we've talked about, Scott,
+for the year to date.
+Thank you, year to date.
+One of the things we've talked about, Scott,
+Steve, and everyone, is what is leading that equate higher?
+For the last couple of weeks,
+it's been defensive names unquestionably, okay?
+It's been healthcare, staples, utilities.
+You can't be painting that as a bullish sign.
+No, I'm not.
+But my point is, you're seeing the shift right now.
+Look at what financials are doing.
+Look at what industrials.
+I will grant you.
+I'm going to kind of steal Steve's words to me right now.
+It's one day.
+I got it, Steve.
+It's one day.
+However, that is the turn we are looking for.
+And based on what I said, GDP growth
+that right now is projected 3.5% for last quarter,
+unemployment at 4.2%.
+I mean, look around you.
+Go into an airport.
+Go into a restaurant on a Monday night.
+This is an economy that's hopping.
+It's unquestionably hopping.
+I don't think I'm being complacent.
+I hear the criticism works, at least the feedback.
+I don't think I'm being complacent.
+I like using data, and the numbers look very good to me.
+That the turn is coming right now
+that the equal weight continues higher
+because of offense, industrials, financials, not defense.
+If I could.
+So as it relates to the AI trade,
+I think it's two words, large cap.
+I think large cap is where the opportunity is.
+But it's interesting.
+I'm listening to this entire conversation
+and everyone knows me well.
+I'm obsessive, obviously, about markets.
+And when you, on Wednesday, sit on this desk
+as enthusiastic as I was in the S&P's at 77.50,
+and within 48 hours it's at 76.20,
+you're on your heels.
+And you ask yourself, where could it possibly go wrong,
+my narrative, that as we move towards the end of the year,
+we will see the return of optimism
+and markets will rally.
+I don't think it's an AI, Scott.
+I think AI right now is the ATM.
+I think the market for the very first time
+to actually Steve's point is saying,
+wait a second, the consensus, including myself,
+doesn't believe the black swan event that you described
+is actually going to occur.
+I don't think the consensus believes
+that oil is going to spike to 150
+because there's going to be an escalation of tensions.
+I think the market believes there's going to be a deal.
+Whether it's a subpar deal, a good deal,
+or however you want to define the deal,
+I think a market is priced in a deal.
+And the black swan event that the market's not ready for
+is escalation, oil goes to 150.
+I think it's always true, though.
+The market investors don't know how to figure that risk
+into their portfolio, so they tend to ignore it
+until it happens.
+So I'm not so sure that they're saying
+there's going to be a deal.
+I don't think people expect that it will,
+I think people think it is a very slim probability,
+1, 2, 3%, that you see the escalation
+and oil prices spike to 150.
+I don't think the market's ready for that.
+Honestly, I'm not to overplay that,
+but I think one of the things hanging over the market
+was, you know, what's anthropic going to come public
+at when?
+When?
+Is it going to be 2 trillion, one and a half, down size?
+And what does that mean for sentiment?
+Well, we've got another clue of that today,
+the S1 dropping.
+They're going to be on the Nasdaq.
+ANT is going to be the ticker symbol.
+Kate Rooney's been following the money force there.
+Joins us now with everything that we need to know.
+I think we've had enough time to pick this thing over
+and figure out what matters most.
+What does to you?
+Well, Scott, we'll try to condense it for you guys.
+It could be one of the biggest IPOs in history,
+the biggest IPO potentially topping SpaceX back in June,
+also one of the most complex from a governance standpoint.
+Anthropic does plan from what we're seeing
+to plow most of the cash that it'll be raising back into CapEx,
+so that is compute that's infrastructure.
+We do only have the financials for the first half of this year,
+but as Leslie Picker reported earlier,
+we expect an amended version of this S1
+to include some of the third quarter numbers.
+Anthropics costs were more than half of the size
+of total revenue in the first half.
+That revenue number was around 16.3 billion,
+operating losses just below 700 million in that first half,
+but that did narrow significantly
+from the same time a year ago.
+Anthropic was profitable at least on an adjusted basis.
+Revenue grew more than 1,000% from a year ago,
+and margins were more than 80% for this company.
+Total net losses for the first half,
+81 billion, but the vast majority of that was due
+to accounting around convertible debt.
+The lockup dates are interesting too, Scott,
+and uncertain at this point.
+The first date will be 27 days post-listing.
+There are roughly two dozen other dates for lockups.
+Through the first year of the IPO,
+and then over to governance, which really does stand out
+as one unique part of this listing.
+Anthropics founders are set to keep majority voting power
+through a single special share.
+It is a class F share.
+It's going to be owned by the seven co-founders.
+Carries 50.1% of the vote.
+Palantir did something similar.
+Anthropic has five different voting classes, though.
+There is a class T, so that is most of the board of directors,
+and then it's long-term benefit trust
+to help make decisions, elect board members.
+On top of all that, Scott,
+Anthropic is structured as a public benefit corporation.
+So that means it has a dual mandate.
+It has the interest of shareholders
+and then the interest of those, quote,
+materially affected by our conduct.
+The risk factors too are almost 100 pages
+of this entire S1.
+Ranges from political backlash, the model risk.
+They talk about self-preserving behavior.
+They say there have been attempts
+to resist shutdown from these models,
+conceal or manipulate information.
+They talk about examples where the technology
+acted coercive, deceptive, or manipulative,
+and then they include behavior resembling blackmail.
+They also talk about access to compute debt as a risk,
+and then customer concentration is standing out too.
+Two of the customers accounted for nearly
+a quarter of revenue at least last year.
+Anthropic has committed at this point
+to spending at least $270 billion
+on Amazon, Google, Microsoft over the coming years.
+One risk, though, there's dependencies here.
+There's potential conflicts of interest
+that are spilling out in the S1.
+Finally, open source, which could add some pricing pressure
+on Anthropics AI offerings, Scott.
+You alluded to this in terms of the relationship
+with the hyperscalers and what's being spent and when.
+Maybe most interesting in the filing today was the chart.
+I don't remember what page it was on,
+but it's been shown multiple times on the network
+and discussed by you and the folks on earlier programs
+that they're seeing a significant increase in revenue
+for every dollar spent on compute,
+and that is going up at a much faster pace
+than what they're actually spending.
+Now, that brings me to the hyperscalers as well,
+because one of the concerns there is that
+the revenue growth is not yet meeting
+the level of the spend promise,
+and that dynamic is being closely watched
+on both sides of the equation.
+The frontier labs versus the hyperscalers,
+who are all doing business with one another.
+On your first point, Scott, it's a great thing to bring up.
+That chart revenue per compute
+is basically going to be this new paradigm
+as we get the AI labs going public.
+They're basically arguing that the more they spend on compute,
+the better it is for their revenue,
+the better it is eventually for their bottom line,
+although profitable on an adjusted basis.
+We don't know exactly what that looks like,
+but their argument is the more we spend,
+the better our businesses, the better our models are.
+We do expect to see something similar
+with open AI, so in that sense,
+it does speak to this new asset class
+and these sort of new paradigms that we're getting.
+In terms of how companies think about this
+and how they're trying to monetize compute,
+I would say on the hyperscalers in that relationship,
+one thing we've known for a long time
+that Amazon is a massive early backer
+of anthropic Google as well,
+Microsoft to a certain extent.
+The risk that they're calling out is
+a little bit of that overlap and reliance on those companies,
+and then this conflict of interest where
+all of a sudden these companies
+at the same time are competing
+and trying to build their own models that are cheaper,
+especially in the case of Microsoft.
+I mean, Satya Nadella has really been
+loud lately about trying to say
+customers, you know, enterprises
+want choice, they want cheaper versions,
+he's argued for open source,
+and then on top of that, they are also saying,
+by the way, some of our biggest
+competitors out there are these cheaper models
+out of China that could add pricing pressure,
+but I think the undertone
+of this entire S1 is the amount
+of huge publicly traded names
+that are not only investors
+but huge customers of this company.
+It's really worth, I think, underlining
+the importance of this company,
+and any IPO is interesting, I think,
+but at this point, because it's so tied
+to the rest of the broader market,
+there's so many demand signals in here,
+it's particularly important to our audience.
+I would say.
+Are we already seeing
+pricing come down?
+They're having to cut
+their token costs,
+token prices,
+because of the very competition
+of which you speak about.
+So some have warned about,
+well, then that's going to ultimately
+have an impact on gross margins
+for the labs.
+How do we think about that?
+It's a great point that we have seen evidence
+that they're cutting costs, and every time they come out
+with one of these new models, Scott,
+is saying, hey, it's at a discount
+to what we were charging previously.
+The question is, can usage offset
+the price cuts?
+And so that's one thing that Anthropic will argue
+is, hey, we can cut costs.
+We are that much more efficient.
+Going back to sort of the revenue
+and compute side of it, we can make ourselves
+more efficient. Our margins can stay
+around the 80% range,
+which is really unprecedented for a tech company.
+That is something that tech investors
+are going to flock to, and it's a reason
+that the company has raised so much money
+in private markets, and they can maintain
+those margins, but also
+not only cut costs, make sure that usage
+is rising, and so far they've been able
+to do that. They've sort of been teflon
+in some ways from the pricing
+pressure, and as they come public,
+I mean, that will all be much more
+available to us as, you know,
+outside observers, investors to some extent
+will be able to look at that more.
+They just haven't seen it yet. They've been able
+to cut costs, and it's helped them sort of
+make sure that enterprises aren't just going to leave
+Anthropic and go to an open source model.
+They can say, oh, wait a minute, Anthropic has a cheaper
+discount version and sort of stay within
+the ecosystem. Yeah, good point.
+Kate, we'll talk to you later this afternoon.
+Thanks, that's Kate Rooney. Thanks, Kate.
+I mean, you have long had
+a pretty
+good view of what's happening in private
+markets. I'm wondering how you're
+thinking about this as it ready
+to move into the public markets.
+Yeah, well, one point to make.
+You know, I was at your entrepreneurial
+ownership summit last week and we brought
+together a lot of our portfolio companies
+and their CEOs and I bring this up Scott
+because the number one topic for all
+of us in private markets is how do you
+infuse artificial intelligence into
+your operations and how do you streamline
+that? How do you automate that?
+And, you know, look, this is a race right
+now. How can you embed artificial
+intelligence? I think case in point,
+what we've heard from Anthropic today
+is incredibly bullish for the state of
+the United States of America.
+We've heard a lot about that.
+We've heard a lot about the
+capabilities. Those capabilities
+are improving every single day
+and yes, there's more and more
+competition, but that actually
+drives all things equal adoption.
+So I'm incredibly encouraged Scott,
+for example, by the fact that
+Anthropic itself said they had
+12,000 customers as
+of September 30 of this year,
+which is up from 950 and
+10% of the debt financing of the
+AI trade. As long as this
+revenue for the likes of Anthropic
+and OpenAI is on track, GPU
+financing works, guarantees work
+and the whole AI trade works.
+What do you think? I mean, somebody
+who's taken, you know, companies
+public over the years, how would
+you view this? You know, we also
+have about 34 companies, private
+companies in our portfolio.
+Look, it's, there are so many
+conflicting reports that have come
+out that report and they're saying
+it's very shallow. That
+doesn't trouble me. You know, you're
+going to see a major uptick in how
+AI is used and you're seeing it
+in healthcare predominantly, they're
+using it. So I think that sustains
+it and I think that, you look, I'm
+not going to buy Anthropic on. I've
+had many opportunities to buy
+Anthropic in the private markets and
+I've missed them all. I've just said
+no to them all. Why? Because
+you just have to have a discipline.
+Well, you know, it's both. You're
+right. You've got to be stubborn about
+your discipline. So I've
+not done that. But
+I bought others, you know, like
+Nibir Robotics, which has
+gone up tenfold in valuation
+and others. It's just
+I just didn't know what
+you were betting on momentum
+continuing Anthropic.
+And the story is not going to be over in the
+IPO. Particularly you're going to be locked
+up so it's going to go for a long time.
+There's a stair step, you know, similar to
+what we saw in space. Financing is tightening
+up. It is tightening up and that will
+impact. Let's take a quick break. When we
+come back, we'll have exclusive reporting
+on that story we first broke here on CNBC
+this morning. That big deal Apollo just
+made. Details next.
+Legacy credit scores only look
+at a brief snapshot in time
+and that limited view often leaves
+millions of qualified credit seekers
+out of the picture. Vantage score
+is changing that by modernizing credit
+scoring. Vantage score uses
+400% more credit and alternative
+data to create a fuller picture
+of financial behavior including
+trended credit data, rental payments
+and timely utility payments. Vantage
+score safely broadens access
+to the credit economy and brings 5
+million mortgage ready borrowers into
+the market. That's why top lenders
+like Rocket Mortgage as well as 9
+of the top 10 banks rely on
+Vantage score 4.0. With
+higher predictability and greater access
+everybody wins. Get started
+at VantageScore.com
+Some of the most important design choices
+are the ones that go unnoticed. The details
+that together make an experience feel
+intuitive, comfortable and above all
+exhilarating. At Acura, that means looking
+closely at how every detail can make your
+experience behind the wheel more rewarding.
+Every lesson learned and every idea
+refined becomes part of what comes next
+and it lives inside every MDX,
+ADX and Integra. That's
+precision crafted performance. That's Acura.
+Acura is designed to provide a cozy night in
+with the whole family in matching
+Old Navy jingle jammies. It's a holiday
+moment of joy and the least for the time
+it takes to snap a picture. Shop a plethora
+of prints this year in jammies for
+everyone. Adults, kids, toddlers, babies
+and even pets. Grab matching sets
+and classic plaids, whimsical designs
+and even Disney themed prints. Plus
+they have coordinating graphic tees,
+sweatshirts, cozy socks, pet sweaters
+and police blankets. Get more Mary
+for your money at Old Navy
+season. Welcome back
+more now on a story we broke earlier this morning.
+Alternative investment giant
+Apollo taking a minority stake.
+I'm told from sources near 10%
+in Mubadala capital. It's the
+asset management arm of Abu Dhabi sovereign
+wealth fund. It is a big deal on multiple
+fronts. For Apollo it
+extends its belief in that region
+and the investment opportunities that exist
+there. And for Mubadala capital
+it further validates what it's built.
+The only scaled asset manager in the
+region. It's also a deal about scale.
+Someone familiar with the deal told
+me, quote, capital as a moat is
+a big thing. It also underscores a
+significant strategic shift for the region
+itself. It's not only
+viewed as a source for capital
+but one where money is now readily flowing
+into. Let's bring in CNBC
+wealth editor Robert Frank. You spend a lot
+of time looking at the alt space, obviously
+given your newsletter. What should
+we know from your perspective about this?
+Scott, this
+is a very big deal and you had
+it first and that's because Apollo
+and Mubadala both betting on the growing
+demand for alternatives
+around the world. Mubadala of course
+has 60 billion dollars in core alternative
+assets. Those are spread across
+private equity, venture capital,
+private credit and strategic companies.
+It has offices
+in New York, San Francisco, London, Abu
+Dhabi and Rio and they own
+stakes in everything from the Amman
+hotels, fortress investment group
+to a lot of special opportunity
+funds in Brazil. The alt
+space is expected to grow
+as both institutional and wealthy investors.
+They're seeking diversification
+and differentiated returns
+right now. Alt investments
+globally expected to top
+$32 trillion by
+2030 up from $20 trillion
+today. That is what
+this deal is all about. For
+Apollo, this gives them a
+truly global partner for co-investments
+and a lot of good deal flow.
+Apollo of course has over a trillion dollars
+in total AUM
+with about 70 billion
+in just private equity AUM
+its flagship private credit fund
+as you know recently helped finance
+the $2.6 billion
+owner, $2.6 billion
+investment in the owner of the New York Yankees
+so they are everywhere
+Mubadala is everywhere
+as you say this is all about global
+scale. This will make
+both of these entities even more
+powerful both for investors
+as well as investment targets
+it also underscores
+why and I mean we've
+obviously seen this develop over the last
+few years that
+these are not your father's private equity
+firms so to speak and that
+the way that we describe them
+is so wholly different now
+from the way they were certainly
+first thought of they are much
+more diverse businesses
+with investment arms all
+over the place in different asset classes
+and availability
+to larger pools of investors than they've ever been
+yeah exactly you know this isn't just
+taking a company private
+or taking it from private to public
+this is private credit it's sports
+it's these special funds
+that are invested in just about everything
+in Brazil and
+so it's insurance companies so
+you're right it is just about everything
+that's not a bank is now
+these asset managers yeah
+it's interesting too it's also
+I think in this case very much about
+having the same kind of investment
+goals and ideals
+but also bringing
+different cultures together too
+and the fact that these parties have
+been doing some degree of business
+for the last 15 or so years
+getting to know one another
+investing alongside each
+other and getting to the point
+where through personal relationships
+that are developed through that process
+you're able then to take it
+a step further and I don't think
+it's going to be the last thing we hear
+from either one of these parties
+if not others in the space
+now very well said in an AI world
+it's going to be about all
+who can write the biggest checks
+and we're seeing this today
+with the Anthropic IPO and we're going to see it
+more and more with data center buildouts
+and with the asset managers that can really
+write those earth moving
+checks and Mubadla and Apollo
+together have got to be now
+at the top of that list
+Robert thanks great to get your insights on this
+appreciate that very much great
+Robert Frank you want to thank you
+guys will kick this around for me
+what do you think I will just say briefly
+that it was a really big deal
+about this deal is that this is sort of
+repositioning how the Gulf region
+is being treated globally and look
+it's long been the destination of where you go
+to get capital to invest globally
+and what's really critical here is now
+the move is actually to invest
+directly into the countries
+like Abu Dhabi and for example
+for us Scott and partners group we've had presence in Dubai
+Abu Dhabi and Kuwait is one of the
+latest offices we're opening there because we do
+believe there's a significant investment
+opportunity in the region itself
+and look it comes from commitment to technology
+and for example the data center push
+the AI push from Abu Dhabi
+it comes from energy
+I mean think about the massive trend
+that will now have to develop to fortify
+and strengthen the local energy
+infrastructure so that's highly investable
+it's manufacturing is digital
+services so I think that's
+kind of a trend that is certainly started
+and I would assume continue to grow for years to come
+you know Scott I own the shares
+and I can tell you from interacting
+with a lot of people at Apollo
+on the private credit side the real estate side
+and the financial institutions group
+that is responsible for this Mubdala
+investment that these are
+exceptionally smart people and the
+reason that you invest you make a choice
+of what investment bank what financial services
+firm you're going to invest in
+is the people that's what the distinguishing factor is
+and I can tell you never we've
+invested alongside leading the group today
+by the way up two and a third percent yeah
+we've invested in alongside
+Mubadala in
+in the US I mean they write
+monstrous size checks and growth
+companies they are definitely
+a smart group so
+look it opens up another area of
+investing for them as well and just
+regionally but in terms of
+where they go in
+you know companies evolution so
+it's a great deal yeah so they
+they've invested in Silver Rock which
+is credit strategies
+that's Milkin's former group but I think
+it speaks to the asset management industry
+that's going through significant consolidation
+and scale matters you have to
+have the scale and along with the
+scale you the requirements
+are the cost efficiencies the technology
+and the distribution that's why this
+ultimately works I also think it speaks
+a little bit towards the nuance
+here as it relates to investment
+opportunities in the private markets
+and the exceptional ability
+in the foresight that Apollo seen here
+to go to unique places right
+go to places whether it's sports
+entertainment or now geographically go
+outside the US because I think there are
+limitations here in particular for real
+state you go where the money is I mean
+that's that's why people refer to Abu
+Dhabi as I learned as
+the capital of capital so
+this should be no shock on I guess many
+levels but we'll continue to follow it
+now to Frank Holland with the CNBC news update
+hey Frank hey good afternoon Scott
+Ukrainian President Vladimir Zelensky
+claimed today that he's been waiting for nearly
+a month for Pentagon chief Pete Hegseth
+to sign off on critical missile supplies
+Zelensky has repeatedly called on the US
+to supply missiles purchased by NATO allies
+to speed up deliveries ahead of winter
+six US citizens who President Trump
+today over the White House press ban on CNN
+Politico and our sister network MS
+now in a lawsuit which also named
+White House chief of staff Suzy Wiles
+and others they claim that ban violates the
+public's right to independent reporting
+about its president and its government
+a judge put the ban on hold earlier this month
+while lawsuits over it play out in court
+and the southeastern conference
+finds South Carolina half a million dollars
+fans to storm the field following a
+27 to 24 victory over
+then number 11 ranked Tennessee
+the school can get the fine reduced to 100,000
+dollars if it can prove that it fully
+attempted to prevent that rush from happening
+otherwise the fine will be paid to Tennessee
+in accordance with SEC policy
+Scott back over to you
+alright Frank appreciate that that's Frank Holland
+Mike Santolli's Market Memo is next
+how I use YouTube with awesome features
+like offline downloads so I can download
+my favorite training videos before I hit
+the gym so no Wi-Fi doesn't turn
+leg day into loading day plus
+I get ad-free videos background play
+and so much more YouTube premium
+it's like YouTube got some extra gains
+try YouTube premium for two months free at
+youtube.com slash premium trial
+eligibility varies terms apply cancel
+anytime
+Toyota trucks are equipped for
+your journey through mountain peaks
+trails and weekends off grid
+whether you're heading out solo
+packing up the family or towing
+your gear there's a Toyota truck designed
+to fit your lifestyle
+choose from the forerunner to coma
+tundra sequoia and
+Land Cruiser to take you off the beaten
+path and discover something new
+about the world and yourself
+make every mile count with a Toyota
+truck that's built to outlast so
+you can outlive ai
+is here transforming how
+we work live and lead
+and the women I talk to aren't waiting
+for the future they're shaping it
+I'm Julia Borstin senior media and
+tech correspondent at CNBC
+this is CNBC change makers
+where I talk with the female leaders
+transforming business as AI
+reshapes the world follow
+and listen to CNBC change makers
+women leading in the age of AI
+wherever you get your podcasts
+all right welcome back
+senior markets commentator and overtime
+director Michael Santoli is right there
+with his market memo are you thinking
+about writing it for this week
+yeah well I have a few hours
+so you know this is early days but
+I would argue I would say
+you know look the anthropic
+s1 at the margin probably
+a bit reassuring some of the operating
+metrics they're going to be good for the money
+they're kind of a customer to the whole
+kind of vendor food chain and I think
+the market's responding roughly in that way
+but there's still going to be this big debate
+over you know the leads and lags of when
+they add new capacity and how fast
+that turns into revenue that's fine
+once it's a public company everyone's going to have
+their favorite ways of measuring that
+I think broadly speaking the market
+really is kind of in
+waiting mode to figure out
+where the weight of the evidence are going to fall
+when it comes to fed and how
+the big cloud platforms
+not just report growth rates and results
+but how the market is deciding
+to reward or punish them
+I think that's going to dictate a lot
+from here yes we have the election after
+that but to me it's much more about
+these cloud platforms and whether
+they're going to you know create any more
+fans to their side in terms
+of them being kind of primary conduits
+to how AI gets implemented
+seeing a couple hours
+depreciated as always that's Mike Santoli
+up next following a mega deal today
+in the energy space we do have ownership
+plus we'll debate a double dose of upgrades
+or calls of the day just to head to
+two stocks on the move
+first one is EQT
+buying range resources 13 billion
+top US gas producer
+you own EQT
+this 20% premium is
+an all stock deal
+this is about the integration in the
+Appalachia the Appalachia is critically
+important because it is the fuel source
+for northern Virginia
+what is known as the data
+center alley
+incredibly important for AI and this is almost
+part of that AI
+universe type of trade
+EQT has outperformed the last
+several years spot natural gas
+because of its ability
+to be the power source
+to northern Virginia this shale deal this is
+shale deal this is Appalachia
+this is a shale deal but it's specifically
+targeted in that northern Virginia area
+alright alright good stuff
+Amgen today says
+its drug combo cuts the
+risk of death by 58%
+in patients with aggressive lung
+cancer you own that too
+yeah they're going to report
+week from Wednesday I believe I think it's
+November 3rd look large cap pharma
+which Amgen is obviously
+part of is working incredibly well
+we've talked in the last several weeks about
+Pfizer making a 52 week high
+but it goes beyond that it's Gilead it's
+Ab-V and it's Amgen
+and we're going to hear from Eli Lilly
+on Thursday as well I know that everyone
+thinks the orientation of the market right now
+is it is a defensive play
+the reason for the ownership in healthcare
+I also think that we're seeing
+technology beginning to benefit
+a lot of these large cap
+healthcare companies and the
+revenue acceleration is only
+going to come forward here in the next several quarters because of that
+let's do Lockheed
+guys throw that up please
+because the target got
+bumped way up today
+Morgan Stanley
+goes to overweight from equal weight
+and they take the target Jimmy to
+835
+it was at 690
+835
+that's a big target
+I'm not sure it gets to 835 but I very much
+like Lockheed Martin right now
+we see what the order book is doing
+850 F-35s over 10 years
+being ordered by the US government
+we know what's going on with missile production
+but very importantly the market responded
+positively to last week's earnings
+even though there's some margin pressure coming up
+that's the market's way of saying
+they're looking through any margin pressures
+and realizing it's because they're ramping
+up production I like Lockheed Martin
+here I think the estimates are going to continue to go
+way higher
+I really like the defense trade itself
+and I think first of all it has taken a bit of a back
+seat because of the midterm elections
+of the concern there but actually to Jimmy's
+point the fact that the US government
+is committing to multi-year contracts
+and there's this huge emphasis
+on reindustrialization and expanding
+the manufacturing base
+of defense that's really bullish
+not just near-term but longer-term
+all right coming up options action
+we go to Chicago and the trade is reversed
+within the last couple hours
+we're going to talk to you about a bunch of bearish bets
+well he flipped
+now a bunch of bullish ones Oliver Renwick
+is found and he'll tell you where next
+all right let's play it options action
+we go to Chicago Oliver Renwick
+from the SIBO Global Markets
+and I said leading in this is a little different
+than what you first saw in the same
+area
+yes god kind of getting bullish
+for the software stocks which went on a nice
+little five-day run they're now
+on par with the magnificent seven this year
+as the IGV rallied 5% the past
+week ahead of earnings for Microsoft
+and service now this week those two stocks
+make up about 13% of
+the ETF and the options action
+here is bullish not from call
+buying today but put selling
+of the five million dollars in options
+traded three and a half million came from
+puts and almost all of it looks initiated
+by sellers led by someone
+who sold one and a half million dollars
+of the 107 strike puts
+expiring December 18th
+which needs the ETF to hold here above
+$110 and then the second
+biggest trade was similar with the twist
+this trader sold almost
+$800,000 of further out
+of the money 105 strike puts
+expiring mid-January
+but they also sold
+$100,000 of the
+130 strike calls for the same
+expiry which at face value
+suggest they think there is capped upside
+but a cap that still gives the IGV
+about an 18% range
+to rally before that second trade
+maxes out Scott.
+OK, Oliver thank you, Oliver Renick
+Jimmy I'll give you the first shot at this one
+Mr. Adobe
+Yeah, well I mean why don't we just
+go there because that's such a
+open wound in my portfolio
+Jim let's go there
+I follow your lead
+Let's start with Adobe
+Let me just do this
+Let me just do this
+Look the stock now
+this specific stock is in the range it's been in
+since the Sasspocalypse worries
+of the first quarter which is $250
+plus or minus $25
+it did recently set a higher low
+I don't want to get too giddy on this
+they're going to report earnings December 9th
+after that I'm going to make a decision
+as a tax loss harvest because as I said
+it's a wealth and an otherwise very good
+portfolio where I've realized gains this year
+so I may use it as a tax
+loss harvest but I'm going to give it one more
+shot at not just
+reporting good earnings but seeing if the market
+will respect the good earnings
+I'm focused on where the relative
+outperformances for the software industry
+you have a lot listen the next
+two weeks we are going to have a significant amount
+of earnings are going to be reported I have three names
+for you it's Datadog, it's Palantir
+it's Trilio the case of Palantir
+looks like it's breaking out
+they report next week Datadog reports next week
+Trilio reports this Thursday
+focus on the relative outperformance
+in the software industry
+it's interesting because maybe the fear of the death
+of software has been one of the most exaggerated
+fears this year and if I look at earnings
+for example for software companies they've held up
+very nicely they beat last quarter
+they likely beat this quarter and
+actually valuations have reset nicely
+so as a result we're just 6% lower
+from the highs on software
+I think Scott longer term
+the true beneficiary of AI
+is what can you do with the models
+and software maybe successful
+alright finals coming up after this
+hope you join me 3 o'clock
+on closing bell
+anthropic early investor Jeff Richards is going to join me
+Alex Cantu it's a big technology
+so we'll kick that story around
+we'll obviously look ahead to the big earnings that are coming in the days ahead
+Chris Harvey, Dan Greenhouse
+Matthew Boss the number one rated retail
+analyst on Wall Street will join us as well
+Weiss you got the first crack at finals
+what do you got? I'm going with Lightos
+the stocks have nice bounce off the lows
+but still off the highs I agree
+that the defense trade
+has got some legs and will continue
+Farmer Jim, excellent mobile
+they're going to report on Friday
+and they have made a lot of money
+and they're likely to continue to do so
+you're tractor on full gasoline right now
+yeah an expensive diesel
+wow
+we've got a guide
+unmarked, farm use only
+data center is down quite a bit
+but the vacancy is only 1%
+let's get past the midterms
+could be a good turnaround
+eBay towards the end of the week after earnings
+alright so we'll track the final stretch
+we got Green across the board
+I'll see you then the exchange is now
+you've been listening to CNBC's
+halftime report the podcast
+you can always catch us live
+weekdays at 12 Eastern
+halftime report participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated by them
+on television, radio, internet or another medium
+you should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy
+but only as an expression of opinion
+such opinions are based upon information
+the halftime report participants consider reliable
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy
+and it should not be relied upon as such
+if you're a halftime report disclaimer please visit
+CNBC.com forward slash halftime report disclaimer
+Toyota trucks are equipped
+for your journey through mountain peaks
+desert trails and weekends off grid
+whether you're heading out solo
+packing up the family
+or towing your gear
+there's a Toyota truck designed to fit your lifestyle
+choose from the forerunner
+Tacoma, Tundra, Sequoia
+and Land Cruiser to take you off the beaten path
+and discover something new
+about the world and yourself
+make every mile count with a Toyota
+truck that's built to outlast
+so you can outlive
