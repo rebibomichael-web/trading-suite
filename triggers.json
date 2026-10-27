@@ -111,7 +111,8 @@
   "NEM|below|111.32": "2026-10-23",
   "CRWD|above|255.2": "2026-10-23",
   "KLAC|below|145.94": "2026-10-23",
-  "META|below|640.82": "2026-10-26"
+  "META|below|640.82": "2026-10-26",
+  "CRWD|above|267.45": "2026-10-27"
  },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
