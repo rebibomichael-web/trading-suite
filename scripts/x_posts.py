@@ -39,6 +39,7 @@ import json
 import os
 import re
 import socket
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -52,6 +53,11 @@ _ISSUE_REF = re.compile(r"#(\d+)")
 # #digits inside the link. Scheme-less text such as x.com/@user and a.co/#5
 # is still a mention and an issue link, so it must be escaped.
 _URL = re.compile(r"https?://[^\s<>]+", re.IGNORECASE)
+# X usernames: 1-15 of [A-Za-z0-9_]. Anything else would build a broken link
+# such as https://@x or https://x.com//status/1.
+_HANDLE = re.compile(r"[A-Za-z0-9_]{1,15}")
+# t.co shortlinks differ on every repost of the same promo text.
+_TCO = re.compile(r"(?:https?://)?t\.co/\S*", re.IGNORECASE)
 
 X_API = "https://api.x.com/2"
 # One call. The API allows 5–100. Replies and reposts are excluded from the
@@ -229,20 +235,47 @@ def _prompt_body(account, posts):
     return "\n\n---\n\n".join(chunks)
 
 
+def clean_handle(handle):
+    """A valid X username without the leading @, or '' when it is not one."""
+    handle = str(handle or "").strip().lstrip("@")
+    return handle if _HANDLE.fullmatch(handle) else ""
+
+
+def profile_url(handle):
+    handle = clean_handle(handle)
+    return f"https://x.com/{handle}" if handle else ""
+
+
+def post_url(handle, post_id):
+    """Canonical https://x.com/<handle>/status/<id>. With a bad handle but a
+    numeric id, X's handle-free https://x.com/i/status/<id> still resolves.
+    A non-numeric id gets no link at all."""
+    post_id = str(post_id or "").strip()
+    if not post_id.isdigit():
+        return ""
+    handle = clean_handle(handle)
+    return f"https://x.com/{handle or 'i'}/status/{post_id}"
+
+
+def _link(label, url):
+    return f"[{label}]({url})" if url else label
+
+
 def _render_account(account, summary, posts):
-    handle = account["handle"]
+    handle = clean_handle(account.get("handle"))
     label = account.get("label") or ""
     head = f"**{account['name']}**"
     if label:
         head += f" · {label}"
-    head += f" · [{handle}](https://x.com/{handle})"
+    if handle:
+        head += f" · [{handle}]({profile_url(handle)})"
     lines = [head, ""]
     if summary:
         lines += [escape_for_issue(summary.strip()), ""]
     for p in posts:
-        url = f"https://x.com/{handle}/status/{p['id']}"
+        url = post_url(handle, p.get("id"))
         lines.append(
-            f"- [{_when(p['created_at'])}]({url}) — "
+            f"- {_link(_when(p['created_at']), url)} — "
             f"{escape_for_issue(_excerpt(p['text']))}"
         )
     return "\n".join(lines)
@@ -260,7 +293,9 @@ def _resolve_user_id(account, rec, token, opener):
     cached = str(rec.get("user_id") or "").strip()
     if cached.isdigit():
         return cached
-    handle = urllib.parse.quote(account["handle"])
+    handle = clean_handle(account.get("handle"))
+    if not handle:
+        raise XUnavailable("bad handle")
     payload = _get_json(f"{X_API}/users/by/username/{handle}", token, opener)
     uid = str((payload.get("data") or {}).get("id") or "")
     if not uid.isdigit():
@@ -310,9 +345,41 @@ def _load_pages(user_id, since_id, until_id, token, opener):
     return pages
 
 
+def _text_key(text):
+    """Dedupe key for a post body. The same promo is reposted under new ids
+    with only a fresh t.co link, case, spacing, or unicode dashes changed."""
+    text = unicodedata.normalize("NFKC", _TCO.sub(" ", text or ""))
+    chars = []
+    for ch in text:
+        cat = unicodedata.category(ch)
+        if cat == "Pd":
+            chars.append("-")
+        elif cat == "Cf":
+            continue                    # zero-width joiners/spaces
+        else:
+            chars.append(ch)
+    return " ".join("".join(chars).casefold().split())
+
+
+def _dedupe(posts):
+    """Drop repeat ids and repeat texts, keeping the earliest (lowest id).
+    posts must already be sorted oldest first."""
+    kept = []
+    seen_ids, seen_text = set(), set()
+    for post in posts:
+        key = _text_key(post["text"])
+        if post["id"] in seen_ids or (key and key in seen_text):
+            continue
+        seen_ids.add(post["id"])
+        seen_text.add(key)
+        kept.append(post)
+    return kept
+
+
 def _merge_pages(pages):
+    """Posts oldest first, deduped. top still counts every returned id
+    (duplicates included) so the cursor steps past the skipped repeats."""
     posts = []
-    seen = set()
     raw = []
     newest = []
     truncated = False
@@ -321,14 +388,11 @@ def _merge_pages(pages):
         if str(meta.get("newest_id") or "").isdigit():
             newest.append(str(meta["newest_id"]))
         raw.extend(_raw_ids(payload))
-        for post in _parse_posts(payload):
-            if post["id"] in seen:
-                continue
-            seen.add(post["id"])
-            posts.append(post)
+        posts.extend(_parse_posts(payload))
         if i == len(pages) - 1 and meta.get("next_token"):
             truncated = True
     posts.sort(key=lambda p: int(p["id"]))
+    posts = _dedupe(posts)
     candidates = [n for n in newest + raw + [p["id"] for p in posts] if str(n).isdigit()]
     top = max(candidates, key=int) if candidates else ""
     return posts, top, truncated
