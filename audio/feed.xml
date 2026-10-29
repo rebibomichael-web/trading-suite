@@ -7,16 +7,16 @@
 <description>Narrated daily YouTube channel digests and CNBC Halftime Report summaries, generated automatically.</description>
 <itunes:author>trading-suite automations</itunes:author>
 <item>
+<title>YouTube digest — 2026-10-29</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-29.mp3" length="1952352" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-29.mp3</guid>
+<pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>YouTube digest — 2026-10-28</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-28.mp3" length="4347216" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-28.mp3</guid>
 <pubDate>Wed, 28 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Halftime Report — 2026-10-27</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-27.mp3" length="2764512" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-27.mp3</guid>
-<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-27</title>
@@ -25,15 +25,21 @@
 <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-26</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-26.mp3" length="2825568" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-26.mp3</guid>
-<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-27</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-27.mp3" length="2764512" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-27.mp3</guid>
+<pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-26</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-26.mp3" length="4692384" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-26.mp3</guid>
+<pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Halftime Report — 2026-10-26</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-26.mp3" length="2825568" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-26.mp3</guid>
 <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -49,22 +55,16 @@
 <pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-23</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-23.mp3" length="0" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-23.mp3</guid>
-<pubDate>Fri, 23 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
 <title>YouTube digest — 2026-10-23</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-23.mp3" length="4323888" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-23.mp3</guid>
 <pubDate>Fri, 23 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-22</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-22.mp3" length="3208320" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-22.mp3</guid>
-<pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-23</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-23.mp3" length="0" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-23.mp3</guid>
+<pubDate>Fri, 23 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-22</title>
@@ -73,10 +73,10 @@
 <pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-21</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-21.mp3" length="3000672" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-21.mp3</guid>
-<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-22</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-22.mp3" length="3208320" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-22.mp3</guid>
+<pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-21</title>
@@ -85,10 +85,10 @@
 <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-20</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-20.mp3" length="2563056" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-20.mp3</guid>
-<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-21</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-21.mp3" length="3000672" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-21.mp3</guid>
+<pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-20</title>
@@ -97,15 +97,21 @@
 <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-19</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-19.mp3" length="2296368" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-19.mp3</guid>
-<pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-20</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-20.mp3" length="2563056" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-20.mp3</guid>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-19</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-19.mp3" length="5725584" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-19.mp3</guid>
+<pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Halftime Report — 2026-10-19</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-19.mp3" length="2296368" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-19.mp3</guid>
 <pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -121,22 +127,16 @@
 <pubDate>Sat, 17 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-16</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-16.mp3" length="2379456" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-16.mp3</guid>
-<pubDate>Fri, 16 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
 <title>YouTube digest — 2026-10-16</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-16.mp3" length="2753424" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-16.mp3</guid>
 <pubDate>Fri, 16 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-15</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-15.mp3" length="2471040" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-15.mp3</guid>
-<pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-16</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-16.mp3" length="2379456" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-16.mp3</guid>
+<pubDate>Fri, 16 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-15</title>
@@ -145,10 +145,10 @@
 <pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-14</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-14.mp3" length="2227392" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-14.mp3</guid>
-<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-15</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-15.mp3" length="2471040" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-15.mp3</guid>
+<pubDate>Thu, 15 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-14</title>
@@ -157,10 +157,10 @@
 <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-13</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-13.mp3" length="3227616" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-13.mp3</guid>
-<pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-14</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-14.mp3" length="2227392" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-14.mp3</guid>
+<pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-13</title>
@@ -169,15 +169,21 @@
 <pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-12</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-12.mp3" length="0" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-12.mp3</guid>
-<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-13</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-13.mp3" length="3227616" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-13.mp3</guid>
+<pubDate>Tue, 13 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-12</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-12.mp3" length="3577968" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-12.mp3</guid>
+<pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Halftime Report — 2026-10-12</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-12.mp3" length="0" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-12.mp3</guid>
 <pubDate>Mon, 12 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -193,22 +199,16 @@
 <pubDate>Sat, 10 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-09</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-09.mp3" length="1966176" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-09.mp3</guid>
-<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
 <title>YouTube digest — 2026-10-09</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-09.mp3" length="4856976" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-09.mp3</guid>
 <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-08</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-08.mp3" length="2509776" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-08.mp3</guid>
-<pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-09</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-09.mp3" length="1966176" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-09.mp3</guid>
+<pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-08</title>
@@ -217,10 +217,10 @@
 <pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-07</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-07.mp3" length="2335536" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-07.mp3</guid>
-<pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-08</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-08.mp3" length="2509776" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-08.mp3</guid>
+<pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-07</title>
@@ -229,15 +229,21 @@
 <pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-06</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-06.mp3" length="3002976" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-06.mp3</guid>
-<pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-10-07</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-07.mp3" length="2335536" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-07.mp3</guid>
+<pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>YouTube digest — 2026-10-06</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-06.mp3" length="5520096" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-06.mp3</guid>
+<pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Halftime Report — 2026-10-06</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-06.mp3" length="3002976" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-06.mp3</guid>
 <pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -259,15 +265,15 @@
 <pubDate>Sat, 03 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-10-02</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-02.mp3" length="2463984" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-02.mp3</guid>
-<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
 <title>YouTube digest — 2026-10-02</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-02.mp3" length="2963232" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-02.mp3</guid>
+<pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Halftime Report — 2026-10-02</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-02.mp3" length="2463984" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-02.mp3</guid>
 <pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
@@ -277,40 +283,16 @@
 <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-09-30</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-30.mp3" length="2884752" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-30.mp3</guid>
-<pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
 <title>YouTube digest — 2026-09-30</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-30.mp3" length="1848672" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-30.mp3</guid>
 <pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Halftime Report — 2026-09-29</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-29.mp3" length="2730384" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-29.mp3</guid>
-<pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>YouTube digest — 2026-09-29</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-29.mp3" length="4754160" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-29.mp3</guid>
-<pubDate>Tue, 29 Sep 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Halftime Report — 2026-09-28</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-28.mp3" length="2055312" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-28.mp3</guid>
-<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>YouTube digest — 2026-09-28</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-28.mp3" length="2968704" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-09-28.mp3</guid>
-<pubDate>Mon, 28 Sep 2026 07:00:00 +0000</pubDate>
+<title>Halftime Report — 2026-09-30</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-30.mp3" length="2884752" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-09-30.mp3</guid>
+<pubDate>Wed, 30 Sep 2026 07:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
