@@ -1,0 +1,1295 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+We need things to change.
+We need them to change quickly.
+The war, the tariffs, the corruption.
+It all cost us.
+Ashley Henson's been a part of it all.
+Her votes speak for themselves.
+And she's gotten $8 million richer.
+I voted for Trump, but I could not vote for that.
+Josh Turrick's not like anyone else in Washington.
+Josh Turrick gets what it's like to struggle.
+He cares about Iowa.
+We just have to try something different.
+And that's Josh Turrick.
+Paid for by WinCenter, which is responsible for the content of the sad WinCenter.org.
+Not authorized by any candidate or candidate's committee.
+Thanks very much.
+Welcome to the Halftime Report.
+I'm Scott Wapner, front and center this hour.
+The tech fallout from several key earnings reports, and not just the mega caps either.
+We'll trade the big movers today with the investment committee joining me for the hour.
+Josh Brown, Liz Thomas, Kevin Simpson, and Rob Siechen.
+Check the markets for you right now, and you will see the clear picture today.
+We are red.
+NASDAQ's leading the way.
+Lower Dow's negative, but it's largely as a result of the same story.
+Alphabet is a hurt on both accounts.
+Caterpillar's hurting the Dow.
+Just keep all that in mind, but we need to talk about Alphabet.
+This is the worst post-earning stock performance ever, ever.
+Why?
+Because search revenue missed.
+That's the headline.
+And that was the big fear from the very moment that chat GPT came on the market.
+It just seems to be a lag effect.
+Is that how you think we should look at this for Alphabet?
+What's your big takeaway here?
+Yeah, I don't like that YouTube missed either, but putting that aside on the search question.
+If you go back two years ago, I think it was two summers ago when Alphabet was under pressure,
+because the narrative around the idea of search was that,
+well, why would people bother searching when they can just get the answer somewhere else?
+And so there was this really big fear that people would go direct to Claude,
+direct to chat GPT, and direct to, if you could believe this now,
+perplexity and bypass the 12th blue links.
+That is the lifeblood of Alphabet's revenue.
+It didn't work out that way.
+So Alphabet shares got a reprieve when people realized,
+oh, wait a minute, they're leaning all the way into LLMs.
+Also, they have Gemini.
+They're going to put an AI summary on top of the blue links.
+The Google search will be alive and well.
+Maybe it was premature to say that there would be no cannibalization whatsoever.
+And maybe now that we've got a larger user base on chat GPT, on Claude,
+maybe all of a sudden it's becoming apparent,
+hey, look, Google has competition for the first time in search in its entire history.
+That's what it feels like the market is trying to decide today.
+This isn't a catastrophic day.
+I know historically we haven't had double-digit selloffs in Alphabet in a long time
+after reporting a quarter, but this doesn't seem like we've all decided,
+yes, search is screwed, it's over.
+It's just, it's another, look, it's another question.
+In the same way that Netflix now has to contend with people
+spending more of their time on Instagram Reels and YouTube,
+like everybody has competition.
+It's just that for Google search, there actually wasn't any competition
+for its entire 25-year history, and now there is.
+Not everybody has competition to their bread and butter.
+Yeah, you're right.
+To their big business.
+I mean, Gil Lurie of DA Davidson on SquawkBox this morning says,
+quote, this is the quarter that we feared.
+All of a sudden the change in behavior to AI is ruining this goose
+that lays the golden eggs for Google.
+Ben writes this of Melius pretty much just as downbeat,
+saying the slowdown is not going to be temporary,
+but the start of even more erosion.
+He says, quote, we could finally see secular issues rear their head
+with a second consecutive quarter of deceleration.
+How big of a problem is this for a shareholder in Alphabet today?
+Yes, and we reduced the neutral early in the year like Jim did,
+but the reality of it is, I think we're in a place
+where the entire market is moving from where you're getting
+rewarded for spending on AI to where you're having to prove
+that you're monetizing AI.
+I actually think it's a little earlier than it should be personally.
+And I think it's going to pay to be patient with Google.
+They're the Alphabet rather.
+They're the only company that really has been able to finance
+their build out from their legacy business really effectively.
+The reality of it is, though, is that legacy business,
+which is the cash cow, how do you build a great company?
+Is you build an engine too to disrupt your engine one?
+That is really what business is about.
+If you can identify that, you're going to be in a good position.
+You think they can build an engine as powerful as engine one?
+Because, I mean, engine one.
+They're the only.
+Engine one was like rocket ship.
+And now we're back in the lab,
+and we're trying to build a more capable engine to compete
+with that, and that doesn't seem like it's possible.
+What is the alternative to be completely disrupted?
+I mean, they're the only company combining
+compute, internal chips, AI models, and users.
+No, by the way, Google Cloud was a bright spot too.
+100%.
+It was up 103%.
+Right?
+I mean, ridiculous results.
+Anecdotally, though.
+The last 10 things that you wanted to know about,
+I don't know if it's like,
+oh, where do I know this actor on this TV show from,
+or how much should I pay for a flight to?
+You're going somewhere else.
+But I'm saying, like, it was only Google,
+and then Google would say, thanks for using our service.
+Here's a treasure hunt.
+You can go to these five sites and attempt to find the answer.
+And now I tell Instinct what I want to know.
+And the agents do it.
+It gives me the answer.
+And now not only what do I want to know,
+but go do it.
+I don't want to book a table on Resi.
+Connect with my Resi and get me a table.
+And that's a new world for Google.
+I think a lot of people didn't want to get too pessimistic
+because we did that two summers ago
+and then ended up looking stupid
+when Alphabet was at a new high.
+That was the question, right, Josh?
+Monetizing the AI.
+Everybody bet that they would not be able to do it.
+That was a bad bet.
+No question that was a bad bet.
+And they'd be disrupted immediately.
+The great thing is they've had time to try to figure it out.
+Again, you're going to get ebbs and flows in these things.
+And you've got to be prepared to stick it out.
+I would trim when any of these companies
+gets too ahead of itself from a multiple standpoint.
+But the question is, you say
+you're going to get ebbs and flows.
+The commentary suggests, no, you're not going to get both,
+that this is a clear sign that you're going to get more ebbs
+than flows.
+And I think that has to be the case.
+Josh used the word cannibalization.
+They're doing it to themselves.
+So if it's an engine 2.0, it's their site
+and maybe they can even replicate what instinct is doing.
+But where you're losing the revenue is from advertising.
+So they have the eyeballs. They have the users.
+And that's great for a business.
+But that's not great for the stock.
+So I'm a shareholder. I own 3%.
+I'm going to wait it out for the next quarter
+and see what happens.
+But I think that the reality is that this golden goose,
+as you totally correctly coined this,
+is going to continue to see a deceleration of advertising.
+And that's a problem.
+Dan Ives is out.
+So I mentioned Luria writes this.
+They're obviously more negative.
+And if Ives was sitting right here,
+I swear I would say this to his face.
+He says this is the cloud print we've been waiting for.
+And in our view it matters more than the lighter search number
+the bears will lean on tonight.
+I mean, really?
+The problem with that view is that cloud margins
+were basically flat.
+So if you want to ignore what happened in search
+and hang on the cloud,
+even if it was a bright spot,
+I don't know.
+I don't know how credible that view is.
+It's half of what their revenue was from advertising.
+$60 billion versus $30 billion.
+The reason why the bears are leaning on the search
+is because it is their golden goose.
+Exactly.
+So management said AI mode queries monetize
+at a lower absolute outlet level than search queries.
+That actually makes sense.
+A lot of the time when you have a question about something,
+you don't need to click over to something.
+You can just get the answer.
+So that actually makes sense.
+Query growth is at a five-year high.
+So this is not people not using Google.
+This is people continuing to use Google,
+but Google not yet having figured out a new model
+where you deliver the answer to somebody
+and make as much as when you send that someone to Expedia.
+And they have to figure that out.
+That's 100% it.
+It's those companies that own the customer
+that still have the opportunity.
+And I wouldn't jettison them yet.
+Not at all.
+Because they do own the customer.
+I think that's Josh's point.
+People are still going.
+I think this is how every innovation cycle goes.
+You've got new companies that come out
+with what is their golden goose.
+So we've got ChatGPT and Anthropic.
+That's the new golden goose of AI.
+And then you've got these incumbents,
+existing companies that really have the strength,
+the user base.
+And over time they have to figure out
+how to morph their business model
+in order to stay relevant.
+I think Google's trying to do that.
+Alphabet's trying to do that.
+I mean, look at what happened back in the Internet
+when it took us 10 to 15 years for companies
+to figure out how to monetize e-commerce.
+But it didn't kill everybody.
+It's just that a lot of the companies
+that existed as brick and mortar
+then had to figure out how to make money
+with online sales.
+I think this will be similar.
+It's not going to happen in one quarter.
+And it's going to be lumpy as we go.
+But I wouldn't be betting on some of these
+large, cash-rich, established
+customer-based companies.
+I wouldn't bet that they're going to just disappear
+because we've got some shiny things.
+No.
+And certainly nobody is suggesting,
+like, disappears a strong word.
+Yes.
+That's a very strong word.
+And I think way too strong.
+And I don't think anybody is suggesting that.
+But even incremental market share changes
+are meaningful when you're talking about
+when you have dominant market share
+and then you start to see things
+that could potentially erode that.
+Your cash flow negative.
+You're borrowing a lot of money
+to continue to spend at the expense
+of your free cash flow.
+All of these issues continue to
+weigh on the stock and sentiment
+for that matter.
+19 target cuts.
+Jim Laventhal joins us here.
+So he trimmed Alphabet back in January.
+But let's make no mistake about it.
+And we gave you a lot of praise
+when you stuck with this name
+through thick and thin
+at the EBS, you know, the EBS
+hoping for the flows.
+And what are you doing with this
+stock now?
+And why?
+Taking it further down
+underweight to the market.
+So about three and a half percent
+is my weighting S&P 500
+about five and a half percent.
+Here's why.
+I just don't think the negative narrative
+is going to change anytime soon.
+The search questions
+that you all are talking about,
+they're going to continue.
+There's nothing I can see that's going to change
+that narrative for the next several months.
+And on top of that, we're in an environment,
+Scott, as you pointed out,
+negative free cash flow questions
+about heavy
+across the AI complex.
+I just don't think the stock is going to go
+anywhere for the next couple of quarters.
+I can see a lot of positives,
+by the way.
+I can come up with a few ways to fix search
+and let's not, you know, give
+short shrift to the tensor processing
+units or to Google Cloud, not
+astounding the margins of the growth rates there
+over 100 percent.
+But just as a portfolio manager,
+the money that I'm taking out, I'm going to look
+for something that's going to move
+in the next few months where I just think
+Alphabet's going to be stuck in this narrative
+for a while.
+But like, I mean,
+wasn't the writing on the wall
+for this?
+It just
+is happening a little later
+than people like you expected it to.
+That
+the introduction of
+the large language models
+was simply going to
+present a lag
+effect
+until you finally started to see
+some degree of impact
+to search
+and to market share
+and the reasons why some
+at that time had sold the stock
+at least took some profits
+rather than stick with it
+missing the point
+that maybe this was
+and I'm not saying definitively
+but maybe this was inevitable
+it just took longer
+to actually see it.
+Yeah, so let me take your question
+Scott and use it to justify
+even retaining a small three and a half
+percent position.
+I start by saying,
+you know, the search revenue was up
+12 percent on a gargantuan
+business up 12 percent year over year
+with a very difficult
+comp. I don't think we should
+be too negative about that.
+With regards to though your
+overarching point aren't the large
+language models going to eat their lunch.
+I point out that obviously Google
+is a alphabet as a player in the
+large language model universe
+and I imminently think that
+search is fixable. You know,
+Josh was pointing out the AI mode.
+I don't know how many people like me
+when you get the answer from the AI
+mode you quick click on the source.
+AI mode could simply be truncated
+so that you're almost intellectually
+forced to click on the source
+and you're advertising from that.
+It just seems very fixable to me.
+So that's why I'm sticking with it.
+But I'm not ignoring what you're saying
+that there are competitive threats here.
+Hey Jim,
+I actually agree with what you're
+saying even though you're standing
+in front of the curtains from the
+tonight show.
+I wanted to ask you
+if you're thinking about this the same
+way that I have learned with Uber
+sometimes when a new narrative takes over
+fundamentals almost don't matter anymore.
+So Google has
+decelerated on search. It's 19%
+two quarters ago and then 17
+and now 12. It seems
+like the pace of deceleration is actually
+quickening. If they come out
+next quarter and say search was
+up 14, is all
+forgiven or
+is the reason you took this down
+to a below neutral waiting
+because almost no matter what the
+fundamentals say now, this will be
+the rationale that's hanging
+that's hanging over this name
+probably until they can completely
+disprove and I don't even
+know how they do that. Is that the rationale
+behind just saying you know what
+it's 15 times forward earnings but
+I'm getting out of the way because it's not going to matter.
+I don't think this
+is as bad a story. Forgive me
+for saying that as Uber or Netflix
+which you referred to earlier.
+Those stocks have been in a very
+long penalty box
+I think this is more akin to some of the other
+mega cap tech stocks
+that have stumbled over the years like
+Microsoft a couple years ago we were talking
+about like how does it get out
+of its doldrums and now it's it's roaring
+meta is back and forth but
+I use that as another example. So here's the
+answer. If you get next quarter
+14% search growth to use
+your number all is forgiven
+on the other hand, Josh, if
+you get another underperformance and search
+the time in the penalty box
+gets extended and it's not just
+one quarter of good results that gets
+you out. You know this, right? If you have
+an extended period of underperformance
+you're going to have to have an extended period of
+outperformance to get out of the penalty box.
+Jimmy, appreciate it.
+We'll see you back on the desk.
+Thanks for coming on with us.
+Curtains and all. We appreciate it.
+In a normal environment what Alphabet
+would be doing is raising its buyback
+authorization because they are making a
+ton of money and that would be the
+real brain or thing to do.
+It's not that it would instantly fix
+the stock or stop it from falling.
+It would give the shareholders some
+confidence that management
+is going to take advantage of this
+decline. We're not a normal environment.
+These companies are deliberately going
+free cash flow negative.
+They spent 10 years buying back stock.
+Now they're selling stock. They're going to market
+I don't think doing at the market
+offers which
+mentally they act like a shelf
+oh anytime Google is good news
+don't even bother chasing it because
+they're just going to dump more stock on your head
+like I don't really know
+what the executive playbook
+here is if you're sitting in the
+C-suite at Google. This was either the second
+or third consecutive quarter with
+no buyback announcement
+which I think was the longest drought
+in several years.
+Let's flip to Microsoft because
+it is the flip side
+in many ways of this story.
+You know 48% up from 42%
+that's really the headline
+and the reason why if you got 19 price
+target cuts
+for Alphabet you got 19 price
+target hikes for Microsoft
+and you also got a contrasting
+statement from Deil Lurie. I mentioned
+what he said from D.A. Davidson
+about Alphabet. Well here's what he says
+about Microsoft.
+Good quarter for a clean beat
+Microsoft continues to take the conservative
+road by guiding to a further capex growth
+yet also reassuring investors
+they'll remain free cash flow positive
+we reiterate our buy
+raise our price target to 650
+it was at 550.
+You know Rob this is the
+180 story I guess
+from what we're seeing in the market
+Microsoft has since gone negative but the market's kind of
+getting dragged today as well. How do you see this?
+In addition with Microsoft
+there's certainly some questions today
+around earnings quality
+just due to the nature of the relationship
+with open AI and
+how their 10 billion of their revenue
+was tied to open AI
+so that was a little bit of an issue
+capex a little lighter too.
+I'm not surprised to see that
+but it had a very strong
+quarter operationally
+ZOR 42 to 48%
+so accelerating
+you know this is a company that can
+fire on all cylinders and it is
+an office has proved to be
+something that is not
+replaceable and is benefiting
+in that ecosystem where
+you know Google obviously has had
+alphabets had a little trouble with
+the search business so I think it is a
+different business
+and one that's positioned a little
+better right here. Microsoft did
+the same thing that Oracle
+did where
+and Meta did rather than
+go further out on the capex
+it kind of held things intact for the
+most part and I know the capex
+number was down this quarter relative to
+the expected because the delivery
+timing on a data center slipped
+the quarter ignoring all that
+noise what they're not doing anymore
+is throw 20 billion
+on top for 27. They're reading the room
+they're reading the room. I think
+that's going to help. You know what they did last time too
+is I think we said the exact same thing
+when we talked about
+Amy Hood last quarter CFO
+saying freecast flow positive
+it kind of we I think we literally
+those words last time they read the room
+and that's why the stock from last
+earnings report to going into
+this look pretty darn good
+they read the room and maybe now
+they're reading the room again.
+Well
+1000% Microsoft is
+and that and that
+capex delay was only five billion
+sounds like a big number it's not that
+imperative in the scheme
+of things are that important but freecast flow
+was down I mean it's
+saying all the right things and I'm
+thrilled with the report I mean you look at that
+Azure number and to your point of
+Amazon's keeping close with AWS it's going to be
+fantastic well it sets the stage
+but it sets the high right
+I mean but that that Azure
+growth number
+sets the stage for now what AWS
+tonight
+has to live up to you see it that way we
+bought more Amazon last week with
+expectations that these would both be good
+and welcome to the party I wish
+well my track record with you
+hasn't been that great I know we'll get into that later
+but I think we're going to be okay with
+this one. Revenue growth accelerating
+for five quarters in a row
+obviously like everybody else you're worried about the cost
+to achieve that accelerating
+revenue growth that's going to be on the plate tonight
+Gene Munster posting on
+X earlier I'm also getting more
+concerned about Amazon
+because personalized bots will
+make it easy to find just where you're
+looking for making them a logical starting
+point for anything we buy again
+this is talking about in part
+eating at the core
+Amazon wins for three reasons number
+one find what you want number two
+speed number three trust
+number one will increasingly be
+under attack early data says
+this is happening well about that
+well Amazon
+basically is blocking
+other people's personal
+bots from from hitting the side
+or completing transactions because I think
+that is absolutely true that
+is a concern I don't know how much of a concern
+it is or how quickly like
+it'll show up in the numbers but I think
+from the Amazon perspective
+their argument would be well we have a shopping bot
+it's called Rufus AI it sits
+on the site it's in the app
+and if you have a question you're looking for something
+you'll use that I don't know if that's
+good enough that's their answer for now they don't
+have Zuckerberg keeps talking about how
+Muse is going to be the
+source which is one of the sources for
+reason why
+Munster is
+as concerned as he as he sounds because
+like people are going to use
+Muse
+over Rufus
+you know what so that could
+end up being true
+we're an instinct household my
+wife and kids we're all on instinct
+I mean to me
+if somebody's like Muse is better
+I'll be like alright cool I use Muse now
+so I'm not a thousand percent
+sure that that
+Amazon can't do something similar
+or partner and actually
+it's interesting Walmart went the other way
+they're like bring it we'll take all the
+you know take all the bots that want to
+place orders and that's interesting people
+are going to pick their agent partner
+mines named Pickles and in Muse
+I am telling you it's
+amazing with the capability only imagine
+what kind of
+you know like Pickles
+my friends names meatballs so what does
+that mean then for how you view the stock
+so meta or Amazon
+Amazon Amazon listen
+the stock trades at
+22 times earnings I think it's
+re-rated quite a bit I think
+AWS is the focus tonight capital
+spending's the focus tonight
+that is what we have to watch I
+fully suspect again using
+the ebb and flow there's going to be different
+winners that emerge I'm going to tell you this
+when we look at the private investment
+landscape and we see the
+amount of demand for product
+whether it be for Fiber
+or anything that goes into data centers
+and is supporting this ecosystem
+the contracted demand
+is so it's far as far out as
+the eyes can see and so I fully
+expected you asked me last week
+are you running the ball or you throwing the ball down
+feel it I was the only one on the desk
+that said I'm running the ball Josh wasn't
+here I think you would have echoed it but
+the reality of it is it's a time
+for the market to digest this news
+it's digesting that news
+I think this is a long-term
+secular theme and if you believe
+this broadening out it's going to continue
+we're going to get low rate
+there's two bets I'm making
+number one the shock absorber
+that you get from fixed income right now
+is still as attractive as it's ever been
+and number two this theme is not going away
+the spending is going to continue
+it might be tough right now
+and I think it will be
+on the other side of this it's going to be explosive
+they only have the
+I'm sorry let's go ahead
+why don't you just give us sort of the last
+word if you will on this block
+after listening to all the conversations
+somebody who obviously doesn't own the individual
+stocks can't speak to those but you must
+have a sort of broad thought
+now that we're getting through the heart of these
+I think we have to separate
+the conversation around AI as a theme
+and a technology which I do still think
+is in the early innings and it has a long
+way to go to be integrated into our
+economy and businesses and create profitability
+for a lot of different sectors
+if not every single sector
+but then we've got the market side of the equation
+and investors who are
+really sharpening their print pencils
+and looking at where do I want to spend my dollars
+and I think the discernment that we've
+seen on behalf of investors this year
+is absolutely the right way to look at this
+I think through the end of the year and into
+27 it's going to be
+lumpy and it's no longer this
+theme that if you just say AI
+the stock goes up so I think
+focusing on companies that are
+high quality sometimes
+low volatility if you just look at the factors
+that investors have rotated into
+momentum has been all but left
+for dead we've got value we've got
+quality we've got low vol leading that
+and I think you have to be careful about
+where you're putting your dollars and
+I agree with Rob that fixed income
+particularly treasuries which I've been pounding
+the table about for the last month or so
+are offering a really good alternative so
+don't forget about the little stuff
+okay we'll take a break come back
+we'll have some committee moves to tell you about
+Kevin Simpson is ready with a brand new buy
+and later Josh Brown
+best stocks in the market
+back at this
+we need things to change
+we need them to change quickly
+the war the tariffs the corruption
+it all cost us
+Ashley Henson's been a part of it all
+her votes speak for themselves and she's gotten
+8 million dollars richer
+but I could not vote for that
+Josh Turrick's not like anyone else in Washington
+Josh Turrick gets what it's like to struggle
+he cares about Iowa
+we just have to try something different
+and that's Josh Turrick
+paid for by wind senate which is responsible for the content
+of the sad wind senate.org not authorized by any
+candidate or candidate's committee
+AI is here transforming how we work
+live and lead and the women
+I talk to aren't waiting for the future
+they're shaping it I'm Julia
+Borstin senior media and tech correspondent
+at CNBC
+this is CNBC Changemakers
+where I talk with the female leaders transforming
+business as AI
+reshapes the world
+follow and listen to CNBC Changemakers
+women leading in the age of AI
+wherever you get your podcasts
+welcome back told you Kevin Simpson
+has a brand new buy
+and it's booking holdings
+tell us more
+this is a little step out for us
+in our flagship strategy
+savings has been destroyed
+with this disintermediation play with AI
+and I think there's an opportunity here
+Josh I know you follow it
+but I look at this fundamentally
+17 times trailing earnings
+13.5 times forward earnings
+there's a dividend here
+they did a dividend increase
+the management's buying back shares
+those are the things that I like
+could this company be disintermediated
+yeah I think it's possible
+any one of these could be
+when you talk about all the agents coming into play
+and utilizing travel
+sources I think that they're integrating
+their AI to be able to
+absorb that and make it friendly
+and convenient so we have a starter position
+here they report earnings next week
+I think it can be a big time winner
+if they're successful now of course if they're not
+this could go in the other direction so I wouldn't
+follow me into this in a big way
+but I like the trade I like the price here
+I like everything you've said about it
+and I'm on board
+on your best stocks
+I don't think you had this but you had Expedia
+and maybe late summer
+I always used to think this stock was Burger King
+because of the ticker
+I've favored Expedia
+but I do think that
+I think both
+can continue to work
+I understand the argument about disintermediation
+but that argument has been
+made in prior eras
+for different reasons in the end
+it's really hard to secure
+a hotel room inventory
+this is not like oh just spin me up a list
+of all the hotels that have
+available rooms like a startup could just
+oh we're also Expedia now
+what's more likely is that
+all of these people's
+agentic services
+and products are gonna play nice
+with the companies that are
+booking travel now for like three
+decades for people
+I think the airlines work like working
+with these guys too
+this is the best part of consumer spending
+that's not gonna change
+so I like Kevin's play here
+let's talk about some other software stuff
+going on service now
+take a look at that stock
+Rob I need you to hit this one
+because the stock's getting hammered
+looking more like service later
+what do you think Judge
+26%
+in need of service
+it is still a wonderful business
+it's up 60%
+the multiple move from 20 to 30
+it's re-rated back to 25
+this is a story of
+good not being good enough
+not fundamental deterioration
+it's still a strong grower
+still a strong free cash flow
+it is investing in the AI
+business not seeing the
+monetization I like that
+but it's not
+getting destroyed by AI
+I think this is a great stock
+it's probably a time
+to buy into service now
+about Fortinet that's down a bunch today too
+isn't it their guidance was light
+gross margins
+amiss
+same story in software
+I mean again a company that's up
+I think 120%
+and it needed to reset
+I mean it's just moved monster
+and I think a lot of these other
+cyber names are down in sympathy
+I would be surprised not as much
+I think the story on Fortinet is
+they're not going to win
+if this becomes another platform business
+where the enterprise chooses
+one vendor it's like
+less likely that Palo Alto
+and CrowdStrike are going to lose business
+to Fortinet versus vice versa
+it's a tough day for them
+they are the only one that provides
+end to end the combination of
+software and hardware
+provides a stickier base
+so if you have the stickiest customer
+audience and I love CrowdStrike
+too I can't say anything bad about that company
+it's unbelievable it's never
+just been cheap enough for us to buy it
+this company did we bought it
+Jeffery says the following
+the biggest question from here given the magnitude
+of the deceleration and the elevated historical multiples
+on any sort of absolute
+or relative comparison
+is if this is the all clear
+for folks to start tactically shorting cyber
+right that this is the first
+move to that
+or if this is just more of a one-off
+obviously betting on the one-off
+but you call it a reset
+I think it's a valuation reset
+I really do
+I don't believe it's a
+I believe it is a one-off
+I don't believe that this is a full rewriting
+how can you say
+that security given what is happening
+in the ecosystem is going to take
+a back seat to anything
+I understand that but does that necessarily mean
+that that rising tide lifts every single boat
+no it doesn't in fact quite to the contrary
+I think you have to be selective
+what you've noticed in software
+is we shouldn't be treating all these companies equally
+there should be some distinction
+in you know again
+we are focused on this one because
+when we entered we had to be patient
+with it but it's still been a huge winner
+real quick I mean there by the way
+Josh's best stocks
+is from this orbit too so
+what a tease
+I couldn't disagree with the shorting of this sector
+at all in any way shape or form
+I think there might be something specific
+with this particular name
+I don't want to start a rumor but I've heard some things
+that it's very stock specific
+with respect to this company
+okay
+that's what I think too
+Julia Borson has our CNBC news update
+hi there
+now for the delivery of supplies
+and for the evacuation of hundreds of people
+Spanish authorities say
+the death toll in yesterday's deadly
+high-speed train crash has risen to 69
+Spain's transport minister
+says a train slammed into a
+stop train ahead of it
+yesterday after it was authorized to continue
+on its journey the Spanish government
+called the decision to allow it to proceed
+inexplicable and declare
+three days of mourning
+and the Pentagon is reportedly treating
+a series of freezer malfunctions
+at military bases across the U.S.
+as a suspected hack
+four officials familiar with the matter
+tell Reuters military investigators
+are in touch with their French counterparts
+about a similar cyber attack
+on commercial freezers earlier this month
+the hack in Europe hit more than
+350 supermarkets
+and could cost tens of millions of euros
+halftime report is back right after this
+it all cost us
+Ashley Henson's been a part of it all
+her votes speak for themselves
+and she's gotten eight million dollars richer
+I voted for Trump but I could not vote for that
+Josh Turrick's not like anyone else in Washington
+Josh Turrick gets what it's like
+to struggle he cares about Iowa
+we just have to try something
+different and that's Josh Turrick
+paid for by wind senate which is responsible
+for the content of the sand wind senate.org
+not authorized by any candidate or candidates committee
+AI is here transforming
+how we work live and
+lead and the women I talked to
+aren't waiting for the future they're shaping it
+I'm Julia Borsden senior
+media and tech correspondent at CNBC
+this is CNBC Changemakers
+where I talk with the female leaders
+transforming business as
+AI reshapes the world
+follow and listen to CNBC Changemakers
+women leading in the age of
+AI wherever you get your podcasts
+welcome back to the halftime report
+I'm Dominic Chew with today's ETF edge
+with the Fed standing still on rates
+should ETF investors move
+into specific parts of the equities market
+joining me now is Bryant van Cronkite
+senior portfolio manager at all spring
+global investments
+given everything we've seen with rates
+and what we know about earning seasons so far
+Bryant and the Fed yesterday
+we're exactly of the opportunities
+presenting themselves in equity markets right now
+yeah gonna be with you today
+markets are giving us a lot of opportunity
+to put capital to work right now
+not only is the Fed giving us a chance
+by their lack of clarity on policy
+and reaction function
+but earnings season right now is creating a lot of opportunities
+for us and so today we're finding opportunities
+in hyperscalers I know the Google news yesterday
+was shocking to a lot of people
+that might be a big opportunity
+when we look back a year from now
+seeing opportunity in defense stocks and aerospace
+and the healthcare sector looks really good to me too
+so between earnings and the macro
+a lot of places to put money to work right now
+now it doesn't worry you at all that we are seeing some
+volatility in this kind of hyperscalers
+slash AI trade there are a lot of factors
+of play right now not the least
+of which is the debt markets and concerns on
+credits what exactly would you be doing
+what criteria are you looking at
+for where these opportunities are
+well as an investor
+volatility is our friend we need that
+volatility to create any efficiencies that we can exploit
+and so do we worry yeah we worry about
+things like financing costs
+and we worry about things like cap X budgets
+but ultimately we think there's opportunity now
+to become a stock picker
+the market's been very thematically based
+for a long time and it's moving stocks in groups
+but now we're getting a chance to differentiate
+you're seeing it with Google for example
+we think the Google news is a bit overblown
+in the long run we need to rush back into it today
+but in the long run it's overblown
+and so volatility is good for us
+and I think now is a chance to become a stock picker again
+where that's been hard to do over the last
+call it 12 to 18 months
+you mentioned aerospace as well where you're looking there
+aerospace I like Raytheon a lot right now
+aerospace and defense in general is looking more
+attractive that category
+sold off largely because of concerns
+around some of the funding that could happen
+that could go down in the defense area
+but aerospace is a very long cycle
+and visibility is growing the book to bills
+on both the defense side for Raytheon
+and the aerospace side is looking very good
+visibility is getting greater and greater
+and we see a chance for not only really strong
+revenue growth on both sides of their business
+but also margin expansion that will lead to a lot
+of free cash flow that free cash flow
+so we're excited about Raytheon
+Brian van Cronk had it all spring
+we're going to continue this conversation over at
+etfedge.cmvc.com
+Brian's going to be joined by Jeffrey Rosenberg
+Senior Portfolio Manager of BlackRock's
+Systematic Alternatives ETF
+Scott I'll send things back over to you
+I don't thank you the domino up next
+Josh Brown has his best stocks in the market
+he is focused on the levels
+of one big cyber name as we teased earlier
+we'll talk about it next
+Let's do best stocks
+we'll talk about it next year
+but exactly where
+Identity
+so if you believe in the
+agentic AI future
+and I definitely do
+then the one thing that's really obvious is
+businesses
+companies enterprises governments
+we're going to have a really difficult time
+deciding who is who
+and who is supposed to have this level of
+access and how do I follow
+the behavior of this agent
+that's inside of my system
+so when I saw George Kurtz the other day
+at CrowdStrike he was saying
+the entire history of cyber security
+was like defending a wall
+nobody can get in
+with agents it's not that anymore
+now we're going to let the agents in
+so now the question is well how do we
+permission and how do we monitor
+so agentic safety is the trade
+Okta is the name of the stock
+Okta
+security vendors have spent 2026
+acquiring identity companies
+Palo Alto closed cyber
+deal for 25 billion back in February
+Cisco bought somebody
+sale point service now
+everybody is buying identity
+this is the biggest this is
+the incumbent that owns the identity
+space as a pure play
+Okta has 20,000 customers
+including two thirds of the fortune
+100 but while they
+dominate identity it's
+$39 billion enterprise value it's tiny
+compared to the Palo Alto
+the cyber so for that
+the CrowdStrike so for that reason
+people have talked about this as a takeover
+target I'm not going to tell you that I know
+anything about any M&A here but what I would
+say we're set up here
+for the potential breakout at
+235 the stocks 217
+and one of the things I pay attention
+to with my list of best stocks
+is not how they handle good news
+good news takes care of itself
+how do these stocks handle when I say
+they handle how do the buyers and sellers
+behave in the presence of not so good
+news Fortinet blowing up
+23% overnight and this
+stock being down 2% tells
+me everything that I want to know
+about whether or not a breakout
+is more likely than a breakdown
+so here's what we're doing 190
+is a pretty obvious level
+line in the sand not only is it
+that rise in 50 day which the stock
+is bounced off twice in the last couple
+of months it's also where the buyers
+have been showing up on a regular
+basis so we're going to use
+190 as our area to say
+if this stock on high volume
+breaks below on a closing basis
+it's over we don't want it anymore
+if it stays above I think you want to
+have your eyes on the price that
+235 level would be a massive
+breakout and I could see the stock going
+substantially higher so I like the
+risk reward from where the stock is
+today and how it's weathering
+that Fortinet blow up all right
+I know I went long but I'm also
+really good at this and I think it was
+worth it for the viewers
+I feel bad I don't want to take over
+the whole show I actually agree
+my guy you wouldn't mind if you
+you wouldn't mind if you get over
+no I don't want to be like no you do
+I don't
+you do I don't mean to be like
+that I believe that part of it
+I don't
+options access next
+options action time Oliver
+Renek is at the SIBO global markets in
+Chicago what is the
+options market saying about Amazon
+here just a few hours before we
+get down to it
+nervy Scott and I think that's
+understandable given the mag 7
+earnings flops that are kind of piling
+up it's also just been a very choppy
+year of price action for Amazon
+options traders think it could move
+almost 8% after its report
+today which would be pretty big
+compared to most other earnings the
+other than last quarter which was
+a huge rally problem is
+that rally has now all but been
+erased 450,000
+options traded on Amazon so far
+this morning over 60% were calls
+with about a hundred million dollars
+of premium tied to likely
+call buying one trade
+I saw I think reflects the situation
+well this person sold
+both puts and calls
+expiring for June next year
+but the put they sold was much closer
+to the money at the 220 strike
+which is about 25 bucks lower
+versus the call they sold
+which was at 330 that's more
+than $80 higher
+so they think likely number one
+vol for Amazon is price too high
+right now but also number two
+if there is a big move between now and
+next summer it's more likely to be to the
+upside Scott okay Oliver
+thanks have you got a thought here
+before we get to it it's a great
+trade I mean I think that that's an excellent trade
+I love the play I love Amazon
+hasn't moved that much but you're talking
+about a stock but I think it's going to
+really take its cue
+from what we saw yesterday so I'm expecting
+good things thanks yeah we'll
+obviously at three o'clock we're going to walk you right up
+to that I've got Stephanie link she's in it
+snipe Mark Mahaney so
+we'll surround that we'll do finals after this
+Liz Thomas
+those are your parents right those are my parents
+so what game was that that was game
+two all right game to
+come back to him to first world
+series championship ever
+three proud members of the brew crew
+right there right absolutely waited
+a lifetime for that a lifetime
+the last time they went to the world series
+was the year I was born so 70
+I'm not going to say when I know when it was
+I'm not going to say when it was
+no 82 82 and they lost
+82 so it was time
+that up 82 gets the Orioles
+I think it was the card
+against the Cardinals yeah
+hahaha
+the rusty you did pretty good
+I used to be in the American League
+I'm sorry about that
+it's okay we what does it mean
+what does it mean to the to the town
+I mean it's it means everything
+to the town small market team right
+the whole season was a clinic
+and how to play as a team not
+have ego and to work together to get
+there it was a scrappy
+season the whole way through best team in
+baseball how can you not be happy
+I thought you're describing the halftime report
+not work as a team no ego
+when you hit when you said no ego
+when you said no ego
+I was like it's definitely not talking about the halftime
+I'm the ego on the show me
+no one said no ego
+do your final trade
+eBay bright spot
+this whole segment but go ahead
+eBay bright spot in the consumer space
+okay Kevin the terror this oncology
+play has room to run
+stick with Wisconsin theme cows
+COWZ
+all right a bunch of upgrades
+and price target lifts for shack
+earnings coming up wish me the best
+it's pretty good stuff
+so I got a world series NBA
+title lost the honors to go
+but they won the title first though
+Packers are always good
+they started the season a little slow
+but we're coming back all right the exchanges now
+you've been listening to
+CNBC's halftime report the
+podcast can always catch us live
+weekdays at 12 Eastern
+only on CNBC
+all opinions expressed by the halftime
+report participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates and may have been
+previously disseminated by them on television radio
+internet or another medium you should not
+treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy
+but only as an expression of opinion such
+opinions are based upon information the halftime report
+participants consider reliable but neither CNBC
+nor its affiliates and or subsidiaries
+warrant its completeness or accuracy
+and it should not be relied upon as such
+to view the full halftime report disclaimer please visit
+CNBC.com forward slash halftime report disclaimer
+I'm up at 5 a.m.
+and work hard to keep our way alive
+yet Josh Turrick
+missed 58% of his
+votes and still collected his whole paycheck
+but Turrick sure
+showed up to allow boys to use girls
+bathrooms and locker rooms in schools
+he's as useful as tits on a bull
+Josh Turrick
+he only shows up for himself
+and transgender stuff
+paid for by SLF PAC
+not authorized by any candidate or candidates committee
+SLF PAC dot org
