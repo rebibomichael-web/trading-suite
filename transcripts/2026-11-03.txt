@@ -1,0 +1,1223 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+I'm Scott Wapner, and you're listening to CNBC's Halftime Report, the podcast,
+the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Carl, thank you very much. Welcome to the Halftime Report.
+Scott Wapner, front and center of this hour. Questions about this record-setting rally.
+Whether more volatility is on the way after the midterms,
+whether the AI trade is breaking down or not, we'll ask the committee all of that.
+Joining me for the hour, Joe Teranova, Jason Snipe, Jim Labanthal,
+Josh Brown. Take you to the market, show you what we're doing right now.
+Nasdaq's green leading the way. Ten-year notes below five.
+S&P and the Dow are split. Here's where we're going to begin, though,
+with what Elliott management has to say.
+And what they are apparently warning of in their newest letter to investors
+according to the Wall Street Journal, what they call FOGO,
+the fear of getting obliterated in the market.
+They warn that virtually every alarm bell of a substantial bear market is ringing.
+Comparing the market to the roaring 20s that preceded the Great Depression.
+They highlighted risks building in budget deficits, inflation, private credit,
+AI hype. They warned about distortions caused by factors they said was more
+akin to gambling than investing, including traders using zero-day options
+and betting on meme stocks. I mean, I've heard of FOMO.
+I've heard of FEMO. That's their fear of missing out on the earnings momentum
+or whatever Edgard Denny has coined. But this is a new one.
+FOGO, fear of getting obliterated.
+Yeah, I don't want to be dismissive of this. There are a lot of headwinds.
+There are a lot of challenges as we move towards 2027. That's for sure.
+The only thing that I could think of as you describe that is,
+okay, here comes a rotation into cash because that's probably the only place
+I'll get somewhat of protection. I'm not sure what's actionable
+off of that, except it feels very apocalyptic.
+Now, in reality, I think the other condition that you would need
+would to see an obliteration of earnings more than anything else
+and really to go into an earnings recession. We don't have that.
+So I'll sit back and I'll kind of take the other side and say,
+I don't think that apocalyptic moment is upon us anytime soon
+and the reason for it is the strength of these earnings.
+It's obviously a catchy headline, but what is mentioned in here is legit.
+I mean, we do have high deficits. We do have persistent inflation.
+We have had questions about private credit.
+Some say we do have too much hype around AI.
+We do have zero-day options. They've caused volatility at times.
+We've had meme stock mania at times, stocks that have traded
+like meme stocks even though they're not and not supposed to, but they have.
+I'm not saying to act on what they're saying, but they do, Josh,
+make some interesting observations about the narrative
+and about the environment of where they think we might be.
+Eleven years ago, you had Carl Icahn on stage
+and he was explaining to you his Danger Ahead concept.
+All the same stuff was being brought up then.
+There was no AI, but it was like valuations in Silicon Valley.
+I think people were worried about Airbnb's valuation or something.
+He had Larry Fink next to him and he was telling Larry Fink
+that BlackRock was on the verge of blowing up the world.
+He was referring to fixed-income ETFs as his words, not mine,
+but weapons of mass destruction.
+He did a very skillful job at taking every negative thing that exists out there
+and bundling it all into one story where, I guess, BlackRock
+was going to be reckless and blow up the bond market, which would then,
+and then there were like the political headwinds, don't forget.
+It was Trump's first campaign.
+We thought he was the end of the world for the stock market
+and people were talking about Brexit around 2015 was when that first became
+like a story for 2016.
+So it's like all reasonable things to be worried about.
+They weren't fabricated.
+Debt, deficits, demographics, interest rate risk, the Fed, politics.
+Anybody can do that.
+I can make a list of 10 scary things right now.
+We have cities around the world being set on fire.
+So that's not hard to do.
+The harder thing to do is to look at the last week where we've gotten the earnings reports
+from the largest companies in America, the biggest index weights,
+some of the most important contributors to the growth outlook for S&P earnings,
+and we sort of are surviving it.
+I know Alphabet had a rough day.
+Microsoft didn't.
+Meta had a rough day.
+Apple didn't.
+Look at the candle on Palantir.
+What are people going to say if that goes green today?
+Like, I just, I think it's really easy to catalog all the potential negatives
+and to tell a story where we're on the verge of the crash.
+But the thing is, what happens a year from now if there isn't a crash?
+Like, does anyone remember?
+Does anyone care?
+And what if you overreacted to it?
+And I don't know, like started buying gold bars and then nothing like,
+what do you do?
+You just dust yourself off and start buying Apple again.
+So I have been very cautious, not thinking that I'm about to predict
+like the next great financial crisis.
+But like I was talking about it 5% two year.
+Hey, this is a great time to rebalance.
+Take some money away from the tech stocks that you've just written
+to a 200% return in three years and reallocate into the risk free
+and bring your portfolio back to some semblance of normal.
+That's one thing that you can do.
+We run a tactical strategy in-house.
+It's called Gold Tender.
+I've been talking about it for 11 years on the show.
+Gold Tender is down from 100% to 90% equity as of the latest monthly
+rebalance for November.
+Maybe that drops down to 70 next month if we get another rough month.
+I don't know.
+It's reactive.
+It's technical.
+Our Porter House portfolio, it was 15% cash last month.
+For this coming month, it'll be more cash based on trades
+happening now.
+So like that's systematic.
+It's not me being like, ooh, I don't like the looks of this midterm
+election.
+I just think investors need to have a plan and not react
+every time somebody makes a list,
+Satrini style of all the scariest possible things that can happen
+and acts as though they're all going to hit once.
+I think Jason, one of the key questions is whether we've
+already had enough of a washout in some of the highest
+flying AI names.
+If you look how much some stocks,
+I didn't list every one of them, but enough that are
+significantly off their 52 week highs,
+KLA Corp is almost 50%.
+As is applied materials in Marvell and Lamb.
+So the chip equipment names have gotten hammered.
+The memory stocks like Micron, 32% off the high.
+AMD reports later, it's 25% off the high.
+Even in Vidya, it's 15% off its high.
+You want Alphabet, 32, Meta 21.
+Amazon 14.
+Those are minimum correction in some cases,
+deep bear market.
+Yep.
+So I think that's a legit question as to whether we've
+already had enough of a reset into some of the most
+quote unquote AI hype names.
+100%.
+And I think the big thing for me is don't get too
+bearish on AI, right?
+These names have obviously run a lot and they've
+come a lot off of their 52 week highs.
+And I think the other, to the point you were
+making earlier about kind of this doomsday and the
+quote from the New York time.
+The reality is for me, why is discretionary men working?
+Why are financials working?
+Well, I mean oil prices went down by the biggest
+amount yesterday that we've seen some time.
+That's why discretionary is working.
+Right, right.
+But it's still consumer related.
+Why are the regionals working?
+Right?
+So I think for me that is a little bit hyperbolic.
+I know we pay attention to headlines like that.
+But as I kind of look at the earnings picture to
+Joe's point, you know, 30% earnings growth thus far
+for the quarter, these are really good numbers.
+And I think as we look through it, and again,
+the conversation around today being a past
+event, once we get through the election, everything
+is all good and clear.
+I'm not necessarily in that camp exactly.
+Yeah.
+Right, because we've talked about renewed strikes
+in the Middle East and what that might mean
+for the economy and the markets.
+But what I will say, I still stay in steadfast into
+what earnings have been doing and what they
+continue to do.
+Earnings are great.
+There's no two ways about it, but at some point
+the stock market starts to discount what earnings
+are going to be in the many months ahead of us.
+And the first sniff of an earnings peak,
+the stock market is not going to look the way
+it does, and you're not going to be able to
+cite the fact that earnings are as strong
+because people are going to say,
+you're right, but they have peaked,
+and as earnings decline, then you can't be
+willing to pay perhaps the multiples that you're
+willing to pay today for some stocks within
+the orbit that I just said.
+Possibly that's what's happening.
+Possibly what you just described, Scott,
+is exactly what's happening right now with
+the likes of Nvidia and Micron,
+which if we would look at their valuation
+versus their growth rates, I think we would
+say that they're attractive, but the point
+you're making is probably what the market
+is saying about those stocks is that a peak
+is near. I am not that worried about it.
+I mean, I want to acknowledge the investing
+prowess of Mr. Singer and Mr. Pollock
+at Elliott Management, but I have to
+also acknowledge that there's been a
+cottage industry for decades of finding
+the next Minsky moment, the next
+Lehman Brothers, and I mean, I'm old
+enough to remember when private credit
+was going to do that earlier this year.
+I'm old enough to remember when Silicon
+Valley Bank was going to take things down.
+What I do instead of thinking about
+those things is I think about the core
+fundamentals, low unemployment, strong
+GDP growth, strong profit growth,
+even when you take out the paper gains.
+And I'll just, you know, I'll end
+my soliloquy here on Nvidia.
+The next 12 months it's likely to generate
+300 billion in free cash flow.
+So as much as we're agitated
+properly about negative free cash flow
+at the likes of Meta and Oracle,
+that negative free cash flow is creating
+positive free cash flow elsewhere.
+There is a virtuous cycle of money
+flowing through the economy right now
+and it's showing in all of the statistics
+that matter. I can't
+worry about the debt and deficit when
+that's been a problem for literally 26 years.
+So if you take the
+question I asked, whether you think
+enough damage has already been done,
+whether the stocks that needed to get hammer
+did, and then you're
+in the slow process of now
+rebuilding
+a good part of the AI trade.
+J.P. Morgan today isn't so sure.
+They say we maintain a cautious near-term
+equity stance in favor defensive positioning
+until the charts show
+either a bottoming process or a capitulation.
+U.S. large cap indexes
+are pressing critical support while the
+VIX tests a multi-year
+bifurcation zone. The markets
+vulnerable, they say, to a regime
+shift if the S&P breaks below
+7,500.
+Okay, so I said...
+7,578. Yesterday
+the market as we sat here was
+significantly higher. You asked me
+if I felt as though enough
+work had been done. I said I didn't believe
+it did. I do think we
+have something that you could build upon
+if you want to be optimistic about the
+AI trade over the coming month.
+As I'm speaking, if
+we could show what the reaction has
+been, and I've been very focused on
+earnings and reaction, because
+Scott, you and I have talked about this. Reactions have been
+awful to really good earnings.
+But now let's look at the industrial
+sector for one second. Let's begin with
+Vertif over the last week.
+Look at the response to Vertif's earnings
+plus 15%
+on the day that followed and subsequent
+to that follow through. I could
+make the same case for Qantas,
+PWR, same type of
+eaten today.
+That's your electrical equipment
+related to AI.
+A really strong response
+G.E. Vernova, the same thing.
+So that industrial AI
+segment is maybe giving us
+a glimpse that we have
+washed out just enough to
+get that end of year optimistic
+bull trend back in place.
+I mean, some obviously
+think once you get past
+today, the midterms
+that the, you know, AI
+hate, if you will, is going to sort of die
+down a little bit. All the
+data center doomed
+day scenarios are going to die down
+a little bit. We do expect more
+volatility though, I think.
+At least many on Wall Street do.
+Midterms being a risk clearing event.
+We think there's more pain to come first though,
+says HSBC. UBS
+the outcome unlikely to displace the primary
+market drivers of the moment.
+AI investment, economic growth, corporate
+earnings, inflation and interest rates.
+Yeah, so I would
+say this quickly on
+kind of the data center story. Listen,
+week after week, day after
+day, talk about all the cat-back spending
+and what those levels are and the numbers.
+I don't need to repeat them today, right?
+But what I will say is
+post-election, that noise
+absolutely quiets down, right?
+This is all
+posturing for the election, blah, blah, blah, blah.
+Once the votes are in and we're
+done and we're moving on,
+that money has to find a home.
+That's fine. What about that question? More volatility
+on the way? Is there going to be more
+volatility on the way?
+Based on the outcome of whatever
+experience, I don't think so. I think maybe
+in the short run, but in the longer
+term, and I'm talking three to six months out,
+I think the ball starts to come down some.
+You know who I think
+pulls the Santa Claus sled at the end
+of the Thanksgiving Day parade?
+It's Anthropic. I think that that
+is the market clearing event. Look,
+the midterm elections, who knows if they'll
+even be done today. Yes, they'll give us
+certainty, but it's going to be dragged out. I think
+though, if Anthropic comes, raises
+100 billion, maybe it's not even 100, maybe
+90 or 80. That clears the market
+in saying, these guys have enough money
+to follow through on the next couple of years
+worth of spending plans. By the way,
+at the same time, we're seeing if open
+AI, I know they've reduced what they're looking
+to raise, but if in the next couple of weeks
+they put up a 20 billion dollar print,
+it just shows that the money is
+still there. The investor willingness,
+i.e. the sentiment, is there to continue
+the AI trade. Those are the market
+clearing events I think we're looking for to
+dampen down volatility, bring in a Santa
+Santa. So if that's true, Jim,
+and I think you have a point,
+I think people should
+feel pretty good about the fact that
+Anthropic is sitting on
+like $130 billion right now.
+146.
+So I understand
+that money
+raised is not the same as money generated,
+and we're not talking about a company that is generating
+a lot of free cash flow,
+but Anthropic has more cash on its
+balance.
+Because of all the raising
+activity they've done in the private market,
+then every company
+in the MAG7, other than
+Alphabet,
+this is a company
+that has already
+done a really great job
+at convincing the private market
+that you want to be a shareholder
+here. I actually don't think
+they'd have trouble raising another 100
+billion in the private market if they had to.
+The thing is, what they really need now is
+what they really need now is
+public market liquidity
+and the legitimacy
+that comes along
+with having a public ticker symbol
+and regular SEC
+reports and filings to investors, etc.
+That's like more,
+I would say more important, as important
+as the dollars that they'll raise.
+But I don't think the trouble is
+can we raise 100 billion?
+Because I'm pretty sure they could do that privately
+like in a week.
+I was going to ask you about that.
+Let me ask you about that. I mean, why are you so sure
+they could do that when you just
+had the news that
+OpenAI is, you know, pairing
+their raise back
+by 10 billion dollars
+they wanted 30, they go to 20.
+The suggestion on all of this
+is that people are just
+tapped out.
+Resources for capital
+are already tapped out for
+all of these.
+Why do you think that it would be so easy to raise
+100 billion dollars?
+I don't see it. So here's what I'm not
+saying.
+I'm not saying, I think
+anthropic comes public
+raises 110, 120
+does the high end of the range
+2 trillion dollars and then
+like the stock goes up another 50%.
+I'm not
+cheerleading what looks like it's going to
+be
+the number one or two largest IPO
+of all time and saying like
+this is going to be amazing. I'm just making the point
+I don't think the world
+is tapped out. Part of the problem here
+with prices in the economy
+is that there's just too much money
+and it's not just U.S. money
+you think about all of these
+billionaires in Asia
+who own these memory
+companies and the semiconductor
+faps like they're the ones
+sending capital
+back into the United States
+and they're not buying treasuries
+they're reinvesting in tech
+then you've got the whole
+Saudi UAE
+contingent and they're not done investing
+so I think this is
+Jimmy's point
+like it's a market clearing event
+I don't even think he means financially
+I think like emotionally like oh they did
+they pulled it off. Exactly. Yeah I think that's it
+I think he has it right
+it doesn't mean I think the stock's going to open at a premium
+or that people should
+take $2 trillion
+I didn't buy SpaceX when it came out
+at $175
+No I wasn't questioning that
+or I wasn't insinuating that you were
+hyping it up in any way
+I was just challenging the idea that they could
+easily go out and raise another $100 billion
+if they wanted to because I think
+that the evidence would suggest that maybe
+that's not true. That's all
+and I don't want to get bogged down in that either
+I don't want to get bogged down in that at all. We'll find out
+you might be right
+I mean I'm just using the evidence and the anecdotal
+evidence from others
+obviously adjacent like an open AI
+which you know and some have suggested
+obviously that sort of
+capital streams are a little dry
+whatever. Let's talk about Apple
+shares are down service revenues
+slowing margins
+not great
+guided below the street on that
+slowest services grow since 22
+revenue is strong
+but the other worrisome, more worrisome metrics
+are what seems to have gotten the streets
+focused granted the stocks only down 2%
+we're not talking a big deal
+however the commentary
+is around services and margins from even
+Eric Woodring he's a bull, Morgan Stanley
+strong top line services and margin
+headwinds
+Gil Luria price increases and duo may
+not be enough
+Malora Martin she's been negative the name for a while
+supply constraints
+risk apples moat
+you know obviously Dan Ives is on the other side
+of all of that everybody owns it
+on the desk you've been buying it
+aggressively over the last year
+what was your take away?
+In terms of the specific price
+itself I think you can
+anticipate that
+running in place might be as good
+as you get here over the coming quarter
+I said yesterday I thought
+we go to 400 before I get stopped out
+at 275
+what do I see in front of me that's making
+me believe you might run in place
+I think if the market has kryptonite
+it's built around 2 words
+diesel and memory
+I know a lot of people are excited today
+because the memory stocks got a lift off of
+what they heard from Apple last night
+your western digital, your sand disk, your micron
+you got a modest lift
+but if memory prices are going to
+continue to be a challenge
+there is going to be a pass-through effect
+just like there's a pass-through effect for diesel
+and I think Apple is very clear in telling
+us in the coming quarter
+what they anticipate
+I still believe that my position
+will work as we move towards 400
+for the reasons that I described yesterday
+I think this has a variety of
+characteristics that are appealing
+to an investor you have the skepticism
+you have the safe haven appeal
+and you do have a revival of the
+revenue growth but if there's one word
+I'm going to focus on from last night
+it's memory and there clearly is
+a effect
+that is not going to be positive as we move forward
+the word I think that matters
+more to
+matters most to more people is
+valuation
+yes you have the revenue
+growth fine
+but if you have the slowest services growth since
+22 and then your margins
+are taking a hit
+36 times is troubling
+for some it's a mountain that's too
+high to climb now there's many
+everybody on this show already owns the name
+and nobody I know is selling
+any of it today
+but I continue to press
+on justifying
+36 times
+against what we found
+out from services growth and from gross
+margins yeah yeah I mean
+it's definitely an issue to your point 36
+times forward decelerating
+services growth 16 percent
+two quarters ago 12
+last quarter 10 in line which is what
+they got it towards
+and you know part of the story is for
+the holiday quarter gross margins obviously
+Joe you just
+chatted about that
+came in didn't was a miss
+right so I think
+for me I'm actually focused on consumer
+AI we turn this now
+at the helm Siri
+ramp is still in the very early stages I
+feel like we hear that quarter after
+quarter after quarter when is that
+going to get going so for
+me that that's one of the things that I'm
+acutely paying a lot of attention
+to you know as I kind of
+evaluate the stock on a going forward basis
+and obviously the revenue growth and what's going on with the services
+let's hit semis let's just keep
+moving the ball AMD
+it's peculiar right they report later
+the stock
+is already up almost
+6 percent going in it's
+22 percent off of its highs as well
+that does a bar lift
+of some sort I would think Lisa
+is going to be on Squawk on the street tomorrow 9 a.m. it's a first on
+we look forward to that
+what you have this stock I do here
+here's your numbers 41 percent revenue
+growth 92 percent on
+earnings growth obviously
+the lift that we're seeing today I think it's
+part of this universe of
+AI that is rallying
+along with the memory names
+maybe there's one thing that really has
+advantaged AMD
+and that's what happened to Intel on
+Friday and Monday because there was sympathy
+sell off Scott with AMD
+I think it was down 10 percent on Friday
+it was down to the 7.5 percent on Monday
+so you had the sympathy sell off
+so it was almost as if AMD was
+reporting alongside
+Intel and you had that negative reaction
+keep your eye here
+on the revenue directly attributable
+to Meta we all know there's
+excitement surrounding Muse Meta
+is the second largest revenue
+customer for
+AMD sits at around 5
+and a half percent of their overall revenue
+let's see if they benefit in that regard
+we have a move today
+that will leave right until now
+you bought Teradine that's a new buy
+that is a new buy
+it is a
+semi-equipment name
+and you know Josh has used the word
+cautious I've heard so many on the desk
+use the word be cautious where we are right now
+and I like that and this is not
+a semi-equipment name with
+an unreasonable valuation
+this is an upper 20s valuation
+it is a company
+it is part of the testing
+environment for hard
+disk drives and the data center
+surrounding memory you need to go to them
+first to test the AI chips
+had a strong quarter
+recently with 82%
+revenue growth I'd like this name
+for many many years
+and you're seeing that you've
+you're getting this stock on a
+significant retreat if you could pull that
+back I think it was close to $500
+there you go earlier
+in the year so I feel
+getting this stock on a discount I wanted
+some exposure to semi-equipment and I wanted to do
+it with what I would believe is a reasonable valuation
+wow I mean we're not even talking that long
+ago that it was north of 400
+so you don't even have to go back earlier in the year
+that's a
+pretty brutal decline
+that's some bubble
+hey
+well that's exactly
+why I raised what I did at the top
+it's a good juxtaposition
+of what's actually taking place
+the points that were made in the letter
+versus the pull down
+that a lot of these stocks have already
+experienced that's why I think that conversation
+is relevant has there already been
+maybe there was signs of
+bubble but it's
+been deflated
+yeah so this market
+topped in July it's very hard to have a bubble
+if no one else is willing
+to play along
+bubbles aren't historically
+at least known to coincide
+with 16 months
+of multiple contraction
+if you think about the semi-semi-equipment
+group that Joe was talking about in AMD
+they are
+33 percent below their
+the SMH itself
+is 24 percent below
+its highs which is right
+about when situational awareness blew up
+the semi stocks were
+in a 25 percent drawdown
+so we're in that same drawdown
+and then without another
+situational awareness thing happening
+NVIDIA is 14 times
+forward earnings
+the S&P value index
+by contrast
+price earnings is 17.9
+so NVIDIA
+is selling at a discount to value stocks
+DRAM
+which some would say is the epicenter of the bubble
+well if it is a bubble
+it was a bubble
+it's 41 percent below its highs
+can you make the argument
+that it will end up 80 percent below its
+I guess you could but let's not act like
+people are frothing at the mouth
+for these stocks they're not
+you know that
+you know that in the past
+I've been dismissive sometimes
+based on my momentum
+all the valuation
+I'll tell you 24 hours later
+I am
+more aware
+and more concerned about the valuation of Apple
+and I want everyone to try and appreciate
+what I'm doing here with this
+semi-equipment name
+the valuation Jimmy it is reasonable
+on this company this is not an 80 or 90
+times company
+you're more aware that you've been dismissive
+in the past I know
+I've been dismissive of valuation
+when you have a momentum focus
+you're going to be dismissive but the moment
+we're in now I think requires
+paying more attention
+and being more respectful of valuation than in the past
+we all learn from each other he shows me a chart
+I learn all right we've got committee stocks
+that are on the move we'll kick those around got some calls
+to the day best stocks in the markets just ahead
+we're back after this
+CNBC Changemakers spot letting women
+who innovate lead boldly and are transforming
+business do you know
+someone who is rewriting the future
+nominations for the 2027 list are open
+now at changemakers nominations
+dot CNBC dot com
+all right welcome back stocks on the move
+let's talk about Apollo first let's see
+today they did have a net loss
+52% drop in revenues
+stocks down 5%
+retirement services one of the issues
+amid higher rates
+but they are
+they're bringing in the cash still
+total AUM increased to
+1.074 trillion
+dollars inflows of
+53 billion
+you got the name yeah I'm going to lead with the punchline
+which is I'm sticking with the name
+and I do think you can invest in it here
+you're not flinching. No but I'm not
+happy about this report I mean there's a
+lot to not like about this report
+including the base earnings but especially
+the loss at a theme which has been
+a source of dare I say
+controversy about a theme funding the
+various investments particularly in private
+credit just not the time that you
+want to see a write down within that
+unit hopefully that's behind us
+in terms of why I still lean into
+it why I still like it if you
+are a believer as I am that we're
+not at the Minsky moment that the
+AI trade the AI bill that is going to
+continue what we talk about who's
+providing picks and shovels yes in video
+but Apollo is play providing the
+financing period not even making money
+you won't even tempted to flinch
+no I'm tempted to be annoyed I mean
+look as an investor you can't look at this report
+that I'm asking about repeated flinching
+or no it's the stock down 5%
+I'm not flinching or choice C
+all the above
+you go drink your water we'll move on
+it feels like we're at that moment
+you go ahead vertex
+mixed earnings guide was light
+a light guidance hike
+Joti take that
+cystic fibrosis franchise
+continues to dominate in terms of
+market share this earnings report was
+good enough but it wasn't
+perfect and this
+stock is clearly priced for perfection
+do I guide getting
+out of the stock I do not believe so
+I think there's a lot of wind
+at the sales here from that cystic
+fibrosis franchise
+I think this is nothing more than kind
+of shaking the trees
+and letting a lot of those
+recent longs move to the sidelines
+what about Expeditors International had a record
+high yesterday did have earnings
+and a revenue great franchise benefiting
+from the hyper scaler
+spending benefiting to a degree
+from tariffs and the business
+model itself understand for freight
+logistics they're a broker
+so it's not as if
+they're stuck with the cost
+of ownership they're acting
+as a broker and they are in
+extreme demand right now okay
+DR Horton underperform
+Raymond James we've
+talked about a lot of these stocks
+relative to where mortgage rates are
+where the housing markets been
+it hasn't been pretty yeah this is
+following the earnings miss and their guide
+what do you think
+yeah and that continues to be the story
+what's going on with mortgage rates
+and you know the giveaways
+the incentives that are kind of pulling away
+from the on the profit margin so
+this is in a review
+moment for us as we kind of continue to follow
+the macro and what's going on with the
+10 year but it's a tough
+story right now in terms of it's in review
+forwards yeah how long has it been in review
+it's been in review for the last three months at least
+three months at least it's a long review
+process what do you think we have an
+answer on the review shortly
+before you're in definitely before they probably
+want an answer many time you get a performance
+review you kind of you don't want to hang it out there
+right before you're in absolutely
+all right Pippa Stevens has our news update
+hey peps hey scott greenlands parliament
+voted today to ratify president trump
+security deal which expands
+the role of the u.s. military in the self
+governing danish territory the agreement
+will pave the way for two new military
+bases and the installation of president
+trump's golden dome missile defense
+system the danish parliament is due
+to give the bill of first reading next
+week the jury and comedian russle brand's
+rape and sexual assault trial began
+deliberations today the charges stem
+from complaints made by six women who
+alleged he committed sex offenses
+between 1999 and 2009
+brand has denied all of the
+allegations and said all the
+encounters were consensual
+and the u.s. space force says
+a nasa telescope that has been in orbit
+for 22 years will come crashing
+back down to earth tomorrow
+most of the one-and-a-half tons swift
+observatory is expected to burn up
+in the atmosphere but nasa says
+some pieces may survive re-entry
+and are likely to fall into the ocean
+however there are parts of africa
+australia india southeast asia
+and central and south america
+in the re-entry zone scott
+all right but thank you that's
+Pippa Stevens josh browns best stocks
+in the market posted he has
+focused on three
+energy names tell you next
+ai is here
+transforming how we work
+live and lead and the women
+i talk to aren't waiting for the future
+they're shaping it i'm julia
+borstin senior media and tech
+correspondent at cnbc
+this is cnbc changemakers where i
+talk with the female leaders transforming
+business as ai
+reshapes the world follow and listen
+to cnbc changemakers women
+leading in the age of ai
+wherever you get your podcasts
+all right best stocks in the market
+according to josh brown the spotlight
+is on three stocks in energy
+we've done energy a bunch
+why are we doing it why is the spotlight
+on these names
+well you have a nice pullback here
+probably as part of
+the last day of
+electioneering
+it seems like maybe there's more talks
+with Iran and crude oil
+pulled back and all these stocks got hit
+yesterday so we wanted
+to revisit because we've been talking
+with these stocks for i guess the last
+15 months or however long
+we've been doing these
+segments and they've been winners
+and they really for the most part of
+nothing to do with the ai trade whatsoever
+they sort of exist in their own world
+conico phillips
+c o p has already
+broken out this one's already a huge
+winner we've had it multiple times
+we've done it on the show
+rsi is 74
+so i know it's pulled back
+a little bit maybe like give it a second
+let's see how
+let's see how it handles coming back
+to that old breakout point if it comes back
+on lower volume and hangs in there
+maybe that's a better entry
+devin hasn't broken out yet but i think
+this is the one that could go
+we do own this for clients in our
+porterhouse concentrated momentum
+strategy full disclosure
+basically devin closed a merger with
+cotera in may
+a ton of assets
+in different shales and
+it's oil and gas but the stock primarily
+moves on the price of oil so
+yesterday was a pretty severe pullback
+but it pulled back right into
+former support
+kind of laying on that line right here
+this is a great test if it doesn't break
+below i think i want to give this
+one give me the five-year chart i think i want to
+give this one the opportunity
+to break out to fresh highs
+that 52 to 54 dollar level
+meaningful
+thank you and i think
+i think we've got a really
+big base here and technicians say the
+bigger the base the bigger the space
+meaning the space above that it could break out into
+lastly oxy
+occidental is
+26.5% owned by berkshire hathaway
+they also have warrants
+where they can buy more shares
+those are now in the money
+occidental basically
+has been a story of
+leveraging and getting rid of non-core
+assets like chemicals
+and really becoming more of a pure play
+this is another one looks just like devin
+could break out rsi is already
+cooled off to 64 the price
+has been sideways i think
+the march high of 67
+is the level to watch
+if we get a clean break out there
+there's no telling what the upside for the
+stock can be these are not expensive
+they do have some
+vulnerability if there's
+some sort of like a negative supply
+shock and oil i don't
+really foresee that as being the thing that
+brings this complex down and once
+this one really goes it's going to go
+okay joe what stand out to me
+is that of all the names you have and i don't
+know i've got like a dozen or so on my list
+these three are not in there no conico
+no debon no oxy right
+we do own conico you do
+we do own debon you do
+yes we do
+we own 13 names
+13 energy names
+earlier in the year we increased the weighting
+for energy over
+above 10% oh yes you do
+we've maintained that position
+currently
+i think we stay anchored to it
+i mean look scott these energy
+names they are really
+the definition the signature of 26
+as it relates to momentum the valuation
+was nice and cheap coming into the year
+the thing that troubles me about where
+we are right now in this moment is i don't
+know what's going to happen in the middle east
+we last night we had the news about
+some bombing in the straight
+and the price of oil really hasn't responded
+to that it's actually a little bit lower so i
+think you're up in the air the direction
+from here therefore i wouldn't take action
+in this moment right now
+i just stay anchored to what i have okay
+we'll take a break santolli's market memos
+next senior markets commentator
+and overtime co-anchor mike santolli
+sat down
+at our desk
+so
+i could ask you about the eliot thing i don't
+know what your sort of reaction to that would be
+relative to
+what you think needs to happen in this market
+to have a little more conviction behind
+kind of everything yeah i
+mean the eliot thing
+strikes me as a little bit of a
+reiteration of somebody who's been fighting
+the trend for a while and thinking that
+there's actually a little more danger
+to it in the moment
+i do think it's been de-risked versus
+what it was on a valuation sentiment positioning
+level i think we are at a point
+now things have gotten
+you know pretty
+sold out to the level where
+if this is just a bull market
+gut check it's time to respond it's
+time for the nasdaq 100 to respond
+pretty soon if we get through the election
+if it doesn't do that i would say maybe
+we're dealing with a little bit something worse if you
+just look at basic like rsi step on the nasdaq 100
+it's exactly where it was in late july
+at the low now it's not quite as over
+sold as it was at the march 30
+low but it just tells you we're getting in
+that direction so action like today
+very tentative bounce in things
+like the semiconductors the ai trade and what happens
+yields go up even though
+oils it that's all working together
+in this understandable way apple down
+semis up so we're now comfortable with
+these rotations i think the defensives
+have done as much as they can do for you
+at this point and it is time
+for the ai trade to re-engage
+in growth to come back just a little bit
+at least but the bar is high you need
+a 10% rally in the socks
+to be anything more than a dead cat right now
+for the nasdaq 100
+it's probably a 5% rally but before you could
+say it's just nothing but pure reflex
+well i mean you do have a couple of big events
+obviously amd tonight
+so that's important that's interesting
+the stocks up a lot today into
+the number and then we have to wait for
+nvidia it's below where it was when
+intel reported so i think you're kind of working
+in that zone but yeah no it all
+it's all there lining up
+but you know it's
+we're kind of two to three weeks
+into the period when the seasonals were
+supposed to have started to turn better
+and the market is you know it doesn't
+have a firm hold on the benefit of the doubt
+but it's it's got time to respond to
+all right good stuff i'll see you later this afternoon that's
+Mike Santoli options action with oliver's next
+all right let's go to chicago let's
+play some options action with
+oliver renick from the cibo global markets
+you got uber for us
+that's right scott options are not
+brimming with confidence for this stock
+after a 20 percent decline the past
+year 50 50 thousand
+options traded today more than half of them
+puts and more than twice as many puts
+as calls likely bought
+so it looks like speculators and bears
+it also looks like a lot
+of call traders were initiated by
+sellers it's not hard to see
+why the bias is bearish uber stock
+has dropped after six
+of its last seven earnings for an average
+move of five percent
+and right now options are pricing an even
+bigger one almost seven percent
+so far today
+four of the top five most popular
+contracts are puts
+the number one contract being these
+60 strike expiring friday
+which trades for 35 cents
+and needs an 11 percent sell off
+an uber which is down 20 percent
+this year scott
+josh what do we think here
+yeah I think this is one of the worst
+stocks to get long
+ahead of an earnings call that you could
+possibly come up with statistically
+and just anecdotally
+even when they have
+a report that people are
+happy with or guidance that people like
+and we've seen the stock
+top 12 15 percent
+over the next two weeks the whole thing goes away
+they're not buying back enough stock
+to offset the fact that
+nobody believes
+their strategy to
+seed all of these
+other autonomous vehicle autonomous
+taxi companies is going to succeed
+and frankly as a shareholder they haven't
+shown us yet so they've announced
+a lot of press releases
+but we don't we don't know
+because they haven't shown us a thing so
+I totally get it
+Jason eight negative weeks out of nine
+hasn't been good obviously
+you know they need they need to see 20
+percent bookings growth they need to see
+continued momentum in uber one I mean
+they surpass 50 million users
+in q1 but I think also
+there's story with door desk potentially
+acquiring insikort insikort
+is a threat as well so this
+stock isn't is in a weird spot are you
+are you what are you doing with it
+yeah so I mean we're holding it
+for now we're holding for now
+but again it's just
+there's a lot of headwinds I mean all the
+all the partnerships for autonomous vehicles I think has
+been a good story but it just hasn't played through
+stock all right we'll do finals after this
+I'll see you at three o'clock
+Dan Greenhouse Cameron Dawson Rich
+Saperstein see what this
+market does over the final stretch
+Josh Brown what's your final trade
+don't tell anyone
+but Amazon has now ripped
+19 points off the personal
+post earnings low two days ago
+thank you
+Farmer Jim really could pick any large cap
+financial but black rock is just one of
+many that's pouring a big base here ready to break
+out when is the horse race again I it's
+not on the not on schedule you let us know
+I will you let America know I will
+all right Jason Snipe
+clean beaten rays yeah look at that
+nice move Joe T Pfizer
+surprise Jimmy doesn't own it
+Jimmy I you know it could happen
+things could happen I've owned it in the past
+great company the exchange is now
+you've been listening to CNBC's
+halftime report the podcast
+you can always catch us live week
+days at 12 Eastern only
+on CNBC
+all opinions expressed by the halftime report participants
+are solely their opinions and do not reflect the opinions
+of CNBC or its parent company or affiliates
+and may have been previously disseminated by them
+on television radio internet or another medium
+you should not treat any opinion expressed on this
+podcast as a specific inducement to
+make a particular investment or follow a particular
+strategy but only as an expression of opinion
+such opinions are based upon information
+the halftime report participants consider reliable
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy
+and it should not be relied upon as such
+to view the full halftime report disclaimer
+please visit CNBC.com forward slash halftime
+report disclaimer
+AI is here transforming
+how we work live and lead
+and the women I talked to aren't waiting
+for the future they're shaping it
+I'm Julia Borsden senior media
+and tech correspondent at CNBC
+this is CNBC changemakers
+where I talk with the female leaders
+transforming business as
+AI reshapes the world
+follow and listen to CNBC changemakers
+women leading in the age of AI
+wherever you get your podcasts
