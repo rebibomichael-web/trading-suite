@@ -1,0 +1,1447 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+With the Discover Cashback card, it's payback time when you earn cashback on everyday purchases.
+Activate and earn 5% cashback at different categories each quarter on up to $1,500 in purchases.
+That's 5% cashback at different places each quarter, like grocery stores, on gas, and at restaurants.
+It pays to discover.
+Terms Applying, see Discover.com slash 5 for details.
+I'm Scott Wapner, and you're listening to CNBC's Halftime Report, the podcast,
+the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Carl, thank you. Welcome to the Halftime Report.
+I'm Scott Wapner, front and center this hour, new months, same questions.
+What is the state of the tech trade?
+After the worst month in a year and a half, we will trade the biggest movers today.
+Of course, we'll get to set up our Apple and Palantir earnings tonight as well.
+Before the hour, Joe Taranova, Steve Weiss, Jim Labanthal, and Bryn Talkington.
+So we do begin with green on the screen, NASDAQ around a three-month low.
+And it is the question, I think, on everyone's mind.
+Whether the AI trade is in trouble or not, whether something fundamentally has changed
+and the fundamentals have gotten worse.
+Let's make that the backdrop for Deutsche Bank making a big call today.
+Spring is coiled again. They upgrade tech to overweight.
+Three weeks ago, we downgraded tech tactically from overweight to neutral
+as the risk-reward seemed unfavorable with performance positioning
+and the perception of growth all asymmetric.
+Well, tech underperformed sharply since then, taking it to the bottom
+of its decade-long relative trend channel.
+And investor positioning in tech has also dropped sharply
+in line with a significant deceleration in earnings growth.
+Risk-reward now in favor of tech again, and we upgrade it back to overweight.
+So that's where we're starting with a new month. What do you think?
+I think it's on its heels, for sure. We saw that at the end of last week.
+I don't think you have any confirmation today that you have an all-clear signal
+just because you have a bounce in the market.
+Let's be clear. Today is about the price of oil being 7% lower,
+yields falling further to levels we haven't seen in the last 45 days.
+You disagree with this call?
+And therefore, it's a cyclical consumer discretionary trade.
+You know that I don't disagree with it because I've said over and over
+for the last several weeks that I think we get a return of optimism
+that is catalyzed by the momentum factor and by the AI trade.
+However, at this moment, sitting here today on November 2,
+I don't have the evidence in front of me to suggest that I'm correct
+in what my expectation is.
+What's the catalyst for being as positive as this says?
+You need to see a universal all-clear signal on a day like today.
+I don't like that if you could show microns down, AMD's down,
+Oracle's down, yes, it's on the $20 billion deal, Intel is down.
+You need to see broad-based universal recovery in the AI
+and the tech adjacent to get the confidence.
+But the hardest thing to do is to make the call before all that happens.
+Not after it happens.
+No, you see and there's a middle process.
+But that's what they're doing here.
+That's what they're doing here.
+I'm looking at it from the perspective of allocating capital in the market.
+I'm sitting here, I'm saying, OK, I want to put money behind this trade.
+When am I doing it?
+Am I doing it before I have proper evidence or am I doing it
+as I begin to see the evidence drip slowly in my favor?
+That's what I'm ultimately going to do.
+I'm not going to look back on it and do it afterwards.
+There are signals that I'm going to look for.
+They're going to say, OK, I'm going to step forward.
+Right now I'm on my heels after last week, for sure.
+I was exuberant about the market moving higher.
+And then I had Twilio smack me in the face down 20%.
+But if I told you that, and we've talked about this,
+that positioning is cleaner.
+You had a lot of deleveraging.
+Yes.
+A lot of funds sold tech.
+Mutual funds off site.
+Pretty rough October for hedge funds.
+I don't think anybody's shocked by that.
+A lot of concentration was in tech.
+A lot of wipeout was in tech.
+Jeffrey's trading desk today on flows.
+October the largest net sell month for tech in more than five years.
+As a result, the largest monthly outperformance
+for the equal weight S&P versus the market cap weighted S&P
+since April of 2009.
+So positioning is cleaner.
+A lot of stocks got waxed.
+You look at the chip since you went to the chips.
+You're talking about 25% plus declines
+in the month of October alone
+for several of the chip names.
+And in some respects it was much worse than that.
+So that's two things.
+Earnings were pretty good.
+Price action wasn't good.
+Sure.
+But if you had deleveraging, you had pretty good earnings
+and you had pretty big declines
+and you're positive,
+what more evidence do you need?
+Well, I mean, I'm positioned in the direction
+of this return of optimism,
+the AI trade, the momentum trade working.
+But I'm acknowledging sitting here over the last several days,
+something feels as though we are not getting
+the momentum signal that I want to carry us forward.
+We're just not, Vice.
+So if you're asking if short-term tech is oversold,
+yeah, probably.
+However, how short-term is that going to be?
+We've got the elections coming up pretty soon,
+like tomorrow, right?
+If we get a big social suave,
+that won't be good for the market
+because then you'll start worrying about 28
+and who's going to be in the White House.
+And then you've got the Iran War that's still going on
+and oil's trading down because
+supposedly there are diplomatic channels going on.
+We've heard that probably a hundred times.
+Right.
+So that sort of makes a good point.
+Yeah.
+All right, so we know all that.
+Do you think anything's fundamentally changed in the AI trade?
+Yes, absolutely, without a doubt.
+Without a doubt.
+They used to be able to raise money
+whenever they wanted,
+whatever they wanted,
+at any valuation they wanted.
+And now we're seeing that, you know,
+some funds are saying
+and sovereign's saying, you know, we're full.
+We're too full.
+We don't need any more.
+Number one.
+Number two.
+So we see open AI cut back.
+By 10 billion.
+Right.
+A third.
+And 20 billion may be aspirational.
+They say 15 to 20 billion.
+I know funds that have cut back their orders.
+I know others that have pulled out of orders
+and others that are coming to market.
+There's picking and choosing as there should be at this point.
+Right.
+So I think you'll see a lot of the names that we all talk about.
+Of course they're going to survive.
+But without the private market valuation umbrella,
+without reading into that,
+I think it's going to be tough going for a lot of the others.
+So when you see the others go by the wayside
+who can't raise capital at all.
+Okay.
+That obviously informs valuation of all of them.
+So we see what Musk said about Gronk,
+about its unsustainably high cost.
+So I think the AI trade is definitely on pause.
+And this is very typical at the peak of a cycle.
+Okay.
+I think we saw the peak.
+He's channeling.
+Ben writes this very much of Melius today
+who has an interesting note.
+AI, this is quote, AI trade facing its toughest moment.
+Funding CapEx is everything.
+And he's cut price targets on a number of names.
+Nvidia, Marvell, AMD, Dell, Broadcom.
+Okay.
+He cuts the targets there and he says, quote,
+we have at least $5 trillion plus companies soon to be seven.
+Obviously, Anthropic and OpenAI
+that have to issue hundreds of billions in security,
+stocks, bonds, et cetera.
+The amount of paper so large it has become
+the primary risk to the AI trade
+more than power, chip supply, memory,
+and even political bottlenecks.
+Multiples could remain under pressure
+as the build-out's going to feature more backstops
+throughout 2028.
+How about that?
+That this is the game changer that Weiss identifies.
+That's what's fundamentally changed.
+I agree with Steve that financing is the challenge
+right now in the markets.
+And financing is the reason that we're going back and forth
+with a negative tone here.
+I mean, these numbers are pretty outstanding
+when we think about SpaceX a week and a half ago,
+$40 billion of debt.
+Microsoft a week ago, $25 billion.
+Last week, I think it was last week,
+$37.5 billion from Meta.
+Now we've got Oracle coming out with $20 billion.
+These are real numbers that when you add them up,
+the money has to come from somewhere.
+Now, Scott, before we were talking about financing,
+you were talking about deleveraging and positioning.
+That's actually a positive.
+We've been doing that for weeks.
+But what I take away is the biggest positive
+of all of this, which will swamp the funding,
+but I'll come back to that in a second,
+is the CapEx plans.
+Last week, what we saw from Alphabet and Amazon
+was that they're not backing off on the CapEx.
+We saw a slight decrease from Microsoft,
+basically based on supply chain.
+It was very slight.
+I'm not going to worry about that.
+The CapEx plans are still very much intact.
+And for those three companies that I mentioned,
+the capital markets are open.
+Yes, pricing is a little bit more difficult.
+And even for Oracle, the capital markets are open,
+albeit with a little bit more difficulty
+in the cost of capital.
+But the point being is that the biggest spenders out there
+still have access.
+I think the key tell here and what will keep the market going
+back and forth until this market clearing event happens
+is the Anthropic IPO.
+One quick note on that.
+I don't think Anthropic or its bankers would have brought that
+unless their soft road show.
+And Scott, I think you were out there in San Francisco
+when they did that soft road show,
+was pretty well received.
+And we got reports, and so did you, that it was very well received.
+Well, obviously demand for it's going to be great.
+You say obvious.
+I'm not sure it's obvious.
+I agree.
+I think there's pretty obvious that demand is going to be great.
+The question is, you know, is a $2 trillion,
+is a $1.5 trillion,
+whatever it is, demand is going to be great.
+I think we can make an educated statement
+and suggest that.
+But I wonder if it's time to watch what the companies do
+and not what they say.
+Of course everybody's going to stick to their spending plans.
+Anthropic, as we learned today from the amended S1,
+has spending commitments based 20 years out.
+That's not worth the paper that it's written on, is it?
+We'll see what's going to happen over the course of time.
+So let's see what really comes to fruition
+in terms of the hyperscaler.
+They're raising money.
+Spending plans.
+They're raising money not just to sit on it
+and invest it in T-bills.
+They're raising money with a purpose.
+Maybe the direction of yields matters most.
+Well, it does.
+That's why Mellias, by the way, cuts these targets.
+NVIDIA from 420 to 315.
+That's a pretty sizable retool.
+Well, NVIDIA is the financing arm.
+I mean, NVIDIA, you know,
+there's no way they can live up to all those financial commitments.
+I know, but these aren't like chump cuts here, right?
+Not a huge cut.
+445 to 300.
+AMD from 660 to 600.
+Dell from 735 to 590.
+Broadcom from 610 to 450.
+330 would be on NVIDIA.
+One heck of a price rise from here.
+Maybe the 420 was just a little bit too far out there.
+As an analyst, maybe you're looking at that and saying,
+I've got to bring this into something that's still aggressive,
+but not unreasonable.
+But it matches sort of,
+Weiss's sort of temperament around the whole trade.
+You've taken the other side by and large of that.
+In terms of financing, we'll continue, but selectively.
+In terms of optimism.
+Yeah, I am optimistic.
+Look, I don't, two things.
+I don't think last week, Amazon would have come out,
+and I forget the exact number.
+I want to say 195 billion for next year.
+I don't think Alphabet would have come out with those numbers
+unless they believe them.
+And again, you know, besides that,
+SpaceX raising 40 billion.
+Like these companies are raising money to do something with it.
+And if you're in NVIDIA, you are a beneficiary.
+Same with Broadcom.
+Same with AMD.
+Brynn?
+Yep.
+So first of all, let's talk about Mellius and Analyst.
+I've been in this business since the early 90s.
+Analysts follow price, not the other way around.
+And these prices have come down,
+and so the analysts are following suit.
+As the prices were going to go up, they're like,
+okay, well, yeah, another 20%, another 20% higher.
+So they're just reading the room of the market.
+I think as long as the hyperscaler goes specifically
+with Google, Amazon, and Microsoft, you know,
+Meta and Oracle, I think are different from that.
+Microsoft is the only one that's reading the room.
+And so I think that this debt issuance does have a rubber
+band it's pushing on because while technically,
+theoretically the debt markets are open for these companies,
+I'm not sure just the math equation of how much the debt
+market can absorb at a time.
+And so these are just historic numbers that these pristine
+balance sheet companies are issuing,
+but the corporate debt market can only absorb so much at a time.
+And so, rightfully so, yields are going higher,
+I think, for these companies wanting to issue debt.
+I think I'm right in the middle of Steve and Jim.
+I think that we're in this settling point.
+The midterms are a clearing event.
+They always have been, they're a clearing event.
+I will say from like 1942 to last midterms,
+21 out of 20 times, 21 out of 21 times,
+the S&P is positive and the average return is around 16%.
+So maybe this is the first time it's negative,
+but if I'm going to Vegas, say bet on red or black
+and that red is that, that statistic,
+I'm going to put it all on red.
+So I would caution people to get too bearish.
+The last thing I'll say is last month was a clear signal.
+The rotation out of tech is in earnest.
+Nine of the 11 sectors were up four of double digits.
+You would think you would get a follow-through this month
+because there has been technical damage to the tech names.
+So I think like look at the companies individually,
+cell calls, don't run away from tech.
+I still think these companies will deliver at large,
+but you do need to see the NVIDIAs, the Dells,
+the DRAM companies start moving higher
+because they're still getting me all the money.
+And that to me is what's most concerning,
+is where the money is going.
+Those stocks are also not doing well.
+Well, Goldman's Tony Pascarillo says the bull trend is intact.
+You got the calendar as your friend, right?
+September and October are historically bad.
+So we get through the gauntlet of that.
+It was painful at times.
+And obviously the last month did not end well
+to say the least as it relates to the tech trade.
+UBS is trading desk from a seasonality standpoint.
+It doesn't get any better than November.
+1.9% on average since 1950,
+best month of the year for equities in over the last 10 years.
+Only been one negative instance for November.
+And that was in 2021.
+Yardeni 7900, he's sticking with that.
+Mike Wilson says correction, the end of it, final.
+Final phase is close.
+We're getting near.
+Said you could train down the 7100, 7300,
+but he's staying with 8000 for the S&P.
+You know, I really don't think that we,
+that we focus enough on what's a realistic black swan event.
+And that's sort of definitely inaccurate.
+But if we do go after Iran, after the election,
+and Iran does retaliate against all the oil assets,
+you'll see oil at a high level,
+not despite those we typically see in other Mideast conflicts,
+but one that's extremely high that upends all of this.
+But you know, when analysts talk about,
+and this is a separate point,
+when analysts talk about how historically cheap
+pick your tech name,
+it's inaccurate to compare to historical times,
+because they've always had fortress balance sheets,
+always had positive cash flow,
+positive free cash flow,
+and now they don't.
+So should it get the same valuation metrics
+as it got before?
+And I'd say no.
+What the discount is, I don't know.
+But it shouldn't be trading back to the highs
+with those commitments.
+Well, what if the growth levels accelerate enough
+that that in and of itself justifies
+the valuations that they're trading at?
+Well, these has always been fast growers,
+but you sort of got your answer with Amazon.
+Cloud grew very nicely.
+I mean, it grew well.
+You know, Cloud grew through, you know, at Alphabet.
+It grew nicely, you know, in Microsoft,
+but it didn't get paid for it,
+because the other parts of the business aren't doing so well,
+except Microsoft.
+So I just think you need a different calculus
+when you're looking at these stocks,
+and we don't see that ebbing anytime soon, right?
+So that's the issue.
+Now, I'm not saying they're not cheap.
+I think Alphabet is still very, very cheap, you know,
+but I'm full on it.
+I have no interest in buying more.
+No, but I mean, the stocks have re-rated a bit.
+Like Alphabet was off 17% over the last month,
+met a 16% in video 11.
+Yeah, Alphabet's most troubling,
+because that stock had not participated.
+But if you take a look how far off they're high,
+if you go back to Meta, it was trading over 800.
+Significantly re-rating.
+Is Alphabet more attractive today
+than it was 30 days ago or no?
+No, it's not.
+Even with the decline that I said?
+Even with the decline you said, because what was it?
+Why?
+Because they're at model,
+which drives everything is now suspect, right?
+You see them losing share.
+You see search maintaining,
+but you've got to be able to generate revenue from it.
+So the bet you have to make now, and I'm making that bet,
+they'll figure it out.
+They've really been low-key in terms of their AI, you know, products.
+Yeah, this is one of those cases where the stock and the company
+are different, and you have to use different adjectives
+to speak of them.
+The stock is dead money, I think, for a while.
+Obviously, Scott, we talked about that, Steve, Joe, you know,
+trimmed it.
+The company, when we talk about what happened last week,
+let's not lose sight of the fact that its search business
+was what, 12% year over year, on a business
+that's approaching $100 billion and a quarter.
+So, you know, let's not dam the company,
+but let's be realistic about the stock.
+Let's also be realistic about the stock
+in saying that a year and a half ago this was a $160 stock.
+Now it's $280 even after coming off,
+but where I go at with this is, you know,
+have your toe-hold position.
+I don't think this is a point in time
+where you need to add to it meaningfully
+because the narrative isn't going to change anytime soon,
+even though I think the numbers weren't that bad.
+Is Metta more attractive today than it was 30 days ago?
+Yes.
+Yes.
+Why? What's the difference?
+Down almost the same.
+16.
+Do you want to handle it?
+Go ahead.
+They picked up Share and Ad.
+They've been innovating, and you've also got,
+you know, I believe they'll start a cloud business.
+Why not?
+Right?
+They've got their own needs,
+so they can cut their cloud costs
+by having their own cloud business more so.
+But I think it's more attractive because they've shown,
+and I said this time and time again,
+you've got a CEO who thinks like, you know,
+I've got to get up and win tomorrow.
+I've got to reinvent tomorrow.
+I mean, but after the official, you know,
+euphoria over Muse,
+it's not like the stock has traded all that well
+since Brandon, right?
+I mean, that's one of the things,
+and the market woke up to the fact that, oh,
+all these other competitors
+are coming out with their own personalized agents
+to do the same, more similar.
+Yeah.
+So people said, I mean, Steve said about,
+maybe they'll start a cloud business.
+One just doesn't start a cloud business.
+If you go back and look at the history of Google Cloud,
+they lost money for years, years and years,
+and spent a huge amount of CapEx.
+So I think if you think that they're going to start
+a cloud business on top of all the CapEx they're doing now,
+that doesn't make any sense.
+Maybe they'll sell their extra compute,
+like SpaceX is doing,
+and that could plug the whole, say,
+of the compute they're not using.
+I mean, I do think that, unlike Google,
+where Meta has been great,
+Muse is free right now.
+They could monetize that if Siri
+and Google can't get their app together,
+or Apple and Google can't get their app together
+with an app.
+They can monetize.
+I think people will pay for it.
+Instagram, they're doing a great job of selling through.
+But ultimately, ultimately for Meta,
+the risk is spending all of this money
+just to sell us more stuff.
+That's where to me I think the risk in the name is,
+because I think it's very unlikely
+they have the balance sheet to even start
+a hyper-competitive front
+against Amazon, Google, and Microsoft in the cloud business.
+Well, speaking of Siri, we get Apple tonight.
+That's going to be a biggie.
+So it did return to the most valuable company
+in the market on Friday.
+Keys, like it always is,
+iPhone growth, demand for the 18.
+Duo hasn't been around long enough
+to really get any great read on that.
+What's the services growth number?
+That obviously matters,
+given what's been happening with Siri.
+There's also a fair amount of skepticism,
+I think it's fair to say going in.
+Dan Niles says the stock's been a beneficiary of investors
+looking to avoid AI companies
+with huge free cash flow burns.
+However, I'd be wary into earnings
+that are likely to provide lower than expected guidance
+for the December quarter.
+Barclays reiterates that stock as underweight
+their cautious given iPhone uncertainties in this cycle.
+Limited monetization of AI, right?
+We're kind of pre-monetization, if you will.
+We don't even have Siri's been in beta form
+and renewed fears on the App Store as well.
+Oppenheimer basically says
+given where the valuation is, leaves little room for error.
+I don't remember where the stock is today.
+What is it, 30 times, 32 times, something like that?
+36 times.
+All right, so that's a historically very rich place
+for this name to be.
+You've been on this more than most.
+What do you think?
+I think skepticism is a remarkably powerful force.
+I think the whole conversation we're having,
+this AI momentum trade, it's lost leadership
+and now we're building the skepticism.
+The skepticism has been in place for Apple
+for the entire year.
+Tell me why, the valuation.
+Everyone sees 36 times
+that's the richest valuation it's had since 2008.
+It puts us in the 99th percentile.
+On the other side of it,
+they're going to have the best revenue growth year
+since 2021 at 15%.
+You said skepticism has been in place
+since the beginning of the year?
+Absolutely, it has.
+Stocks up dramatically.
+All right, we have a graphic.
+Can we please show the graphic?
+Let's look at the Mag7.
+These angry folks.
+Let's look at the no.
+I'm very happy.
+Let's look at the 12-month implied return
+for the Mag7.
+You tell me if this isn't skepticism.
+30% higher for Amazon.
+21% higher for Microsoft.
+2% lower for Apple.
+If we could go to the next slide, please.
+Can we look at year-to-date?
+Meta.
+39% upside.
+Isn't it the fact that Apple's already had the big move?
+40% upside.
+Apple's up like 25% year-to-date.
+It is.
+The high on the stock, the all-time high is 351.
+Correct.
+Is it 338?
+And we're now looking forward to where it can go.
+If we were optimistic,
+we would be looking at a price target
+like we see in Meta
+or like we see in Nvidia.
+But the street doesn't believe the move.
+They're skeptical in the move.
+For Apple.
+Apple.
+When you...
+First of all, I'm thinking of selling before earnings come out.
+Okay.
+Because the valuation is just...
+You better hurry up.
+...as nosebleed.
+I think I got some time.
+Three and a half hours.
+But, Kim, I can't argue that...
+I can't agree with you at the market skeptical.
+When you're trading at near all-time high...
+I'm buying at a price of $250 and all the way up.
+Everyone, all of you have said to me,
+the valuation is too rich.
+It's going to pull back.
+I am.
+Joe.
+What has made that argument?
+It is too rich.
+It doesn't mean it won't keep going.
+That's why you don't short stocks on valuation.
+Quickest way to grow...
+It's probably the biggest point of it.
+I'm not saying short.
+I'm saying it's why valuation doesn't matter.
+Can I tell you why we're skeptical?
+In terms of way of stock moves.
+With a 36 times forward multiple,
+you can't be having discussions about
+what gross margins on a product are going to be.
+Now, Joe, if I'm wrong,
+but I think what we're seeing with chips and pricing,
+that's going to put pressure on their pricing.
+On their margins.
+If I'm wrong, you're going to be right, unquestionably.
+But you can't have a 36 times multiple
+and be worried about manufacturing margins.
+Everybody already knows the margin story.
+I don't think so at 36 times.
+I don't think so.
+It's a safe haven.
+The free cash flow continues to build.
+The free cash flow is up 40% this year.
+$141 billion in the environment where
+you have negative free cash flow
+for some of the other hyperscalers.
+That's the attraction to the stock.
+It's going to trade in an elevated valuation.
+Okay, fine.
+There's a reason for that.
+You know what's the fabulous thing?
+What?
+We're going to be on tomorrow, you and I.
+Okay, so.
+We're going to debate it.
+So tomorrow's the referendum.
+That's right.
+No, you can't do that.
+You can't tell me if the stock falls tomorrow at 10%,
+then okay, we're right.
+Joe, maybe.
+This is a long-term hold.
+Maybe, my brother,
+I'm actually hoping that you're going to be right.
+I do own it.
+I own it significantly under the market weight.
+But I'm not sitting here hating on it.
+I actually want you to be right.
+I just don't think,
+and the reason I sold half of the position
+about four months ago.
+Did you flinch there, too?
+What?
+Are you going to flinch?
+It's been flinched.
+Let's do a practical trade.
+Both of you guys own it, right?
+Yeah.
+And both of you guys are skeptical.
+And then we're going to go to Brent.
+So lay out the trade.
+Tell me exactly how this plays out.
+Are you selling it today
+and you're buying it 5% lower, 10% lower,
+20% lower?
+He wants to go to Brent.
+No, I want you to answer the question.
+It's got to be 20% lower for me
+to add the position in.
+And what I've got right now is a $15 cost basis.
+20% lower.
+Oh, yeah.
+Yeah, I'd buy it.
+That'd still be like a 30 times forward multiple.
+20% lower.
+That would be Brent.
+Brent.
+Yeah.
+So I think it's important for the viewers,
+like this whole conversation,
+I've owned Apple for a long time,
+agree with a lot of the comments.
+Everything that we're talking about is already known.
+The free cash flow, the revenue,
+I think it's 10% are looking to grow.
+Everything is already known.
+So to me, I do respect long-term looking at multiples,
+just like Costco, just like Walmart.
+When they got, I think around 40 times their previous,
+it just hit a ceiling.
+And so I don't think this quarter
+is going to be anything riveting.
+I think it's going to be a really solid quarter.
+The revenue growth to Joe's point is really important.
+That's very exciting.
+I think the stock is probably like up plus or minus two.
+This is not going to be the quarter.
+I think Q1 of next year will be a really important quarter
+to see Christmas sales come in.
+But I think it's a plus or minus two.
+This company, I'm sure is the other side of the pair trades
+for a lot of the names that hedge funds are short.
+They're long this.
+And so it's like, this is a name as Jim says,
+you know, own it, don't trade it.
+And I think until that changes,
+it's just a wonderful company like a Costco and a Walmart.
+But I do think you have to be aware of a lot is priced in
+at just $3.37.
+Let me give you real quick.
+My cost basis is $276.
+I believe it hits $400 before I get stopped out at $274.
+Okay.
+We'll take a break.
+Joe's got other moves to tell you about.
+Two.
+In fact, we'll do that.
+We've got committee stocks on the move.
+We have calls of the day.
+Got a lot ahead.
+We'll do it next.
+No new tools.
+No extra logins.
+Just one subscription that gives you personalized AI
+right inside your actual workflow.
+Make work less work.
+Try Google Workspace with Gemini
+at go.gle slash workspace with Gemini.
+With the discovered cashback card,
+it's payback time when you earn cashback
+on everyday purchases.
+Activate and earn 5% cashback
+at different categories each quarter
+on up to $1,500 in purchases.
+That's 5% cashback at different places each quarter
+like grocery stores, on gas,
+and at restaurants.
+It pays to discover.
+Terms apply.
+See discovery.com slash 5 for details.
+Let's talk some stock moves from Joe Teranova.
+So the SIBO, CBOE.
+Best day on Friday since May 1st.
+So you saw enough that said, buy more personally.
+Yes, absolutely.
+Back in June, I purchased this at 263.
+Stock had a significant pullback.
+I felt that was a tremendous opportunity.
+This is what I do.
+When I first bought it,
+I bought it for $1,500.
+I bought it for $1,500.
+I bought it for $1,500.
+I do.
+When price action proves you correct,
+you add to the position.
+This is a business that is seeing exponential growth.
+If you think about options volume
+on a daily basis in the United States,
+80% of the daily volume
+has an expiration of 4 o'clock this afternoon.
+I'm not asking you to decide
+whether you think that's a good or a bad thing.
+I'm just telling you the dramatic growth
+of the options market
+is clearly benefiting SIBO.
+They're seeing 20% revenue growth.
+And now they have the wind behind them
+and prices advancing.
+And I think it's going to take out
+that 371 high from earlier in May.
+That's what's called cred
+on buying high, selling higher.
+There's a definition of that.
+Look, that's what I'm doing in Apple.
+Is that book out in paperback yet?
+That book is out in paperback.
+Is the audio out? Did you read it?
+Yes. You can't read audio.
+Are you the narrator, Joe?
+I should be the narrator.
+That's what I meant.
+Good. Good.
+That's what I want.
+And you can get it in different languages.
+You didn't know that that's what I meant?
+Of course.
+We mind melds all the time.
+When you have a winning trade,
+you add to it and you buy more.
+How long does zero expiration options go on?
+Is there a point where people realize
+they're losing money on this
+and starts to fall off?
+I don't know, Jimmy.
+I don't know the answer to that.
+I don't either.
+Don't take it as a Barb.
+I'm asking like seriously.
+Honestly, I don't know the answer to that.
+All right.
+You sold nutrient.
+I did.
+Lousy position.
+I bought that at the beginning of September.
+Buy high, sell lower?
+Yeah.
+Exactly.
+Good one.
+But that's what it was.
+It's buy high and then it's sell
+to protect the downside
+so it doesn't continue to move lower.
+Is that out in paperback yet?
+That is not out in paperback.
+And it will be in audio either.
+So if it's in audio, you can't read it.
+Yeah.
+All right, good stuff.
+Did you get everything out there you wanted to on nutrient?
+What was the, what remind our viewers why you bought it?
+It was an ag trade.
+Okay.
+It was clearly an ag trade.
+I did well with CF on the challenges
+that we have in the straight of Hormuz.
+CF was a good trade.
+I thought this inflationary effect would extend
+to some of the agricultural stocks.
+And ultimately it hasn't bought nutrient a little bit.
+Look, even CF has pulled back.
+Ag stocks are not cooperating.
+All right.
+Let's talk about some stocks on the move.
+Apollo launching an $11 billion private credit platform.
+It's backed by Abu Dhabi.
+We first broke the news, of course.
+So a week or so ago,
+Apollo buying that near 10% stake
+in the Abu Dhabi backed Mubattala capital.
+They have earnings tomorrow before the bell.
+You're in the name.
+Yeah.
+And I think this is going to go higher over time.
+I have no particular opinion on the quarter.
+I would simply point out, remember everybody,
+seven odd months ago how everybody was thinking
+that private credit was the next systemic risk,
+the next Minsky moment.
+Let's be careful about using labels like that.
+It didn't turn out to be the case.
+Most privately traded private credit funds
+have done pretty well this year.
+A little bit below historical average,
+but still nicely positive.
+So this asset class is not the disaster people
+thought it was.
+And Apollo has more benefit to come in its share price
+from people recognizing that.
+Okay.
+So Uber, Brin reports Wednesday,
+eighth negative week out of nine,
+and gets the price target trimmed by four bucks today
+at UBS.
+They still like it, but they go to 106.
+They were at 110.
+Yeah.
+So I'm in and out of this stock.
+I'm not a fundamental bull on this stock.
+I like to buy it in the low 70s,
+high 60s sell it at like 85 or 90.
+I hate how the stock has been trading.
+And ultimately it's like people don't care
+about this name right now.
+And so we're going to need to see a catalyst
+to even get it sniffing 80, much less 106.
+I do think, I mean, in Texas here,
+I see the cybercabs.
+I see Waymo everywhere.
+And I know Uber has some deals with maybe Waymo, et cetera.
+But I just, I think we all seen these driverless vehicles
+just like flooding the road.
+So hopefully that analysis is right,
+but I'm definitely frustrated with the name
+because it feels like there's more sellers and buyers
+and you can't get higher unless that reverts.
+Okay.
+Frank Holland has our news update today.
+Hey, Frank.
+Good afternoon to you, Scott.
+The Trump administration is asking the Supreme Court
+to weigh in on a dispute over 20,000 million
+balance in California.
+The Department of Justice claims those voters
+are likely non-citizens and followed
+an emergency request for the High Court
+to intervene after a federal appeals court
+refused its request to temporarily block
+the ballots until they can be verified.
+California says the move could disenfranchise
+thousands of legal voters.
+New York City Mayor Zoran Mamdani
+is threatening legal action against ICE,
+accusing federal agents of using city parking
+laws to stage operations.
+Mamdani says that violates an executive order
+he issued earlier this year, which bars ICE
+from using those lots without a judicial warrant
+or an agreement with the city.
+An outgoing California governor, Gavin Newsom,
+is calling for the state to increase its film and tax
+TV credit to $1 billion.
+The expansion comes after Governor Newsom
+raised annual credit from $330 million
+to $750 million last year.
+His office says another increase would help
+California remain attractive as a global
+competitor for productions.
+Scott, back over to you.
+All right, Frankie.
+Thank you.
+That's Frank Holland.
+We have headlines crossing on Snap.
+Our Julia Borson follows that company.
+Join us now.
+What do we know?
+Well, Snap has settled ahead of a lawsuit
+that was expected to start in this Los Angeles
+trial about social media harms for teens.
+So we just received news just now that Snap
+has settled and has resolved the claims
+currently pending before the court.
+This comes just a couple days after Meta settled.
+So now, because both of those companies have
+settled, now we will not have a trial
+that is starting in Los Angeles this week
+about these social media issues.
+There are other trials pending in this
+ongoing set of social media lawsuits
+about the harms towards teens in particular.
+And in this settlement, they say that while
+these claims have been resolved,
+the next bellwether trials are scheduled
+to begin on March 20, 2027.
+We see Snap shares are now up over 5%
+in today.
+I mean, a lot of these companies have
+clearly seen the writing on the courthouse
+wall, so to speak.
+Right.
+I mean, it's kind of obvious where these
+things seem to be moving.
+There have been so many different trials,
+consolidated trials, individual trials.
+There are lawsuits that have been filed
+by school districts.
+The state attorney's general have been
+involved in this.
+And I think that we are seeing some
+settlements and there are just so many
+different types of lawsuits involved
+that I think when these companies
+think they have an easier opportunity
+to get out with a settlement rather
+than having their principals come
+testify, I think they opt for the
+settlement.
+OK, good stuff.
+Appreciate that reporting.
+Julia, thank you.
+Julia Porston.
+ETF Edge coming up next.
+Domino has that as always.
+What do you have coming up?
+All right, judge.
+Some of the biggest college
+endowments in America have had banner
+years, and for many of them,
+those returns have been driven in
+large part by traditional stock
+exposure versus complex investment
+strategies.
+We'll speak with an advisor who
+specializes in endowments for
+the types of trends and investments
+educational institutions are making.
+That story is coming up.
+ETF Edge on the Halftime Report.
+Keep it right here.
+With the Discover Cashback card,
+it's payback time when you earn
+cashback on everyday purchases.
+Activate and earn 5% cashback
+at different categories each
+quarter on up to $1,500 in purchases.
+That's 5% cashback at different
+places each quarter, like grocery
+stores, on gas, and at restaurants.
+It pays to discover.
+Terms applying, see Discover.com
+slash 5 for details.
+That's why smart leaders turn to
+AI-powered procurement.
+With smart business buying,
+you can simplify workflows,
+automate repetitive tasks,
+and keep your team aligned.
+Equip your organization with
+intelligent tools, unmatched
+selection, and fast reliable
+delivery.
+So you can focus on what
+matters most.
+Learn how to transform purchasing
+at amazonbusiness.com.
+I'm Dominic Chew with
+today's ETF Edge.
+Could ETFs change the landscape
+for college endowments?
+State Street launching an ETF
+that tracks the stock and bond
+allocation for the University
+of California system.
+Our next guest specializes
+in endowments and is here to
+share his thoughts on the
+future of higher ed investing.
+Joining me now is Mike
+Vogelsang, the CIO over at
+CapTrust.
+Much of these returns, we saw
+the returns from Harvard, Yale,
+Banner years for them.
+What exactly is driving that
+outperformance for these big
+college endowments?
+It's pretty easy, mostly
+traditional U.S. equities.
+We've had value equities do
+really well so far this year.
+In fact, actually better than
+large growth.
+And, you know, the private
+equity and private credit,
+private real estate and so on
+have been doing okay, but the
+real drivers the last few years,
+particularly the last three
+have been sort of just
+traditional, simple, low-cost
+U.S. investments.
+And how exactly can investors,
+Mike, mimic some of those types
+of strategies?
+Well, the new ETF that came
+out with the University of
+California for a sleeve of their
+endowment is 90%
+S&P 500.
+It's 10% short-term
+investment grade bonds and
+pretty inexpensive at about
+six basis points.
+You could probably do that
+yourself at 90-10
+with a couple of appropriate
+ETFs that are a little bit
+less expensive, but my worry
+is that, you know, that index,
+that benchmark ETF has now
+come out and it's, you know,
+it's got some interesting
+noise to it, but the reason is
+because U.S. large cap equity
+defined by the S&P 500 has done
+so well over the last 10 years.
+It's kind of been hard to beat.
+And so, you know, I'd be
+careful about projecting that
+10 years into the future.
+All right.
+Our thanks to Mike Vogelsang
+at CapTrust.
+We're going to continue this
+conversation over at
+etfedge.cmbc.com.
+Mike is going to be joined by
+State Street's chief
+business officer, Annapalya,
+to dig deeper into that college
+endowment strategy and the
+added tools, Scott, that
+retail investors now have to
+mimic them.
+I'll send things back over to
+you.
+Good stuff, Domino.
+Thank you, Dom.
+Chew.
+Coming up next, Marvell's big deal.
+Shares are lower.
+We have the setup on Palantir.
+We have ownership on the desk
+as well.
+So we will trade all of that
+coming up.
+All right.
+Welcome back.
+Nasdaq's a teeter right
+there on the, on the flat
+line.
+Had dip negative for, I think,
+for just a second, but it's
+barely hanging on.
+Marvell is one of the obvious
+weak points today.
+A lot of the chip names are
+down significantly, but
+Marvell's down 10%.
+Finally, doing this deal that
+was talked about, Lumentum,
+$80 billion, you own Marvell.
+I do.
+You don't like this at all?
+I don't like the deal,
+Scott.
+Okay.
+They are thriving in optical
+networking.
+They've developed strong
+relationships with companies
+like NVIDIA.
+I don't like utilizing your
+stock, which is clearly at
+a very high valuation to buy
+another company.
+They're chasing Broadcom,
+in my opinion here.
+Broadcom basically offers you
+the entire optical
+networking structure.
+They unfortunately don't have
+that.
+They have got kind of gaps.
+They're filling the gaps here
+with this purchase of Lumentum,
+but I'm just concerned this
+is taking us back to a prior
+cycle in the market where
+we're utilizing all stock to
+buy other companies at really
+high valuations.
+I'll look at Lumentum down.
+By the way, this was, I think,
+September focus of best stocks
+in the market for Josh.
+And the deal closes in 2028,
+and Steve and I were just
+talking about that.
+Steve didn't like that,
+the fact that it closes in
+28, timing with the election.
+Well, you've got some
+political risk, right?
+Why is it down to 16%?
+Why is that dense?
+Because it's a stock deal.
+So you've got shareholders
+that thought it was going to
+be a cash deal, so they
+went into it.
+Now it's a stock deal,
+and now they don't get the
+stock until then.
+Plus, it's also trading off
+what Marvell is trading off of.
+Yeah, but a lot of times
+you have the buyer trade
+slower.
+Absolutely, the acquired
+trades up.
+Yeah.
+But that's not the case here.
+The acquired trades up.
+The acquired trades up.
+Sorry.
+But the acquired
+also will trade down
+if the stock's trading down.
+If the acquired,
+because it reflects what
+the value will be getting,
+right?
+In some ways.
+I don't know what the collars are,
+and I don't know if it's a share
+count or if it's a value count.
+Yeah.
+I think it's probably a value
+count.
+But the point is it's not
+closing for almost two years.
+Yeah.
+Well, the other weekend,
+I mean, AMD is down almost
+five.
+Micron's down more than four.
+This one being Marvell.
+Oracle's down six.
+Fortnets down four.
+A lot of the software names,
+Okta, Snowflake,
+Corleweave's down another
+5%.
+So we'll follow all of that.
+It's clearly driving what's
+happening in some respects
+at the moment with the
+NASDAQ.
+Mike Centoli's market memo is
+next.
+There he is right at the desk.
+Right at the end.
+How are you?
+I'm all right.
+That's what happens when you
+take the watch out.
+I just go to you right here.
+What are your thoughts?
+Yeah.
+I mean, look, a lot of the
+ingredients for a decent bounce
+were in place at Friday's
+closed.
+I think some of them are
+actually manifesting here.
+You definitely had, first of
+all, a month end.
+Let's remember March 30 and
+July 29 were very important
+trading bottoms for the
+overall market and the tech
+trade.
+You saw some signs of
+capitulation.
+I do obviously think everyone's
+on board with the seasonal
+idea.
+It's not getting full traction
+in, I think, largely the
+inability of semis to rally.
+Part of it's the Marvell
+story, but it's not just
+Marvell.
+I think that maybe is giving
+a little hesitation to
+people who thought we could
+do that.
+You know, I still think that
+you held some important
+levels last week, 7500-ish
+on the S&P 500.
+And the equal weights up
+another 1%.
+So you still have this
+buying panic in the
+non-MAG7, non-semi stock.
+On any other day, I would
+feel like Apple, which
+returns to the most valuable
+company in the market,
+reporting earnings would be
+undoubtedly the top story.
+Yeah, right.
+And today, relative to where
+we are, it feels like a
+sideshow.
+It does.
+I mean, I don't think,
+you know, you have too
+much in terms of suspense
+about what they're going to
+say.
+And I think because the stock
+has so much traded as
+anti-AI, as a proxy, as
+opposed to for its own
+corporate fundamentals, I
+think maybe that's muting
+into...
+By the way, a lot of the
+correlations are all scrambled
+here.
+Usually, semis now means
+Apple up.
+And also, what oil is
+doing right now, you
+normally expect Treasury
+yields to be crashing.
+They're not, because
+Treasury yields have been
+trading with the AI
+CapEx sentiment.
+So I think that also keeps
+people a little bit
+apprehensive in terms of
+what we're supposed to
+actually pin our
+relationships to.
+Yeah.
+Well, I mean, we'll see
+what happens tonight.
+We'll build on the lead
+up into that a little
+bit.
+We'll see you then.
+All right, sounds good.
+That's Mike Santoli.
+We'll do finals next.
+I do.
+Listen, revenues are going
+to be up 85.
+Earnings will almost double.
+You have to appreciate
+the authenticity of not
+only Alex Karp, but the
+execution, execution,
+execution of the team.
+They are the original
+AI software stack.
+So I think the stock
+long-term goes higher.
+What's your final trade?
+RSP.
+On the other side, RSP.
+What goes higher?
+As Joe said, continues
+to go higher.
+It looks great.
+Okay.
+Farmer Jim was worked up
+during the break.
+Sure was.
+The viewers didn't get a chance
+to see that.
+To my considerable
+number of doubters,
+I suggest you look
+at the forward curve
+for steel.
+Cleveland Cliffs.
+United Health.
+It's down.
+Day shouldn't be.
+Regeneron continues
+to move higher.
+All right.
+I'll see you in a couple
+hours' time on closing bell.
+The exchange is now.
+You've been listening
+to CNBC's
+Halftime Report,
+the podcast.
+You can always
+catch us live
+weekdays
+at 12 Eastern
+only on CNBC.
+All opinions expressed
+by the Halftime Report
+participants are solely
+their opinions and do not
+reflect the opinions
+of CNBC
+or its parent,
+company, or affiliates
+and may have been
+previously disseminated
+by them on television,
+radio, internet,
+or another medium.
+You should not treat
+any opinion expressed
+on this podcast
+as a specific
+inducement to make
+a particular investment
+or follow a particular
+strategy,
+but only as an
+expression of opinion.
+Such opinions are based
+upon information
+the Halftime Report
+participants consider
+reliable,
+but neither CNBC
+nor its affiliates
+or affiliates
+are allowed.
+If you're a
+disclaimer please
+visit
+CNBC.com
+forward slash
+Halftime Report
+disclaimer.
+Support comes
+from Amazon
+business.
+Streamlining
+workflows is key to
+keeping your organization
+running smoothly.
+That's why smart
+leaders turn to
+AI-powered procurement
+with smart
+business buying.
+You can
+simplify workflows,
+automate repetitive
+tasks,
+and keep your
+team aligned.
+Equip your organization
+with intelligent
+platform purchasing
+at AmazonBusiness.com
