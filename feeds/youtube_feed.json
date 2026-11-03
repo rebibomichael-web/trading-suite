@@ -1,6 +1,6 @@
 {
-"fetched_at": "2026-10-31T02:10:03.009670+00:00",
-"written_at": "2026-11-02T02:10:03.238293+00:00",
+"fetched_at": "2026-11-03T02:10:03.141377+00:00",
+"written_at": "2026-11-03T02:10:03.141377+00:00",
 "channels": {
 "Brighter with Herbert": [
 {
@@ -96,6 +96,12 @@
 ],
 "Matt Pocius on Tesla Stock & Money": [
 {
+"id": "mdWj3_rpRq0",
+"title": "Tesla JUST Confirmed Big News, TSLA Up Despite Markets Down",
+"published": "2026-11-02T23:39:03+00:00",
+"description": "Join my Patreon to see exclusive videos: https://www.patreon.com/user?u=31566559\nMy new X account: https://x.com/MattPocius2\nFollow me on Rumble (link in pinned comment)\nTesla stock news, Elon Musk news, DOGE news.\n\n[never financial advice]\nThis is not financial advice and my videos are for entertainment purposes only. Investing is risky.  \n\n---\n\nBEWARE OF SCAMS! I will never ask you to text me, and then sell you something. Scammers use my profile picture for their YouTube accounts and then ask you to text them (for example on WhatsApp). There are too many of them to delete all of them immediately, so be careful! Also don't fall for the scams from the fake comments talking about making money following some traders. If I ever promote anything, there will be links in this description, if you do not see me mention it in a YouTube video or this description, assume it is a scam.\n\nAll-in Tesla stock,\nMatt"
+},
+{
 "id": "BysQejp68LE",
 "title": "Tesla Announces Good News, Investors Celebrate!",
 "published": "2026-10-30T22:08:04+00:00",
@@ -178,12 +184,6 @@
 "title": "Cathie Wood: \"The Most Important Company In History\" / Cathie Bullish (TSLA To $2600)",
 "published": "2026-07-25T23:28:11+00:00",
 "description": "Join my Patreon to see exclusive videos: https://www.patreon.com/user?u=31566559\nMy new X account: https://x.com/MattPocius2\nFollow me on Rumble (link in pinned comment)\nTesla stock news, Elon Musk news, DOGE news.\n\n[never financial advice]\nThis is not financial advice and my videos are for entertainment purposes only. Investing is risky.  \n\n---\n\nBEWARE OF SCAMS! I will never ask you to text me, and then sell you something. Scammers use my profile picture for their YouTube accounts and then ask you to text them (for example on WhatsApp). There are too many of them to delete all of them immediately, so be careful! Also don't fall for the scams from the fake comments talking about making money following some traders. If I ever promote anything, there will be links in this description, if you do not see me mention it in a YouTube video or this description, assume it is a scam.\n\nAll-in Tesla stock,\nMatt"
-},
-{
-"id": "aGMZJTeEAik",
-"title": "Ark Invest Reacts To Tesla Earnings / Dan Ives Reacts To Tesla Earnings / Investors React",
-"published": "2026-07-23T22:37:25+00:00",
-"description": "My new X account: https://x.com/MattPocius2\nTesla stock news, Elon Musk news, DOGE news.\n\n[never financial advice]\nThis is not financial advice and my videos are for entertainment purposes only. Investing is risky.  \n\n---\n\nBEWARE OF SCAMS! I will never ask you to text me, and then sell you something. Scammers use my profile picture for their YouTube accounts and then ask you to text them (for example on WhatsApp). There are too many of them to delete all of them immediately, so be careful! Also don't fall for the scams from the fake comments talking about making money following some traders. If I ever promote anything, there will be links in this description, if you do not see me mention it in a YouTube video or this description, assume it is a scam.\n\nAll-in Tesla stock,\nMatt"
 }
 ],
 "Fundstrat": [
@@ -742,42 +742,42 @@
 "meta": {
 "Brighter with Herbert": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 2,
+"consecutive_errors": 3,
 "last_error": "HTTP 404"
 },
 "Matt Pocius on Tesla Stock & Money": {
-"last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 2,
-"last_error": "HTTP 404"
+"last_ok": "2026-11-03T02:10:03.141377+00:00",
+"consecutive_errors": 0,
+"last_error": null
 },
 "Fundstrat": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 2,
+"consecutive_errors": 3,
 "last_error": "HTTP 404"
 },
 "Fundstrat Capital": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 2,
-"last_error": "HTTP 404"
+"consecutive_errors": 3,
+"last_error": "HTTP 500"
 },
 "Mr. FIRED Up Wealth": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 2,
+"consecutive_errors": 3,
 "last_error": "HTTP 404"
 },
 "Kaspa Silver": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 2,
+"consecutive_errors": 3,
 "last_error": "HTTP 404"
 },
 "Wicked Stocks": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 2,
+"consecutive_errors": 3,
 "last_error": "HTTP 404"
 },
 "Traders Helping Traders": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 2,
+"consecutive_errors": 3,
 "last_error": "HTTP 404"
 }
 }
