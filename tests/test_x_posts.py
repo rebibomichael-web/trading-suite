@@ -11,6 +11,7 @@ import datetime
 import io
 import json
 import os
+import re
 import socket
 import sys
 import tempfile
@@ -492,6 +493,183 @@ class IssueSafety(unittest.TestCase):
         self.assertIsNotNone(captured["env"])
         self.assertNotIn("X_BEARER_TOKEN", captured["env"])
         self.assertEqual(captured["env"]["CLAUDE_CODE_OAUTH_TOKEN"], "oauth-token")
+
+
+# The two promo texts that repeated in digest issue #245 (2026-10-22).
+PROMO_A = ("\U0001F6A8 Free Smart Money Zones Training New 7-lesson course where I "
+           "show the exact rules I use to find institutional zones")
+PROMO_B = ("\U0001F6A8 Want to find these discount zones yourself? My FREE "
+           "7-lesson Smart Money Zones course walks you through it")
+
+
+def item(pid, text):
+    return {"id": str(pid), "text": text,
+            "created_at": "2026-10-22T15:00:00.000Z"}
+
+
+class Dedupe(unittest.TestCase):
+    def _run(self, pages, state=None):
+        seen = {}
+        calls = []
+
+        def opener(req, timeout=None):
+            calls.append(req.full_url)
+            return Resp(pages[len(calls) - 1])
+
+        def ask(instructions, content):
+            seen["content"] = content
+            return "Promo plus one call."
+
+        state = state if state is not None else {
+            "x": {"pdicarlotrader": {"since_id": "1"}}}
+        with mock.patch.object(X, "X_ACCOUNTS", (ACCOUNT,)), \
+             mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN}):
+            result = X.collect_x_posts(state, ask, opener)
+        return result, state, seen
+
+    def test_issue_245_promo_repeats_are_listed_once(self):
+        data = [
+            item(2112343208646644104, PROMO_A + " https://t.co/aaa111"),
+            item(2112343545470181792, PROMO_A + " https://t.co/bbb222"),
+            item(2112540526029471901, PROMO_B + " https://t.co/ccc333"),
+            item(2112628098277761483,
+                 PROMO_B.replace("7-lesson", "7‑lesson").upper()
+                 + "\n\n https://t.co/ddd444"),
+            item(2112638895691088103,
+                 PROMO_A.replace(" ", "  ").replace("7-lesson", "7‑lesson")
+                 + " https://t.co/eee555"),
+            item(2112640000000000000, "$NVDA reclaiming 180, target 195"),
+        ]
+        payload = {"data": list(reversed(data)),   # X returns newest first
+                   "meta": {"newest_id": "2112640000000000000",
+                            "result_count": len(data)}}
+        result, state, seen = self._run([payload])
+        section = result["section"]
+        self.assertEqual(section.count("Free Smart Money Zones Training"), 1)
+        self.assertEqual(section.count("discount zones yourself"), 1)
+        self.assertEqual(section.count("/status/"), 3)
+        # The earliest id of each text is kept.
+        self.assertIn("/status/2112343208646644104", section)
+        self.assertIn("/status/2112540526029471901", section)
+        self.assertIn("/status/2112640000000000000", section)
+        for dup in ("2112343545470181792", "2112628098277761483",
+                    "2112638895691088103"):
+            self.assertNotIn(dup, section)
+        # Claude sees each promo once.
+        self.assertEqual(seen["content"].count("Free Smart Money Zones Training"), 1)
+        self.assertEqual(seen["content"].count("discount zones yourself"), 1)
+        self.assertIn("$NVDA", seen["content"])
+        # The cursor still advances past the skipped duplicates.
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"],
+                         "2112640000000000000")
+
+    def test_cursor_steps_past_a_skipped_newest_duplicate(self):
+        payload = {"data": [item(30, PROMO_A + " https://t.co/new"),
+                            item(10, PROMO_A + " https://t.co/old")],
+                   "meta": {"result_count": 2}}       # no newest_id in meta
+        result, state, _ = self._run([payload])
+        self.assertEqual(result["section"].count("/status/"), 1)
+        self.assertIn("/status/10", result["section"])
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "30")
+
+    def test_duplicates_across_two_pages_and_repeat_ids(self):
+        first = {"data": [item(41, PROMO_B), item(40, "$AMD 150")],
+                 "meta": {"newest_id": "41", "next_token": "p2",
+                          "result_count": 2}}
+        second = {"data": [item(40, "$AMD 150"), item(20, PROMO_B)],
+                  "meta": {"result_count": 2}}
+        result, state, seen = self._run([first, second])
+        section = result["section"]
+        self.assertEqual(section.count("/status/"), 2)
+        self.assertIn("/status/20", section)
+        self.assertIn("/status/40", section)
+        self.assertNotIn("/status/41", section)
+        self.assertEqual(seen["content"].count("$AMD 150"), 1)
+        self.assertEqual(state["x"]["pdicarlotrader"]["since_id"], "41")
+
+    def test_truncated_window_keeps_until_id_at_oldest_read(self):
+        first = {"data": [item(50, PROMO_A), item(40, PROMO_A + " t.co/x")],
+                 "meta": {"newest_id": "50", "next_token": "p2"}}
+        second = {"data": [item(11, PROMO_A), item(10, "$SPY 570")],
+                  "meta": {"next_token": "p3"}}
+        _, state, _ = self._run([first, second])
+        rec = state["x"]["pdicarlotrader"]
+        self.assertEqual(rec["since_id"], "1")
+        self.assertEqual(rec["until_id"], "10")
+        self.assertEqual(rec["high_water"], "50")
+
+    def test_text_key_normalization(self):
+        k = X._text_key
+        self.assertEqual(k("7-lesson  Course"), k("7‑LESSON course"))
+        self.assertEqual(k("Join now https://t.co/abc"), k("join now"))
+        self.assertEqual(k("a b​c"), k("a bc"))
+        self.assertNotEqual(k("$TSLA 250"), k("$TSLA 260"))
+
+
+class XLinks(unittest.TestCase):
+    def test_clean_handle(self):
+        self.assertEqual(X.clean_handle("@pdicarlotrader"), "pdicarlotrader")
+        self.assertEqual(X.clean_handle(" Peter_D1 "), "Peter_D1")
+        for bad in ("", None, "@", "@@", "has space", "x.com", "a/b",
+                    "sixteen_chars_xx", "héllo"):
+            self.assertEqual(X.clean_handle(bad), "", bad)
+
+    def test_post_url(self):
+        self.assertEqual(X.post_url("@pdicarlotrader", "123"),
+                         "https://x.com/pdicarlotrader/status/123")
+        self.assertEqual(X.post_url("", "123"), "https://x.com/i/status/123")
+        self.assertEqual(X.post_url("@", "123"), "https://x.com/i/status/123")
+        for bad_id in ("", None, "12a", "abc", " ", "-5"):
+            self.assertEqual(X.post_url("pdicarlotrader", bad_id), "")
+
+    def test_profile_url(self):
+        self.assertEqual(X.profile_url("@x"), "https://x.com/x")
+        self.assertEqual(X.profile_url(""), "")
+        self.assertEqual(X.profile_url("bad handle"), "")
+
+    def _assert_no_broken_links(self, rendered):
+        self.assertNotIn("https://@", rendered)
+        self.assertNotIn("x.com//", rendered)
+        self.assertNotIn("x.com/@", rendered)
+        self.assertNotIn("]()", rendered)
+        for url in re.findall(r"\]\((https?://[^)]*)\)", rendered):
+            self.assertRegex(
+                url, r"^https://x\.com/[A-Za-z0-9_]{1,15}(/status/\d+)?$")
+
+    def test_render_with_malformed_handles_and_ids(self):
+        posts = [{"id": "150", "text": "$TSLA 250",
+                  "created_at": "2026-10-19T15:00:00Z"},
+                 {"id": "not-a-number", "text": "$NVDA 180",
+                  "created_at": "2026-10-19T15:00:00Z"}]
+        for handle in ("@x", "", "@", None, "bad handle", "x.com/y"):
+            account = dict(ACCOUNT, handle=handle)
+            rendered = X._render_account(account, "", posts)
+            self._assert_no_broken_links(rendered)
+            self.assertIn("$NVDA 180", rendered)        # label shown, no link
+            self.assertIn("- Oct 19 — $NVDA 180", rendered)
+        # "@x" is a valid handle once the @ is stripped.
+        rendered = X._render_account(dict(ACCOUNT, handle="@x"), "", posts)
+        self.assertIn("[x](https://x.com/x)", rendered)
+        self.assertIn("(https://x.com/x/status/150)", rendered)
+        # Invalid handle: no header link, post link falls back to /i/status.
+        rendered = X._render_account(dict(ACCOUNT, handle=""), "", posts)
+        self.assertIn("(https://x.com/i/status/150)", rendered)
+        self.assertNotIn("](https://x.com/)", rendered)
+
+    def test_bad_handle_without_user_id_is_unavailable_not_a_bad_lookup(self):
+        calls = []
+
+        def opener(req, timeout=None):
+            calls.append(req.full_url)
+            return Resp({"meta": {"result_count": 0}})
+
+        with mock.patch.object(X, "X_ACCOUNTS",
+                               (dict(ACCOUNT, handle="@", user_id=""),)), \
+             mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN}), \
+             mock.patch("sys.stdout", io.StringIO()):
+            result = X.collect_x_posts({}, lambda i, c: "ok", opener)
+        self.assertEqual(result["status"], "unavailable")
+        self.assertEqual(calls, [])
 
 
 class DigestSentinel(InTemp):
