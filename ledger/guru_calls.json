@@ -90,6 +90,7 @@
   "8ZbBhWP-53A",
   "8g1kcbIAdIg",
   "8mVjk25-dOk",
+  "8szA21Q_Sl0",
   "8yZ_b0yxip0",
   "90vZnFn2E5s",
   "95jzFwCPEig",
@@ -450,6 +451,7 @@
   "mT344Lern5I",
   "maexfOKrphI",
   "mc8bVU7Lz8w",
+  "mdWj3_rpRq0",
   "mlS-wD6ez8Y",
   "mpoxxscwyDc",
   "msF7HKuCHc8",
@@ -33409,6 +33411,22 @@
    "channel": "Wicked Stocks",
    "video_title": "#TSLA'S $400 BREAKOUT IS IN DANGER #Tesla #daytrading",
    "date": "2026-10-29",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I'm very bullish on Tesla. I'm very bullish on SpaceX. I'm very bullish on both these companies in the long term.",
+   "video_id": "mdWj3_rpRq0",
+   "channel": "Matt Pocius on Tesla Stock & Money",
+   "video_title": "Tesla JUST Confirmed Big News, TSLA Up Despite Markets Down",
+   "date": "2026-11-02",
    "affiliated": false,
    "outcomes": {}
   }
