@@ -1,0 +1,1430 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+With the Discover Cashback card, it's payback time when you earn cashback on everyday purchases.
+Activate and earn 5% cashback at different categories each quarter on up to $1,500 in purchases.
+That's 5% cashback at different places each quarter, like grocery stores, on gas, and at restaurants.
+It pays to discover.
+Terms Applying, see Discover.com slash 5 for details.
+I'm Scott Wapner, and you're listening to CNBC's Halftime Report, the podcast,
+the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Carl, thank you very much. Welcome to the Halftime Report.
+I'm Scott Wapner, front and center of this hour of the tech wreckage.
+And as that getting hammered today, as you already know, the AI trade unraveling as we speak,
+we'll discuss and debate all of that with the investment committee.
+Joining me for the hour today, everybody's here.
+Welcome to Post 9.
+Josh Brown, Malcolm Etheridge, Sirat Seti, and Rob Siechen.
+It is all about the NASDAQ.
+It's a full blown correction at this point, the worst day since April of 25.
+The VIX is surging, and undoubtedly the biggest story in the market remains whether something material has changed,
+at least in part for the AI trade due to the result of the midterm elections.
+And the stock market clearly is voting yes.
+Semis are down sharply, as you know.
+The stocks is having its worst day since March of 2020.
+That was COVID.
+So it gives you an idea of how far these stocks are falling.
+There it is, down almost 10%.
+From highs, names like Micron down 45, Marvell 57, Lam 55.
+The chip equipment names pretty brutal.
+Qual comes down 42% from its highs.
+They had earnings. The CEO's coming up in just a little bit.
+Perfect time to have Cristiano Aman joining us.
+Let's talk about this from Bespoke today.
+Only other periods since 1994 when semiconductors fell at least 17.5% in five days.
+The Asian financial crisis, the Russian debt default, the dot-com bust, the GFC, and the COVID crash.
+But Josh, that's where we are.
+And I think people are trying to make sense of what happens now.
+Look, I just think it's a function of that's where a lot of hot money was,
+and that's more importantly where the leverage has been.
+We're not launching two ex-brokshire half-away products.
+If we understand market structure, we understand what retail is doing,
+and what some of these pod shops that are a little bit more levered than normal are doing,
+they're chasing the AI hardware bets.
+They've been for a while.
+The situation has been deteriorating for a while.
+Most of these stocks peaked in July, which is already four months ago.
+And a day like today, the people that held on, held on, held on, or worse,
+doubled down more leverage, more leverage.
+Now it's not up to them anymore.
+Now it's up to somebody else who calls them or executes the trade on their behalf,
+whether they like it or not.
+This is the reality of trading and the types of high-stakes activity
+that we've seen in the market for three years.
+So it's not the first time.
+Definitely won't be the last time.
+I think it's instructive where the pain actually is.
+All the worst performers are AI hardware.
+Yeah, infrastructure plays.
+And then, like, I have Berkshire half-way making a record high.
+I have Staples flat.
+I have energy stocks that are green.
+Like, it's not a market-wide event,
+although it can feel that way when you see the Dow move a four-digit move.
+Every sector, obviously, is red.
+So there's a lot of red on the board.
+Of course, there's going to be issues.
+Not equal.
+I get that.
+But, you know, I'm not necessarily sure that that's the headline
+or the subheader or anything like that at the moment.
+I mean, look at the AI power names.
+Rob, they're down substantially from their highs.
+Places like Vistra, 42.5%, which you own.
+We talked about it yesterday.
+There was a lot of chatter going into the election.
+Oh, don't worry about all this negativity on data centers.
+Once the election's over, that'll be over.
+Well, not so fast.
+And the market clearly doesn't think that's the truth,
+nor do people who are on the front lines,
+if you will, of the industry itself.
+Dina Powell, McCormick of MetaPresident,
+said at a Wall Street Journal tech conference,
+midterm results will make building data centers harder.
+Citrini Research says the infrastructure trade,
+quote, as we know it, is ending.
+They argue that it's peak CAPEX growth
+and that the risk is now to the downside there.
+Even Dan Ives, we mentioned yesterday,
+has tempered his own bullishness,
+says 10% of the data center's plan will not happen.
+Now they'll be, in his words, wiped off the roadmap.
+He also thinks that CAPEX growth is going to peak
+much earlier than he expected initially
+in 27 versus his prior view that we're talking 28 to 29.
+That maybe shortens, you know, people who say,
+well, we're just in the third inning
+or the first inning or whatever inning.
+That would imply that you're in later innings, perhaps,
+of the story than people had wanted to believe.
+What do you make of all that?
+I'm not going to tell you it's not a big deal
+because it is.
+The AI built out just got harder,
+whether you hear it from MetaPresident Dan Ives,
+who's a perennial bowl saying that things are peaking.
+I think you have to respect that.
+But nobody voted to make compute less scarce.
+Microsoft's Azure is growing at 48%.
+Their capacity constrained, not demand constrained.
+And when new capacity gets harder to build,
+existing capacity becomes more valuable.
+So I think this is a timing issue,
+not a final demand issue.
+That's one of the reasons why, by the way,
+you're making a good point that the mega caps were up yesterday.
+Yesterday.
+Right, big.
+I mean, you've had record highs for some of the names there.
+Yes, because they're incumbents, the so-called incumbents.
+They already have a lot of compute.
+Maybe their spend slows.
+They get back to free cash flow positive faster.
+And the value of the compute, in a point you just made,
+and I think it's the right one, it goes up.
+100%.
+Those that don't have the same political connectivity,
+they don't have the access to capital markets,
+are going to suffer more.
+Think about CoreWeave and what it's been hit the last few days.
+New low.
+Those that are the suppliers into this ecosystem,
+given that there's going to be a greater climb for them
+and their trajectories on earnings have changed slightly,
+those are going to be more impacted.
+Are you guys all like rethinking your positioning
+in your portfolios right now?
+I mean, because we talk endlessly about the mega caps,
+the hyperscalers and the AI trade.
+It has dominated for the last three years.
+We have talked to almost every show leading off on a day
+where there wasn't some other breaking news
+or other news that demanded our attention more substantially
+on this very trade.
+Rob and I, just speaking for Rob and I,
+both of us said the same thing in October.
+This is a time to take allocations back to where they belong.
+A lot of people had been free riding a NASDAQ
+that was compounding at 25% a year,
+and they had 60% go to 80%.
+We said it like on five different shows,
+I don't know how many different ways to say it.
+You have a risk-free rate north of 4.5%.
+You have this opportunity with volatility coming back
+to the sand discs of the world.
+You don't need to be at 80% US stocks
+and have 60% of that exposure be tech.
+It makes no sense.
+And look at what happened.
+We were talking about fixed income
+and the rewriting there.
+We were talking about hedging.
+All those things today from a portfolio construction standpoint
+are working wonderfully.
+I want to get these guys in.
+Go ahead, Malcolm.
+Yeah, I'm listening to this.
+I've been reading since the midterm election results
+became obvious and people are cheering this,
+basically saying here comes the rotation.
+And I understand the impulse to be excited about the rotation.
+It means that all of the other 493
+that haven't done so much,
+here's your chance to participate.
+But I think it's very important to point out
+the thing that should be obvious,
+which is that 40% of the S&P is related
+to these mega cap tech companies.
+So it's impossible for anything else to do well.
+Those do not so well,
+and we all get out of this a lot.
+What I mean by that is you look at GDP growth for the year.
+About 75% is estimated to be attributable
+to the spending of the hyperscalers.
+When you look at all of the growth that's come from
+two companies, OpenAI and Anthropic,
+the compute promises,
+the spending promises from those companies
+that has given these folks the confidence
+to do the spending,
+if that suddenly deteriorates,
+well then so does the earnings growth
+that we were so excited about this year
+and going into next year,
+because it's all been tied to three companies,
+NVIDIA, Broadcom, and I'm blanking on Micron.
+So without those companies doing that spending,
+there goes the entire S&P 500.
+Isn't that the conversation that needs to be had?
+I mean Brad Gerstner was on the All-In Podcast
+and he was talking about the very thing.
+75% of GDP growth, just like Malcolm said,
+comes from AI infrastructure to spend this year.
+And if you pull that back,
+he thinks you can have at least a 50 basis point
+hit to growth next year.
+If growth is going to get hit,
+earnings are going to get hit.
+If this trade unravels in a more substantial way,
+how can these stocks be valued
+at current levels?
+How?
+Yeah, and you're seeing the re-rating going on
+and you saw it in October as well.
+If you look at the equal-weighted S&P in October,
+it outperformed the market cap
+and the rotation that you're talking about
+kind of started four to six weeks ago
+and really if you were invested to Josh's point
+in health care and staples
+and had a diversification strategy,
+those are the stocks that even yesterday
+look at health care.
+It was a three standard deviation
+compared to kind of the rest of the market.
+So to the point of semis,
+if you look back, they peaked at 20% of the S&P.
+They were 16% really as of last week.
+They're probably down to 12 or 14 now.
+But the largest that it ever became was 2008
+when there was 8% of the S&P.
+So you had a lot of money following really fast
+and growth that is probably not going to be there.
+But the opportunities there,
+and we've talked about it at length,
+you can be in other areas that can't have organic growth.
+Oh, I understand that,
+but I mean this has been the story.
+I caught your eye as we were having this discussion here
+and I got the feeling that you disagree on part of this.
+I don't know that I completely disagree.
+I may disagree on the timing.
+To me it's all about what happens to earnings going forward.
+Microsoft told you about the demand side.
+It's insatiable.
+You're going to hear about the supply side of this
+from NVIDIA on November 17.
+I think right now what's being threatened
+is the future build.
+As I said, compute is going to become more expensive
+for those who are able to provide it.
+I also think this whole notion that the financing of this
+is built on pillars of salt and sand
+is true maybe for some companies,
+but it certainly isn't true for others.
+Look at Meta's financing.
+They went out to raise $9 billion
+and had $53 billion of demand.
+They're sitting on cash.
+You look at a private equity company.
+It's five times levered.
+They're trading it one times free cash flow.
+It's ridiculous that we're worried about financing
+for the best companies.
+The way the NASDAQ looks right now,
+it says though everyone were about to take off
+their hard hat and say,
+oh, Democrats won?
+No more internet, I guess.
+And walk off the job site like Fred Flintstone
+slide down the back of a dinosaur.
+That's literally not happening.
+There's no Democrat saying that that's going to happen.
+What is more likely and Malcolm's point
+on where are the earnings going to come from?
+The market never believed in them anyway.
+And that's why NVIDIA is selling at 14 times forward.
+If anybody thought that their 28 and 29 estimates
+were anything other than a best, best, best case scenario,
+that stock would at a minimum sell at a market multiple.
+Sand discusses three and a half times earnings.
+Does that tell you that anyone believed
+that this was going to go on at the same pace that it was?
+You already have been re-rating and re-adjusting
+those expectations the last 18 months
+we've had multiple crushes.
+The point you were going to make is what?
+You were making my point when you mentioned Microsoft.
+They're the perfect example of what I'm saying.
+So now we're in this moment
+where they might seize this opportunity
+to reduce guidance on capex going forward
+where they were the company that came out
+and made it very clear we're not going to go free cash flow positive.
+We've had the reporting for several months
+about how Amy Hood was not a fan
+of how aggressive they had been with spending on the AI build out.
+And now's the opportunity for those hyperscalers to say,
+you know what?
+We see what's happening out there with the political climate
+and we think maybe we ought to walk back
+with those commitments on what those expectations are.
+This is the window to do it is my whole point.
+It may well be.
+This is their window to do it.
+If they're going to do it,
+then they won't need the levels of debt financing
+that you're talking about.
+We agree on that.
+But if I see a business that is far outstripping my ability
+to sell it.
+Then why are they cancelling projects with InScale and others?
+Maybe they don't feel like a neocloud is the right bet.
+I do not know.
+They don't want to fill themselves and keep that debt
+and the asset on their books.
+They've been outsourcing it for years.
+Here's the good news.
+Here's the good news.
+If Malcolm is right, you probably agree with this.
+All of a sudden now we have less of that reverse
+crowding out effect.
+Less AI related bonds coming to market,
+pushing up treasuries, pushing up interest rates.
+Then we get Tim Cook's 100 year flood
+and memory chips.
+We don't have to hear about that for a while
+and maybe the price of Apple products
+doesn't have to become as extreme in 27.
+A lot of these are palliative.
+A lot of these are good things.
+They may come from a lot of carnage
+in certain areas of the stock market,
+but if we're reducing inflation and reducing interest rates
+and the need for further interest rate hikes
+because the pace of this build out
+can be stalled or slowed.
+Yeah, you might be pissed if you run Iran.
+You're probably not pissed if you're a regular executive
+working in the corporation.
+If you're saying in spite of many of the headwinds
+that have come in our faces
+as we've been driving down this seemingly smooth
+for the most part road, some bumps here and there,
+you had to veer around some potholes
+that earnings were the thing that we're going to keep you
+at the end of the day getting to your destination,
+tech was going to grow 30% at least, right?
+Semi 65%.
+If I'm telling you that, if you're Dan Ives for example
+and you tell me that
+CapEx is going to peak sooner than we thought
+by a year, a year, okay?
+So I'm going to have to sort of rethink my numbers
+on a lot of different things.
+How can you not rethink the earnings numbers
+in the same breath?
+You are, but it's relative to the growth
+you're still going to achieve
+and it becomes much more selective
+on what you want to own.
+The higher leverage players are going to have
+a higher weighted average cost of capital.
+There's going to be more compression in their earnings.
+They might not even be able to attract capital
+but the strong will absolutely survive.
+Right now the NASDAQ and some of the best names
+from a fundamental standpoint in the index,
+yes, they've moved from being capitalite
+and huge returners of capital to more capital intensive
+because they have attractive investments to make.
+I understand but you're shrinking the market
+at the same time you're doing that.
+You're making the point that now you're going to have
+a smaller pizza.
+It's going to be more selective.
+It's going to be like a personal pie
+and you're going to have three or four names
+that live up to the billing of what you are talking about
+whereas before you had like a huge pie
+where all these winners were going to be.
+The power plays, the semi-names,
+this, that and the other.
+The oracles, the dels, the whomevers
+of the world who were going to participate in this.
+You just made the case that the pizza
+went from here to here.
+I do think it gets narrow specifically
+in the short run and I think this
+was a rising tide that lifted everything
+including our economy as Malcolm said.
+The whole economy was underpinned
+by this one trade
+and that's why everybody was trying to figure out
+if the financing issues were going to be
+such an endemic problem
+and bring us down to a lower GDP growth.
+Something else has
+and that's the election result
+with the AI referendums
+that have definitively slowed that.
+And so now we've got a different backdrop
+and I think you're going to have the
+AI providers of compute with the beneficiaries
+and I think you saw in healthcare by the way
+yesterday as well.
+Look at what were the strongest places yesterday.
+It was the hyperscalers
+and a lot of the healthcare companies
+that I think are going to be the large beneficiaries
+of early compute power.
+And the change in the administration.
+A guy like you and the kind of stocks
+that you generally buy and own
+and what's a reasonably concentrated portfolio.
+You're not so heavy in tech, right?
+Are you licking your chops at this kind of moment
+thinking that this is the moment again
+you've been waiting for?
+Economy's still pretty good
+and you're looking at opportunities outside of this universe
+which you think are going to do well?
+100% and you know we're 18%
+in healthcare right now.
+So if you look at some of our defensive sectors
+have been doing really well for the last few weeks
+and I think the opportunities there
+are going to get even more
+especially when you look at organic growth
+and cash all other companies
+that you can focus on.
+So I think that's right
+and the healthcare rally started
+months ago.
+And the market is really smart
+and I think it figured this out.
+You've also had an energy rally this year.
+They're 2% of the S&Ps and nobody cares.
+Nobody pays attention.
+The market has basically been saying
+we don't believe these numbers
+next year or the year after
+for this whole AI trade.
+We're thrilled with the story for the economy.
+We don't think that any of these numbers are realistic.
+That's why you've had multiple compression
+and then you've had this subroza rally
+in energy, in healthcare.
+Maybe the healthcare one became more noticeable
+over the last two weeks.
+I don't think the buyers of healthcare
+were predicting an election outcome.
+I think it's people saying to themselves
+I've got to diversify away from this thing
+that I've been riding like a dragon
+and I'll tell you anecdotally
+one of the things Dara said on the Uber call yesterday
+they were talking about third party owned autonomous fleets
+private equity and private credit
+putting up money for some of these projects
+to make and build and have available
+thousands of autonomous vehicles.
+One of the number one reasons they're saying
+they want to back these projects
+they want to do something that's not a data center.
+So like the memo has been out
+it's really only the last two weeks
+that we've seen it reflecting
+in the way that NASDAQ's at.
+Let me ask you this because it's the question
+that asks today which I think is
+where we're going here.
+Can the bull market continue marching higher
+if semis and it's accoutrement
+the bull market's engine continue to sputter?
+That's essentially what I'm asking Serrat
+and how I think I want all of you
+to think about how you would answer that question.
+What do you think?
+Can the bull market continue
+if I take out semis
+and all the accoutrement around that
+and that's what I leave you with?
+Yes or no?
+I think that it can
+and I think it's not an if we take out semis
+I think it's we are taking out semis
+from this equation at least to some degree
+and yes I do think the market can still make it there
+I think what you should be focused on
+if you're an investor paying attention to this conversation now
+is where are the companies
+where's the sector that's going to be
+most positively impacted by
+all of the compute that's been spent on at this point.
+To your point healthcare has been
+an obvious answer to that
+compared to some degrees an obvious answer to that
+where are the other sectors
+what are the other companies that are going to
+immediately show that return on invested capital?
+So two points to that one is on the index level
+on a market weighted
+I don't know if you're going to get a bull market going forward
+but if you are selective on an equal weighted
+or looking at a stock specific index
+I think you'll do fine
+to your other point we haven't talked about is
+the SaaS stocks that were getting killed
+because all the compute that was going to come out
+well guess what that's not going to happen as well
+at least in the last couple of weeks and even yesterday
+some of the software stocks that were
+going to be taken for dead are now
+reacting positively. I just feel like yesterday
+is a real hard day to hang your hat on
+anything that happened other than the fact
+that the market was exuberant that it was
+a so-called clean election
+that there wasn't a big messy
+fallout from it so it was
+an exhale that at least we got
+past that possibility
+I do want to talk about open
+AI and Anthropic though because I think
+it's a good way to finish
+rounding out this conversation
+in how these companies are
+reacting to the midterm result
+Kate Rooney is following that
+for us because there's so many different
+implications related to IPOs
+and other things Kate.
+Yeah Scott well the midterms
+especially really did put a spotlight
+on this entire data center
+backlash so you have the Democratic
+sweep this week of course in both chambers
+of Congress plus a Democrat in the
+governor's mansion in Texas
+it's not great news for the AI labs that are
+really relying on growing their
+compute and that overall capacity
+to grow revenue open AI
+at least trying to reconcile some of that
+data center backlash this morning with
+a new set of promises to
+communities their outlining commitments
+for future projects in this
+new policy blueprint that they put out
+they talk about getting input from local
+communities more cost support things
+like more disclosure and then scrapping
+disclosure agreements and NDAs
+open AI's chief global affairs
+officer Chris Lahane told reporters
+it could set a standard for the industry
+it could also become codified become
+law would likely be at the state level
+though it does feel like damage control
+Scott after the midterms but open AI
+said they've been working on this since
+August they said the election outcome
+has added some urgency and then Lahane
+said that AI was very much on the ballot
+and that the policy window is now open
+there are also some questions about
+overall AI legislation and the new scrutiny
+out of Congress together
+and tougher regulation I should say
+was mentioned in
+Anthropics S1 it was one of the big risk
+factors there's also a theory that the
+gap right now between the AI labs
+which have been the leaders in AI and
+then some of the big tech companies could start to narrow
+the big tech companies you guys
+have been talking about they are the ones that already
+have data centers in the ground they can more easily
+retrofit some of these
+existing sites that is one threat
+to these AI labs and then the biggest thing
+as we talk about Anthropics IPO
+the biggest thing investors are watching is the market
+mood right now sentiment is the swing
+factors we expect to get this listed in a couple
+weeks I did talk to an investor this
+morning who thinks one and a half
+trillion might be a stretch at this point
+in terms of valuation given the discount
+on tech today for context
+I mean people were talking about two trillion
+just about a month ago but given what's
+happened in the market Scott in the conversation
+you guys are having tough time for Anthropics
+I love your reaction as well
+Kate to another thing that Gershner
+said in the podcast
+that I referenced earlier
+of what the midterms
+mean for Anthropics IPO
+in general which he obviously has been an early
+investor in the private market
+and has made the case and he said it publicly
+he intends to be a big investor on the IPO
+he said
+that he thinks that it will
+now price to the lower
+end of the range those were
+his direct words now I don't know if he's
+right he doesn't know if he's going to be right
+but that was the way that he's thinking about
+what the midterm results could mean for
+this IPO with so much in the market
+itself hanging on this
+what do you make of that
+Brad Gershner with that
+Scott really does
+capture the sentiment I would say
+right now in Silicon Valley I mentioned
+investors that were talking about a two
+trillion dollar valuation have now come to terms
+that they will need to price at a lower
+end and it really just comes down
+to math I mean they need to do the math
+to say what are the comps what is the discount
+on tech so that is widely
+the expectation that they're going to have to go to that lower range
+something else that somebody brought up to me another investor
+yesterday was the
+difficulty for Anthropic as a public
+company to forecast going forward with all
+of this uncertainty with the pushback
+on data centers what's maybe coming out
+of Congress it's going to make it really difficult
+for them to put out future
+revenue forecast and it's
+the revenue and the growth
+can be so unpredictable for these AI
+labs it is going to be a test of an entirely
+new asset class it's not like
+we're getting another cloud company or the chip company
+going public Anthropic is
+the dawn of a new asset class and they're going
+out to the market at a time when growth
+when tech is getting punished
+and it's going to be tough for them and
+they're going to have to clear that hurdle I would say the bull
+case is if they price low
+then there's more upside but it's something people are talking
+about I think Brad nailed it there
+yeah I just think the current
+environment makes this story
+all the more interesting Kate we'll talk
+to you more at three o'clock this afternoon
+that's our Kate Rooney we mentioned what's happening
+with Qualcomm shares today on
+the back of earnings it's so relevant to
+really what is happening in the market I can't
+think of a better time for us to speak with
+the CEO Cristiano Amon stocks
+down 11% John Fort
+is with Mr. Amon joins us right now
+hey John
+Hey Scott thank you Cristiano
+great moment to have you not
+only after earnings but as you're just
+probably hearing the panel they're questioning
+whether semiconductors are
+really part of the picture for those who
+are trying to remain optimistic about the market
+I shares semiconductor ETF
+stocks down about 10%
+today Nasdaq still down about
+four and a half but let's talk about
+Qualcomm and the data center
+growth strategy that you have
+because perhaps
+that will inform investors
+about you know the the optimism
+that you still see
+in this market I think the number was
+what five billion
+that you set for the next fiscal
+year where you expect that
+business to be
+are you concerned about
+data center demand
+given those projections
+look great talk to you
+John look this is
+not a great day for the stocks I think the
+whole market is down but I think the Qualcomm
+store is a little bit different
+first of all I think I saw a lot of commentary
+on handsets
+the handset thing is it's everybody understand
+it Apple's coming off the model I think
+I don't know how many years we've been
+explaining that but the story
+of Qualcomm is what we have done outside that
+on the data center specific question we're
+new to this we're new entrant
+and we made very clear projections
+of what we're going to do five
+billion dollars of revenue fiscal 27
+and 15 fiscal 29 and I tell
+right now regardless
+of all this noise I think the five
+billion commitment we made
+it's
+not demand bound
+it's all supply bound if I have more supply
+I'll probably do better than five billion
+dollars so for Qualcomm
+none of those things change
+we have very high confidence
+I think that's an why is that
+what is the fundamental
+shift in data center architecture
+that's happening with the advent of
+AI where you feel that Qualcomm
+is positioned to pick up that
+kind of share because I think
+that that innovation case is
+important for investors to have in mind as
+they also way kind of the anti
+Neocloud case and concerns
+about leverage that are certainly rippling
+through this market right now yes so
+the majority of the five billion we have
+on on fiscal 27 let's say
+that the short term that's coming from
+connectivity and the custom
+music business but I think you're
+you ask a good question about technology shift
+what we're doing in the data center is
+if you think of a company like
+Qualcomm our DNA is about
+low power consumption computing
+we have a number of different
+technologies we actually
+I'm very happy when we announce an
+investor day we talk about 0.5
+pico joules of
+energy per bit
+the chips now is at 0.3
+better than advertised
+there is going to be
+a need for lower TCO
+in the data center so when we think
+about our 15 billion dollar
+projection of fiscal 29 there's a lot of
+new technologies coming in and we
+really focus on inference
+on decode
+and try to do
+this with the lowest possible
+compute density in power consumption
+and I think we we see that
+the data centers are evolving in technology
+so Cristiano there was a shift
+in mainstream compute
+as we moved from the PC
+into the mobile era where
+first it was all about the megahertz race
+they were fans and all the computers
+but when we moved to smart phones
+suddenly you know you can't have a phone
+you can't have a fan in that you've got to be
+efficient you've got to be lower power
+that's part of what Qualcomm
+grew on is the data center
+going through a similar transformation
+with AI because of
+these energy and resource demands
+that even we've seen
+the electorate concerned about
+this week and are you saying that's
+part of your play and the reason
+why you continue to see
+lots of room here for growth
+look I don't think it can
+make the same comparison between phones
+and PC but I'll tell in general
+and I'll use the success we have in automotive
+as an example low power
+consumption one in the automotive
+compute so I think
+as a general statement
+efficient compute
+always is
+successful and when you think
+about data center operations and I think
+to seek for margins total cost
+of operations important for all of the companies
+whether a big hyperscale or a neocloud
+so efficient power consumption
+is going to be a differentiating factor
+finally got to ask you about
+Starlink and this deal
+that you have with them
+there's been a lot of criticism of
+Elon Musk and Starlink's ambitions
+to be a telco
+wireless carrier across
+the whole country Qualcomm
+with from 3G on
+certainly knows this
+business tell me
+can they do it
+as Qualcomm looked at this
+and as you're supplying it how long
+will it take how big is the
+opportunity for Qualcomm
+longer term 5G 6G
+as something like the Starlink network
+builds out with your assistance
+no look great question
+even though we spend a lot of time
+I think in the past
+several years diversifying the company
+and talking about compute and data center
+and automotive and industrial robotics
+I think Qualcomm knows how to do cellular
+and communications and I think
+we're very excited about
+what this is this is a new
+complete build out of
+a nationwide
+terrestrial network in the United States
+is probably one
+of the largest build out
+we have been saying
+since we start talking about
+the future of wireless networks
+the architecture is going to change
+from modern
+equipment for the infrastructure
+that is built like a data center
+and the internet has been built
+this is an exciting project
+I think it's going to bring a lot of innovation
+in wireless and it is good
+to happen especially as we think
+about the future transition at 6G
+we're very excited and I think
+this is going to be great to your financial question
+we'll start to show up in revenues
+as we exit fiscal 27
+it's more of a fiscal 28 story for us
+we will watch it
+a lot of people watching right across the
+board
+today in particular but that's a look at the future
+Cristiano, I'm on the CEO of Qualcomm
+thank you, Scott, back to you
+gentlemen, thanks, good and timely stuff
+John Ford, thank you
+Malcolm, you bought the stock
+I did, tell me more
+well as the disciplined investor
+I like to tell myself that I am
+on days like today where everything
+on the screen is bright red
+I like to look through it and see if I can
+find an opportunity to pick up something
+that I actually like
+that has sold off with the rest of the market
+for no obvious reason
+I understand to Cristiano's point
+that the analyst community is anchoring
+to that 26% decline
+and handset growth because that has been
+their bread and butter this entire time
+but they're also guiding for 60% growth
+over the next year in non-handset
+revenue and so I think that's
+a missed opportunity right there
+you also heard him mention Automotive
+which they're looking at about
+89% growth year over
+year and the quarter they just reported
+so it's showing that at the same time that
+the handset segment is on its way down
+the rest of the business is on its way
+up the problem is it's a show me
+story so where the analyst community
+is looking at this and saying I understand
+that you don't want us to think of you solely
+as a company we understand that you want us
+to think of you as a diversified business
+within the chip sector you're going to have
+to show us I see this as an excellent
+opportunity to be planting a flag
+and starting to build a position in the company
+with it being off about 20% in the last
+month and 40% from its 52
+week highs you got a new fellow shareholder
+I do what do you think
+about that no I look it's trading at 12
+and a half times earnings forward earnings right
+it's a great balance sheet it's got a dividend
+and you got two other things here that
+we've kind of highlighted but we didn't
+really say Apple is out of the picture
+right all this overhang of Apple
+Apple Apple they're not going to be partnered
+with Apple anymore so going forward it's going
+to be handsets with SpaceX or handsets
+with somebody else but it's automotive it's
+all the other growths of semiconductors
+but to find that that growth with other
+things connected devices what is this
+internet of things that they talk about
+that's so exciting it's smart
+classes wearables headphones
+smart home devices robotics
+if anybody's not excited
+about those things and they
+are near 50%
+of their business is those
+things right now automotive
+and internet of things right
+that's different than there is
+you know it's very hard to make
+this pivot that Qualcomm is trying to make
+but there are examples of it working
+a recent example is UPS
+they basically became reliant
+on Amazon for
+unit growth for 10 years and then
+just the numbers no longer made sense
+and Amazon was competing with them anyway
+and they said we're
+basically out of the Amazon business
+we're going to reinvent UPS
+we're going to do more high end deliveries
+we're going to do more custom things
+more corporate stuff we're going to be international
+they weaned themselves off
+Amazon and if you look at the stock
+UPS like it took a few years
+for well this is 10 minutes but
+it's okay
+just kidding control
+it took a few years but look at this
+look at this comeback like just in the last few
+weeks like something's happening here
+so I think the Qualcomm story
+if they can pull it off like
+it might take a little bit more patience but it
+could happen but I think you know
+you get caught up in the semiconductor
+malaise today when all the ETFs are selling
+all the momentum I think the opportunity to buy
+something like a Qualcomm today that has real earnings
+and diversified earnings space
+not just going into data centers
+the market also wasn't interested in the
+SpaceX deal because the revenue is not supposed
+to show up until 2028 that starts
+to show where it bears fruit but if you're
+buying now at this
+discounted share price in anticipation
+of the additional revenue that comes
+from something like helping to build out
+the wireless cell network of the
+next up-and-comer I think it's an attractive
+opportunity all right we'll take a break
+Josh still has best stocks in the market we're
+still doing that today get your
+your pens and paper ready we'll be right back
+support comes from Amazon
+business procurement shouldn't be a
+guessing game whether you're running a
+small business or managing a large
+organization Amazon business offers
+smart purchasing experiences designed
+to meet your unique needs streamline
+your buying process save time
+and money and gain valuable
+insights to make smarter decisions
+empower your team to buy with
+confidence learn more at Amazon
+business calm every
+day it's a small business owner feels like
+solving a puzzle one moment
+you're cruising along and the next
+there's a shipping snag that as you
+scrambling but here's a surprise you
+will like with progressive
+small business owners save 13%
+on their commercial auto insurance when they
+pay in full so go ahead surprise
+yourself get a quote in as little
+as 8 minutes at progressivecommercial.com
+progressive casualty insurance company
+and affiliates discounts not
+available in all states or situations
+my brother had his identity stolen
+my neighbor did too
+identity theft is the number
+one crime in America my gosh
+my manager my cousin
+life lock detects alerts you to
+and fixes identity theft guaranteed
+or your money back wow that's
+a lot of people kind of makes you
+think don't wait to become the one
+identity theft happens to get life
+lock save up to 30%
+your first year at lifelock.com
+special offer terms apply
+all right we're gonna attempt to find some
+stocks in the market that look good
+good luck I said one
+in the A block Berkshire Hathaway
+sir happy new 52
+look this is the
+this is the type of market where
+you you get into
+names that have great trend lines
+and then the market decides we don't really care
+about that anymore stocks that are
+part of baskets that sold out quickly
+we were talking about octa the other day
+it's a cyber security name but it's a
+tech name they slaughtered tech
+octas already stopped out it's like
+I don't know 10 days after we talked about
+it this is why every time we write up
+a best stock in the market we not
+only talk about entries but we talk about
+exits how much pain are you willing to
+endure to be in some of the best stocks
+in the market in some cases you need a tight
+leash the name we're going to talk about today is
+MSCI this is a company that builds
+indexes it's a financial data
+business it initially sold off
+during the SaaS apocalypse because the
+market wrongly concluded
+software is worthless data is probably
+too it turned out to be the opposite
+this company has had an unbelievable
+run since people
+disabuse themselves of that notion
+the quarter they reported on October 20
+was incredible stocks made
+a huge move we wrote this up
+as a stock that you want to let come to you
+we want to see how it acts
+after making a parabolic move pulls
+back into a zone where buying
+is a little bit more reasonable and we're working
+with 600 for traders
+as sort of a line in the sand
+I don't want to take an intraday whipsaw on this
+so we're talking about
+a Friday close weekly closing
+low below 600 as
+you can see here this is a huge
+move it needs to be digested but the
+strength of this business is
+absolutely incredible AI
+agents are lapping up
+the sort of data that MSCI
+sells in addition
+to the strength of the business where
+they sell index licenses to all
+the ETF providers they're in a bull
+market for what they do doesn't
+need the stocks to buy at any price
+but I want it on people's radars
+because I could see this thing continuing to move
+for years to come as
+AI increasingly requires
+the type of unique data
+sets that only MSCI can provide
+let's just show the Nasdaq real quick
+guys if we could
+I know we may be out of time for this segment but
+whatever
+because it's down by more than
+a fresh full 5%
+Nvidia is down 8.5%
+it's just something you just don't
+don't see very often stocks like
+that getting hit that hard
+the two-day decline of 8%
+AMD is down almost 15%
+Micron 14
+Marvell 14
+market already didn't like the deal that it did
+and it's continued
+to punish that name
+but you could go so many other names
+I mean even cyber crowd strikes down
+almost 10%
+Palo Alto down 9
+Oracle's down almost 8
+it's a bad market to be fully invested
+I think is the only comment to make
+if you don't have the opportunity
+or the wherewithal to do anything
+you're 100% tech stocks
+I don't really know what you do from this point
+I don't know that the right thing to do
+is to be out there
+puking up stocks if you don't have margin calls
+but like I don't think most investors
+are 100% invested in tech
+I just I think people look at this
+and they say alright
+I love SpaceX
+I didn't get into it it was 125
+it went to 180
+now it's back below the IPO price
+I'll pull the trigger on SpaceX
+if and when I think the dust is settling
+I think you'll see people doing that
+and I don't know from what price
+but I think that's exactly how this ends
+I mean we're showing SpaceX now
+you might as well
+I don't own it maybe I'll end the bone
+because birds of a feather
+are getting destroyed together
+there's no question about that
+I mean the amount of market cap
+that has been waxed from
+those names combined
+since the election result
+you know given the amount of money
+that Elon Musk spent
+in the political arena
+for this election cycle down in Texas
+broader implications
+about what the change in the balance of power
+might mean
+and it continues to weigh on those stocks
+dramatically
+you have SpaceX
+you had in the private market
+you must have thoughts
+as you're watching this
+I mean I wonder how people are just rethinking
+I said birds of a feather
+get hammered together
+because people think of these two as together
+because they assume that they eventually will be together
+and I personally
+still think that will we did invest privately
+we did invest early
+the lockup has unwound
+and it's a staged lockup on wine
+we've been taking advantage of selling that
+but this is not a business story
+this is a political story
+this is a Washington story
+they have their largest customers
+the U.S. government
+they have huge contracts that need to be renewed
+I do think there's
+you know
+that Elon given his support
+is going to be somewhat in the cross hairs
+of that for a while
+real price discovery
+is happening around that right now
+it's always been expensive
+it was trading at 93 times
+sales now it's 53
+it's hard to say it's cheap
+but I think this company has some unique assets
+and it has some monopoly
+characteristics
+and when you have monopoly characteristics
+it does attract scrutiny
+but let's be honest
+those unique assets are things we all may need
+and need more of
+I do think that you should have
+some of this in a portfolio
+there are people in the orbit of our program
+who do
+I'll give you another number
+you almost have $500 billion
+worth of combined market cap
+wiped away
+since the election result
+it's just something to keep an eye on
+I think a big difference here
+Elon Musk
+went all in
+on the Republican side
+he was a Democrat
+he decided
+in a way that Dario Amade did not
+in a way that Sam Altman did not
+that distinction may not matter at all
+if they decide
+they want to hold hearings
+and craft real regulation around AI
+and transparency of the models
+and data centers
+it ain't going to help any of them
+or if this just becomes a thing like
+hey you know what let's investigate Starlink
+and how it acted in the Ukraine
+that will affect Space X Tesla
+and this corner of the market
+uniquely
+we really don't know
+here's another thing on timing
+on timing of doing this
+I think because a lot of people
+bought this on the IPO and chased it up
+there's going to be huge tax laws
+selling in a year where there's not
+a lot of that so as we come into your
+end I would be mindful
+of the timing if you want to get
+Space X or Tesla
+you want to make sure
+that your timing is right
+so you don't walking in front of that
+selling pressure
+we'll squeeze one in here
+we do have fresh moves still to get to
+both Malcolm and Sirot
+have things to say coming up about
+moves they've made in their portfolios
+we'll do it next
+with the Discovered Cashback card
+it's payback time when you
+earn cashback on everyday purchases
+activate and earn 5% cashback
+at different categories each quarter
+on up to $1,500
+in purchases that's 5%
+cashback at different places
+each quarter like grocery stores
+on gas and at restaurants
+it pays to discover terms applying
+cdiscovered.com
+slash 5 for details
+streamline your buying process
+save time and money
+and gain valuable insights to make
+smarter decisions empower your team
+to buy with confidence
+learn more at amazonbusiness.com
+you know Kevin sometimes I feel like
+computers are the only thing around here that are getting smarter
+yeah my model hasn't had an update in a while
+but that changes now
+we think that we can't smarten these
+listeners up about all things
+related to this crazy new future
+welcome to Machine Gods
+NPR podcast that will be your guide
+to the AI future
+twice a week we're gonna help you get smarter
+about AI so you know what's real
+what type and what you should probably install on your phone
+listen to Machine Gods from NPR
+on the NPR app or wherever you
+get your podcasts
+all right we do have some moves I did mention
+that we wanted to get to
+and it's we'll start with Sirot
+in what has been
+a top performing sector over the last month
+it's healthcare I think it was number two
+what are the moves that you have here so adding to
+well buying medline
+which is the Amazon
+medical supplies they sell
+that across the board to many different companies
+it's growing
+10% organic growth 30%
+margins we think
+this company's had a lot of runway to go and we're selling
+United Health which is up over 20%
+for the year we did very well with it
+I think you know the upside there is more limited
+so really moving within healthcare
+and staying with medline
+okay, Wells Fargo today
+Malcolm of American Express
+said quote unquote we're buyers
+best position overall
+among consumer finance stocks
+you read that and said
+I'm selling it anyway
+I wish them the best
+why are you selling it
+the operative word there was consumer
+I do not want to be tied to anything
+related to the consumer especially at a moment like this
+so I bought this stock
+initially on April 2nd it was trading
+at 295 I thought the market was discounting
+the amount
+that they were leaning into the top end
+of the K and really reshaping
+the business to focus on the higher
+income consumer but as
+they reported earnings last month
+card member spending was up 8%
+revenues were up 9% they beat earnings
+they delivered exactly what the analyst
+community was looking for and then the market
+sold their shares off anyway
+and I said this was probably as good as it was
+going to get for that story
+it didn't work out the way I wanted it to
+so it's time to exit stage level
+okay speaking of earnings
+this is the kind of day you just want to
+curl up with some shake shack
+put the sweats on
+just chill out
+don't talk to anybody just eat your shack burger
+whatever
+so they had earnings
+the earnings being revenue missed
+it was a very good report but it doesn't matter
+the stock's been building back
+it's been a horrible stock since the spring
+but it's been earning back its credibility
+and I thought this was a really good quarter
+but it doesn't matter you don't report on a day
+like today by choice
+it's just on calendar I will say
+Q3 revenue up 15.2%
+year over year is very good
+for the category now
+423 million quarterly revenue
+same shack sales were up
+2.5% that's 23
+straight quarters of positive comps
+on shake same
+shack sales which is what tells
+you more people are coming in
+or they're getting better pricing for what
+they're selling or some combination of the two
+and guidance was good but
+it's the day that it is today
+and that's the end of the story
+I don't know what else is going to do about it
+that scene that I painted resonated with you
+it seemed to have an outsize reaction
+it was actually my Sunday I literally
+went up grabbed a shack burger
+and came back and watched the Steelers
+that was my Sunday
+you know this guy takes the bun off though right
+you know
+I'm a lettuce knife and
+pork lettuce
+you should admit that on TV
+I'm from Pittsburgh it balances it out
+a little toughness with a little
+fitness there you go
+alright we'll do finals after this
+now that's getting smoked down
+5% smelt right around there
+so many different names for so many different areas
+of the AI trader under
+significant pressure Dan Ives
+is going to join us by the way on closing bell later
+I told you he had sort of
+tempered his expectations now on
+not only data center build but capex
+so we'll figure it all out
+later Alex Kanchiewicz is going to join us
+as well from big technology we think about
+the coming anthropic IPO
+what any of this market upset means for that
+what Brad Gersner said about
+where it could price within its range
+that's significant too
+Liz Thomas, Stephanie Guild, Brian Leavitt, Adam Parker
+we'll surround this whole thing
+coming up later at 3 o'clock
+final trade
+CF Industries turning natural gas
+into fertilizer great AI hedge
+it's up a lot today
+alright
+fertilizer trade is pretty
+it's resonating on a day like this
+great earnings too you know what I'm saying
+Sirot got the joke
+Rob's final trade really hit the fan today
+Mark it looks like a pile of fertilizer
+Sirot
+Morgan Stanley I think it's unfairly being sold off
+and the financials it's a good time to buy it
+you know Morgan Stanley and Goldman today
+wouldn't even mention that I wonder if this is sort of thinking about
+coming IPOs
+companies that are leading
+you're still going to get capital market activity
+you're still going to get wealth management
+show right green on a red day
+conical Phillips
+okay I see it three the exchanges now
+Amazon business
+don't let complicated purchasing processes get in the way
+smart business buying tools from
+Amazon business help you make better decisions
+faster our AI driven features
+surface insights to simplify procurement
+automate routine tasks
+and help you find what you need when you need it
+now organizations
+of any size can access unmatched
+selection business relevant features
+and fast reliable delivery
+learn more to Amazon business
+com
