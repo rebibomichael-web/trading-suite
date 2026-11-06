@@ -1,0 +1,2040 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+With the Discover Cashback card, it's payback time when you earn cashback on everyday purchases.
+Activate and earn 5% cashback at different categories each quarter on up to $1,500 in purchases.
+That's 5% cashback at different places each quarter, like grocery stores, on gas, and at restaurants.
+It pays to discover.
+Terms Applying, see Discover.com slash 5 for details.
+Carl, thanks. Welcome to the Halftime Report. I'm Scott Wapner.
+Front and center this hour, the latest on this tech trade.
+Yes, it's trying to rebound today. Many questions, though, still remain,
+which means we discuss and debate all of that with the investment committee.
+Joining me for the hour today, Jenny Harrington, Jim Labanthal, Kevin Simpson, and Brian Belsky.
+All right, let's check the market.
+That's what it looks like right now.
+Asdex looks great.
+Again, it was down so much yesterday that it's still working hard to get a good portion of that back.
+Everything is green at the moment.
+It was the worst day for the socks, the semiconductor index since the very early days of the COVID outbreak
+to give you some perspective.
+And I thought Charles Schwab today had some more perspective that was noteworthy,
+and I think worthy of a deeper conversation.
+They point out in mid-June, the Philly Semiconductor Index was up by 106.6% year to date.
+That was mid-June.
+That gain has now been cut to 27.2%.
+That shows you how much damage has been done within the chips.
+Yesterday alone, micron, AMD, down more than 17%, double-digit losses,
+almost across the board, NVIDIA down 9.5%.
+And it's negative on the year.
+At least it did go negative yesterday.
+Farmer Jim, I'm going to go to you first because you had tried to remain negative.
+I mean, positives, excuse me.
+Freudian slip.
+It's a Freudian slip.
+I was thinking of his flinches, and it made me think of,
+was he going to flinch again?
+No, seriously.
+What are you thinking?
+I knew something was wacky when Jenny's waving to people who are walking by.
+I know if you noticed that we're on the wide shot.
+I knew something was wacky when Jenny churned bullish last week.
+I wasn't bullish.
+And yet you were pretty bullish.
+We can read back the tape.
+Let's try to cut through a lot of the uncertainty that's out there.
+A couple of things went on yesterday.
+First off, there were legitimate concerns.
+I'm not going to call them fears, but concerns about what new Democratic
+governors and state legislatures will do to slow down the AI data center
+build out.
+And they will slow it down.
+I think it's highly unlikely that they're going to stop it because
+doing so will certainly turn the U.S. economy into recession,
+result in tremendous job losses, and a decimation of the tax bases
+for these newly elected politicians.
+So I don't think stopping it is what we're talking about.
+We're talking about slowing it down, which frankly cures the
+governor's dilemma that many of these hyperscalers have been in
+for many months.
+Are they going to be, Scott, the first ones to flinch in terms of
+capital spending?
+Now they don't have to be labeled with that.
+The politicians will do it for them.
+Now that's number one.
+That's a legitimate concern, but I actually think it's a
+positive.
+I'm not alone in saying that.
+But what happened yesterday was more than that.
+On the desk, we've talked about this many times over the past
+few weeks.
+Scott, you've made references to this, the deleveraging that
+was going on, particularly in the highly levered long short
+hedge fund space.
+And yesterday, the truth came out, and it was ugly.
+A lot of really well-known names were down big in October
+continuing into November, and they at the least unwound
+their positions, which resulted in a deluge of selling.
+And in some cases, they actually shuttered pods for the
+entire firm.
+That is what contributed a lot to yesterday.
+Now I am not saying that that's it, and it's over.
+But what I am saying is the positives of strong labor
+markets, strong economic growth, strong profit growth are
+likely to propel the markets higher after we get through
+a week or two of this post-election, post-dilevering
+volatility.
+So I think it's interesting you chose in large respects
+to focus on the hyperscalers in your analysis of what
+the data center backlash and the results of the midterms
+will mean.
+When the market is clearly focused on other areas that
+are more acute to the question itself, like the
+semis, right?
+Yes.
+And the power names.
+Yes.
+And you don't think that what's happening there makes
+some degree of sense if you're going to...
+Oh, I think it does make sense.
+I think what we saw and what you alluded to with
+Charles Schwab, I think that was who made it the
+comment that the socks was up 100% plus through
+June and now is only up 27%.
+The market was sniffing this out well in advance.
+I mean, yes, yesterday's declines in micron, in
+Nvidia were breathtaking, certainly.
+But they were and may be the final throws of a
+correction, more than a correction, a bear market
+in those semiconductors that now prices them
+appropriately for earnings that may well have to
+come down in the next couple of years, given a
+slowdown in the AI build out.
+But these valuations now we're looking at in
+Nvidia, I believe, 14 times forward earnings.
+I believe my...
+Maybe lower.
+Four times earnings.
+Yeah.
+Now, maybe these earnings are going to come down,
+maybe, okay?
+But these are multiples that are now expressing
+sentiment that is simply, in my opinion, far too
+negative.
+So, Belsky, there are so many different people
+opining on the destruction that took place
+yesterday.
+Chris Harby, CIBC, sell-offs not over yet says
+volumes weren't elevated enough, believe it
+or not, right?
+Yesterday was pretty brutal.
+He said it still wasn't enough.
+Mike Wilson has been saying, look, the
+market needed to get through a clearing
+event, have sort of one more meaningful
+pullback, and then that could be the end
+of the correction.
+He says this is likely the final stages
+of that.
+There was an interesting UBS note
+sort of throwing cold water on the
+rebound that we were seeing in the
+futures this morning, really pointing
+out to some of the deleveraging that
+still needed to take place, particularly
+from quant funds who were still highly
+exposed to this trade, which got so
+overwhelmingly crowded on many different
+levels that there was still some more
+to work through.
+How do you feel about where we are
+right now relative to what we
+witnessed yesterday?
+I think the Mike Wilson note is
+brilliant.
+It's brilliant in terms of the catch
+down because I really think that's
+what's happening per Jim's point and
+talking about the indices and then
+following back on the Schwab comment,
+it's really interesting.
+October was a bad month.
+Some of these names are already
+starting to break in October.
+We should not be surprised that you
+saw the roller coaster.
+You're looking over the edge.
+And oh, by the way, yesterday was this
+on the way down.
+So is it enough yesterday?
+If you take a look at upside versus
+downside volume, downside volume was
+five to one.
+Usually in these types of days you
+need like an eight or 10 to one.
+And so I hate it when people lose
+money.
+Today would be, I would not be
+surprised, quite frankly, if the
+market turns negative on a Friday.
+I don't want it to.
+I don't want to have people lose
+money.
+But I think we're closer to the
+washout per Mike Wilson's comment
+in terms of the index catch down.
+Okay.
+How about this?
+Because I've been thinking a lot
+about this.
+If you look at the numbers from
+the semi pullback, Kev, on the
+way up you had all these
+comparisons of 2000 to the
+market's gone too, too
+parabolic.
+There were some moves that were
+just insane.
+Okay.
+People looked at straight up into
+the right for the microns and
+the marvels and there were so
+many of them before they went
+into this period of pullback.
+What if we actually did have
+our 2000 already?
+But we had it in the places that
+were more reasonably suspect and
+vulnerable to a 2000 like
+pullback.
+So chips aren't down 80%, like
+the Nasdaq went 2000.
+But there are names that are 50
+and 60% off of their highs.
+The markets already cleared out
+a lot of the suspect stocks, if
+you will.
+Marvel is almost 60% off of its
+high.
+Lamb research is 55.
+Teradyn's 56.
+KLA's 56.
+Applied materials is 56.
+You love micron, it's 45%
+off of its high.
+Yet what looked like a
+house of cards, so to speak,
+in 99 going into 2000,
+because a lot of stocks went
+undeservingly because they didn't
+have any earnings, some of them
+barely had any revenues.
+The pillars of this house,
+the hyperscalers, the mega caps,
+did they look bad?
+To me they don't look bad and I
+think the trade on Wednesday was
+a little bit more accurate than the
+trade we saw yesterday.
+It was the haves and the have-nots.
+So if you look at companies like
+all the ones that you just mentioned
+which are more cyclical in nature
+and it goes longer and bigger,
+but I'm not sure that it's
+necessarily over, but the idea
+that we've seen a big part of
+the correction already take place
+is absolutely valid.
+And the house of cards in the 90s
+compared to these companies are
+completely different from the
+standpoint of some of these
+companies are just so-catch,
+cash-rich.
+You mentioned micron.
+It was up 100%, it's down 45
+from its highs.
+At the forefront of this revolution
+are in an entirely different position
+than the biggest companies then
+were at that revolution.
+A thousand percent.
+Here's why to the other end of the
+spectrum were the have-nots,
+the companies that are dependent upon
+capital markets right now,
+they're the ones that suffered on
+Wednesday, they continued to suffer
+yesterday.
+It's not just where interest rates
+are, it's what their prices
+or their cost of capital is
+to the market.
+So I look at the differences of
+99 and I sat in the same chair
+all throughout the 90s as I've done
+through this episode and I think
+that the confidence that I have in
+the big companies is far
+greater than anything I had in any
+company in the late 90s.
+They're so cash-flow rich that they
+can support anything in the capital
+markets but more importantly I can
+probably survive anything that may
+come from an administration, whether
+that be a municipality, a state
+or from Washington.
+So these big companies, these high
+quality names, that's where I'd
+say the more speculative, the
+smaller companies, those that are
+more sketchy, they probably have
+more room to fall.
+Some are going to look, Jenny,
+and say that the hyperscalers
+may be having their baby in
+96, 97, but these other areas
+so acute to the infrastructure
+build out, they've had their
+2000 moment.
+Now that's not to suggest that
+they can't go down more.
+Yeah.
+Because who knows where all this
+is really going to settle out.
+Data center power names,
+Vertive, 53% from its high, 50,
+40, 30, high 30s for a lot of
+these names.
+Neoclouds, one month, one month.
+Iron, down 53%, Nebius, 48.
+Coral weaves down 50 as well.
+You've had a pretty sizable
+better than correction full on
+bare market in these names.
+Well, let's say the best case
+is that they've already had
+their 2000s.
+Or close to it.
+Close to it.
+Yeah.
+What happens next?
+If they follow the same playbook,
+you know what they do?
+They sit flat for 25 years.
+I recently sold Sienna that I
+think I've mentioned a few
+times in the past, and I held
+like two or three shares in my
+own personal account that I
+bought back in 1999.
+And if you can pull up a chart
+of Sienna, yeah, that won't do
+it.
+Pull up that chart if you
+don't mind for 25 years.
+And you'll see that it sat
+flat for 25 years, and then
+it recently had a pop.
+You know, so I thought
+that's kind of crazy.
+But so let's say Scott,
+they have had their dot-com.
+What are they going to do?
+Maybe they're going to sit flat.
+But my suspicion is that they
+haven't had their dot-com
+moment, and that they haven't.
+I think on that smaller name,
+and I think this is where we
+might rhyme with dot-com, but
+we're not repeating, is I think
+Kevin's right.
+I, too, have more confidence
+in the meta, in the alphabet,
+in the hypers, in the big guys,
+right?
+Especially because, like, as if
+anthropics stumbles, if open
+AI stumbles, that's to their
+credit.
+I think one of the things that
+I'm latching onto in my head is
+the idea of maybe there's not
+an AI bubble, but maybe there's
+a data center bubble.
+And one of the companies in my
+portfolio is Microchip, and
+they just reported it.
+And Steve Sandi, the CEO, said
+twice on the call, I think
+data centers are in a bubble.
+And he was careful not to say
+AI.
+And that's an interesting idea.
+Maybe there's too much build
+out of the data center.
+I think you're, I think,
+honestly, I think you're
+making the point that
+we're talking about here.
+There's not an AI itself
+thing.
+It's real.
+Demand is real.
+Sara Friar, you heard her
+talking.
+Others, I mean, who are on the
+front lines.
+Everybody knows that demand
+for AI is real.
+Did the data center trade
+get a little ahead of itself
+or a lot ahead of itself?
+Did more than the data center
+trade get ahead of itself
+or a lot ahead of itself?
+Perhaps.
+But those are, like, massive,
+massive pullbacks to the
+point where, Jim, you bought
+quanta services, which is down
+34.5%, if not a little more,
+from its high.
+Getting a nice move today.
+It's had a rough week.
+You know what the stocks have
+done.
+Tell me about that move.
+Well, obviously, I'm taking
+the exact side of the opposite
+side of Jenny.
+And that's fine.
+What I look at, and I think
+if you're buying quanta,
+you have to believe that the
+data center trade is going to
+continue.
+And that, frankly, it's not
+a bubble.
+So let me make that assertion.
+Now, let me back that up a
+little bit.
+Let's just look at the demand
+or, excuse me, the revenue
+growth that we saw from Azure,
+that we saw from Google Web
+Services.
+We're talking, in Google's
+case, 100% plus year over
+year.
+We're talking in Azure's case
+over 40%.
+That, to me, is not what a
+bubble is.
+A bubble is when things are
+being built without demand
+for them.
+These companies are telling
+us that they have more demand
+than they can meet with
+supply.
+We know, by the way, that
+when we're talking about
+data centers, a critical
+bottleneck, if not the critical
+bottleneck, is electrical
+power supply.
+I would say we never really
+knew to be fair to that
+assessment whether we were,
+and maybe we still are,
+building too many data centers.
+We weren't going to find the
+answer out for a while until
+we really knew where demand
+was going to be.
+So I'd be careful with trying
+to make that judgment.
+I will take the cautious
+reminder.
+I will take it.
+Because it is probable, based
+on human history, that a bubble
+eventually forms, gets highly
+inflated, and pops.
+To that extent, I think a
+democratic-led slowdown of this
+build-at might actually be
+welcome.
+But in terms of the data
+centers that are being
+built for the next year or
+two, they are going to be
+built, and they're going to
+need the electrical power
+supply.
+I draw a distinction between,
+of course, we always want to
+make this comparison to the
+late 1990s, but think about
+how much spending was done on
+Y2K that came to a crashing
+halt on Jan 1 of 2000.
+And I mean a complete stop.
+That's not what we're talking
+about here.
+Also, the fiber optic
+networks that were laid in
+the ground all over these
+cities were 90% unused.
+That's the exact opposite of
+what we have now.
+So I mean, you're making the
+case that you don't think
+the data center reality.
+I'm not even going to call it
+concerns because it's more of a
+reality now that the midterms
+have happened.
+And we, you know, even people
+like Dan Ives are saying,
+well, at minimum you're going
+to get 10% fewer than you
+thought as a direct result
+of this.
+You don't think that's true?
+You think this is way
+overdone?
+Use the 10%.
+Exactly.
+Way overdone.
+Use the 10%.
+Fine, we're going to have
+10% less data centers.
+That's a guesstimate.
+I got it.
+I mean, I'm just keying on
+what you're saying.
+What you also said is, and I
+do believe this, I think
+this is overdone.
+Now look,
+Quanta is not exactly
+cheap at a mid-20s multiple,
+but it's also off 33%
+from its recent high.
+Amazon is at the cheapest
+it's been, frankly, in years
+and years and years, and it's
+not just data centers,
+although definitely
+Amazon Web Services,
+Tranium Chips, et cetera.
+This is a big play in there
+with other drivers in terms
+of the retail as well.
+Man, at the end of the
+table, he owns Quanta
+and he owns Vista.
+What do you think of this
+jumping in now?
+I'd like to thank Jim
+for buying Quanta, number one.
+Number two, yesterday was
+a binary day.
+At a data center attached to it,
+sell it.
+So guess what?
+Coming out of this,
+you want to buy the best.
+You want to buy the best stocks.
+You want to buy the best
+operations.
+Quanta is the best operation
+even though it's got
+Colorado and Texas.
+This is the one that's
+only in Texas.
+We'll see what happens there.
+But decisions have not
+been made yet,
+but the market made it
+for you yesterday,
+making a binary decision
+sell anything related to
+data centers.
+And I think that's a mistake
+when markets do that.
+Had been happening for months, too.
+I mean, look,
+that's like tail is all this
+time, right?
+When the market sells off
+everything and it's in
+discriminate, blah, blah, blah.
+But it's my sense
+that it hasn't gone far enough.
+Right?
+There's probably
+overall, Jan,
+but I think for certain
+stocks, this is now
+when you do stock.
+Okay, but let's take
+Micron, for example.
+You can really look at
+that two ways.
+You can say, yeah,
+it's down 50%.
+You can say it's still
+200% in a year.
+You can say, like, okay,
+we think the data centers
+are only going to lose
+10%.
+Or you can say,
+eventually competition
+is going to come on,
+or maybe it's more than
+10%.
+But that's why it trades
+at a reasonable multiple
+still because people are
+so skeptical about what
+the real future
+earnings are with this.
+And it's just my sense
+also having lived through
+.com.
+It's just my sense
+that it hasn't gone far
+enough.
+And I think there's
+important math to remember
+two here, which is,
+okay, sure, the market
+looks great today.
+There's green everywhere,
+right?
+But when a stock,
+like Micron, is down
+17% yesterday,
+it needs to be up
+almost 20%
+to recover that.
+It's only up six.
+So I'm not really seeing
+today's move
+as terribly reassuring
+in terms of, like,
+redirecting that momentum.
+Now, we all know
+I'm not a momentum trader,
+so maybe you should
+listen to me on that.
+But it just seems
+to me like
+people are
+caring about valuations.
+The numbers aren't there.
+The feeling isn't there,
+you know, to get it,
+to get it.
+I mean, there's
+an insatiable demand
+memory,
+and there's going to be.
+There's a dramatic supply
+demand imbalance.
+For sure.
+And there's going to be.
+There's nothing
+at this point to suggest
+there will not be.
+Okay, so that's great.
+And that's right.
+But then what is
+Micron's earnings growth rate
+in 2027, 2028, 2029?
+For sure.
+And no one can answer
+that right now.
+That's where it gets tricky.
+If we want to talk about
+Micron, let's not forget
+they're going to buy
+back $100 billion worth
+of shares.
+For a market cap
+that just got a lot cheaper
+is $750 billion.
+This is a lot of shares.
+That's a good point.
+And so when we make these
+inevitable comparisons
+to the 1990s,
+we have to draw distinctions
+about where things are
+different.
+There's no debt on
+Micron's balance sheet.
+I mean, that's different
+than any other
+cycle that Micron's been
+on.
+There's no debt.
+They're generating gobs
+of free cash flow.
+Yes, Jenny,
+there are questions about
+the growth rate.
+But at literally
+four times next year's
+earnings,
+I'm okay with it.
+Did you,
+what are you doing
+with Nebius?
+Right?
+Because the Neoclouds
+that stock's gotten,
+you know,
+crushed, obviously.
+Still up 42%
+a year today.
+That's one of the
+Jenny's stories.
+But you don't want to
+sit here and watch that
+continue to happen.
+Still up 32%.
+Still up 22%.
+You know what I'm saying?
+No.
+Exactly.
+But here would be
+my retort.
+50% to 60%
+of their CapEx
+is prepaid
+by their existing
+customers.
+They have $10 billion
+of debt.
+CoreWeave has
+$50 billion of debt.
+So it's a
+small mid-cap name for
+us.
+And that space
+and that's the one
+we want to play on.
+You're comfortable.
+I felt like
+that was too brief
+of a defensive...
+Really?
+Well, I'm comfortable
+because...
+Yeah, because I mean,
+this to me,
+these,
+this sub-
+sect of stocks
+feels like
+it's the biggest
+in many ways
+conversation.
+Like,
+the Neoclouds are right
+at the heart
+of what happened.
+The way that they run
+up,
+the way their valuations
+are,
+the amount of debt
+that many have taken on.
+In the game,
+we own 50 basis points
+compared to
+an NVIDIA
+where we own
+700 basis points.
+Is it completely different,
+completely different ballgame?
+Yeah, I know,
+but sort of
+one is more at the
+kind of epicenter
+of the
+worries about
+what's happened
+on many levels.
+If you take a look at
+the total market cap
+of the Neocloud
+areas
+versus
+semi-connected chips
+versus the memory space,
+it's very small
+relative to the rest.
+So that's
+why our opinion...
+So you're holding the stock?
+Yes.
+I mean,
+the mega caps have
+obviously held up
+better than many of the others
+as we did discuss.
+I want to bring in
+Malcolm Etheridge
+because I mentioned
+what's happened with
+NVIDIA
+this week.
+You've trimmed it.
+Tell me more.
+Ahead of earnings,
+by the way,
+which I think are on the 17th.
+Yeah, so I've actually
+trimmed it now
+for the third time
+this year,
+and I know that
+you would assume
+that that's probably
+because
+when the market seems
+to be souring
+the company that's
+at the center
+of all the spending
+related to AI
+and all the building
+related to AI
+would be the first one
+to be under pressure.
+But it's actually
+because something about
+AMD's earnings
+just didn't sit
+right with me.
+So AMD reported 97%
+year-over-year growth
+in data center revenue
+specifically,
+which was a really big
+positive for the
+broader semiconductor
+industry,
+you know,
+overall
+and the health
+of the AI trade.
+But it also...
+They also included
+some guidance
+to capture a growing
+share of that
+AI infrastructure
+spending
+going forward,
+which is the space
+where NVIDIA has dominated.
+So they included
+in there
+a little bit of
+detailing
+on guidance
+or detailing
+on
+the models that they now...
+the contracts that
+they now have
+with the model builders,
+you know, anthropic,
+open AI,
+the hyperscalers,
+Microsoft and on.
+And they basically
+have proven now
+that they have
+the ability to come
+and potentially unseat
+NVIDIA
+in some ways,
+nibble at their market share
+in some ways.
+And I know,
+you know,
+$90 billion
+per quarter in revenue
+is what NVIDIA is reporting
+in data center.
+Revenue versus
+about $9 billion
+for AMD.
+So I'm comparing
+like a watermelon
+to a
+grapefruit probably.
+But
+just the fact that
+they have the potential
+to come along
+and be a substantial
+competitor
+to NVIDIA
+is what I think is
+disheartening a little bit
+for anybody
+who's been really excited
+quarter after quarter
+about how much market share
+they've been able to control,
+how much of the gross margin
+they've been able to put up
+quarter after quarter.
+And so to your point,
+I'm selling it ahead of earnings
+just in case the market
+decides once again
+that it doesn't like what it hears
+from NVIDIA post earnings,
+because for the past few quarters,
+each time they report,
+the market says,
+yeah, that's great,
+but it's not good enough.
+What else could they tell us?
+And so I think it's a good place
+to just be doing
+some risk management here
+for anybody like me
+who's gotten over their
+skis in NVIDIA.
+I've trimmed it
+twice earlier this year
+and it keeps on growing back
+like a weed.
+And so I think it's
+a good place to be doing
+some trimming where the market
+is souring,
+like I just said,
+along the entire space
+altogether.
+I think the big difference
+when we talk about earnings
+is that we've seen NVIDIA
+run into earnings
+and then sell off on news.
+If you look at NVIDIA
+now, Malcolm,
+you're talking about a stock
+that's coasting at best,
+maybe even limping
+into earnings.
+I don't mind the idea
+of de-risking.
+I think that's fantastic.
+If you're trimming again,
+that makes sense.
+I wish Belsky would trim
+some of the Neocloud position,
+but that's a conversation
+maybe for another day.
+But I don't look at this
+NVIDIA earning season
+quite the same way
+as I have previously.
+If anything,
+I'm definitely holding
+the position
+and we're not looking
+to reduce it.
+When you say you don't
+look at it
+like you used to previously,
+why?
+Because of market conditions?
+Yeah, I think that
+the entire trade now
+because of the data
+center changed.
+Let's say that we're
+talking about 10% fewer
+data centers,
+15% fewer data centers.
+It doesn't really matter.
+It changes the economics
+for every one of these companies,
+regardless of the tentacle.
+So for me,
+you have to just lower
+expectations.
+The conversation about
+micron was valid.
+Maybe they're sold out
+through 28.
+Jenny, you mentioned 29.
+I think that that peak
+in sales is probably here.
+So I'm still a believer
+in NVIDIA.
+I still think it's cheap.
+We own it.
+But I'm not sure
+that it's going to have
+the same problems
+post earnings
+that it's had previously
+in the quarters
+that we've seen
+three months, six months,
+nine months ago.
+And that, to me,
+is a big difference
+with NVIDIA
+and some of these other names.
+And we will see where
+things are.
+Yeah, sorry.
+Go ahead, Malcolm.
+I was just,
+to Kev's point,
+I think we have to at least
+consider what increased
+competition from here
+looks like for NVIDIA.
+So the Helio system
+is what I was
+referring to before
+about allowing them
+to run their software
+and hardware under one roof.
+It's similar,
+very similar to what
+NVIDIA has been offering
+with CUDA,
+which has been the thing
+keeping their customers locked
+in to that sticky ecosystem.
+So with the names
+that I just mentioned,
+the companies that
+they've already started
+to secure contracts with
+and do business with,
+being willing to step in
+and validate
+that there is something there
+in terms of AMD's potential
+to slide in
+and slide itself
+as a meaningful number two.
+NVIDIA hasn't really had to
+worry about competition
+in a meaningful way
+for the last four years
+that we've been talking
+about this AI trade,
+and that's why I'm saying
+specifically that before
+their earnings,
+it's a good time
+to be looking at risk management.
+All right, we'll talk to you again
+soon. Malcolm, thank you.
+That's Malcolm Ethridge.
+We'll end the block
+with another buy.
+Amazon.
+Yep.
+Added to it.
+Look, leaning in.
+Just this is a reflection
+of there is no sign
+yet of a slowdown.
+Not a slowdown in demand,
+on a slowdown in pricing.
+I'm talking obviously
+about AI trade,
+Amazon,
+with its web services,
+with its tranium chips,
+et cetera,
+leaning into it.
+I think what we're going through
+right now is a consolidation
+of pause,
+not the beginning of the end.
+I can't make it any more
+clearer than
+by the trades I'm making.
+Who's got a thought on that?
+We added to Amazon
+before earnings.
+We were a little bit early,
+maybe wrong,
+but I like the fact
+that you're seeing value
+and opportunity there.
+This is not December 31st,
+1999.
+I'll make that statement
+and you can skewer me later
+if you want,
+but there's no sign
+of demand stopping.
+The politicians may slow it down,
+but the demand is there.
+How come no one's talking
+about the consumer business
+at Amazon?
+No one's talking about that.
+Because it's kind of like
+you're making an excuse
+for buying it, right?
+If you're buying Amazon right now,
+you're buying it for AI.
+Yeah, you are.
+And as AWS grows,
+the 50% of where revenues
+are going to be,
+but you have that
+core business there.
+I agree.
+And I don't think
+enough people talk about
+the consumer side.
+I agree with you.
+I just didn't lead with that
+I mean, if I've led with that,
+Scott would skew it for real.
+Oh, you're buying it for the retail.
+Go ahead.
+Hey, Scott, I'm trying to get it.
+I'm trying to get it for the retail business.
+What?
+All right.
+We're going to take a break.
+We have a double downgrade
+for a stock
+that Jenny just made a move in.
+So we'll get to all of that.
+We still need to discuss
+SpaceX and Tesla
+and what's happened
+to both of those stocks this week.
+We do have ownership there.
+I want to hear from
+our committee on those names.
+When we come back.
+In the new mystery series,
+unpredictable symptom squad,
+my team and I are on a curious case
+to gather clues about
+plaque psoriasis
+and psoriatic arthritis
+and learn how
+Cosentic treats both
+and can help
+stop further joint damage
+in psoriatic arthritis.
+Cosentic Secukinumab
+is prescribed for adults
+with moderate to severe
+plaque psoriasis
+and adults with active
+psoriatic arthritis.
+Don't use of allergic to
+Cosentics.
+Get checked for TB
+before starting.
+The risk of infections
+and lowered ability to fight them
+may occur,
+like TB or other serious
+bacterial, fungal
+or viral infections.
+Some were fatal.
+Tell your doctor
+if you have an infection
+or symptoms like
+fevers, sweats, chills,
+muscle aches or cough
+had a vaccine or plan to
+or if IBD symptoms
+develop or worsen.
+Serious allergic reactions
+and severe
+eczema like skin reactions
+may occur.
+Learn more
+at 1-844-COSENTICS
+or cosentics.com
+Don't let mysterious symptoms
+go unsolved.
+Talk to your doctor
+about Cosentics.
+This holiday,
+all plants
+and unlimited
+are just $15 a month.
+A holiday deal this good
+obviously deserves
+an enormously expensive
+holiday song
+like all I want.
+Right.
+Okay, we can afford that.
+You don't forget the music
+budget.
+We're going to stick with
+whatever's in the public
+domain.
+Give it a try
+at
+mintmobile.com
+slash switch.
+Up front payment
+of $45 for three months,
+$90 for six months
+or $180 for 12 month
+plan required,
+$15 per month equivalent
+taxes and fees extra.
+New customer offer
+for initial plan
+term only greater
+than $15.
+So it's not often
+you see a double downgrade
+but that's in fact
+what we did get today
+on TripAdvisor
+to underperform
+from buy
+the target to 8
+from 15
+it's Bank of America
+and you sold it.
+You know what else doesn't
+happen often.
+It doesn't happen often
+that you sell a stock
+a few minutes before
+it drops 30%.
+So we...
+Did you really time it
+like that?
+I mean it's truly
+by good fortune
+and that is the truth.
+So
+we've owned TripAdvisor
+actually since $14, right?
+So we still had a huge loss
+on it.
+You think in B of A
+for putting out the downgrade
+when they did?
+I don't really care.
+The stock was done
+on earnings.
+Good point.
+Well done.
+Sorry, you're exactly right.
+That's what it is, right?
+B of A you're several months
+or a year too late.
+You're getting some ice cream
+B of A, right?
+I'm not sending them ice cream.
+I tried.
+We bought it a couple years
+ago at $14
+and the thesis was
+this is a really great
+travel booking
+you know
+leader and they had their
+viator business
+and they were minting cash
+it was a huge
+free cash flow yield
+when we bought it
+but then what happened
+was agentic AI crept in
+and that really started
+to pummel the shares
+and that was really
+the thesis for us
+saying hey
+this doesn't make sense
+for us anymore
+and the investment thesis
+has fundamentally changed
+you've booked travel
+in a different way
+so we sold the stock
+on Wednesday
+at about $10
+they announced earnings
+we had zero expectation
+for such a rotten earnings
+quarter
+but they missed on
+earnings
+they announced a new CEO
+and this stock was down
+like 28%
+in the aftermath
+so that's one where
+you just
+you know you want to pretend
+you're smart but you might
+just be lucky
+well alright
+well we appreciate you
+keeping this up to date
+by the way sorry
+to the double downgrade
+it's like
+I don't know that I buy it here
+like this is the heart
+of at risk from
+AI and agentic AI
+it's really
+it's really frightening
+and they have good businesses
+they have good cash lists
+but they're under threat
+alright let's take a look
+at SpaceX
+and Tesla
+let's try and do that
+because I don't really think
+there's another way
+to talk about them
+can't talk about one
+you got to talk about both
+some people
+think they're going to be both
+sooner rather than later
+both are getting
+a nice rebound today
+SpaceX
+remember
+let's see the stock price
+on that again
+because the offer price
+on the IPO is 135
+remember that
+it's been below that
+can we get the chart
+there it is
+so it's still below that
+so you had
+more than $400 billion
+worth of market cap
+wiped off the map
+in what happened in the market
+yesterday
+and then the actual day
+after the election
+now they're going to wind down
+Tesla is the cyber truck
+production sales
+just did never
+sort of got to where
+people suggested they would
+Musk himself suggested they would
+maybe 10% of the original plan
+what are you doing with this
+name
+you have both Tesla
+and SpaceX
+a thousand percent
+our growth portfolio
+we believe in SpaceX
+we believe in Tesla
+we own this
+we're going to own it
+for a very long time
+winding down the
+cyber truck in Texas
+I think is not that big a deal
+if it's making room
+for more robo taxis
+that's fine
+we don't own this position
+or SpaceX
+because of
+the cyber taxi
+necessarily today
+we own it for the cyber taxi
+years into the future
+but robotics
+space
+Starlink
+this is a very volatile stock
+this is an incredibly polarizing
+individual
+you have to look at what
+happened on Tuesday
+and factor that in
+to your point
+in terms of combining this
+company
+are you factoring that in
+I think you have to
+I think you have to
+but you're not coming out
+more negative though
+well I think this is going
+to be a rodeo
+for a long time
+but I like the stock
+I believe in Elon Musk
+and I'm going to own it
+we bought it at 120
+we bought it at 150
+we'll probably continue
+to add to it on volatility
+we did not buy any full
+disclosure yesterday
+we have a position
+that's small
+big enough
+because if you're looking at
+a position that's
+three four five years
+down the road
+I don't think you want to
+have too big of
+too big of a weighting
+in your portfolio
+how much do you have
+Tesla right
+yeah I would
+the echo exactly
+what Kevin said
+I mean this is about
+cyber caps and robotics
+I'm confused on why the
+stock is even
+classified as
+consumer discretionary
+stock it should be
+an industrial or
+technology name
+so we own less than
+1% I mean we're just
+hanging on for the
+merger
+okay I think you
+I mean I want to know what
+the options market is
+suggesting too
+because I you know
+it's such a popular name
+Oliver Rennox at the
+Sebo in Chicago
+you have more on
+what kind of trades
+that you're seeing
+never mind
+we'll get back to Oliver
+I think
+if not
+I'll just look
+I'll say this on
+SpaceX Scott
+this is the sort of stock
+I would like to own
+I love what they do
+I think it's really cool
+what they do
+I can easily justify it
+by out years multiples
+but I guys just
+don't know how this
+is going to trade
+when they make the
+announcement which
+inevitably they will
+that they're merging
+I don't know how
+it's going to go through
+antitrust you know
+Elon's going to be
+occupied for the
+coming year or so
+with a lot of answers
+to be given on
+Capitol Hill so
+I'd like to at least
+wait for that merger
+announcement and see
+how the stock trades
+okay let's get the
+news what do you guys
+think yeah
+yeah fair
+Pippa Stevens
+Hi Pippa
+Hey Scott
+so European authorities
+are investigating
+a new wave of
+bomb trucks
+flights fighter jets
+escorted three planes
+over Hungary
+while other aircraft
+were diverted or
+searched in France
+Italy and elsewhere
+no explosives
+were found and
+no one was hurt
+more than two dozen
+flights received
+similar threats
+earlier this week
+two U.S. Senate
+races remain
+too close to call
+in Mississippi
+Democrat Scott Cologne
+leads Republican
+incumbent Cindy
+Hyde-Smith
+by about 1100
+votes with
+provisional
+and mail
+balloting
+outstanding
+in Alaska
+over Republican
+Senator Dan Sullivan
+with about a quarter
+of ballots
+still uncounted
+and Pope Leo
+is beginning a
+12-day tour of Uruguay
+Argentina and Peru
+just weeks after
+surgery to remove
+an early stage
+cancerous growth
+from his lungs
+doctors cleared
+the 71-year-old
+Pontiff to travel
+the demanding
+visit includes
+14 flights
+in a return to
+Peru
+where he served
+four years
+Scott
+okay Pipps
+thank you
+Pippa Stevens
+Mike Santoli
+next
+is here
+transforming
+how we work
+live and lead
+and the women I
+talk to
+are waiting for the
+future
+they're shaping it
+I'm Julia Borsden
+senior media
+and tech correspondent
+at CNBC
+this is CNBC
+Changemakers
+where I talk
+with the female
+leaders
+transforming business
+as AI
+reshapes the world
+follow and listen
+to CNBC
+Changemakers
+women leading
+in the age of
+AI
+wherever you
+get your
+podcasts
+senior markets
+commentator
+and overtime
+co-anchor
+Mike Santoli
+sorry Oliver
+I don't know what happened
+that was my bad
+alright
+what are you
+thinking about this
+rebound
+yeah
+in the chips
+and I
+the way I say rebound
+is not by accident
+right exactly
+it's pretty tentative
+you're not getting back
+really a huge chunk
+of what was lost
+yesterday
+at the
+S&P 500
+level looks like
+it's trying to escape
+without further damage
+but the
+intraday chart
+is a series
+of like a
+slinky going down
+the steps
+where it ultimately
+settles out
+you can definitely
+make the plausible case
+that we
+we finally got something
+pretty close to
+you know wash out
+type conditions yesterday
+in the
+tech part of the market
+of course
+the complicating factor
+is that
+we were talking about this
+yesterday
+this real kind of
+clockwork
+choreography
+of rotation
+was broken
+so if there was like
+the perfect dispersion trade
+that's worked for months
+definitely got interrupted
+yesterday
+you've kind of
+stripped some of the teeth
+off the gears
+in the market
+because the
+equal weight S&P
+had a massive run
+against the Nasdaq
+and then
+it was time for it
+to cool off
+and back away
+in the defensive sectors
+and tech wasn't there
+to take up
+the slack
+I think that's
+what we're dealing with
+right now
+and it's really a matter
+I mean the debates
+about the trajectory
+and the velocity
+of the AI
+data center
+built
+very legitimate
+does anthropic
+come in
+and kind of
+backstop the
+trend for a while
+but I also think
+that you have
+just exactly how much
+positioning stress
+have we gone on
+gone under
+and just how oversold
+do you have to get
+to really rebase here
+if this is just a correction
+into continuing up
+does anthropics
+valuation
+matter
+that much
+are we going to
+more focus on the fact that
+well
+thank goodness
+they came public
+yeah I'm in the camp
+reasonably on the schedule
+that we thought
+I'm on the side
+that says just
+they have to get it done
+probably
+can't be
+a massively down round
+from the last
+private valuation
+I am
+I would guess
+they want to get cash
+in the door
+I don't know what that's going
+to tell us for
+the model business
+down the road
+and for the
+fortunes of open AI
+but in terms of
+let's
+refill the coffers
+or top them up
+and maybe the credit markets
+will be
+you know
+placated
+and things like that
+I do think
+you probably want
+the deal done
+I can absolutely
+see the opposite point of
+you which says
+no
+is exactly
+that sort of final blow
+for a pullback
+that gets you
+the maximum panic
+and then you can rebuild
+from there
+I think it's more about
+we want the deal done
+okay good stuff
+Michael thank you
+appreciate that
+that's Mike Santoy
+I'll see you later this
+afternoon we're back with
+more after this
+Oracle shares are falling
+at the moment
+let's go to Seema Modi
+who's got details
+on some headlines
+that have sent that stock
+lower what's going on here
+there is a report from
+Bloomberg
+that Microsoft
+is potentially
+computing capacity
+from Oracle
+we did report separately
+in the last hour
+that Microsoft
+from the sources
+we spoke to
+is in the process
+of consolidating
+it's neocloud partnerships
+we did reach out to
+both Microsoft
+and Oracle on this report
+but it does mark
+sort of a potential shift
+in the AI
+computing landscape
+and signals that
+Microsoft and others
+may be rethinking
+the types of partnerships
+they have
+across the landscape
+again this
+report suggesting
+that Microsoft
+may be winding down
+an arrangement
+with Oracle
+more as we get it Scott
+but you think that this
+could be part of
+maybe what becomes
+a larger rethink
+is that what I understand
+the concern is that
+this could potentially
+lead to some
+forging of certain
+relationships
+prioritizing
+a few neoclouds
+over the others
+again we're still
+working the phones here
+to understand
+what these new
+arrangements could
+potentially look like
+the reason this
+really matters though
+is because this
+is Oracle
+that's relying on
+Microsoft's
+investment grade rating
+to secure
+a lot of off balance sheet
+loans Scott
+Good stuff
+Seema thanks for the insight
+I appreciate that
+Seema Modi
+got some ownership here
+you and you
+what's up
+Nothing to like about
+that news headline
+and this is not an
+environment in which
+I or anyone should
+start explaining away
+bad news headlines
+yes Oracle
+will report in mid December
+that's a long time
+and I hope there's
+some updates from the
+company before then
+as to what this means
+you know the big
+Oracle is that half of
+their remaining performance
+obligations are open
+AI so to me I do focus
+on open AI
+hopefully completing
+this fundraising that
+they're going through
+that's been downgraded
+we know that from 30
+billion to 20 billion
+but I'd like to see
+them get that done
+nonetheless I just
+don't like this news at
+all I would expect
+Oracle to exactly
+what Jim said to be
+a little bit more visible
+with respect to what's
+happening they've been
+a lot better lately in
+terms of coming out
+with news and so we'll
+see exactly what
+percentage of that
+business will go away
+I think this has a
+lot of discussions
+if it's real and that goes
+back to some of the
+conversation last week
+about the cost of
+capital changing
+right as we saw
+neocloud funding
+disappear as we saw
+pop tan even to
+intervene to get
+deals done and this
+just says to me
+like there's pressure
+at the margins
+and when there's
+pressure at the margins
+and all these companies
+are interdependent on
+each other
+something insidious
+starts to happen
+if we go back to the
+A block and I talked
+about the cost of
+capital it's not
+interest rates
+it's credit worthiness
+the next move of
+the stock market
+marked my words
+it'll be the credit
+market that moves
+the market
+I think you're right
+okay after the break
+guess who
+is joining us
+Oliver
+yeah
+Oliver Renick
+wow he heard me
+calling
+she came running
+he's next
+Oliver Renick
+at the SIBO
+global markets in
+Chicago
+what would we do
+without you
+thanks for coming by
+what do you got
+appreciate it Scott
+some interesting stuff
+I think in an area
+that's been under
+the radar here
+throughout this week
+that's the
+international equity trade
+namely I'm looking
+at the emerging markets
+EEM, ETF
+and China
+FXI
+or Kweb
+first emerging markets
+which got hit
+about as hard
+as anything else yesterday
+options volume
+is about four times
+the average
+in EEM
+and it is very
+very bearish
+190,000
+options traded
+and almost
+180,000
+of them
+were puts
+and it looks like
+three times
+more than sellers
+with the most popular purchase
+the 54 strike put
+expiring
+Nov 20th
+that's 9% lower
+now in China
+it's basically the opposite
+of this
+it's call buying
+all over the place
+and the group is up
+but we have seen
+just too many
+high volume
+bullish options
+flows in FXI
+throughout
+it's steady decline
+the past year
+I think
+to get too excited
+unless you think
+something monumental
+has changed for China
+this week
+Oliver, thank you
+we'll see you later this afternoon
+Oliver Renek
+we'll step away
+we'll come back
+with finals next
+we'll see what this
+last hour of trade does
+it's been a week hasn't it
+Ed Yardeni
+Jeremy Siegel
+Anastasia Amoroso
+Courtney Garcia
+Eric Woodring
+on where Apple's next move
+might be
+and I hope you join me then
+Brian Belsky
+final trade
+take two
+TTWO
+Grand Theft Auto
+November 19th
+regardless of what's happening
+under the surface
+of the credit markets
+Amazon
+they have a strong balance sheet
+excellent mobile
+not done
+Clorox just had a great
+earnings report
+site
+alright
+I'll see you on the bell
+AI is here
+transforming how we work
+live and lead
+and the women I talk to
+aren't waiting for the future
+they're shaping it
+I'm Julia Borstin
+senior media
+and tech correspondent
+at CNBC
+this is CNBC Changemakers
+where I talk with the female
+leaders transforming business
+as AI reshapes the world
+follow and listen to CNBC Changemakers
+women leading in the age of AI
+wherever you get your podcasts
