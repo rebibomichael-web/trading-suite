@@ -28251,6 +28251,10 @@
     "14d": {
      "pct": 10.09,
      "win": true
+    },
+    "21d": {
+     "pct": 4.91,
+     "win": true
     }
    }
   },
@@ -28275,6 +28279,10 @@
     },
     "14d": {
      "pct": 10.09,
+     "win": true
+    },
+    "21d": {
+     "pct": 4.91,
      "win": true
     }
    }
@@ -28301,6 +28309,10 @@
     "14d": {
      "pct": 10.09,
      "win": false
+    },
+    "21d": {
+     "pct": 4.91,
+     "win": false
     }
    }
   },
@@ -28326,6 +28338,10 @@
     "14d": {
      "pct": 10.09,
      "win": false
+    },
+    "21d": {
+     "pct": 4.91,
+     "win": false
     }
    }
   },
@@ -28350,6 +28366,10 @@
     },
     "14d": {
      "pct": 10.09,
+     "win": false
+    },
+    "21d": {
+     "pct": 4.91,
      "win": false
     }
    }
@@ -29855,6 +29875,10 @@
     "14d": {
      "pct": 10.09,
      "win": false
+    },
+    "21d": {
+     "pct": 4.91,
+     "win": false
     }
    }
   },
@@ -29879,6 +29903,10 @@
     },
     "14d": {
      "pct": 10.09,
+     "win": true
+    },
+    "21d": {
+     "pct": 4.91,
      "win": true
     }
    }
@@ -29905,6 +29933,10 @@
     "14d": {
      "pct": 10.09,
      "win": true
+    },
+    "21d": {
+     "pct": 4.91,
+     "win": true
     }
    }
   },
@@ -29929,6 +29961,10 @@
     },
     "14d": {
      "pct": 10.09,
+     "win": true
+    },
+    "21d": {
+     "pct": 4.91,
      "win": true
     }
    }
@@ -29955,6 +29991,10 @@
     "14d": {
      "pct": 10.09,
      "win": false
+    },
+    "21d": {
+     "pct": 4.91,
+     "win": false
     }
    }
   },
@@ -29979,6 +30019,10 @@
     },
     "14d": {
      "pct": 10.09,
+     "win": true
+    },
+    "21d": {
+     "pct": 4.91,
      "win": true
     }
    }
@@ -31623,6 +31667,10 @@
     "7d": {
      "pct": 4.59,
      "win": true
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": false
     }
    }
   },
@@ -31644,6 +31692,10 @@
     "7d": {
      "pct": 4.59,
      "win": true
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": false
     }
    }
   },
@@ -31665,6 +31717,10 @@
     "7d": {
      "pct": 4.59,
      "win": false
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": true
     }
    }
   },
@@ -31686,6 +31742,10 @@
     "7d": {
      "pct": 4.59,
      "win": false
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": true
     }
    }
   },
@@ -31707,6 +31767,10 @@
     "7d": {
      "pct": 4.59,
      "win": false
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": true
     }
    }
   },
@@ -31854,6 +31918,10 @@
     "7d": {
      "pct": 4.59,
      "win": false
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": true
     }
    }
   },
@@ -31875,6 +31943,10 @@
     "7d": {
      "pct": 4.59,
      "win": false
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": true
     }
    }
   },
@@ -31896,6 +31968,10 @@
     "7d": {
      "pct": 4.59,
      "win": false
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": true
     }
    }
   },
@@ -31917,6 +31993,10 @@
     "7d": {
      "pct": 4.59,
      "win": true
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": false
     }
    }
   },
@@ -31938,6 +32018,10 @@
     "7d": {
      "pct": 4.59,
      "win": true
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": false
     }
    }
   },
@@ -31959,6 +32043,10 @@
     "7d": {
      "pct": 4.59,
      "win": false
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": true
     }
    }
   },
@@ -31980,6 +32068,10 @@
     "7d": {
      "pct": 4.59,
      "win": false
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": true
     }
    }
   },
@@ -32047,6 +32139,10 @@
     "7d": {
      "pct": 4.59,
      "win": true
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": false
     }
    }
   },
@@ -32068,6 +32164,10 @@
     "7d": {
      "pct": 4.59,
      "win": true
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": false
     }
    }
   },
@@ -32089,6 +32189,10 @@
     "7d": {
      "pct": 4.59,
      "win": true
+    },
+    "14d": {
+     "pct": -0.33,
+     "win": false
     }
    }
   },
@@ -32109,6 +32213,10 @@
    "outcomes": {
     "7d": {
      "pct": -0.64,
+     "win": null
+    },
+    "14d": {
+     "pct": -0.51,
      "win": null
     }
    }
@@ -32332,7 +32440,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 29th, 2026",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32348,7 +32461,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 29th, 2026",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32364,7 +32482,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 29th, 2026",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32380,7 +32503,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 29th, 2026",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32877,7 +33005,12 @@
    "video_title": "#TSLA EXPLODES ABOVE $400 \u2014 BREAKOUT TO $555 OR MASSIVE BULL TRAP? #Tesla #daytrading",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32893,7 +33026,12 @@
    "video_title": "#TSLA EXPLODES ABOVE $400 \u2014 BREAKOUT TO $555 OR MASSIVE BULL TRAP? #Tesla #daytrading",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32909,7 +33047,12 @@
    "video_title": "#TSLA EXPLODES ABOVE $400 \u2014 BREAKOUT TO $555 OR MASSIVE BULL TRAP? #Tesla #daytrading",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32925,7 +33068,12 @@
    "video_title": "Tesla Quietly Crossed a Line Today",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "ENPH",
@@ -32989,7 +33137,12 @@
    "video_title": "META Stock After Earnings: Smart Money Is Buying",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.86,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "UBER",
@@ -33218,7 +33371,12 @@
    "video_title": "Is SpaceX Stock A BUY?",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.41,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "BAC",
@@ -33234,7 +33392,12 @@
    "video_title": "Is SpaceX Stock A BUY?",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.53,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -33481,7 +33644,12 @@
    "video_title": "HIMS Stock Prediction: Months of Compression About to Break",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -9.07,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "HIMS",
@@ -33497,7 +33665,12 @@
    "video_title": "HIMS Stock Prediction: Months of Compression About to Break",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -9.07,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "HIMS",
@@ -33513,7 +33686,12 @@
    "video_title": "HIMS Stock Prediction: Months of Compression About to Break",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -9.07,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -33766,7 +33944,12 @@
    "video_title": "Elon Just Took On Four Rivals at Once",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.71,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CRWV",
@@ -33782,7 +33965,12 @@
    "video_title": "Elon Just Took On Four Rivals at Once",
    "date": "2026-10-28",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -24.26,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
