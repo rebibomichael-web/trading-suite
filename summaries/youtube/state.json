@@ -1,6 +1,5 @@
 {
 "seen": [
-"cpNVtAcOMY8",
 "a8VVvySfz94",
 "p0OZclnyCts",
 "gL7nK_Izr5I",
@@ -499,21 +498,16 @@
 "KElLe8Mye4Y",
 "JD1fnIitaJk",
 "6JsSYMCY6Vk",
-"-h2TeoJ6_Ao"
+"-h2TeoJ6_Ao",
+"cGE_cwGU5Es"
 ],
-"pending": [
-{
-"id": "cGE_cwGU5Es",
-"channel": "Fundstrat",
-"title": "Tom Lee: Is the crypto bull run just getting started?",
-"published": "2026-11-04T22:09:10+00:00",
-"description": "Tom Lee on CNBC Closing Bell today: a \u201cblue tsunami\u201d is actually a positive outcome for stocks.\n\nHe highlighted two reasons why:\n1) It forces Washington to negotiate.\n2) It takes the pressure off the Fed.\n\nHe covers other the factors in a post exclusive to Fundstrat Direct members. Subscribe today: https://fundstratdirect.com/full-services/?utm_medium=social&utm_source=YT-short&utm_campaign=appearance&utm_term=20261104&utm_content=CNBC-TL"
-}
-],
+"pending": [],
 "x": {
 "pdicarlotrader": {
 "user_id": "1369405313439391749",
-"since_id": "2118115540212293939"
+"since_id": "2118115540212293939",
+"until_id": "2118460094211903602",
+"high_water": "2118820660113821927"
 }
 }
 }
