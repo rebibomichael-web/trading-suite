@@ -8,9 +8,11 @@
   "-lLFBy2_p7w",
   "-mN6BwBmfeo",
   "-nTjZyUJbx4",
+  "0LHOeEIq-yY",
   "0LvFXrcJ-bE",
   "0Q84SnD4qEI",
   "0SZZugTyixM",
+  "0lT7rVq3Lc4",
   "0w07vrFPre0",
   "0y2rmiqAxfU",
   "0yxGj6jcTE4",
@@ -21,6 +23,7 @@
   "1Jz2b_4YM0M",
   "1KRxwYrnBxw",
   "1Nvi3Lew5Sc",
+  "1Rjk6QBw8Ns",
   "1tsqjnXhlgQ",
   "2-kX-GtQOBY",
   "26qXd_8mYHs",
@@ -102,6 +105,7 @@
   "9YwIZ8GiPOI",
   "9ZIfD5gu6vE",
   "9jE7aZcmCVc",
+  "9rlva6saGbE",
   "9uoEOtH2c7E",
   "A5_uBkxvm48",
   "AGU3crkFaLE",
@@ -138,6 +142,7 @@
   "D89961YQiX8",
   "DN65KcPJjpk",
   "DOKdmy85MvY",
+  "DP2o11q6FQM",
   "Dj6WtuhOnE0",
   "Dju3H1wSzK8",
   "Dqe8ZC2644M",
@@ -339,6 +344,7 @@
   "a_x9LYIvR4I",
   "ay6fWsT6AJc",
   "b6tpNkxfOzI",
+  "bF8-aP3R5TM",
   "bR9WLy_aUWU",
   "bm3QSj9sZoY",
   "byKcYJjVbko",
@@ -362,6 +368,7 @@
   "di8jb8aQJrA",
   "dpPartE99nw",
   "draD3-zSS3Y",
+  "dzIfEc_htqI",
   "e3HUOmaPz9c",
   "e8apt5AomBE",
   "e96OwaC942A",
@@ -404,6 +411,7 @@
   "huQcTKcEHys",
   "i5Jjxu4Adnc",
   "i5fNFF32guQ",
+  "i6lOe2ZN5gw",
   "i8hPENPr5tM",
   "iQDZvz0smz0",
   "iRf8Cty_t8I",
@@ -478,6 +486,7 @@
   "pePRdV322wI",
   "penW3nzycAM",
   "pz9RWQJXk8w",
+  "pzki89iQbd4",
   "q-FkaFq2zjQ",
   "q2QsDYKVUcw",
   "q5g-d59_TgU",
@@ -503,6 +512,7 @@
   "rwdOjzyyylA",
   "s70mSSmcFss",
   "sAssDt455D0",
+  "sDtSDxq_Klo",
   "sETgZiPBIqc",
   "sFviV_wlGYI",
   "sJ_BRQoQPTc",
@@ -552,12 +562,14 @@
   "xWsNURtofAc",
   "xbCFYcjoDtg",
   "xl9YnaC3Eqg",
+  "xqN2PlbptsE",
   "xsJUFzFzZtQ",
   "xtx9tNRKywM",
   "y-ylpbC8zPk",
   "y53rd7UhBfo",
   "yN0YaJF_dOU",
   "yQ-59JNTG-8",
+  "y_LBRFRvBuY",
   "y_hYjNp1UIc",
   "yd-3r1b3n4w",
   "yi1rj-lYZVE",
@@ -28512,6 +28524,10 @@
     "14d": {
      "pct": 11.27,
      "win": null
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": null
     }
    }
   },
@@ -28537,6 +28553,10 @@
     "14d": {
      "pct": 0.33,
      "win": true
+    },
+    "21d": {
+     "pct": -29.51,
+     "win": false
     }
    }
   },
@@ -28561,6 +28581,10 @@
     },
     "14d": {
      "pct": 12.71,
+     "win": false
+    },
+    "21d": {
+     "pct": 0.99,
      "win": false
     }
    }
@@ -28587,6 +28611,10 @@
     "14d": {
      "pct": 12.71,
      "win": false
+    },
+    "21d": {
+     "pct": 0.99,
+     "win": false
     }
    }
   },
@@ -28611,6 +28639,10 @@
     },
     "14d": {
      "pct": 12.71,
+     "win": true
+    },
+    "21d": {
+     "pct": 0.99,
      "win": true
     }
    }
@@ -28637,6 +28669,10 @@
     "14d": {
      "pct": 12.71,
      "win": true
+    },
+    "21d": {
+     "pct": 0.99,
+     "win": true
     }
    }
   },
@@ -28661,6 +28697,10 @@
     },
     "14d": {
      "pct": 12.71,
+     "win": true
+    },
+    "21d": {
+     "pct": 0.99,
      "win": true
     }
    }
@@ -28687,6 +28727,10 @@
     "14d": {
      "pct": 11.27,
      "win": true
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": false
     }
    }
   },
@@ -28712,6 +28756,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -28737,6 +28785,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -28762,6 +28814,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -28787,6 +28843,10 @@
     "14d": {
      "pct": 11.27,
      "win": true
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": false
     }
    }
   },
@@ -28812,6 +28872,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -28837,6 +28901,10 @@
     "14d": {
      "pct": 11.27,
      "win": true
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": false
     }
    }
   },
@@ -28862,6 +28930,10 @@
     "14d": {
      "pct": 11.27,
      "win": true
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": false
     }
    }
   },
@@ -29032,6 +29104,10 @@
     "14d": {
      "pct": 0.33,
      "win": true
+    },
+    "21d": {
+     "pct": -29.51,
+     "win": false
     }
    }
   },
@@ -29057,6 +29133,10 @@
     "14d": {
      "pct": 0.33,
      "win": true
+    },
+    "21d": {
+     "pct": -29.51,
+     "win": false
     }
    }
   },
@@ -29082,6 +29162,10 @@
     "14d": {
      "pct": 3.79,
      "win": true
+    },
+    "21d": {
+     "pct": -14.36,
+     "win": false
     }
    }
   },
@@ -29107,6 +29191,10 @@
     "14d": {
      "pct": 0.19,
      "win": true
+    },
+    "21d": {
+     "pct": -15.33,
+     "win": false
     }
    }
   },
@@ -29132,6 +29220,10 @@
     "14d": {
      "pct": -5.42,
      "win": false
+    },
+    "21d": {
+     "pct": -44.0,
+     "win": false
     }
    }
   },
@@ -29156,6 +29248,10 @@
     },
     "14d": {
      "pct": -12.84,
+     "win": null
+    },
+    "21d": {
+     "pct": -37.35,
      "win": null
     }
    }
@@ -29501,6 +29597,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -29526,6 +29626,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -29551,6 +29655,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -29576,6 +29684,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -29601,6 +29713,10 @@
     "14d": {
      "pct": 11.27,
      "win": false
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": true
     }
    }
   },
@@ -29626,6 +29742,10 @@
     "14d": {
      "pct": 11.27,
      "win": true
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": false
     }
    }
   },
@@ -29651,6 +29771,10 @@
     "14d": {
      "pct": 11.27,
      "win": true
+    },
+    "21d": {
+     "pct": -5.17,
+     "win": false
     }
    }
   },
@@ -30048,6 +30172,10 @@
     },
     "14d": {
      "pct": -3.18,
+     "win": false
+    },
+    "21d": {
+     "pct": -16.82,
      "win": false
     }
    }
@@ -31520,6 +31648,10 @@
     "7d": {
      "pct": 5.71,
      "win": false
+    },
+    "14d": {
+     "pct": -25.0,
+     "win": true
     }
    }
   },
@@ -31541,6 +31673,10 @@
     "7d": {
      "pct": 2.9,
      "win": false
+    },
+    "14d": {
+     "pct": -29.32,
+     "win": true
     }
    }
   },
@@ -31562,6 +31698,10 @@
     "7d": {
      "pct": 7.67,
      "win": true
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": false
     }
    }
   },
@@ -31583,6 +31723,10 @@
     "7d": {
      "pct": 7.67,
      "win": false
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": true
     }
    }
   },
@@ -31604,6 +31748,10 @@
     "7d": {
      "pct": 7.67,
      "win": false
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": true
     }
    }
   },
@@ -31625,6 +31773,10 @@
     "7d": {
      "pct": 7.67,
      "win": true
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": false
     }
    }
   },
@@ -31646,6 +31798,10 @@
     "7d": {
      "pct": 7.67,
      "win": false
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": true
     }
    }
   },
@@ -31792,6 +31948,10 @@
     "7d": {
      "pct": 7.41,
      "win": false
+    },
+    "14d": {
+     "pct": -3.76,
+     "win": true
     }
    }
   },
@@ -31813,6 +31973,10 @@
     "7d": {
      "pct": 7.41,
      "win": false
+    },
+    "14d": {
+     "pct": -3.76,
+     "win": true
     }
    }
   },
@@ -31834,6 +31998,10 @@
     "7d": {
      "pct": 7.41,
      "win": true
+    },
+    "14d": {
+     "pct": -3.76,
+     "win": false
     }
    }
   },
@@ -31855,6 +32023,10 @@
     "7d": {
      "pct": 7.41,
      "win": false
+    },
+    "14d": {
+     "pct": -3.76,
+     "win": true
     }
    }
   },
@@ -31876,6 +32048,10 @@
     "7d": {
      "pct": 7.41,
      "win": false
+    },
+    "14d": {
+     "pct": -3.76,
+     "win": true
     }
    }
   },
@@ -31897,6 +32073,10 @@
     "7d": {
      "pct": 7.41,
      "win": false
+    },
+    "14d": {
+     "pct": -3.76,
+     "win": true
     }
    }
   },
@@ -32239,6 +32419,10 @@
     "7d": {
      "pct": 7.67,
      "win": false
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": true
     }
    }
   },
@@ -32260,6 +32444,10 @@
     "7d": {
      "pct": 7.67,
      "win": false
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": true
     }
    }
   },
@@ -32281,6 +32469,10 @@
     "7d": {
      "pct": 7.67,
      "win": false
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": true
     }
    }
   },
@@ -32302,6 +32494,10 @@
     "7d": {
      "pct": 7.67,
      "win": true
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": false
     }
    }
   },
@@ -32323,6 +32519,10 @@
     "7d": {
      "pct": 7.67,
      "win": true
+    },
+    "14d": {
+     "pct": -8.25,
+     "win": false
     }
    }
   },
@@ -32344,6 +32544,10 @@
     "7d": {
      "pct": 7.41,
      "win": true
+    },
+    "14d": {
+     "pct": -3.76,
+     "win": false
     }
    }
   },
@@ -32424,7 +32628,12 @@
    "video_title": "Intel Stock: -16% on Earnings. I\u2019ve Waited Months for This",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -43.25,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32524,7 +32733,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 30th, 2026",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32540,7 +32754,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 30th, 2026",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32556,7 +32775,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 30th, 2026",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32572,7 +32796,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 30th, 2026",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32588,7 +32817,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 30th, 2026",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32604,7 +32838,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 30th, 2026",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32620,7 +32859,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for October 30th, 2026",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "GOOGL",
@@ -32636,7 +32880,12 @@
    "video_title": "Google Stock: Why I Just Bought the Dip (Capex Fears Explained)",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.44,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AMZN",
@@ -32652,7 +32901,12 @@
    "video_title": "Google Stock: Why I Just Bought the Dip (Capex Fears Explained)",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 6.74,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MSFT",
@@ -32899,7 +33153,12 @@
    "video_title": "Tesla Announces Good News, Investors Celebrate!",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.4,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32915,7 +33174,12 @@
    "video_title": "#TSLA WARNING: CLOSE BELOW $393.61 TODAY TRIGGERS A SELL SIGNAL! #Tesla #daytrading",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.4,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32931,7 +33195,12 @@
    "video_title": "#TSLA WARNING: CLOSE BELOW $393.61 TODAY TRIGGERS A SELL SIGNAL! #Tesla #daytrading",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.4,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -32947,7 +33216,12 @@
    "video_title": "#TSLA WARNING: CLOSE BELOW $393.61 TODAY TRIGGERS A SELL SIGNAL! #Tesla #daytrading",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.4,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -33089,7 +33363,12 @@
    "video_title": "ENPH Stock Analysis: How I Manage a Losing Trade",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 12.03,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "NOW",
@@ -33158,7 +33437,12 @@
    "video_title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 4.62,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "RBRK",
@@ -33174,7 +33458,12 @@
    "video_title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -20.87,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MELI",
@@ -33190,7 +33479,12 @@
    "video_title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -7.82,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AAOI",
@@ -33206,7 +33500,12 @@
    "video_title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -40.79,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AVGO",
@@ -33222,7 +33521,12 @@
    "video_title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -15.5,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AXON",
@@ -33238,7 +33542,12 @@
    "video_title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -12.67,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CRWD",
@@ -33254,7 +33563,12 @@
    "video_title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -16.83,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MSFT",
@@ -33270,7 +33584,12 @@
    "video_title": "Why I'm Buying This Software Selloff, Best Stocks to Buy Now!",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.09,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -33286,7 +33605,12 @@
    "video_title": "Big News Just Confirmed: Tesla's Tech Breakthrough In Action",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "VFS",
@@ -33302,7 +33626,12 @@
    "video_title": "Big News Just Confirmed: Tesla's Tech Breakthrough In Action",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -6.4,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "SKYY",
@@ -33318,7 +33647,12 @@
    "video_title": "SKHY Stock Analysis: Smart Money Just Loaded Up",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -12.1,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "SKYY",
@@ -33334,7 +33668,12 @@
    "video_title": "SKHY Stock Analysis: Smart Money Just Loaded Up",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -12.1,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -33707,7 +34046,12 @@
    "video_title": "HOW Many Cybercabs Did Tesla Just Register?",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.4,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -33849,7 +34193,12 @@
    "video_title": "AMZN Stock: Capex Fears vs. Opportunity",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 7.88,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "AMZN",
@@ -33865,7 +34214,12 @@
    "video_title": "AMZN Stock: Capex Fears vs. Opportunity",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 7.88,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -34091,7 +34445,12 @@
    "video_title": "#TSLA'S $400 BREAKOUT IS IN DANGER #Tesla #daytrading",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -34107,7 +34466,12 @@
    "video_title": "#TSLA'S $400 BREAKOUT IS IN DANGER #Tesla #daytrading",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -34123,7 +34487,12 @@
    "video_title": "#TSLA'S $400 BREAKOUT IS IN DANGER #Tesla #daytrading",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -34139,7 +34508,12 @@
    "video_title": "#TSLA'S $400 BREAKOUT IS IN DANGER #Tesla #daytrading",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -34155,7 +34529,12 @@
    "video_title": "#TSLA'S $400 BREAKOUT IS IN DANGER #Tesla #daytrading",
    "date": "2026-10-29",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -14.78,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -34170,6 +34549,118 @@
    "channel": "Matt Pocius on Tesla Stock & Money",
    "video_title": "Tesla JUST Confirmed Big News, TSLA Up Despite Markets Down",
    "date": "2026-11-02",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "Tesla's going to win the robo-taxi cost war. Done deal. It's no longer a debate.",
+   "video_id": "1Rjk6QBw8Ns",
+   "channel": "Brighter with Herbert",
+   "video_title": "Waymo Lost $2 Billion. Tesla's Cybercabs Are Waiting",
+   "date": "2026-10-31",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I think Tesla wins this race. Pretty simple. And this week made me a lot more confident.",
+   "video_id": "1Rjk6QBw8Ns",
+   "channel": "Brighter with Herbert",
+   "video_title": "Waymo Lost $2 Billion. Tesla's Cybercabs Are Waiting",
+   "date": "2026-10-31",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "GOOGL",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "Alphabet reported that the division holding Waymo, they lost about $2 billion in 3 months.",
+   "video_id": "1Rjk6QBw8Ns",
+   "channel": "Brighter with Herbert",
+   "video_title": "Waymo Lost $2 Billion. Tesla's Cybercabs Are Waiting",
+   "date": "2026-10-31",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 410,
+   "horizon_days": 365,
+   "quote": "if your horizon is a year, Wall Street's 410 is the right frame. And on that frame, the stock is about fairly priced with the merger as the wild card.",
+   "video_id": "9rlva6saGbE",
+   "channel": "Brighter with Herbert",
+   "video_title": "Every Tesla Investor Needs To Watch This",
+   "date": "2026-11-04",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "Tesla is scaling robotaxi, cybercab, driverless service and can now arguably faster than anything that's been scaled before.",
+   "video_id": "DP2o11q6FQM",
+   "channel": "Brighter with Herbert",
+   "video_title": "Tesla Is 15 Cars From Passing Waymo",
+   "date": "2026-11-02",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "So, it's risky, but the general direction is clearly up for Tesla.",
+   "video_id": "bF8-aP3R5TM",
+   "channel": "Brighter with Herbert",
+   "video_title": "The World Just Opened Its Doors To Robotaxi",
+   "date": "2026-11-03",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "that's why now is not the time to wait anymore in my opinion.",
+   "video_id": "bF8-aP3R5TM",
+   "channel": "Brighter with Herbert",
+   "video_title": "The World Just Opened Its Doors To Robotaxi",
+   "date": "2026-11-03",
    "affiliated": false,
    "outcomes": {}
   }
