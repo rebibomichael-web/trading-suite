@@ -30202,6 +30202,10 @@
     "14d": {
      "pct": -10.62,
      "win": null
+    },
+    "21d": {
+     "pct": -24.42,
+     "win": null
     }
    }
   },
@@ -33384,7 +33388,12 @@
    "video_title": "ServiceNow Stock: Worst Day Since IPO (My Buy Zones)",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.0,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "NOW",
@@ -33400,7 +33409,12 @@
    "video_title": "ServiceNow Stock: Worst Day Since IPO (My Buy Zones)",
    "date": "2026-10-30",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.0,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "META",
