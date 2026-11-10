@@ -687,6 +687,7 @@ class DigestSentinel(InTemp):
              mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN, "DIGEST_DRY_RUN": ""}), \
              mock.patch.object(D, "preflight_auth"), \
              mock.patch.object(D, "fetch_feed", return_value=[]), \
+             mock.patch.object(D, "list_via_ytdlp", return_value=[]), \
              mock.patch.object(D, "ask_claude", return_value="A summary."), \
              mock.patch("x_posts.urllib.request.urlopen", side_effect=opener):
             D.main()
@@ -702,6 +703,7 @@ class DigestSentinel(InTemp):
              mock.patch.dict(os.environ, {"X_BEARER_TOKEN": TOKEN, "DIGEST_DRY_RUN": ""}), \
              mock.patch.object(D, "preflight_auth"), \
              mock.patch.object(D, "fetch_feed", return_value=[]), \
+             mock.patch.object(D, "list_via_ytdlp", return_value=[]), \
              mock.patch.object(D, "fetch_transcript", return_value="words " * 40), \
              mock.patch.object(D, "ask_claude", return_value="TSLA support 250, target 280."), \
              mock.patch("x_posts.urllib.request.urlopen", side_effect=opener):

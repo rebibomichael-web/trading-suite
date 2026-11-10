@@ -42,16 +42,35 @@ def write_snapshot(channels, meta=None, fetched_at=NOW - 2 * H):
         json.dump(snap, fh)
 
 
-def run_digest(live):
-    """live: {channel_id: entries | Exception}. Returns (digest.md, stdout)."""
+def _as_videos(rows):
+    return [dict(v, published=datetime.datetime.fromisoformat(v["published"])
+                  if isinstance(v["published"], str) else v["published"])
+            for v in rows]
+
+
+def run_digest(live, ytdlp="raise"):
+    """live: {channel_id: entries | Exception}. Returns (digest.md, stdout).
+
+    ytdlp defaults to raising, so a feed failure still lands on the Dell
+    snapshot. Pass a {channel_id: entries} map to exercise the /videos fallback.
+    """
     def fake_feed(cid):
         r = live.get(cid, RuntimeError("blocked"))
         if isinstance(r, Exception):
             raise r
-        return [dict(v, published=datetime.datetime.fromisoformat(v["published"]))
-                for v in r]
+        return _as_videos(r)
+
+    def fake_ytdlp(cid, limit=D.YTDLP_LIST_LIMIT):
+        if ytdlp == "raise":
+            raise RuntimeError("yt-dlp disabled in test")
+        r = ytdlp.get(cid, RuntimeError("yt-dlp disabled in test"))
+        if isinstance(r, Exception):
+            raise r
+        return _as_videos(r)
+
     out = io.StringIO()
     with mock.patch.object(D, "fetch_feed", side_effect=fake_feed), \
+         mock.patch.object(D, "list_via_ytdlp", side_effect=fake_ytdlp), \
          mock.patch.object(D, "preflight_auth"), \
          mock.patch.object(D, "ask_claude", return_value="A summary."), \
          mock.patch.object(D, "fetch_transcript", return_value="words " * 50), \
@@ -200,7 +219,8 @@ class CoverageTests(InTempRepo):
                        meta={c: {"last_ok": iso(NOW - (100 if c == CH[2] else 1) * H),
                                  "consecutive_errors": 0, "last_error": None} for c in CH})
         out = io.StringIO()
-        with mock.patch.object(C, "fetch_feed", side_effect=RuntimeError("blocked")), \
+        with mock.patch.object(D, "fetch_feed", side_effect=RuntimeError("blocked")), \
+             mock.patch.object(D, "list_via_ytdlp", side_effect=RuntimeError("no ytdlp")), \
              mock.patch.object(sys, "argv", ["x", "--markdown"]), redirect_stdout(out):
             C.main()
         text = out.getvalue()
@@ -214,6 +234,160 @@ class CoverageTests(InTempRepo):
         self.assertEqual(c["published"], 1)
         self.assertEqual(c["last_upload"], NOW - 1 * H)
         self.assertEqual(c["queued"], 1)
+
+
+class FeedFallbackTests(InTempRepo):
+    """RSS failure or an empty feed lists the uploads playlist, and logs the source."""
+
+    def test_failed_feed_uses_ytdlp_ahead_of_snapshot(self):
+        write_snapshot({CH[0]: [entry("from-snapshot")]})
+        cid = D.CHANNELS[CH[0]]
+        md, log = run_digest(
+            {},
+            ytdlp={cid: [entry("from-tab", age_h=5)]},
+        )
+        self.assertIn("Title from-tab", md)
+        self.assertNotIn("Title from-snapshot", md.split(D.ROSTER_START)[0])
+        self.assertIn(f"{CH[0]}: live feed failed", log)
+        self.assertIn(f"{CH[0]}: 1 video(s) via yt-dlp", log)
+        footer = md[md.index(D.ROSTER_START):]
+        row = next(l for l in footer.splitlines() if l.startswith(f"| {CH[0]} |"))
+        self.assertIn("| yt-dlp |", row)
+
+    def test_empty_feed_uses_ytdlp(self):
+        cid = D.CHANNELS[CH[0]]
+        md, log = run_digest(
+            {cid: []},
+            ytdlp={cid: [entry("from-empty", age_h=3)]},
+        )
+        self.assertIn("Title from-empty", md)
+        self.assertIn(f"{CH[0]}: live feed returned nothing", log)
+        self.assertIn(f"{CH[0]}: 1 video(s) via yt-dlp", log)
+
+    def test_ytdlp_dates_are_parsed_and_undated_entries_dropped(self):
+        now_ts = int(NOW.timestamp())
+        videos = D.videos_from_flat_entries([
+            {"id": "keep", "title": "Kept", "timestamp": now_ts, "description": "  hi  "},
+            {"id": "nodate", "title": "No date", "timestamp": None},
+            None,
+            {"title": "no id", "timestamp": now_ts},
+        ])
+        self.assertEqual([v["id"] for v in videos], ["keep"])
+        self.assertEqual(videos[0]["description"], "hi")
+        self.assertEqual(videos[0]["published"],
+                         datetime.datetime.fromtimestamp(now_ts, datetime.timezone.utc))
+
+    def test_list_via_ytdlp_reads_the_uploads_playlist(self):
+        entries = [{"id": "abc123xyz09", "title": "Listed",
+                    "timestamp": int(NOW.timestamp()), "description": "d"}]
+        ydl = mock.MagicMock()
+        ydl.__enter__.return_value.extract_info.return_value = {"entries": entries}
+        fake = mock.MagicMock()
+        fake.YoutubeDL.return_value = ydl
+        with mock.patch.dict(sys.modules, {"yt_dlp": fake}):
+            videos = D.list_via_ytdlp("UCxxxx", limit=40)
+        opts = fake.YoutubeDL.call_args.args[0]
+        self.assertTrue(opts["extract_flat"])
+        self.assertEqual(opts["playlistend"], 40)
+        self.assertIn("approximate_date", opts["extractor_args"]["youtubetab"])
+        url = ydl.__enter__.return_value.extract_info.call_args.args[0]
+        self.assertEqual(url, "https://www.youtube.com/playlist?list=UUxxxx")
+        self.assertEqual(videos[0]["id"], "abc123xyz09")
+        self.assertEqual(videos[0]["title"], "Listed")
+
+
+class CatchupTests(InTempRepo):
+    """Unseen videos past WINDOW_DAYS are queued, still at MAX_PER_CHANNEL."""
+
+    def _seed(self):
+        with open(D.STATE_PATH, "w") as fh:
+            json.dump({"seen": ["already"], "pending": []}, fh)
+
+    def test_outage_video_is_taken_and_ancient_rss_entry_is_not(self):
+        self._seed()
+        cid = D.CHANNELS[CH[0]]
+        md, _ = run_digest({cid: [
+            entry("missed", age_h=6 * 24),     # past WINDOW_DAYS, inside CATCHUP_DAYS
+            entry("ancient", age_h=20 * 24),   # still on a quiet channel's RSS page
+        ]})
+        self.assertIn("Title missed", md)
+        self.assertNotIn("Title ancient", md)
+        pending = json.load(open(D.STATE_PATH))["pending"]
+        self.assertNotIn("ancient", [p["id"] for p in pending])
+        self.assertIn("missed", json.load(open(D.STATE_PATH))["seen"])
+
+    def test_catchup_stays_inside_the_per_run_cap(self):
+        self._seed()
+        cid = D.CHANNELS[CH[0]]
+        # Oldest first: 10d, 9d, 8d are summarized; 7d and 6d wait.
+        videos = [entry(f"v{age}", age_h=age * 24) for age in (10, 9, 8, 7, 6)]
+        md, log = run_digest({cid: videos})
+        self.assertIn("Title v10", md)
+        self.assertIn("Title v9", md)
+        self.assertIn("Title v8", md)
+        self.assertNotIn("Title v7", md.split(D.ROSTER_START)[0])
+        self.assertNotIn("Title v6", md.split(D.ROSTER_START)[0])
+        pending_ids = [p["id"] for p in json.load(open(D.STATE_PATH))["pending"]]
+        self.assertEqual(pending_ids, ["v7", "v6"])
+        self.assertIn("2 video(s) deferred to backlog", log)
+        self.assertLessEqual(md.split(D.ROSTER_START)[0].count("### ["), D.MAX_PER_CHANNEL)
+
+
+class CoverageFallbackTests(InTempRepo):
+    def test_check_lists_via_ytdlp_and_still_fails_on_missing(self):
+        cid = D.CHANNELS[CH[0]]
+        missed = entry("gone", age_h=6 * 24)
+
+        def fake_feed(channel_id):
+            raise RuntimeError("forced 404")
+
+        def fake_ytdlp(channel_id, limit=D.YTDLP_LIST_LIMIT):
+            if channel_id == cid:
+                return _as_videos([missed])
+            raise RuntimeError("no listing")
+
+        out = io.StringIO()
+        with mock.patch.object(D, "fetch_feed", side_effect=fake_feed), \
+             mock.patch.object(D, "list_via_ytdlp", side_effect=fake_ytdlp), \
+             mock.patch.object(sys, "argv", ["x", "--days", "7", "--markdown",
+                                             "--fail-on-missing"]), \
+             redirect_stdout(out):
+            with self.assertRaises(SystemExit) as raised:
+                C.main()
+        self.assertEqual(raised.exception.code, 2)
+        text = out.getvalue()
+        self.assertIn("| yt-dlp |", text)
+        self.assertIn("1 MISSING", text)
+        self.assertIn("gone", text)
+
+    def test_check_passes_when_the_missed_video_is_queued(self):
+        cid = D.CHANNELS[CH[0]]
+        missed = entry("gone", age_h=6 * 24)
+        with open(D.STATE_PATH, "w") as fh:
+            json.dump({"seen": [], "pending": [{
+                "id": "gone", "channel": CH[0], "title": "Title gone",
+                "published": missed["published"], "description": "",
+            }]}, fh)
+
+        def fake_feed(channel_id):
+            raise RuntimeError("forced 404")
+
+        def fake_ytdlp(channel_id, limit=D.YTDLP_LIST_LIMIT):
+            if channel_id == cid:
+                return _as_videos([missed])
+            raise RuntimeError("no listing")
+
+        out = io.StringIO()
+        with mock.patch.object(D, "fetch_feed", side_effect=fake_feed), \
+             mock.patch.object(D, "list_via_ytdlp", side_effect=fake_ytdlp), \
+             mock.patch.object(sys, "argv", ["x", "--days", "7", "--markdown",
+                                             "--fail-on-missing"]), \
+             redirect_stdout(out):
+            C.main()
+        text = out.getvalue()
+        self.assertIn("| yt-dlp |", text)
+        self.assertIn("0 MISSING", text)
+        self.assertNotIn("### Missing", text)
 
 
 class AudioStripTests(unittest.TestCase):

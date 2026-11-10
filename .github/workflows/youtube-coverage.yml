@@ -24,6 +24,9 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install dependencies
+        run: pip install --quiet yt-dlp
+
       - name: Run coverage check
         id: check
         run: |
@@ -32,7 +35,7 @@ jobs:
           code=${PIPESTATUS[0]}
           echo "code=$code" >> "$GITHUB_OUTPUT"
           if [ "$code" = "3" ]; then
-            echo "Could not check coverage (no feed, no snapshot)."
+            echo "Could not check coverage (no feed, no yt-dlp listing, no snapshot)."
             exit 3
           fi
           exit 0
