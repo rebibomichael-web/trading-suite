@@ -2,10 +2,10 @@
 """Coverage check: how many videos did the followed channels publish, and how
 many did the digest actually summarize?
 
-For every channel in the digest's list, compares the channel's feed (live RSS,
-falling back to the Dell's feeds/youtube_feed.json snapshot when YouTube blocks
-the caller's IP) against the digest archives (summaries/youtube/*.md) and
-state.json. Each published video is classified as:
+For every channel in the digest's list, compares the channel's listing (live
+RSS, then a yt-dlp uploads-playlist listing when the feed fails or returns nothing,
+then the Dell's feeds/youtube_feed.json snapshot) against the digest archives
+(summaries/youtube/*.md) and state.json. Each published video is classified as:
 
   transcript   summarized from the real transcript
   fallback     summarized from title/description only (shallow)
@@ -20,7 +20,7 @@ Flags:
   --fail-on-missing exit 2 when any video is MISSING (for CI)
 
 Exit codes: 0 = checked (regardless of counts) · 2 = MISSING found and
---fail-on-missing set · 3 = could not check (no feed and no usable snapshot).
+--fail-on-missing set · 3 = could not check (no listing and no usable snapshot).
 """
 import argparse
 import datetime
@@ -32,7 +32,7 @@ import sys
 
 from youtube_digest import (
     CHANNELS, STATE_PATH, WINDOW_DAYS, GRACE_HOURS,
-    fetch_feed, load_feed_snapshot, load_state,
+    resolve_channel_videos, load_feed_snapshot, load_state,
 )
 
 
@@ -109,18 +109,13 @@ def main():
     channels_unavailable = 0
 
     for channel, cid in CHANNELS.items():
-        try:
-            videos = fetch_feed(cid)
-            source = "live"
-        except Exception as e:
-            if channel in snapshot:
-                videos = snapshot[channel]
-                # per-channel staleness label (never omitted — ruled 09-17)
-                source = f"snapshot {snap_meta[channel]['stale_note']}".strip()
-            else:
-                lines.append((channel, None, f"feed unavailable ({e!r})"))
-                channels_unavailable += 1
-                continue
+        videos, source, note = resolve_channel_videos(
+            channel, cid, snapshot, snap_meta)
+        if videos is None:
+            lines.append((channel, None, "feed unavailable"))
+            channels_unavailable += 1
+            continue
+        source = f"{source} {note}".strip()
 
         c = classify_channel(videos, cutoff, now, digested, pending, seen)
         counts = {k: c[k] for k in ("transcript", "fallback", "queued", "missing")}
@@ -172,7 +167,7 @@ def main():
             print(f"    MISSING: {row}")
 
     if channels_unavailable == len(CHANNELS):
-        print("ERROR: no channel could be checked (no live feed, no snapshot)",
+        print("ERROR: no channel could be checked (no live feed, no yt-dlp listing, no snapshot)",
               file=sys.stderr)
         sys.exit(3)
     if args.fail_on_missing and totals["missing"] > 0:

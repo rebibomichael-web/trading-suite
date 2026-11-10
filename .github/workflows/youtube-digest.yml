@@ -52,7 +52,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install --quiet youtube-transcript-api
+        run: pip install --quiet youtube-transcript-api yt-dlp
 
       - name: Install Claude Code CLI (subscription auth)
         env:

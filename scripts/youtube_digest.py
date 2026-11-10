@@ -1,16 +1,19 @@
 #!/usr/bin/env python3
 """Daily YouTube digest: simple summaries of new videos from followed channels.
 
-For each channel, reads the channel's RSS feed, finds videos not yet seen,
-pulls the auto-generated captions, and asks Claude for a short plain-language
-summary (no per-speaker breakdown). Writes digest.md for the workflow to
-deliver, and updates summaries/youtube/state.json so videos are only
-summarized once.
+For each channel, lists recent videos from the channel RSS feed. If that feed
+fails or returns nothing, lists the channel's uploads playlist with yt-dlp
+instead (flat listing, approximate upload dates; not the RSS endpoint). If
+that also fails, uses the Dell feed snapshot. Finds videos not yet seen, pulls the auto-generated
+captions, and asks Claude for a short plain-language summary (no per-speaker
+breakdown). Writes digest.md for the workflow to deliver, and updates
+summaries/youtube/state.json so videos are only summarized once.
 
 To keep cost bounded, only MAX_PER_CHANNEL videos are summarized per channel
 per run. Any surplus is remembered in state["pending"] and summarized on a
 later run (oldest first), so a busy day or a skipped run never silently drops
-videos.
+videos. Unseen videos stay eligible back through CATCHUP_DAYS, so a multi-day
+feed outage does not permanently drop them once a listing works again.
 
 Exit codes: 0 = digest written (or NOTHING if there is nothing new at all —
 no videos and no X posts), nonzero = real failure. X failures never fail
@@ -44,8 +47,18 @@ STATE_PATH = "summaries/youtube/state.json"
 FEED_SNAPSHOT_PATH = os.path.join("feeds", "youtube_feed.json")
 MAX_PER_CHANNEL = 3          # cost guard: videos summarized per channel per run
 FIRST_RUN_WINDOW_H = 36      # without state, only look this far back
-WINDOW_DAYS = 4              # with state, ignore fresh feed items older than this
+WINDOW_DAYS = 4              # coverage: an unseen video older than this, and not
+                             # yet pending, is MISSING. The digest intakes further
+                             # than this (CATCHUP_DAYS); do not widen WINDOW_DAYS
+                             # or the coverage pass rule changes with it.
+CATCHUP_DAYS = 14            # with state, queue unseen videos back through here.
+                             # Covers a ~10-day RSS outage plus a few days of
+                             # slack. Older than this stays dropped: quiet
+                             # channels' RSS pages go back months, and the
+                             # pending cap is what bounds a real backlog.
 PENDING_CAP_PER_CHANNEL = 30  # bound the carry-over backlog so state can't grow forever
+YTDLP_LIST_LIMIT = 40        # first page of the uploads playlist is ~30; 40 covers
+                             # CATCHUP_DAYS on a channel posting about twice a day
 SNAPSHOT_MAX_AGE_H = 72      # per-channel: a snapshot channel whose feed last
                              # succeeded longer ago than this is LABELLED stale
                              # (never omitted — ruled 2026-09-17)
@@ -134,6 +147,111 @@ def fetch_feed(channel_id):
             "description": html.unescape(desc.group(1).strip()) if desc else "",
         })
     return videos
+
+
+def videos_from_flat_entries(entries):
+    """Map a yt-dlp flat uploads-playlist result onto the feed dict shape.
+
+    Entries without an id or a timestamp are skipped: the digest windows on
+    published time, and a flat listing only carries one when approximate_date
+    is enabled. Timestamps from that mode are day-granular ("3 days ago"),
+    which is enough to admit or reject a video at the CATCHUP_DAYS horizon.
+    """
+    videos = []
+    for entry in entries or []:
+        if not entry or not entry.get("id") or not entry.get("timestamp"):
+            continue
+        try:
+            published = datetime.datetime.fromtimestamp(
+                int(entry["timestamp"]), datetime.timezone.utc)
+        except (TypeError, ValueError, OSError):
+            continue
+        desc = entry.get("description") or ""
+        videos.append({
+            "id": entry["id"],
+            "title": entry.get("title") or entry["id"],
+            "published": published,
+            "description": desc.strip() if isinstance(desc, str) else "",
+        })
+    return videos
+
+
+def list_via_ytdlp(channel_id, limit=YTDLP_LIST_LIMIT):
+    """Recent uploads via yt-dlp's flat listing of the channel uploads playlist.
+
+    The playlist id is the channel id with UC replaced by UU — the same list
+    the /videos tab is built from, requested directly. The tab page itself is
+    not a reliable latest-uploads list: on 2026-11-10 Fundstrat's /videos tab
+    contained 1 of its 5 newest RSS videos, while this playlist contained all
+    5. One request, no download and no player JS. Dates come from youtubetab's
+    approximate_date (the relative "N days ago" label), so they are day-granular.
+    Raises if yt-dlp itself fails; an empty list means nothing usable came back.
+    """
+    import yt_dlp
+    if not (channel_id.startswith("UC") and len(channel_id) > 2):
+        raise ValueError(f"not a YouTube channel id: {channel_id!r}")
+    url = f"https://www.youtube.com/playlist?list=UU{channel_id[2:]}"
+    opts = {
+        "quiet": True,
+        "no_warnings": True,
+        "skip_download": True,
+        "extract_flat": True,
+        "playlistend": limit,
+        "extractor_args": {"youtubetab": {"approximate_date": [""]}},
+    }
+    with yt_dlp.YoutubeDL(opts) as ydl:
+        info = ydl.extract_info(url, download=False) or {}
+    return videos_from_flat_entries(info.get("entries"))
+
+
+def resolve_channel_videos(channel, channel_id, snapshot, snap_meta):
+    """List one channel's recent videos and say which source answered.
+
+    Order: live RSS, then the yt-dlp uploads playlist when the feed fails or
+    returns nothing, then the Dell snapshot. Returns
+    (videos, source, note). videos is None only when every source failed
+    (source "unavailable"); an empty list means the listings succeeded and
+    the channel has nothing to show.
+    """
+    feed_error = None
+    try:
+        videos = fetch_feed(channel_id)
+    except Exception as e:
+        feed_error = e
+        videos = None
+    if videos:
+        print(f"{channel}: {len(videos)} video(s) via live RSS")
+        return videos, "live", ""
+
+    if feed_error is not None:
+        print(f"{channel}: live feed failed ({feed_error!r}) — "
+              f"listing the uploads playlist with yt-dlp")
+    else:
+        print(f"{channel}: live feed returned nothing — "
+              f"listing the uploads playlist with yt-dlp")
+
+    ytdlp_error = None
+    try:
+        listed = list_via_ytdlp(channel_id)
+    except Exception as e:
+        ytdlp_error = e
+        listed = None
+        print(f"{channel}: yt-dlp listing failed ({e!r})")
+    if listed:
+        print(f"{channel}: {len(listed)} video(s) via yt-dlp")
+        return listed, "yt-dlp", ""
+    if ytdlp_error is None:
+        print(f"{channel}: yt-dlp returned nothing")
+
+    if channel in snapshot:
+        note = (snap_meta.get(channel) or {}).get("stale_note", "")
+        print(f"{channel}: using the Dell feed snapshot {note}".rstrip())
+        return snapshot[channel], "snapshot", note
+
+    if feed_error is not None or ytdlp_error is not None:
+        print(f"{channel}: feed error {feed_error!r} (no usable snapshot)")
+        return None, "unavailable", ""
+    return [], "yt-dlp", ""
 
 
 def load_feed_snapshot(now=None):
@@ -370,8 +488,9 @@ def roster_footer(feed_status, snap_meta, seen, new_pending, summarized_now,
     return "\n".join([
         ROSTER_START, "", "---", "",
         f"**Channel roster** — all {len(CHANNELS)} followed channels, "
-        f"{DEFAULT_DAYS}-day window. Feed = what this run read (live RSS, or the "
-        f"Dell snapshot); Feed last OK / Errors = the Dell fetcher's provenance.",
+        f"{DEFAULT_DAYS}-day window. Feed = what this run read (live RSS, the "
+        f"yt-dlp uploads playlist when RSS fails or is empty, or the Dell snapshot); "
+        f"Feed last OK / Errors = the Dell fetcher's provenance.",
         "",
         "| Channel | Last upload | Published | Summarized | Queued | Missing | "
         "Feed | Feed last OK | Errors |",
@@ -426,9 +545,12 @@ def main():
 
     first_run = not seen and not pending_by_channel
     now = datetime.datetime.now(datetime.timezone.utc)
+    # First run stays on the short window. After that, intake is CATCHUP_DAYS
+    # rather than WINDOW_DAYS: videos the outage pushed past 4 days are queued
+    # (oldest first, still MAX_PER_CHANNEL per night) instead of dropped.
     cutoff = now - (
         datetime.timedelta(hours=FIRST_RUN_WINDOW_H) if first_run
-        else datetime.timedelta(days=WINDOW_DAYS)
+        else datetime.timedelta(days=CATCHUP_DAYS)
     )
 
     sections = []
@@ -441,25 +563,13 @@ def main():
     summarized_now = {}   # video id -> "transcript"|"fallback", this run
     for channel, cid in CHANNELS.items():
         carried = pending_by_channel.get(channel, [])
-        note = ""
-        try:
-            videos = fetch_feed(cid)
-            source = "live"
-        except Exception as e:
-            # YouTube blocks RSS from some cloud IPs — fall back to the feed
-            # snapshot the Dell commits daily from a residential IP.
-            if channel in snapshot:
-                videos = snapshot[channel]
-                source = "snapshot"
-                note = snap_meta[channel]["stale_note"]
-                print(f"{channel}: live feed failed ({e!r}) — using the Dell "
-                      f"feed snapshot {note}".rstrip())
-            else:
-                print(f"{channel}: feed error {e!r} (no usable snapshot)")
-                channels_unavailable += 1
-                feed_status[channel] = (None, "unavailable", "")
-                new_pending.extend(carried)  # don't lose the backlog on a feed hiccup
-                continue
+        videos, source, note = resolve_channel_videos(
+            channel, cid, snapshot, snap_meta)
+        if videos is None:
+            channels_unavailable += 1
+            feed_status[channel] = (None, "unavailable", "")
+            new_pending.extend(carried)  # don't lose the backlog on a listing hiccup
+            continue
         feed_status[channel] = (videos, source, note)
 
         carried_ids = {x["id"] for x in carried}
@@ -577,7 +687,7 @@ def main():
     # A run that couldn't see ANY channel (live or snapshot) must not look like
     # a quiet success — fail it so the outage is visible.
     if channels_unavailable == len(CHANNELS):
-        print("ERROR: every channel feed failed and no usable snapshot exists — "
+        print("ERROR: every channel listing failed (RSS, yt-dlp, and snapshot) — "
               "failing the run instead of reporting a silent empty digest")
         sys.exit(1)
 
