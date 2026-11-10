@@ -1,6 +1,6 @@
 {
 "fetched_at": "2026-11-07T02:10:02.752723+00:00",
-"written_at": "2026-11-09T02:10:03.711614+00:00",
+"written_at": "2026-11-10T02:10:03.036748+00:00",
 "channels": {
 "Brighter with Herbert": [
 {
@@ -742,42 +742,42 @@
 "meta": {
 "Brighter with Herbert": {
 "last_ok": "2026-11-07T02:10:02.752723+00:00",
-"consecutive_errors": 2,
+"consecutive_errors": 3,
 "last_error": "HTTP 404"
 },
 "Matt Pocius on Tesla Stock & Money": {
 "last_ok": "2026-11-03T02:10:03.141377+00:00",
-"consecutive_errors": 6,
+"consecutive_errors": 7,
 "last_error": "HTTP 404"
 },
 "Fundstrat": {
 "last_ok": "2026-11-05T02:10:03.139176+00:00",
-"consecutive_errors": 4,
+"consecutive_errors": 5,
 "last_error": "HTTP 404"
 },
 "Fundstrat Capital": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 9,
+"consecutive_errors": 10,
 "last_error": "HTTP 404"
 },
 "Mr. FIRED Up Wealth": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 9,
+"consecutive_errors": 10,
 "last_error": "HTTP 404"
 },
 "Kaspa Silver": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 9,
+"consecutive_errors": 10,
 "last_error": "HTTP 404"
 },
 "Wicked Stocks": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 9,
+"consecutive_errors": 10,
 "last_error": "HTTP 404"
 },
 "Traders Helping Traders": {
 "last_ok": "2026-10-31T02:10:03.009670+00:00",
-"consecutive_errors": 9,
+"consecutive_errors": 10,
 "last_error": "HTTP 404"
 }
 }
