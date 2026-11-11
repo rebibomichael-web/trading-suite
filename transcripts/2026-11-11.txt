@@ -1,0 +1,1038 @@
+At Edward Jones, we believe rich is more than caring about the latest and greatest.
+It's also taking care of what gives your life meaning.
+That's why your dedicated financial advisor meets you where you are, with personalized
+financial strategies that help protect what matters, so you can preserve your progress
+while creating a path forward.
+The key to being rich is knowing what counts.
+Let's find your rich together.
+Edward Jones, member SIPC.
+With the Discover Cashback card, it's payback time when you earn cash back on
+everyday purchases.
+Activate and earn 5% cash back at different categories each quarter
+on up to $1,500 in purchases.
+That's 5% cash back at different places each quarter, like grocery stores,
+on gas, and at restaurants.
+It pays to discover.
+Terms applying, see discover.com slash 5 for details.
+I'm Scott Wapner, and you're listening to CNBC's Halftime Report, the podcast,
+the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Carl, thank you very much.
+Welcome to the Halftime Report.
+I'm Scott Wapner, front and center of this hour, AI Relief.
+After core weaves earnings and guidance today, we'll trade the whole space.
+NVIDIA is trying to bounce back, and one analyst making a first-of-its-kind
+call on that company today.
+We'll have more on that in just a moment.
+Joining me for the hour, Joe Teranova, Anastasia Amoroso, Rob Siechen, and our veteran,
+Jim Labanthal, a man who never flinched when he was in uniform,
+wore the great uniform of the United States Navy,
+and we honor you especially today, and we certainly salute your service every day, Jimmy.
+Scott, you're always so respectful, as is the entire CNBC family about military service.
+Thank you for that.
+But also, I just want to say it was a privilege to serve.
+It was a privilege.
+I am grateful to the nation for allowing me to serve.
+First thing I did this morning, checked the dock.
+I was like, make sure Jimmy's please have him on today, because you always are,
+because it's important to us to honor you on this day.
+So it's great to have you with us today.
+I'm going to start with you, because it is a Nasdaq bounce today.
+Obviously, core weaves playing a good role in that.
+NVIDIA is now down about $400 billion in market cap from the slide we've seen.
+It's a nice rebound today of some 5%.
+Our headline, though, is this downgrade.
+I said a first of its kind call from an analyst today on the street,
+because it is an analyst by the name of Tristan Guerra from Baird,
+being the first on Wall Street to suggest that Mr. Wong might have to step down as CEO.
+They downgrade the stock.
+They cut the target to 200 from 500, from 500 to 200.
+Here's the quote, really the money quote from this analyst today.
+We want to show you, we contend a new CEO is needed to establish internal safeguards,
+to align with existing and upcoming US policies,
+enforcing restrictions to China's access to US-made AI technologies,
+and to reestablish trust both externally and internally.
+Goes on to say, odds favor an outsider in his mind, if that was to come to pass.
+I'm curious again, shareholder, how you're thinking about all this?
+It certainly is possible, Scott, that Mr. Wong does not serve out his tenure as a CEO.
+That's not my base case, and it's not my hope either.
+But to start with, there are countless examples of CEOs who have had romantic affairs
+that have lost their jobs because of it.
+We can look at Intel, we can look at Boeing, we can look at McDonald's,
+the list goes on and on.
+Mr. Wong may get special treatment because of his importance to not just Nvidia,
+but to the AI industry and by extension to the economy and the financial markets.
+And I'm not going to, I can't overstate that.
+He is very important, not just to Nvidia, but to the state of the industry.
+Some talk like, you know, they use the word too big to fire, you know what I'm saying?
+But let me throw it to you this way.
+So staying away from that, because who knows about that,
+and you have to wait for whatever investigation is underway to do its course,
+the target cut.
+Okay, focus on that.
+Whether you as an investor need to rethink your trajectory for this stock,
+like they are, what was 500 is now 200.
+It's not that far from where you are now.
+Yeah, 500 seemed pretty aggressive.
+I think 200 is too low.
+I own the stock, I'm not selling the stock.
+We're having very robust discussions at Serity Partners about what we should do with it.
+Where we come out of it is looking at the forward multiple right now,
+just under 12.
+That's the lowest it's been in 10 years.
+The growth rate in earnings is projected at about 75% in the year ahead.
+I'll remind everybody that at the last quarter,
+they projected 80% top line growth in the coming year,
+and they said their supply constrained.
+If supply weren't a constraint, they might grow higher than that.
+We'll see what happens in earnings next week,
+but I don't expect any change from that.
+I'm not going to calculate the peg ratio.
+It's very, very low.
+$300 billion plus a free cash flow being generated in the next 12 months.
+Scott, do you know that that amount is greater than all but 32 companies in the S&P 500?
+$329 billion of free cash flow.
+The company is in strong financial position.
+Its customers want its products, can't get enough of it.
+This news from Mr. Wong is unwelcome to be certain,
+and I hope he stays.
+If he has to go, as you pointed out,
+intelligence services, the board of directors, they'll do their job.
+That's not my job.
+I hope he stays.
+If he doesn't, it may already be priced in is what I'm saying.
+The bigger news in the hours, days, and whatever ahead is finding out more about what the government
+knew, when it knew it, and what it did about it.
+You continue to get headlines coming out regarding that,
+which some of which were reported within the last hour.
+You just bought more of the stock personally.
+You told us that yesterday, Morgan Stanley takes it off its top pick list.
+The North Dakota Senator Kevin Kramer, he's on Senate banking,
+says to Politico that Mr. Wong should resign.
+There's another Reuters report today, an exclusive that Chinese University bought H-200s,
+despite the blacklist, just goes sort of to the government question.
+Questions about commerce.
+I haven't really heard anything from them or the secretary yet regarding this issue,
+but I think for our purposes, really the only question that matters is,
+do you rethink what the stock can do?
+Because I think most of the people who watch this program
+are thinking the very same question.
+If I have the stock, am I, how worried am I?
+If I don't have it, do I use the weakness because this is going to pass one way or the other?
+So we voted as a company by being an owner and not selling it.
+And I voted with my PA by doubling down on that bet.
+So I'm obviously a fan of the stock.
+I will tell you that if there is a replacement in the CEO seat,
+I think that CEO will inherit one of the best jobs in America.
+Because while you can replace the CEO, you can't replace the CUDA architecture.
+Every developer builds on it, in the market for AI,
+rallied enormously this week, regardless of what was happening to Nvidia early in the week.
+So this is not a demand issue.
+This is not a business issue.
+This is a governance issue, one that I think you have to take seriously.
+We have to understand that.
+And there might be an elongated overhang over the business.
+But I think the next CEO should be able to navigate through that,
+because of the dominant market position we see that Nvidia has,
+90% share of advanced tips.
+Yeah, I mean, part of the rebound today of Nvidia,
+maybe you could say is due to CoreWeave.
+The companies obviously have a business relationship together.
+And I think, I mean, there was the beat, there was the raise,
+but then there was also the reveal.
+And the reveal came to a question that David Faber asked the CEO when he was on
+within the last hour and a half about stock sales from Mr.
+Intrader and then top executives to which he answered the question by saying
+he had canceled his time stock sale program.
+The stock got an undeniable lift, as he said that.
+And there it is, up 25% today.
+It sets the stage in some respects for Nebius, which reports tomorrow.
+I thought Joe JP Morgan summed everything up.
+You could almost hear, quote, the sigh of relief in the AI market as CoreWeave
+posted solid results that extended the margin story that took hold last quarter.
+It was all of the neoclouds.
+It injected a very strong shot of confidence.
+Look today at Lumentum.
+You can see the price action that is reflected there.
+The announcement on pausing the previously announced stock sale for CoreWeave.
+I think that without question was a powerful catalyst.
+And it reignited once again the momentum factor.
+I kind of anticipated this one month ago.
+I was a little bit surprised by the tremendous volatility and
+the correction that we had in front of it.
+But here we are, and this type of news is exactly what you need.
+Scott, you're right back now, today, into the trading range for
+the S&P 500, the day after the midterm election.
+We've basically recovered everything that we had lost at the end of last week.
+And we've restored the S&P's place right there.
+And it's built upon the foundation of these neoclouds, the AI story.
+And most importantly, the momentum factors back.
+Sigh of relief, right?
+They're just speaking up to what JP Morgan's talking about.
+You could almost hear it as the market reacts to CoreWeave.
+And as CoreWeave gets stronger, the NASDAQ gets stronger today.
+A lot of stocks are up as a result.
+NASDAQ for 2%.
+That's right.
+I think it is definitely CoreWeave, which I'll talk about in a second.
+But it's also Anthropic.
+And the fact of the matter is if you kind of look at the layers of AI infrastructure,
+all of these things have to work, including Anthropic, OpenAI, and others.
+But starting with CoreWeave, I am really encouraged by the revenue bead,
+the EBITDA bead, and also the operating margins as well.
+And clearly, Scott, this has been the epicenter of what investors have
+worried about, too much leverage, higher cost of capital.
+And can they actually deliver all that contracted backlog?
+But what we got today, margins are improving.
+The backlog is actually rising.
+And it doesn't seem like they're sort of walking away from the ability
+to deliver that compute that has been contracted.
+So that's incredibly positive.
+And by the way, if you look at the cash flows of some of the Neoclouds, too,
+I think there's also a market appreciation that something like 16%
+operating margin, and there's still wiggle room, even if rates go up for that.
+And then the other thing, Scott, I do want to point out,
+it is about Anthropic.
+The fact that we are, seems like on target for $80 billion annual revenue
+run rate, OpenAI, $50 billion run rate, these things have to work.
+And I do think we're the seminal moment for AI where you've got adoption,
+you've got innovation, you've got lower cost and higher intelligence.
+And all things equal, this drives more adoption.
+So this confluence of CoreWeave and Anthropic is really positive.
+Yeah, I'll go to that in a second.
+That's jumping ahead to what I wanted to do.
+Well, I'll get there.
+Oracle, see Oracle today?
+Sharp, I mean cyber names, sort of everything within the orbit of AI
+is having a good day today.
+What do you, what do you, what's your read on that?
+Well, it's just the implication that these levered, highly levered
+companies in the AI build out trade probably are going to make it.
+Now I particularly am focused on Oracle.
+I mean, CoreWeave, there's still going to be discussions.
+They're kind of shut out of the debt market, but Oracle is not.
+Now I know where the credit default swaps are on five year paper from Oracle.
+They're just under 300 basis points.
+And to a certain extent, that's a lot, but it's nothing like what CoreWeave is.
+Oracle certainly still has access to the capital markets.
+We saw that with 10 billion of equity issued two weeks ago.
+And by the way, they say they're pretty much done.
+So I look at Oracle and I think it's just a stock that's been looking
+for an excuse to go higher.
+CoreWeave gives it that excuse.
+But at the heart of CoreWeave, at the heart of Oracle is this concept
+that the data centers that are currently being brought online
+and currently being built are spoken for in terms of demand.
+And we've heard that from the big companies, from the Microsofts,
+the Alphabets, the Amazon.
+Sure, we may gripe about Alphabet's search business,
+but one thing that's growing like a weed is their cloud business up 100%.
+The demand is there.
+And ultimately, that's what matters.
+So that's really important.
+It is not a demand issue.
+It is an execution and financing issue.
+Well put.
+That's it, period.
+So if you can execute, well, it really is.
+But that's why Anthropics is so important.
+It answers some of the questions as to whether the capital
+markets are going to be as forgiving.
+These are huge.
+If you look at CoreWeave's debt, and I'm not, by any means,
+picking on them, it is enormous.
+So execution.
+Because the market's been picking on them.
+It is what it is.
+But I'm not going to fly off the top rope with an elbow.
+OK, right now.
+The reality.
+You might hurt yourself.
+I might, Jimmy.
+Go ahead.
+So the reality of it is, is you do
+need to be able to access the capital markets
+to meet that demand.
+And the capital markets have to stay friendly towards that.
+I know there's a lot of circular financing,
+but it seems like there's enormous belief
+from the customers in willingness
+to finance that demand.
+I don't think there's going to be a change in that, personally.
+But it's certainly something you have to pay attention to.
+And you want to move up the quality.
+I think United States is right about the sentiment
+around Anthropic being a layer to the I feel
+better about the story thing.
+I think that's kind of undeniable,
+as it marches towards the IPO prices literally
+a week from today.
+The FT says demand looks so strong
+that they could push the valuation up to $1.5 trillion.
+Remember, you started what you thought it was going to be
+$2.
+Maybe it's $1.5 to $2.
+And then it was a sort of steady come down to that.
+Maybe they push it based on demand.
+I thought Mellius asked a really good question today.
+Can the Anthropic IPO boost some semis at a PE bottom?
+The stocks have gotten annihilated off of their 52-week highs.
+Broad comes down 33.
+AMD's down 22.
+And the chip equipment names are all down 30, 40, 50,
+almost percentage points.
+How do you want to address that?
+That you've got such a compression in these names
+for their PEs by virtue of the fact
+that the stocks have gotten absolutely crushed?
+Yeah, I think the first thing that happened
+we spent last week debating it, positioning
+has been cleaned out.
+I think we now have the confidence to state that.
+I think if you look today, you
+could show these intraday charts as I'm speaking.
+Look at Micron.
+Look at Marvell.
+Look at Western.
+Marvell's a big.
+You could see the double digit gains in all of these names.
+What that represents to me is that the speculative community,
+the hedge fund community, they pared back aggressively
+the leverage exposure that they had in that area of the market
+that was underperforming since the end of June.
+I'm going to put you on the spot.
+Do you think we bottomed?
+Do you think Semi's bottomed?
+Yes.
+People got two bottomed for the remainder of the year?
+Yes.
+Do I think we roll over at some point in 2027?
+I think that's possible.
+But do I think the selling pressure of the fall
+has seen its worst?
+Yeah, I do.
+Well, because last week the question
+was have Semi earnings topped at the peak?
+And by the way, I want to answer your question
+and just follow up.
+We don't talk about this a lot.
+I came on air about a week ago.
+I said I bought Terradine.
+Remember that semi-equipment name?
+I got stopped out in all that violence,
+that volatility on Thursday.
+I didn't just sit there and not return capital
+to the market.
+I bought a bunch of JOT.
+I'm not going to sit here and continually
+tell the viewers I bought more JOT.
+But I'm buying more JOT to answer your question
+because I do believe that is that momentum factor that
+leads us higher into the end of the year.
+Oh, so you think momentum is bottomed too?
+Oh, absolutely.
+Absolutely.
+I think momentum has seen its worst moment in the fall.
+On semiconductor, Scott, to answer your question,
+I don't think the semiconductor earnings have peaked.
+I think that is going to continue.
+And I think what has happened, though,
+over the last couple of months,
+we've priced that in.
+We've priced in the fact that earnings for semiconductors
+are going to grow something like 110% year-over-year,
+another 30%, 40% the year after that
+and the year after that.
+So we've pressed in the bulk of that.
+But now, given the repricing, given the P-E multiple,
+which is back to, by the way, the lowest level since 2022,
+I would say, and I agree with Joe,
+that I think the setup looks a lot more attractive.
+But I do think, going forward,
+you have a couple of nuances to consider.
+First of all, what kind of chips do you actually need?
+Maybe you don't need as many GPUs versus CPUs.
+And actually, when we look at agentic workflows,
+88% of the agentic workflows is actually chip-dependent
+or memory chip-dependent, I should say, CPU and storage.
+So I think you have to be careful
+where you actually position within that trade.
+And then sort of the last thing I would say,
+look back to hyperscalers.
+Hyperscalers, backlogs continue to move higher
+and the return on invested capital,
+something like 25% to 50%.
+So as long as that's the case,
+I don't think semiconductor earnings have peaked.
+AMAT reports tomorrow.
+So you get a good read from another chip equipment name.
+These stocks haven't traded all that well lately.
+Now today, they look great.
+All the charts look the same.
+Kind of the whole market looks the same around AI,
+you know, respectively.
+One basket, one trade.
+Well, think about it.
+Circular trade.
+Think about it.
+We raised the pricing on Anthropic today.
+If Anthropic goes well,
+they start, the market starts to look for who gets paid.
+This is who's getting paid.
+The AI infernames are getting paid.
+Scott, Joe just had a little bon-mo
+and I want to seize on it when he said
+one basket, one trade
+and it's one heck of a crowded leverage trade.
+Excuse me, has been.
+One heck of a crowd.
+I was gonna say maybe it's leverage.
+Less leverage than it was.
+Amen, that's exactly what happened.
+And we know this.
+This isn't me just sort of licking my finger
+and putting it in there.
+We know that major long short hedge funds,
+these pod based hedge funds,
+by the scores had a terrible, terrible October
+as this highly concentrated leveraged AI trade
+particularly in semis unwound.
+It's also happened in South Korea
+but that leverage has been unwound.
+It sets the stage.
+When we talk about consolidations or corrections
+as being the pause that refreshes,
+this is exactly what we mean.
+There's been a technical force
+that's been out there selling
+and it looks like it's coming to an end.
+I don't know.
+You've had, let me just jump in real quick
+because coming to an end, I don't know.
+You look at the client flows from B of A for example,
+not related to semis generally speaking
+but let's say industrials, big industrials
+like the power of names that have sold off as well.
+Again, one trade essentially going
+in the same direction up or down.
+Clients sold stocks in five of 11 sectors
+led by industrials.
+Wolf on the industrials.
+How much worse can it get for AI sentiment?
+That's all the kind of stuff
+that they're thinking about.
+You know, I see opportunity there.
+Scott, I forget if it was last Friday or last Thursday
+but I came on air, I told you I had doubled up on Amazon
+but I initiated in quanta services.
+Absolutely what you said is right.
+It's more than semis.
+It's everything that's peripheral to AI
+and that definitely includes these industrials.
+But my point being is there has been
+a lot of heading for the exits
+through a narrow exit, a lot of money
+and while that may still have some repercussions
+there may still be volatility.
+Something like a quanta or something like an NVIDIA
+or a micron is an opportunity.
+JPM initiated, by the way,
+on some of these things as neutral.
+I mean, you can be bullish, the AI power story,
+thinking that data centers are going to get built.
+It's just gonna be a more elongated thing.
+That was the point that I was just gonna make.
+But that doesn't mean then
+that you don't need to rethink
+the near term trajectory for either earnings or stock price.
+That is exactly correct.
+That is the point that I was just gonna make.
+There's haves and have-nots in this
+and I think the haves accrue
+to those who have compute in the ground
+and can price that compute more highly.
+The builders of this are now being questioned
+as to how long it's gonna take
+the build out to happen,
+whether it be because of policy,
+whether it be because of financing
+and as such they've re-rated.
+Maybe they don't come back as quick.
+What I can assure you is I think
+because the demand's there,
+I think this compute does get built.
+It's a timing issue, not a demand issue.
+I gotta agree with Rob both on the power side
+and also the data center side.
+We do absolutely think the scarcity of premium
+for existing data center providers
+who have the permit, who have the lease,
+who have the compute in place,
+that scarcity of premium has absolutely gone up.
+And I think you've seen some of those data centers
+trade relatively better in the market.
+By the way, the vacancy is about 1%.
+So not surprisingly, that's the case.
+And then on the power side, Scott,
+this is a long-term issue.
+If you look at the interconnection queues,
+it still takes now five or six years
+to be in line for connection to the grid.
+So anything you can do to resolve the bottleneck,
+to bring your own power,
+to invest in the companies who are trying
+to resolve that I think it's a long-term trade
+not to give up on.
+No, I get it, but I just go back
+to the comment that I made to Rob.
+I don't think you can be as bullish,
+the near-term data center story today,
+post-mid-terms as you were before.
+I think that was an inflection point.
+You can still be bullish on the long-term story.
+I don't think you can be as bullish on the near-term.
+Is it that way?
+But it's simply based on the result.
+But I believe that's what last week's price action
+was all about.
+Recalibrating the expectations,
+moderating the enthusiasm.
+Assuming you think that's done.
+I think that's done because I always am looking
+at the market from the asset management perspective,
+from the speculative hedge fund community,
+and what do I see today?
+Look, I could be totally wrong,
+but I'd be hard-pressed to believe
+that what I see is the beginning of a rotation
+back towards the basket of the AI trade
+is going to be a one-day event.
+I think it's got further in duration
+than a one-day event.
+It's taking from what today?
+What we believed was going to be the dominant theme
+for the remainder of the year.
+Show the S&P Equal Weight.
+S&P Equal Weight's only up 63 basis points.
+Show, you don't have to show Jyoti.
+Show the Emptom, show the Momentum, ETF.
+That's up 4.5% today.
+So the belief that we were broadening out
+and we were going areas outside of the AI trade,
+the market tends to have these baskets,
+and I think the basket is moving back to the AI trade.
+Joe, I have to point out.
+I have to point out.
+Let me give you some points.
+Equal Weight has absolutely crushed market cap this year.
+Absolutely.
+So I don't mean to be too aggressive to you.
+I understand you're talking about today,
+but today, to me, is just a little give back in the broad.
+Jimmy, I'm trying to follow through from today.
+I don't think today is a one-day event
+where you see the outperformance from the AI trade.
+I think this is going to have some follow-through
+over the coming days.
+What's happening today and yesterday?
+The market's repricing in higher interest rates.
+What are higher interest rates bad for?
+A broadening out trade right now.
+So we are reacting over the last couple of days
+to what has actually happened.
+Markets are acting rationally.
+And the bond markets closed today.
+Correct.
+But it would be even worse.
+We saw a bond move yesterday that was gigantic.
+Well, because, as you said, rate expectations
+or hike expectations are, once again, recalibrating.
+Yes.
+Right?
+Based on, you know, Waller was hawkish yesterday.
+Bowman was, or I can't remember who the other one was,
+so forgive me for that.
+But there was other hawkish FedSpeak yesterday.
+And people are rethinking it.
+Gulsbee today says the October CPI was borderline disturbing.
+You have Goldman looking at a third hike into March of 27.
+And your Denny says could do 50 basis points in December.
+So the market's trying to figure out where it should be.
+Let them do 50.
+I'd love it if they did 50 basis points in December.
+Got in front of it and stopped.
+Because I think what you're going to see here,
+we all know diesel's working its way through trucking
+and food and everything.
+But look at where crude oil is.
+It's down about 15% in a matter of about a week.
+That's going to eventually trickle through.
+So get the 50 in and then you're done.
+But that sounds too complacent almost.
+Reckless?
+Well, I'm not going to judge whether it's reckless by them or not.
+Rip the band-aid off.
+I'm just saying it's...
+Rip the band-aid off.
+It could be reckless to say, hey, I believe in the broadening.
+I'm super bullish.
+Do 50, no big whoop.
+You don't think there would be a cause and effect to what
+the trade and the market would do?
+There always is.
+But however, when we just put up the tenure at 5.0%, that's pricing in yesterday's
+news.
+That's already priced in.
+The market was open yesterday and 5.0 on the 10 years, 30 basis points lower than where
+it was a month ago when we were wringing our hands, all of us rightfully so.
+The 10 years not freaking out.
+It's also back higher to where it was once it moved lower.
+Not a punitive level.
+It went from 485 to 5.0.
+It's a move.
+It's not like a...
+I'm not writing home about it.
+There is no basis point hike into falling oil price.
+There won't be.
+There will be 25.
+It depends on what we see in PCE.
+It depends on what we see in oil prices.
+And then you'll be able to tell me whether they should do 50 or 25.
+50 is effectively admitting that October pause was a mistake.
+I don't think they do that.
+But if oil prices are really high, maybe they do.
+We're going to take a break.
+We'll come back.
+Our calls of the day.
+We do have analysts' accents today in health care and energy and the financials too.
+Debate all of it next.
+With the Discovered Cashback card, it's payback time when you earn cash back
+on everyday purchases.
+Activate and earn 5% cash back at different categories each quarter on up to $1,500 in
+purchases.
+That's 5% cash back at different places each quarter, like grocery stores, on gas, and
+at restaurants.
+It pays to discover.
+Terms apply.
+See Discovered.com slash 5 for details.
+We're an agent supposed to take things off your plate.
+Building another to handle the others is a bit much.
+Don't make more work out of work.
+Gemini is the one agent that knows all parts of your business and actually gets stuff done.
+You give it a project, close your laptop, and when you come back, the job's finished.
+No matter your industry or role, your agent has the skills to help every team stay in
+their flow.
+Seriously, make work less work with Gemini on Google Cloud.
+Quick response.
+Subscription required.
+Which NHL teams are scoring big off the ice?
+CNBC Sports Michael Ozanian has the numbers.
+If a dime margin in the NHL is right there with the NBA.
+Official NHL team valuations.
+Revealed Friday in SquawkBox on CNBC.
+Stocks of energy.
+Conoco, Diamondback, Devon.
+All downgraded to market perform.
+That's Bernstein.
+We have a lot of ownership here, including Joe.
+You have Conoco.
+You have Diamondback.
+You have Devon.
+Yeah, so I'm looking for the exit on Valero, which I've held for a very long time.
+I own it personally and it is owned in the JOT.
+My belief is consistent to what Rob and Jimmy have expressed as it relates to the price
+of oil.
+On October 20th, it was $110.48 on the day of the election.
+It was $96 as a result of the election as fall precipitously, and I think that
+is going to continue.
+I think the trend is reversing in oil.
+Myself personally, I'm looking for the exit door and for the viewers, I don't know that
+I would be adding to energy exposure here except for natural gas.
+You just spoke specifically to Valero, but I was talking about Conoco, Diamondback
+and Devon.
+They're all in the JOT ETF, and unfortunately, the correlation, let me get you this.
+Funny how that happens, huh?
+Let me give you statistically what's going on.
+So statistically right now, the energy names have risen to a .97 correlation trading with
+each other.
+So whatever the price of oil is doing, all of these energy names are just trading in
+one direction.
+I got you.
+You have Devon.
+I do.
+Right?
+Easy.
+There's no question.
+They're right.
+You want to take Devon or you want to talk about Exxon?
+Devon.
+Talk about Devon.
+The easy money, Bernstein's right.
+Easy money and oil has been made, but this was never an oil price bet.
+It's a cost bet at eight times earnings.
+Low cost permium barrels make money at prices that hurt others.
+They also give them the opportunity to buy back shares, pay dividends.
+I think there's a lot of financial flexibility in a company like Devon that makes it an
+easy hold if you want to maintain exposure to the space.
+What about EQT?
+EQT is having its best week since July 24th.
+Yeah.
+EQT has been in a precipitous downtrend.
+If you could pull that back, please, on a one-year chart.
+You'll see that it really hasn't performed, natural gas has not performed.
+I said yesterday it was my final trade.
+I'd like to buy it.
+I think this is the right level to buy it.
+Wait, wait, wait.
+Hold on real quick.
+Yeah.
+You own it personally, don't you?
+Yes.
+Okay.
+What do you mean I like to buy it?
+I said yesterday for the viewers it was my final trade, I'd like to buy it here
+at this point.
+Oh, okay.
+I just wanted to make sure you're already on it.
+Absolutely.
+Yeah.
+Okay.
+It's a semantics, but it makes a difference.
+Oh, it does.
+Right?
+Thank you.
+You made a job.
+Well, it's getting a little hard.
+Corning.
+See?
+It can't just be nice.
+It's getting a little hard.
+You mentioned a call on Conoco Diamondback Devon starts talking about Larell.
+You mentioned EQT.
+But I gave you the correlation.
+All right.
+You did.
+That correlation, by the way, is the highest it's been in the last 16th.
+All right.
+Can we talk?
+Oh, that's a lot of Joe.
+Corning.
+Let's go Corning.
+All right.
+I'm initiated by 134 Jeffries.
+Talking about optical fiber, Rob talked about the slowdown in the data center build out.
+Optical fiber has been scheduled for a company like Corning over the next two years.
+So the slowdown, even if the restrictive environment begins and you see a pullback in
+the build out, they've already put through the purchase orders on the optical fiber.
+Over the next two years, it's going to be delivered.
+It's a problem in 2028 and 2029.
+Corning has been down obviously since June when you had that parabolic move higher.
+I like where it sits right here.
+You get AMGEN, Rob, target to 490, Daiwa today, best year since 1999.
+You get ABV, target to 305 at Berenberg, fifth positive week in six.
+Gimme AMGEN first.
+So again, you said it best year since 1999, nobody's talking about it because
+of AI.
+That's exactly why we own it.
+We thought healthcare, the other side of this barbell, which has had a terrific year, was
+going to do fantastic.
+They have a durable base franchise, growing obesity franchise, healthy dividend, another
+example of a company outside of AI infrastructure that continues to perform incredibly well.
+In terms of, in terms of ABV, no, no, he gets ABV.
+Oh, he does.
+Yeah.
+You get fall directions.
+Didn't I make it clear?
+The ball hit me in the face.
+Dude, what is going on?
+What is up?
+Did I make it clear?
+If ABV had a mascot, it would be a Belgian draft horse.
+Just plow in the field one hoof at a time, okay?
+Every year this stock does well.
+Five-year return, 25%, S&P 11.5%, Beta, Joe, I know you like thinking about numbers.
+The Beta on this stock is 0.33.
+Let me just say this.
+Anybody falling directions today?
+Twice the market return for one-third of the market risk.
+That's what you want in a stock.
+Okay.
+Colin, has the CNBC News Update, please, Frank, I hope this is the CNBC News Update.
+Belgian draft horse.
+I'm going to remember that term.
+Scott, good afternoon.
+I'm going to go to the News Update right now.
+President Trump, Vice President JD Vance and others, they mark the Veterans Day holiday
+with a wreath-laying ceremony at the Arlington National Cemetery today.
+The president's appearance comes as his administration fights to construct a 250-foot arch in
+a traffic circle outside that cemetery's entrance.
+A federal judge last week ordered a 14-day pause before any word concerned on the monument.
+The driver of a minivan that crashed into a busy intersection in Los Angeles yesterday
+has now been arrested on three counts of murder and suspicion of driving under the influence.
+Police say the 61-year-old was driving at an unsafe speed when he veered off the
+road and hit several pedestrians and food vendors on the sidewalk.
+Three women were pronounced dead at the scene.
+And a federal judge rejected the BBC's bid to have President Trump's $10 billion
+defamation lawsuit dismissed.
+President Trump called that ruling a huge victory.
+He sued the BBC over its editing of a speech that he gave on January the 6th, which the
+BBC has acknowledged, mistakenly gave the impression that Trump made a direct call for
+violence.
+Scott, back over to you.
+Okay, Frank.
+Thank you.
+That's Frank Collin.
+Mike Santoli, his market memo is coming up next.
+All right, Mike Santoli, senior markets commentator.
+Of course, the overtime co-anchor as well, joining us now with his memo.
+The headline's got to be core weave and relief, right?
+For sure.
+And I also think that it built to that point where core weave could give this extra dose
+of reassurance.
+And it also, I think, is important that maybe the NVIDIA reaction was the final little purge
+of a lot of the crowded positioning that started to get cleaned out late last week.
+So I think all that working together is certainly positive and it's certainly allowing the
+indexes to make the case that this is more than just kind of a reflex relief rally.
+So if you dial back and you say, okay, the S&P 500 held the summertime lows.
+It didn't break its two-in-a-day moving average.
+You still have this uptrend preserved.
+While you did get a very thorough rinsing of the AI trade and a lot of the tactical
+players in there last week, so all that, I think, cleans things up.
+Don't know that it means that the highs are very much in sight just yet because
+those highs, especially in things like semis, they were made on levels of crowding
+and leverage and liquidity that we're probably not going to rebuild toward very soon.
+But that doesn't mean upward progress isn't possible.
+We're burning off the oversold conditions.
+We're burning off the negative sentiment.
+Once we do that, then you have to see if you have real, I think, stronger hands
+coming in as buyers.
+Going to be an eventful march up to NVIDIA earnings next week, right?
+Well, for sure.
+I mean, a lot of suspense, I guess, will build toward that direction.
+I've been pointing out, too, it'll probably, if nothing else, once the numbers
+are out, they can restart their buyback.
+That could be consequential.
+So, yeah, I don't know if anyone's going to completely have these high
+conviction, longer-term theses that are going to be formed right now.
+It's much more about maybe we overdid it on the downside and let's make
+sure we're exposed in case things go right.
+Yeah, we'll wait and see.
+And I will see you later this afternoon.
+I look forward to that, as always.
+It's Mike Santoli coming up.
+What about consumer concerns?
+We'll debate the state of the retail trade as we head into the holiday
+shopping season.
+Some new data is out that you don't want to miss and some stocks are moving.
+Welcome back.
+Discretionary red today, but let's talk to consumer a bit because according
+to a CNBC and National Retail Federation retail monitor, consumers are
+showing signs of strain even as they keep spending.
+I don't know.
+Maybe that's been the story for the last couple of years.
+Credit card debt, record high according to Axios.
+Yet the XRT looking at eight straight weeks up.
+Best quarter in three years.
+Oil's down.
+That's got to help, right?
+Morgan Stanley says we think that rotation has the next leg only
+though for the right names.
+AutoZone, Dick Sporting Goods, Depot, Lowe's, O'Reilly, Wayfair on the list.
+You have AutoZone, you have Depot, you have Lowe's.
+And I think we still may have some legacy exposure in O'Reilly as well.
+OK.
+So when consumers get strained, they fix what they have.
+In AutoZone, O'Reilly, that's the repair versus replaced trade.
+I like those.
+I find it a little more difficult even though we own the other two
+to believe in the environment that we're in with rates possibly rising
+as much as they are that you're going to see the same benefits in the home stocks,
+the Lowe's and the Home Depot's.
+Although you could see some benefit from repair versus replaced there too.
+But that is the whole thesis that we have there.
+I'm surprised Jimmy doesn't own Home Depot or Lowe's.
+Well, Home Depot or Lowe's, you got a lousy housing market,
+got an interest rate problem there.
+I wouldn't mind it.
+It hasn't stopped you with other stocks in other places.
+I feel like that's a little bit of a gratuitous hit.
+But allow me to field your line, try to make a play of it.
+I was a little up and in.
+I was a little up and in.
+Knock on the line.
+Knock on the line.
+Fair.
+Knock on the line.
+OK.
+You know, in your preamble when you said credit card debt is at a record high,
+I did think to myself, you know what?
+So is US GDP.
+So is US population.
+I mean, things go higher.
+Some things go higher.
+I mean a lot of retail adjacent stuff, consumer discretionary stuff.
+You've been in an airport recently.
+You've been to a steakhouse in any city on a Tuesday night recently.
+Sure, the consumer is feeling strained,
+but it's not stopping the consumer from consuming period and the story.
+That's that's because the jobs market.
+I mean, the jobs market is incredibly strong.
+Jimmy's levered to the moon.
+He was talking to me about it before the show just waiting for the next pitch.
+You know, you know, which name I had in my head as I was channeling that.
+I mean, there's a long list beginning of the alphabet.
+Oh, no, what are we talking about?
+I don't even want to know.
+What are we talking about?
+Like I'm having a good day.
+What are you doing?
+Starts with an A alphabet.
+No, D O B E Apollo.
+Adobe, Adobe, for God's sake.
+That's not retail adjacent or retail.
+I didn't say it had to be.
+He's complaining a minute ago about people not following your lead.
+I mean, how does Adobe connect to retail?
+No, it wasn't connected in any way.
+Can we talk Costco?
+He hit them 30 dollar dividend, buy back four billion.
+Deutsche says it's a thousand eighty two dollars.
+They have thirty dollar reasons to like Costco, they say.
+And that's obviously reacting to the dividend.
+Yeah, you have that, right?
+Special dividend first time in three years, doubling what they did last time
+at fifteen dollars is totals three point three billion.
+What is this?
+This is about confidence is about company with strong cash flow generation.
+This is really a holiday gift before the holiday to the shareholders.
+And I think Costco, if you pull that lens out a little further,
+yeah, you will see the high in May.
+Let's go back.
+There we go.
+There it is.
+The Costco is going to take out that high.
+And by the way, Costco is a momentum stock.
+OK, it was Jimmy adjacent, not retail adjacent.
+OK, you know what I'm saying?
+It was funny.
+Once I got the joke, it was funny.
+All right, it took a long time.
+Sometimes you got to write it down and, you know, mail it.
+You almost got it while we were in the break.
+Oliver's after this break.
+With the Discover Cashback card, it's payback time when you earn cash back
+on everyday purchases, activate and earn five percent cash back
+at different categories each quarter on up to fifteen hundred dollars in purchases.
+That's five percent cash back at different places each quarter,
+like grocery stores on gas and at restaurants.
+It pays to discover terms.
+Supply cdiscovery.com slash five for details.
+We're an agent supposed to take things off your plate.
+Building another to handle the others is a bit much.
+Don't make more work out of work.
+Gemini is the one agent that knows all parts of your business
+and actually gets stuff done.
+You give it a project, close your laptop, and when you come back, the jobs finished.
+No matter your industry or role, your agent has the skills
+to help every team stay in their flow.
+Seriously, make work less work with Gemini on Google Cloud.
+Check response, subscription required.
+Which NHL teams are scoring big off the ice?
+CNBC Sports Michael Ozanian has the numbers.
+If a dime margin in the NHL is right there with the NBA.
+Official NHL team valuations revealed Friday in Squawk Box on CNBC.
+Let's play some options action.
+We'll go to Chicago, Oliver Renick at the CBO global markets.
+Where are you looking?
+SpaceX, Scott, kind of interesting.
+It's not taking part despite the big bounce back and it being a fan favorite for many.
+But at the same time, it's actually fitting with the stock's volatility
+to past three months as it's traded in a fairly tight 20 point range.
+Implied vol and SpaceX is now about 20, which by comparison
+is also Nvidia's implied vol.
+SpaceX bulls seem to think that's cheap enough to buy
+some high probability call options now.
+Notably in the money 139 strike expiring Friday,
+where two traders today each spent a million bucks a week ago.
+Those calls were less than a buck when SpaceX was below 125.
+And today they're trading for a little over six dollars,
+which is still cheaper than they were at the start of the month.
+And by the way, there are still lots of speculators around the fringes, too.
+In fact, those fringes added up to about six million dollars
+today spent across 40,000 calls at the 160 strike expiring Nov 20.
+Pretty far ways away, Scott.
+OK, Oliver, thanks.
+I'll see you this afternoon as well.
+We'll play options action once again.
+The setup is next.
+All right, let's talk some Cisco people tomorrow after the bell.
+We're going to have earnings.
+You want this first shot? Sure.
+Conservative guidance was the problem for this company.
+Last earnings report, stock made its high
+when most of the parabolic AI names did in the month of June.
+I still think you're going to see strong demand here on the AI side
+for networking.
+And I think the stock is close to a valuation
+and a price level that I think is attractive.
+Conservative guidance, Joe, because it is a conservative company.
+I've owned it for probably 12 years now.
+It's been much like Abdi, just a stock that performs year after year.
+I expect that they will.
+And in terms of the valuation reset, it's now at about 18 times forward.
+So there is there's been a lot of re-raining here.
+And I think it leaves room to the upside significant room.
+Rob, you don't have this one, right?
+That's all you got.
+It's very expressive.
+You know, it's rare that he doesn't have anything to say for those who know him.
+You are trying to catch me off guard.
+Because when you see me not paying attention, you deliver a ball to the face.
+That always be ready.
+That is exactly what you're doing right now.
+We'll do finals. We'll do finals next.
+Be ready. I'm ready.
+Three o'clock Eastern closing bell, Dan Greenhouse,
+Stephanie, Link, Malcolm, Ethridge.
+See what the last hour of trade does today.
+See if NVIDIA can stay where it is.
+Coralweaves, obviously a huge story and it's helped sentiment.
+It's helped lift the entire A.R.A.I. orbit.
+What do you got?
+Monolithic power systems.
+Easy bounce pass to you.
+Easy bounce pass.
+I got it.
+Monolithic power systems.
+Every AI chip needs power delivered precisely.
+Monolithic power is the one doing it.
+Thank you very much.
+Our veteran again.
+Oh my God.
+You pick Walt Disney on today?
+Jim Leibenthal.
+Jim can pick whatever he wants.
+It's his day.
+It's about 1% from an all-time high.
+Don't let them give you a hard time, Jim.
+I would never do that.
+Well, he'll buy it in the Joe T when it's about 10-point higher.
+Anastasia.
+Anastasia.
+QQQ's valuation reset.
+I think the upside can't continue here until your end.
+I would love to buy Disney.
+Amphitol.
+All right, I'll see you at three.
+A lot can happen between now and November 2028.
+Two more summers, two more holiday seasons, and plenty of time to enjoy your new renewal by
+Anderson Windows.
+Because right now you can buy new Windows and pay nothing until November 2028.
+New Windows now.
+Paying for them?
+That can wait.
+Buy now and pay nothing until November 2028.
+Get started at renewal by AndersonHome.com.
+Hurry, offer ends November 30th.
+Only valid on initial visit.
