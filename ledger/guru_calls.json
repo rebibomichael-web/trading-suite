@@ -54,6 +54,7 @@
   "4F1K6rEJUp4",
   "4H3UD25NShg",
   "4JFkot2vIMs",
+  "4P-AAFrVqUE",
   "4TrFf3zBXfI",
   "4bhMSSkbZPA",
   "4dEVSEZKuO8",
@@ -203,6 +204,7 @@
   "IUc0POTlW3E",
   "Ibmiyd9z1bg",
   "IeDMCJe4bkQ",
+  "IjWbvz95w08",
   "IkXL_a8JRbk",
   "IrbWZt7D7MA",
   "J0SyJxYOZzM",
@@ -597,6 +599,7 @@
   "vFPIFBfLBBY",
   "vOuhRx-KHnM",
   "v_VIj8NtZnY",
+  "vbpgGdZAnXc",
   "vu75vGYoUaA",
   "w1oz5sGBjBU",
   "wFwlD87FGJo",
@@ -32892,6 +32895,10 @@
     "7d": {
      "pct": -9.39,
      "win": false
+    },
+    "14d": {
+     "pct": -13.99,
+     "win": false
     }
    }
   },
@@ -32912,6 +32919,10 @@
    "outcomes": {
     "7d": {
      "pct": -9.39,
+     "win": false
+    },
+    "14d": {
+     "pct": -13.99,
      "win": false
     }
    }
@@ -34867,6 +34878,10 @@
     "7d": {
      "pct": -11.05,
      "win": false
+    },
+    "14d": {
+     "pct": -21.39,
+     "win": false
     }
    }
   },
@@ -34887,6 +34902,10 @@
    "outcomes": {
     "7d": {
      "pct": -11.05,
+     "win": false
+    },
+    "14d": {
+     "pct": -21.39,
      "win": false
     }
    }
@@ -37460,6 +37479,38 @@
    "channel": "Fundstrat",
    "video_title": "Mark Newton QQQ Downtrend",
    "date": "2026-11-10",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": 347.7,
+   "target": 408.47,
+   "horizon_days": 14,
+   "quote": "holding above 34770 uh if you are long now and I don't have a problem with that. In fact, I think if you're a two to three week swing trader that would be the side of the market you are on",
+   "video_id": "4P-AAFrVqUE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 10th, 2026",
+   "date": "2026-11-09",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 347.7,
+   "stop": null,
+   "target": 269.18,
+   "horizon_days": null,
+   "quote": "Closing below 347 70 at the end of this week is our next sell signal event that should then yield 269 18 that could possibly be by the end of the year.",
+   "video_id": "4P-AAFrVqUE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 10th, 2026",
+   "date": "2026-11-09",
    "affiliated": false,
    "outcomes": {}
   }
