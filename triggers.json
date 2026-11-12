@@ -112,7 +112,8 @@
   "DDOG|below|195.34": "2026-11-04",
   "AVGO|below|314.03": "2026-11-05",
   "ILMN|below|210.42": "2026-11-05",
-  "KLAC|above|161.5": "2026-11-11"
+  "KLAC|above|161.5": "2026-11-11",
+  "AVGO|above|361.5": "2026-11-12"
  },
  "_doc": "Price levels watched by the trigger-watch workflow. Add your own to 'manual' as {ticker, when: above|below, level, note}. 'narrative' is rewritten by each market-narratives run. 'fired' records alerts already sent \u2014 delete a key to re-arm that trigger."
 }
