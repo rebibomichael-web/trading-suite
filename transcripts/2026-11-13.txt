@@ -1,0 +1,1329 @@
+At Edward Jones, we believe rich is more than caring about the latest and greatest.
+It's also taking care of what gives your life meaning.
+That's why your dedicated financial advisor meets you where you are, with personalized
+financial strategies that help protect what matters, so you can preserve your progress
+while creating a path forward.
+The key to being rich is knowing what counts.
+Let's find your rich together.
+Edward Jones, member SIPC.
+The Quarter Pounder with Cheese is made with 100% fresh beef cooked when you order it.
+Then comes the melted cheese, the slivered onions, the pickles, the ketchup, and the mustard.
+Add hot crispy fries and an ice-cold Coke, all for $8.
+And if things go well, one loose fry at the bottom of the bag.
+The Quarter Pounder with Cheese meal, now $8.
+Ba-da-ba-ba-ba.
+I'm Scott Wapner, and you're listening to CNBC's Halftime Report, the podcast,
+the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Thank you, Carl and Sarah. Welcome to the Halftime Report.
+I am Frank Holland-In for the Judge Scott Wapner.
+Front and center at this hour, navigating the Nvidia fallout, the stock
+is lower once again today as the committee makes some key moves in that name.
+And again, as you can hear, Sarah, you're here.
+Nike Investor Day coming up next week.
+But join me for the hour.
+We have Jim Laventhal, Jason Snipe, Kevin Simpson, and Liz Thomas.
+First, quick check on the market.
+You can see a lot of red going on on this board right now.
+The Dow is down just about 170 points.
+The S&P pulling back 1% than as that composite.
+Down 1.5%, as you can see, the 10-year.
+Well above a 5%, yielded 5.13.
+Important to note, the major averages are positive for the week,
+with the S&P up about 2% on the week.
+We also want to check shares of Nvidia right now.
+Obviously, Nvidia, the story of this week,
+Nvidia shares pulling back just about 3.75% over the last week.
+Nvidia shares pulling back more than 14% as investors digest
+all the controversy around Nvidia CEO, Jensen Wong,
+and his decision to resign as the CEO of the chip giant.
+With that, we're going to begin our conversation.
+Jim Laventhal, good to see you're right here to my left.
+What are you making of today's action after yesterday?
+People just kind of were shocked by Jensen Wong
+resigning today.
+What do you think we're seeing in the markets?
+Yeah, well, it's been a shocking week,
+and it got worse as the week went on.
+I think what we're going to see from Nvidia,
+the stock for the foreseeable future
+is this tug-of-war between the bulls and the bears.
+The bulls, like myself, are going
+to point to the strong order book,
+the growth that's projected.
+We'll get an update on that with next week's earnings.
+I'm not expecting a major change.
+We're going to talk about things like free cash
+flow over 300 billion, the forward multiple of 10,
+and say, wait a second, how can we be selling this here?
+And I'm not.
+I'm not selling it here.
+And new money that comes into account
+I am putting into Nvidia.
+The bears are going to say, listen,
+there is going to be export controls,
+and the China business is going to be curtailed.
+That's probably right.
+Frank, it is probably going to be curtailed.
+Now, China is about 11% of overall revenue.
+I don't think that goes to zero.
+But again, at 10 times earnings, free cash flow,
+generating a well above 300 in the coming 12 months,
+300 billion, that is.
+I honestly think the bulls went out in the long run.
+But for the next week, two weeks,
+it's going to be back and forth this tension
+between the bulls and the bears.
+As I said, I'm sticking with my position,
+new money that comes into accounts.
+I think this is a great time to buy it.
+You know, one quick point, Jim.
+I think you're setting this Goldman report that came out
+yesterday that outside Taiwan and the US, China, Hong Kong,
+and the rest of the world make up about 11%.
+I've also heard 20% as a number two.
+So I don't, you know.
+Right, a lot of different estimates out there.
+I want to ask you about the valuation of NVIDIA
+and why you're saying you're putting new money to work
+is the fact that the valuation is so low that it's attractive.
+Do you think all the pain has come out of this stock
+with all the controversy,
+or do you not see more pain potentially in the future?
+So good questions.
+No, there is likely more pain.
+I'm not sitting here saying that 159, 160
+is absolutely the bottom.
+Anybody who knows me knows I'm not a day trader
+on the long-term investor.
+And what I see is that the hyperscalers,
+again, this quarter reported that they're gonna stick
+with their CAPEX spending plans.
+I also note that the tone of the market right now
+has been slightly, more than slightly negative
+with regards to the blue wave that came out of the election
+and the potential for slowing the data center buildout.
+I'm strongly of the opinion that slowing
+the data center buildout is a good thing.
+That it allows cash flows from those hyperscalers
+to catch up with their capital expenditure plans,
+taking pressure off of financing in the capital markets.
+But all of this that comes in from financing,
+and I'm talking about capital markets
+coming up next week with Anthropic, 60 to 80 billion,
+is going to flow through to the likes of Nvidia
+and the other chip manufacturers.
+So is the pain over?
+No, and that's where I'm saying the next couple of weeks
+probably gonna be volatile.
+But this is a price given the fundamentals going forward
+for the next year I'm very comfortable buying.
+All right, so Nvidia shares down about 3.5% right now.
+We wanna talk a bit more about Nvidia.
+We're getting some news or SEMA Modi joining us now
+with the latest on Nvidia.
+Hey Frank, so the Financial Times reporting
+that Nvidia's board has approached
+arm CEO Renee Haas as a potential successor
+to Jensen Wong Bloomberg reported yesterday
+that Haas was one of the external candidates
+that Nvidia was considering.
+Frank, this tells us though that the board
+is trying to move faster ever since
+Wong's resignation on Thursday morning
+that now the board is moving fast to secure
+a longtime CEO, someone who can be a permanent replacement
+to him as right now they have interim CEO,
+Collette Cress who was CFO currently in place
+right as we expect earnings now on Tuesday.
+More as we get it, Frank.
+Yeah, certainly a lot of anticipation
+for those Tuesday earnings are SEMA Modi
+with the very latest on Nvidia.
+New reporting from the FT that the board
+is considering Renee Haas, obviously the arm CEO
+as a potential successor to Jensen Wong right now.
+Again, shares of Nvidia down about three and a half percent.
+I wanna come over to you gentlemen right here
+and also Liz when I bring you in the conversation.
+Certainly a fast moving development
+when it comes to a potential replacement
+for Jensen Wong, is that comforting?
+Or do you think that could be concerning?
+A lot of talk including my colleague John Ford
+that if you bring an outsider in,
+some talent may lead because they feel
+like they were passed over.
+No, I think that's a positive development.
+Obviously the leader of arm has been at Nvidia
+before he left I think in 2013.
+So I think, you know, there's some calm
+with that potential decision.
+What I will say, I mean to Jimmy's point,
+of course from a bear's perspective
+there's a mountain of headwinds, you know,
+from a tactical perspective at least.
+I think the concerns around export controls
+as Jimmy mentioned, national security,
+obviously is an issue.
+Where are the chips going ultimately, you know,
+in parts of the Far East, some others,
+Malaysia, Vietnam, are they ultimately
+getting to China, the more advanced chips?
+I think that's a concern.
+But when I look at this stock from a fundamental basis
+that Jimmy already kind of shared alluded to,
+115 to 117 billion dollars worth of revenue this quarter,
+70 plus percent margins to Jimmy's point as well,
+10%, I mean, training at 10 times forward.
+I mean, if you remove the name
+and look at a stock like that,
+you're like, hey, this is something I want to lean into.
+It's down, I know, close to 20% this month.
+But I think there potentially might be an opportunity.
+I think there's more to come.
+Sadly, we'll hear that, you know,
+testifying behind closed doors
+and there's a lot more to evolve in this story.
+But I do think there will be an opportunity
+as a long-term investor.
+To your point about more to come,
+yesterday I was actually speaking to a Democrat
+that's in Congress now who has been reelected.
+So they'll be in the new Congress
+and they told me just flat out,
+he's gonna have to come back.
+He will be back on the Hill.
+So it looks like the Democrats
+also want to have some conversations with them.
+I also do want to point out,
+NVIDIA shares, they've gained about a half a percent,
+still lower, but since this news broke,
+and if you look on Kalshi, Rene Haas's odds,
+I've become the next NVIDIA CEO at 35%,
+they spiked up as soon as the ZFT report came out.
+And you don't think that's because
+of our positive talk on it, Frank?
+Come on.
+Perhaps, perhaps.
+Kevin, I want to come over to you.
+Just your thoughts about a new CEO for NVIDIA,
+perhaps, you know, a decision being made.
+I don't know when he would take over the role,
+but, you know, days are at the day after.
+Jensen Wong stepped down.
+I mean, you can replace the CEO,
+but it will be very difficult to replace the visionary
+that was Jensen Wong.
+I think that the street would prefer an outsider.
+I think that's why there is some enthusiasm here.
+I think the board has to move quickly.
+This is not something you want to linger
+in any way, shape, or form.
+I think that there will be people that leave NVIDIA,
+regardless of whether they promote from within,
+or they bring from without.
+All of the fundamental case
+that the gentleman has laid out is accurate.
+If this was a blind ticker to Jason's point,
+you'd be buying it, but it is not.
+And there will be more things to come, for sure,
+where there's smoke, there is fire.
+And yesterday, we sold Frank half of our position
+on pure price action alone.
+And it's heartbreaking from the standpoint
+of looking at the portfolio,
+the admission that you're wrong
+and you take a 20% loss.
+Like we literally bought this stock at 200
+and sold it yesterday in the 160s,
+not because we don't like the fundamentals,
+but I have a rule based on price action
+from our entry point.
+Most of the world bought it at like five cents
+and they've owned it for two years
+and it's doubled every 20 minutes.
+We didn't have that luxury.
+They've recently initiated a dividend, a share buyback.
+We put them in our portfolio.
+We only got stopped out of half of it.
+If the price continues to pull back,
+we'll probably lose the rest of it.
+Maybe the Rene Haas news gives it a little bit
+of a stability point here, which I would like to see.
+But I think the fundamentals are great,
+but sometimes there's more to a story.
+So can I ask, and I hate the pressure on this,
+but you took a loss on this.
+It doesn't happen often, Frank.
+Let's talk about it.
+Did you want to get out because you were worried about-
+Let's focus on this.
+No, it's not.
+Were you worried about what could happen
+with Jensen 1 going forward
+and how that could impact NVIDIA?
+Were you worried that the company
+just basically lost its vision?
+I mean, why take a loss on something
+when there's so many developments left to happen?
+It's an excellent question.
+I think it's a great time for trade school.
+I don't have any emotion to any of the tickers.
+I look at it purely from a math equation.
+I paid 200, we got stopped out
+on relative underperformance on half of it.
+I think everything that these guys have said is accurate.
+I think that there's lots of reasons
+that if you don't own it
+and you want to take a risk and get into something
+that's under a lot of pressure,
+you can have tremendous reward on it.
+But I don't mess around with how I feel
+when it comes to the portfolio.
+These are the rules.
+They've served us very well over time.
+Occasionally, you take a loss.
+All right, I'd better take my tongue out of my cheek.
+You're a terrific risk manager.
+I don't want to make a joke in your expense.
+No one was paying attention to me anyway.
+Just going to get back to the headline very quickly.
+NVIDIA's board has approached RMCO Renee Haas
+in its search for Jensen Wong's successor
+that's according to the FT.
+Lizian, I want to bring you in this conversation.
+Very important to note,
+NVIDIA's having a terrible week
+due to these Jensen Wong headlines,
+but the markets are positive for the week.
+I just want to get your sense of what NVIDIA means
+for the markets after Jensen Wong,
+how I can say it in the post-Jensen Wong era,
+I guess we have to call it.
+Well, first I want to say
+I respect Kevin's risk management.
+I think it's really tough to take a loss,
+but as investors,
+you also have to think about the opportunity cost
+and what I would say about,
+first let's start with just the semiconductor industry group
+and then we can talk about tech as a whole,
+but for both of those,
+there's an overhang that's going to remain for a while here
+and even if it's just a few weeks,
+I don't think as an investor,
+you're going to miss some great upside
+if you sit this out for a few weeks.
+So perhaps some of Kevin's other thought was,
+if I take this out now at a loss,
+I've got the opportunity to go invest
+in something else that can move in the next few weeks,
+maybe the next couple of months
+as we wait for this all to sort itself out.
+And I do think that there's more news to come.
+I mean, we've gotten the big bright shiny headlines already,
+but there's more news to come
+and Frank, to your question earlier in the show
+about them moving fast to find a replacement,
+I think the first order of business
+is you need to find somebody
+who's going to operate the company well
+and then they've done a good job of that,
+but then the replacement,
+I better remember who made the point
+about the visionary replacing the visionary.
+I don't think it's even just about replacing
+the visionary for AI.
+You've got some damage control to do for AI as a whole
+and for the semiconductor industry as a whole
+as this investigation drags on.
+So that's most of it.
+Now to finally get to your question, Frank,
+what does it mean for the broader market?
+Fascinatingly, the broader market has done pretty well
+despite what's going on this week.
+So we came into this as we know
+with a lot of overhang from the midterm elections
+and question marks about what 2027 will look like.
+That remains the case.
+And I think we also have to remember
+that semiconductors and the broader AI trade
+was under pressure coming into this as well.
+So a lot of times when you get new news like this,
+all it does is exacerbate the existing trend.
+And I think that's what's going on here,
+but the broader market and semiconductors as a whole,
+except for today, has held up pretty well.
+So clearly there's still buying appetite
+from investors out there and a lot of investors
+who believe in this long-term story.
+Yeah, I mean, certainly,
+I think people believe in the long-term story,
+but chips right now, it seems a little bit volatile.
+I'm looking right now, AMD down even more than NVIDIA
+is, so is Broadcom, Micron also under quite a bit
+of pressure and they look more broadly
+at the price target cuts of NVIDIA.
+They're pretty dramatic.
+I'm looking at truest from 346 down to 174
+and they go, unfortunately,
+it's not just about XEO, Jensen Wong's affairs
+or his resignation and Jimmy is kind of speaking
+what you were talking about,
+but also about the potential that NVIDIA's culture
+becomes impaired and the company may have shipped GPUs
+that became accessible to companies
+and government entities in China,
+challenging future revenue performance
+that 11% that's outside Taiwan and the US.
+HSBC also cutting their price target and a half
+from 365 down to 170.
+So can this stock overcome some of this negative sentiment?
+Do the fundamentals overcome that?
+Because of course, earnings are coming up
+and Jason, you pointed out to the margins
+of revenue growth.
+Well, I believe it can,
+but I think to the point that Liz was just making
+and which I was trying to make as well,
+which is for the next few weeks,
+this is going to be a volatile stock.
+There will be up days, there will be down days,
+and to the point, Kevin, I think you made,
+we're not done, no, there's going to be more news
+and I'm not just talking about affairs,
+there's going to be this hanging question
+of was there treasonous activity that occurred here
+and how complicit was the administration in this?
+These are legitimate questions that are currently not answered
+and as the answers to them become clear,
+that will create volatility in the stock.
+I think when you step back and you framed this, Frank,
+by talking about the other chips being down,
+we have to remember the context in the market right now
+is there is concern that we are approaching peak spending,
+particularly with the blue wave coming out of the elections.
+As I've already said, I think that that's a positive
+instead of creating a bubble
+that would have gotten inflated quickly
+and been a threat to pop.
+Now we're going to have this data center build out
+go out over many years at a more sustainable pace.
+So I'm not looking at the chip sector or Nvidia
+at being imperiled from a fundamental point of view,
+which was your question from demand,
+but Nvidia specifically, it will be volatile
+for the reasons I mentioned.
+To me, a long-term investor,
+I am very comfortable holding this.
+Now, by the way, I mean, I've been in this since 2023,
+the return even at these reduced prices
+has been phenomenal over that period
+and I don't think we're done.
+The price target cuts, the analysts downgrades,
+makes sense, right?
+We can't be looking at it the same way
+as we were looking at it two weeks ago,
+but to the point I'm trying to make,
+the stock isn't where it was two weeks ago.
+It isn't where it was six weeks ago.
+It's off 30% from its high.
+That is pricing something in.
+Is it enough?
+I think so, but again, it will be volatile.
+All right, also forward P of around 13,
+there was a dispute on the desk yesterday,
+I don't know if you guys were watching,
+but our system shows about 13.
+So I think the question is,
+we know the money's leaving NVIDIA,
+where should, where can it go?
+That's gonna have, see some upside
+and what could benefit from this kind of shift
+and what I think some people are saying
+is the shift in leadership.
+By the way, Evercore upgrading Ares and Networks,
+calling it the clearest beneficiary of the NVIDIA fallout.
+Jason, that's the name that you want.
+100%.
+So networking is obviously a very important component
+of kind of the whole entire AI ecosystem
+and infrastructure play.
+But what I would say as it relates to NVIDIA,
+where we're customers potentially,
+where there's now there's optionality,
+perceived optionality,
+and now we're not looking to buy the entire NVIDIA stack.
+Cause what happens is,
+when you do buy that it's NV Link,
+it's Infiniband, it's Spectrum X,
+which are kind of built into the NVIDIA stack,
+I'm sorry, Evercore Networks is independent player.
+And I think that when there's kind of a move
+from NVIDIA and their chips,
+names like Ares and Networks
+are huge beneficiaries of this play.
+I think the concern sometimes with Ares
+or for me personally,
+is the revenue with,
+so Microsoft is 26% of the revenue,
+Meta is 16% of the revenue.
+So a lot of it is concentrated,
+but I like this opportunity for ANET
+and many others in place.
+I mean, ANET's up 50% so far a year today.
+A lot of people seem to agree with you.
+Share is up almost 16% year-to-date.
+Three names seem to be coming out,
+excuse me, week-to-date, not year-to-date.
+Three names seem to be coming out
+that people see as being beneficiaries
+in the chip space of NVIDIA.
+It's Broadcom, it's AMD and Marvell,
+both Oppenheimer and Wolf,
+both saying that these are the stocks
+that they're positive about.
+Kev, I want to come over to you, you own Broadcom.
+Yeah, we own Broadcom and we also own AMD
+in our growth portfolio.
+Broadcom specifically,
+I think they lowered their price target
+for economic reasons,
+their challenges,
+who's going to be there to pay for all of this AI demand.
+They're not questioning the demand,
+but I think their price target,
+it may be a little bit low,
+it's just shy of 400.
+There will be beneficiaries
+of some of this NVIDIA fallout,
+but at the same time,
+the competition is coming from other companies
+beyond just this small handful.
+So I think if you are taking out this lens
+of where do we redeploy capital,
+that there are other names out there
+from a diversification standpoint.
+We're comfortable with Avago and AMD,
+but there are others.
+Liz, I want to come over to you.
+We were talking about this
+maybe before the show,
+I was talking to some of these guys about it,
+the fact that the SMH and also the SOXX,
+harder to say than you think,
+they're both positive week to date.
+What does that say about the chip trade in general?
+Generally seen as a cyclical trade,
+but with the AI build out,
+I think a lot of people think
+that cycle is going to be much more extended.
+Then at the same time,
+there's clearly going to be investigations
+into chip sales, not only NVIDIA,
+but other companies.
+Yesterday there were some headlines about Super Micro.
+How are you viewing just the chip space right now?
+The long-term view of it is that demand is still there,
+and as we know,
+many of these companies have demand already spoken for
+for a couple of years out into the future.
+So I don't think any of that is changing anytime soon.
+And the knee-jerk reaction,
+which the conversation that you guys were just having
+alluded to is that people looked at,
+okay, if NVIDIA is falling to the wayside a little bit,
+or is at least under pressure for the next few weeks,
+who can swoop in?
+Can anybody swoop in and take some of that capacity?
+And I don't think we know the answer to that yet.
+Now, I don't talk single stocks,
+so I'm not going to opine on which ones might
+and which ones might not.
+But I think that's what is going on under the surface
+of the semiconductor trade right now.
+One stock's loss is another stock's gain.
+So if we're expecting to see volatility in NVIDIA
+for the next few weeks,
+we probably see volatility in some of those other big names
+for the next few weeks as well.
+But the broader semiconductor complex, I think,
+is a question that, yes, has to do with NVIDIA,
+but it's a bigger question that has to do with
+what does data center build out capacity look like in 2027?
+What does regulation look like in 2027?
+And I know CapEx, Jimmy,
+I think you were talking about this.
+If CapEx slows down a little bit,
+maybe that's a good thing for the hyperscalers
+because it'll bring things back down to earth.
+But I don't think the market will digest
+CapEx slowing down very well.
+So if that is, in fact, the case
+that happens in 2027 where CapEx slows down,
+I think a lot of this trade stays under pressure.
+So if you look at the highs that the SMH
+or the SOCs made back in summer,
+I don't know that we're reclaiming those highs anytime soon.
+I don't see a catalyst for a huge bounce
+back up to those highs.
+I think this is going to be a trade
+that relies on fundamentals.
+And although they're still very strong,
+I don't see there being a near-term
+or maybe even a medium-term catalyst
+that's gonna get us back up to those levels.
+In fact, I see a lot more forces
+that are keeping it maintained.
+Hey Liz, obviously it's Jimmy.
+Just thinking about what you said about the market
+not digesting a reduction in CapEx well.
+I feel like that is true if the Amazon had come out
+and said voluntarily they're pulling back on CapEx.
+But we've talked how these companies
+are in a prisoner's dilemma
+of who's gonna be the first one to blink.
+If they're all forced to blink
+by the new state legislatures,
+new governors that are coming in in 2027,
+if they're all forced by moratoriums and legislation
+to slow things down,
+couldn't that be perceived as a positive?
+You know, it's a different mechanism of slowing down.
+A positive in the sense that the companies aren't saying,
+okay, we can't afford this CapEx anymore.
+It's not that they're slowing down
+because revenue isn't proving it.
+I still think the market would view that negatively
+because then it's the government coming in
+and limiting capitalism, right?
+Limiting that growth,
+limiting the CapEx that those companies
+can put towards the build-out
+that frankly the economy is so heavily dependent on right now.
+And that CapEx has baked into GDP numbers
+to a level that we haven't seen in a very long time
+if ever, levels that are higher
+than even what we saw in the internet boom.
+So I think it would still be a negative consequence.
+It would just be a different way to point the finger.
+So I agree totally with everything you just said.
+I would just follow it up by saying,
+I think that is why the market,
+particularly in the AI industry,
+has been punkish for the last few weeks.
+Is already anticipating that.
+Punkish?
+That's a legitimate word.
+Yeah, I like that word.
+What does it mean?
+I'm not gonna be honest, I don't even know what that means.
+I don't know.
+Is that good or bad?
+It's bad, it means slow.
+Okay, let me check it.
+Just check it.
+Punkish.
+You know, speaking of punkish sentiment,
+I don't know if that's the right way to use it.
+That's the point.
+I'm just gonna throw it out there.
+Let's take a look at Cisco shares right now.
+They've been on the top and the bottom line.
+They also have their AI infrastructure revenue
+with double, and now look at this.
+So is this a punkish react?
+I don't even know.
+I'm just trying to use the word in context.
+It sounds like it sounds the right way.
+You also own Cisco,
+so it seems like an appropriate question to ask you.
+Is this a punkish reaction to earnings
+that were otherwise strong?
+So vocabulary lesson, yes,
+that is a punkish response right there.
+With regards to the stock,
+I mean, it was a good earnings report.
+I think what people are looking for
+and the reason that it's down right now
+is they wanted more of a guide up
+based on the results that they've produced.
+I think where the market gets this stock wrong
+is they think that this is supposed to be
+a mid-20s to high-20s multiple stock.
+It's not.
+It's supposed to be a high-teen stock.
+This is a company that beats on earnings
+usually by a few pennies.
+It doesn't shoot the lights out and then you're up 20%.
+However, as I said just two days ago,
+this is a stock that if you hold this for years,
+and I have held this through from 2015,
+it outperforms the S&P 500 without that much drama.
+Now, today is dramatic, obviously it's dramatic,
+but the company's fundamentals are strong.
+The demand is there.
+If you don't think that the data center build-out
+is gonna come to a crashing halt,
+then this is a very cheap way to play it.
+All right, by the way,
+Annalisa's cutting price target
+is left to right on this name.
+Citi keeps the buy,
+but they go from $139 down to $120.
+Goldman maintains neutral,
+cuts from $125 down to $115,
+whilst Fargo from $150 to $130,
+so, punkish, I don't know.
+Moving on, we had a movie star on the show yesterday.
+It's our boiler room too, Josh Brown.
+He said Apple, Apple's the trade of the year
+and a lot of bullish sentiment when it comes to Apple.
+I know a lot of ownership here too.
+Kev, I'm gonna come over to you.
+What do you make of Apple today?
+Positive despite some of the punkish sentiment out there.
+I'm gonna use this all day.
+I have a lot of high net worth investors
+but I need to speak to you today, Frank,
+so I only have a minute.
+Yeah, so Josh, Josh has to call it the trade of the year
+and I mean, honestly, he had a point.
+It just seems to continue to move higher.
+Valuation, certainly a question,
+kind of the opposite of Nvidia right now.
+Just what do you make of Apple right now
+and the fact that it seems to buck the trend?
+I think sometimes the best trade is the company
+that's not making the most noise.
+When you look at the whole CapEx story,
+which we've covered here together for years,
+I mean, they've been reducing CapEx.
+They're not spending
+and they continue to do everything perfectly.
+The execution is outstanding.
+I will tell you personally,
+I had a 350-hour call expired last Friday.
+Luckily we had some pullback in the tech trade.
+It didn't get called,
+so we're sitting up here close to 360.
+Just wanted to show you that we have some winners,
+not just our Nvidia losers and the book folks.
+But I think the only thing to be concerned about,
+if you wanna worry about valuations,
+37 multiple is historically high for Apple,
+but we're not cutting the position.
+We have a full allocation.
+We believe in this company and have for a very long time.
+I think the flip phone, probably the next version,
+if they can make it work with the face
+instead of the thumbprint,
+will be a game changer
+and really happy to see this stock continue to perform.
+So by the way,
+despite all these concerns about Nvidia,
+there seems to be quite a bit of bullishness
+at least under the surface in the market.
+Again, markets are a positive week to date,
+but a bank of America saying
+U.S. equities saw their largest inflow since June.
+Wells Fargo saying the S&P 500 ETF,
+the Nasdaq 100 ETF,
+seeing their biggest inflows since mid June as well.
+Liz, what is that telling us
+about how investors feel about tech in the broader markets?
+Well, it certainly looked like the beginning of November
+was gonna be the beginning of a newfound rally in tech
+and we'll see if that finds footing.
+Usually after midterm elections,
+you see a nice rally in the market.
+I think this Nvidia news has put a little bit
+of a pin in the balloon, so to speak.
+So I think that there is still a lot of optimism
+and frankly desire for that trade
+to find its footing and find upside.
+What I can say about midterm elections
+is that the 12 months following a midterm election
+are usually quite positive for the market,
+but the third year of a presidential cycle
+is usually pretty tough on technology.
+So if I look ahead to 2027,
+I think it ends up being a year of transition
+and now we're in this space at the end of the year
+where we hope for that year end rally,
+but then we start the next year
+and try to figure out what that's going to look like
+and I think the year is going to be challenging
+because we're transitioning in a number of ways.
+We're transitioning to tighter monetary policy,
+transitioning perhaps in AI leadership,
+transitioning perhaps into a later part
+of the economic cycle with hot inflation
+and the Fed trying to control that.
+So I think we have to be on the lookout
+for some of those indicators
+and adjust our investments appropriately.
+Yeah, also I mean, I think it's kind of easier
+for people to be bullish.
+You're looking at the latest earnings estimates.
+Earnings up 34% year over year for Q3.
+An Nvidia coming up next week can be another test.
+All right, coming up here on halftime, committee moves.
+Kevin Simpson's buying more of a big industrial name.
+That trade's coming up next,
+but we'll debate our top calls of the day,
+halftime's back in just two minutes.
+Legacy credit scores only look at a brief snapshot in time
+and that limited view often leaves millions
+of qualified credit seekers out of the picture.
+Vantage score is changing that
+by modernizing credit scoring.
+Vantage score uses 400% more credit and alternative data
+to create a fuller picture of financial behavior,
+including trended credit data, rental payments,
+and timely utility payments.
+Vantage score safely broadens access to the credit economy
+and brings 5 million mortgage ready borrowers
+into the market.
+That's why top lenders like Rocket Mortgage
+as well as nine of the top 10 banks
+rely on Vantage score 4.0.
+With higher predictability and greater access to credit,
+everybody wins.
+Get started at VantageScore.com.
+Your financial life rarely fits between nine and five
+and the question shaping your future
+don't follow a schedule.
+That's why Citi created Citi Sky,
+a secure AI member of your Citi Wealth team
+built with the Gemini platform on Google Cloud.
+Whether expanding your portfolio or planning your future,
+you'll be able to access tailored wealth guidance
+on your time.
+Start building with Gemini at cloud.google.com.ai.
+Citi Wealth Investment products and services
+are provided by Citi Group Global Markets Inc.
+member FINRA and SIPC.
+From the producers of the traders,
+the circle returns with bigger twists and higher stakes.
+Contestants compete for popularity without ever meeting.
+Some are celebrities, some are regular people,
+and some are catfishing the competition.
+And now audience voting will influence the game.
+You decide who has what it takes to win in the circle.
+Watch the Hulu Original Series The Circle on November 17,
+streaming on Hulu and on Hulu on Disney Plus
+for bundle subscribers.
+Terms apply.
+The CEO here at the New York Stock Exchange today,
+Swiss Dental Tech company,
+Vivardis is now open for trade,
+looking at the first trades.
+Trading, I believe, at $14.30 a share right now,
+just opened up for trade.
+Assuming these are some executives here,
+the company has a drill-free cavity treatment
+that's part of its offerings.
+So Vivardis opening up for first trade,
+shares open up down just about 21% ticker,
+triple V, or excuse me, quadruple V.
+You don't see quadruple very often.
+Vivardis.
+All right, we got a committee move, Kevin.
+You bought more Caterpillar.
+Walk us through this trend.
+The tough act to follow, huh?
+We looked at Caterpillar as an adjacent trade to the AI,
+probably a stock that moves far too fast, too far,
+but has come down dramatically.
+And I think this is an opportunity for us
+to add to a name that we've owned for over a decade.
+It's not just an AI trade.
+And even if you think about data centers
+slowing down a little bit,
+we're still going to need power.
+We're still going to need this company
+to generate that power.
+There's also mining, there's industrial.
+There's a lot here.
+We picked up some shares the other day at 581.
+Stocks moved up nicely.
+I think this is a great long-sorm investment.
+If you don't own it, it's gotten sheep
+and you can certainly enter here.
+All right, Caterpillar shares over the last week,
+rising about 6.5% right now, down about 1.5%.
+We want to get to some calls of the day.
+We're going to kick things off with Palo Alto,
+upgraded, overweighted key bank, Jason.
+Yeah, Palo Alto, I mean, obviously this stock
+has been a rocket ship most of the year.
+It's down around 20% in the last month.
+I mean, just about a month and a half ago
+it was up close to 100.
+Their focus has really been in ID security.
+I think that's going to be extremely accretive
+for the stock going forward.
+They spent $30 billion in acquisition this year,
+so we're going to need to see some execution there.
+There's been some consolidation, I think, in the stock,
+but I continue to like this one.
+And when I see more AI,
+I just think more cybersecurity
+and Palo Alto being one of the leaders there.
+So by the way, the price target they put out there
+is 380, about an 18% upside.
+Important note, this stock's down about 20%
+over the last month or so.
+Some of that, though, has been some pressure
+because I think there were some rumors
+that Nikesha Aurora, the C.F. Palo Alto,
+could possibly go to NVIDIA.
+It seemed to be one of the reasons
+it sold off a couple of times.
+What do you think of that price target, 380?
+I like it, I like it.
+And that was obviously very recent, right,
+in terms of kind of what Nikesha Aurora
+might potentially do.
+But again, in terms of the fundamentals of the stock
+and the acquisitions that they've made,
+I just think that there's a long runway for this name.
+All right, moving on.
+Robin Hood, maintain as a buyer at Doysha.
+Kevin, this is one of your names.
+Yeah, I like this stock.
+It's a generational fintech company
+that goes through ebbs and flows.
+This is a stock where they need to not get
+more people trading on it,
+but they need more assets to stay on it.
+So they're trying to mature away
+from just an online trading
+to a more true fintech wealth planning firm.
+I think the stock down here is certainly attractive.
+Remember, we sell calls against this,
+so we really harvest the volatility.
+We like names with some ball behind it.
+At $77, I think you'll see it get back
+to triple digits.
+All right, one more call.
+We got Apollo being named the top pick at UBS.
+Jim and Jason, you're both on this one.
+Jimmy, you up first.
+I really like Apollo.
+I mean, let's call it like it is.
+It has been laboring under two clouds this whole year.
+One is private credit.
+The other is the financing that they provide
+to data centers.
+As we've already talked about ad nauseam,
+I think the data center thing will eventually pass.
+The concerns about it, that is.
+And on private credit, I never did think
+that was as big an issue as it was made out to be,
+and that's what is the evidence is showing us.
+All right, Jason?
+Yeah, there's no doubt about it.
+I think the private credit story is totally overblown.
+I think that was a big narrative in story
+early part of the year.
+Stock's down 15.
+They had been really pulling in a lot of flows
+into the business.
+They got to start to deploy the capital.
+I really like the Athene business as well,
+which is their insurance wrapper,
+but I like this stock here,
+and I think it could be opportunity.
+All right, Apollo in the green today,
+but year of date, down more than 15%.
+Now we want to turn to our contestant Brewer
+with a CNBC news update.
+Good afternoon, Katesa.
+Hi there, Frank.
+The FBI says it seized about $1.2 billion
+worth of cryptocurrency stolen
+from the crypto exchange, Binance.
+It brings the total amount of money clawed back
+by the U.S. government and the private sector
+to more than $2.7 billion of the more than $6 billion
+stolen from Binance last month.
+The FBI blames the attack on members
+of the North Korean military.
+It calls Trader Trater.
+You know, like being a Trader to your country.
+Efforts to freeze and track the remaining assets
+are ongoing.
+Law firm Baker McKenzie,
+shifting away from billing clients
+by the hour is the default
+as it continues to adopt AI.
+The firm's global chair told the Wall Street Journal
+the company's begun charging clients
+on a value-based billing model
+based on what's actually delivered
+rather than the time spent solving legal problems
+because of course AI speeds up the work cycles.
+And SpaceX is scheduled to launch
+its 15th Starship test flight later today
+from its starbase site in South Texas.
+The launch will include Starship's first attempt
+to catching both parts of the rocket
+as they return to Earth.
+This double catch, this is really key
+towards SpaceX's goal of developing
+a fully reusable rocket.
+Cool to watch, Frank.
+Yeah, I mean, amazing video.
+It's just amazing what we're doing
+with space these days.
+Professor Brewer, thank you very much.
+Good to see you.
+All right, Mike Centoli and his market memo.
+Coming up next.
+See your markets commentator and overtime co-anchor,
+Mike Centoli with his market memo.
+Mike, thanks for joining Post9.
+What are you looking at?
+I mean, we're looking at a market
+where we're seeing a lot of red on the board
+but positive for the week.
+Positive for the week
+and in fact coming into the week, Frank,
+I definitely thought we had a lot of the ingredients
+put into place for the market
+to actually have a bit of a recovery
+off of the washout from late last week.
+It still remains the case,
+but I think the way it's doing it
+is it's leaving plenty to prove.
+Yeah, that's pleased up a couple of percent week to date.
+It's still, though, in this really kind of soggy zone
+that we haven't been able to escape
+going back several months.
+Today's action in semiconductors,
+and you guys were talking about it,
+it just shows you that the perfect rotations
+don't always hold across multiple days.
+And so everything is kind of selling off
+after those rallies that we saw.
+I'm focused on that a little bit,
+giving it more room because seasonally,
+positioning-wise, everything does suggest
+that you should have some kind of upside-air pocket
+coming in here.
+Maybe it's going to be about getting up to
+and through the anthropic IPO
+that's going to be a little bit of a clearing signal.
+But we've been waiting for clearing signals
+for like three weeks now.
+It hasn't happened.
+Yeah, I don't know if it's a clearing signal.
+It's definitely not punkish,
+but Bank of America is saying
+tech inflows highest since June.
+I believe it was well-saying.
+SPY, NDX, highest inflows since June.
+So there's something.
+I mean, that's fine.
+And all the retail buying of Nvidia,
+I got to tell you, I don't like that.
+I would rather when they get despondent
+and they briefly become net sellers,
+that's when you got lows in late March and late July.
+Despondent, another vocabulary word.
+Mike Santelli with this market memo.
+Thank you very much.
+We're also getting some news on Anthropic.
+We want to get to our Kate Rooney with those details.
+Kate.
+Hey, Frank, this is part of Anthropic's IPO roadshow CEO.
+Daria Amade is on stage
+with JPMorgan CEO, Jamie Dimon in New York right now.
+As I mentioned, part of their ongoing roadshow, Amade,
+making a couple headlines here,
+addressing their compute commitments.
+He called the $900 billion price tag a large amount,
+but then argued that they buy relatively little compute.
+Said they buy it for a low cost ahead of time
+compared to competitors.
+I'll read you, Frank, what he told Jamie Dimon just now.
+He said, we actually tend to buy on the low side.
+And then he said, we buy relatively little
+for a relatively low cost ahead of time.
+And then he said, if things do not go as well
+relative to expectations, we're well covered.
+If things go really well, then said relative to expectations,
+we have an opportunity to buy more compute
+on the spot market, which so far he says has been available.
+He says it will continue to be available
+and they continue to do that.
+So interesting strategic look behind the scenes there.
+He also said there's a buffer of cash.
+He talked about this enormous amount of cash.
+I should say on the balance sheet,
+they do plan to raise more through this IPO.
+Revenue growing quickly, talked about gross margins
+being better than competitors.
+It was around 15% the adjusted number.
+Then talked about efficiency too, Frank, of these AI models.
+He called it a misnomer that there are these expensive
+models out of Anthropic that are really good
+and then cheaper models from others.
+He's trying to make the case that Anthropic
+is able to do both, Frank.
+Are Kate Rooney with the very latest on Anthropic?
+Kate, thank you very much.
+Coming up, the earnings set up outside of NVIDIA
+with most of the big retailers coming up on deck.
+We'll debate that trade coming up next.
+And welcome back to halftime, let's get this set up
+on some retail names reporting next week,
+starting off with Home Depot on Tuesday.
+Kevin, you own this one.
+Yeah, I don't think we can have any enthusiasm
+about Home Depot.
+For some reason, this stock has benefited
+over the past month by magically appreciating
+some 18 to 20%.
+What we really need is a reduction in interest rates
+or a new super cycle spend.
+We had one back during COVID and the next year or two,
+I think we'll see it again.
+New floors, new wall coverings, new appliances.
+I'm not expecting much out of this earnings report,
+but we own the stock and we're in it for a long term.
+Yeah, as you mentioned, shares up just about 19%
+over the last month.
+Coming up next, Walmart reporting its earnings on Thursday
+maintained as overweight at Wells Fargo
+with a price target raised from 120 up to 135.
+It's another Kevin name.
+Yeah, I think the stock's moved a lot also
+as has Home Depot.
+We don't know that you want to chase it here
+from a multiple perspective.
+This as well as some of the others
+in the space carry high multiples,
+but really it's a company that benefits
+from the high end consumer, the low end consumer.
+We're heading into the holiday shopping season.
+They're increasing their online sales.
+The grocery is incredible.
+I know Target's having a comeback,
+but what Walmart's done over the past three years
+is really separate and distinguish themselves
+as the go-to realtor retailer.
+Bernstein out with the top consumer picks.
+They recommend a more positive position
+in U.S. consumer discretionary.
+Among their names are TJX and AutoZone.
+Jason, you own AutoZone.
+Yeah, AutoZone is down a little bit this year.
+It's down about 3%.
+I think part of it is storied
+as some of the cat-back spending on the mega stores
+are starting to grow in Latin America.
+But what I'm excited about
+is what they're doing in commercial sales.
+They're really starting to expand there away from retail.
+So I think there's an opportunity going forward here.
+Yeah, Big Lift over the last month as well
+shares up over 13%.
+Also, if Costco maintained as a buy at Bank of America
+the target raised to $1,257 from $10.95.
+Jason, you own this one.
+Yeah, this one's been a nice one.
+It's kind of an earnings compounder for us.
+Up 28%, they just authorized a $4 billion buyback.
+90% renewal rate.
+And again, continues to be relevant
+for the value-conscious consumer,
+which obviously with inflation being what it is today
+I think is really important.
+So Liz, we're kind of seeing like a big lift
+when it comes to some of these consumer discretionary names.
+I think sentiment was a bit punkish before
+and all of a sudden it seems to turn around.
+The blue wave victory, that seemed to be kind of
+an inflection point for some of these names
+is why I remember the day after the election
+a lot of that consumer discretionary space was higher.
+Yeah, and I don't want to be a wet blanket on this trade
+but I think a lot of the optimism was the idea
+that perhaps a blue wave would bring the war risk down
+or that the war would be shortened
+or would end sooner and that oil prices
+would come back down.
+Given where consumer sentiment is right now
+which is in the crapper to be perfectly frank about it.
+I am not bullish on a lot of consumer names.
+I think that until inflation really gets solved
+and until people feel like inflation expectations
+are better under control,
+I don't see a ton more upside for a lot of these names
+particularly in the discretionary space.
+Now some of the names you guys just talked about
+are those cost-conscious stores where people go
+when they're being value-conscious
+they're trying to save money.
+I think those can probably still do well
+and stores in that space can do well
+but the consumer through most of this cycle
+has continued to begrudgingly spend.
+I don't think they're going to stop spending anytime soon
+but in order to feel really optimistic
+about retail and discretionary
+you want to feel like the consumer
+is going to increase spending
+and I just don't think that's going to happen
+until oil prices really come down.
+Yeah, to your point I believe highest PPI in four years
+also goes beyond saying the Fed has a lot more work to do
+when it comes to inflation.
+So inflation certainly on the mind of a lot of leaders
+and then when it comes to the economy
+and also in the market.
+All right, coming up next
+is the time to rethink the 6040 portfolio
+the new note today that has us asking that question
+we're going to debate it coming up next.
+If you like YouTube, you'll love YouTube premium.
+It's destroying athlete creator and YouTube Maxer.
+YouTube premium enhances how I use YouTube
+with awesome features like offline downloads
+so I could download my favorite training videos
+before I hit the gym.
+So no Wi-Fi doesn't turn leg day into loading day.
+Plus I get ad-free videos, background play
+and so much more.
+YouTube premium is like YouTube got some extra gains.
+Try YouTube premium for two months free
+at youtube.com slash premium.
+Trial eligibility varies, terms apply, cancel anytime.
+Your financial life rarely fits between nine and five
+and the question shaping your future
+don't follow a schedule.
+That's why city created city sky
+a secure AI member of your city wealth team
+built with the Gemini platform on Google Cloud
+whether expanding your portfolio or planning your future
+you'll be able to access tailored wealth guidance
+on your time.
+Start building with Gemini at cloud.google.com slash AI.
+City wealth investment products and services
+are provided by city group global markets Inc.
+member FINRA and SIPC.
+From the producers of the traders
+the circle returns with bigger twists and higher stakes.
+Contestants compete for popularity without ever meeting.
+Some are celebrities, some are regular people
+and some are catfishing the competition.
+And now audience voting will influence the game.
+You decide who has what it takes to win in the circle.
+Watch the Hulu original series The Circle
+on November 17th streaming on Hulu
+and on Hulu on Disney Plus for bundle subscribers.
+Terms apply.
+Welcome back to halftime report UBS out with a note today
+arguing the revival of bond yields improves the case
+for a 60-40 portfolio.
+But it's still vulnerable to elevated inflation
+and rising rates.
+Liz want to come over to you.
+How are you thinking about this?
+I certainly think there's been a revival in bond yields
+and there is now an alternative to some equity exposure.
+I've used the treasury, the tenure treasury
+is my final trade a few times on the show.
+So I do think that there is a decent chance
+that a 60-40 portfolio does better
+but I want to caution investors on a few things.
+Number one, in the 60 of your portfolio
+make sure that it is better diversified
+than it has been likely up until this point.
+And when I think about what that means right now
+I would be doing things like the equal weight S&P.
+And then if you look at the 40 in your portfolio
+I would also caution investors to not have too much exposure
+to things like investment grade credit
+that perhaps is growing and becoming more
+of a supply on the market and high yield credit
+that's just gonna have a high correlation with equities.
+I still like treasuries and make sure
+that you throw into the mix something like commodities
+or even gold because if we are heading into
+a stagflationary environment,
+60-40 is really gonna struggle.
+So those are some of the cautions I would give to people
+and the things that you can do to help it to struggle less
+are use things like commodities.
+Yeah, it's good to struggle less, absolutely.
+All right, final trades don't have time.
+They are coming up right after this break, stay with us.
+We are back with final trades.
+Liz Young, you're up first.
+Oh, this time is, excuse me.
+Thank you, Frank.
+The 10-year treasury, I previewed it a little bit before.
+The last time I used it as a final trade,
+I think it was trading at 524,
+but I will certainly take it at 513 as well.
+Kevin.
+I like Caterpillar.
+AI needs more than chips.
+They need power and it's down today.
+Jason Snyte, Amazon, AWS 39% growth.
+Jim Labanthal, Punkish.
+Nobody knows what it means,
+but it's provocative, it gets the people going.
+I'll tell you what's not Punkish is eBay.
+I mean, look at this stock over the last year.
+Look at it over the last month.
+This is a stock that wants to go higher.
+It's got great fundamentals.
+All right, that's going to do it for halftime.
+Take a look at the markets very quickly.
+You see right across the board,
+the dowel just fractionally lower than Azdec
+down about 1.25%.
+That's the people going back 3.25% to 1%.
+The exchange starts right now.
+You've been listening to CNBC's halftime report,
+the podcast.
+You can always catch us live weekdays
+at 12 Eastern, only on CNBC.
+All opinions expressed by the halftime report
+participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated by them
+on television, radio, internet, or another medium.
+You should not treat any opinion expressed on this podcast
+as a specific inducement to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+that halftime report participants consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit CNBC.com forward slash halftime report disclaimer.
+Tyler Redik here from 2311 Racing.
+And Bubba Wallace.
+You know what's the worst part of a race?
+A rain delay.
+Sitting around and waiting for the track to dry is dull.
+But instead of waiting, we hang out with Chumba Casino.
+Social casino slots, bingo, solitaire,
+plenty of fun to keep us entertained.
+So why let a rain delay slow you down?
+Play now at chumbacasino.com.
+Let's chumba.
+No purchase necessary.
+VGW group void were prohibited by law.
+CTNCs 21 plus sponsored by Chumba Casino.
