@@ -1,17 +1,5 @@
 {
 "seen": [
-"ie6nDdz9EPY",
-"X6nyWJw1JX0",
-"I5dpvbLi6ks",
-"kwNyUTH0asI",
-"SMY-YeCmF5A",
-"f6F2384xIz4",
-"HaLzbLCBFJA",
-"zVA3Pb5Hy98",
-"cOMtx8uVH5o",
-"UeskgA6tiQ0",
-"sm8QIRKeg94",
-"qmoVVZKoLwI",
 "cwU-R-5ojFU",
 "rt7qeyOkpyU",
 "QfXh6tFG-4c",
@@ -499,30 +487,21 @@
 "_XEk_4PH02c",
 "LtaDj7Vl8-I",
 "HnGo5vh4H3U",
-"NkPTux81dPM"
+"NkPTux81dPM",
+"V1xC6Lh5BpM",
+"6xCPFD9o8HQ",
+"_qCZv_el3J8",
+"1IYnUpymhL0",
+"wFwlD87FGJo",
+"vbpgGdZAnXc",
+"dI3rBlIzxhU",
+"ThPhqZtLe2k",
+"s32r0xK0Dco",
+"wP5eKkSnE-0",
+"kY09c0zCq6s",
+"5nZA4gkSheI"
 ],
 "pending": [
-{
-"id": "V1xC6Lh5BpM",
-"channel": "Brighter with Herbert",
-"title": "Elon Just Reposted This After Tesla's 11% Crash",
-"published": "2026-11-09T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "6xCPFD9o8HQ",
-"channel": "Brighter with Herbert",
-"title": "Wait\u2026 This Model Gives Tesla HOW Many Robotaxis?",
-"published": "2026-11-09T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "_qCZv_el3J8",
-"channel": "Brighter with Herbert",
-"title": "Tesla Robotaxi Is Suddenly Moving VERY Fast In Texas!",
-"published": "2026-11-10T00:00:00+00:00",
-"description": ""
-},
 {
 "id": "R4kV59msPqY",
 "channel": "Brighter with Herbert",
@@ -559,6 +538,13 @@
 "description": ""
 },
 {
+"id": "10d5IiHiz8Y",
+"channel": "Brighter with Herbert",
+"title": "Tesla Robotaxi Is Hiring In HOW Many Cities?",
+"published": "2026-11-12T15:00:00+00:00",
+"description": ""
+},
+{
 "id": "TRLF-gmywRI",
 "channel": "Matt Pocius on Tesla Stock & Money",
 "title": "Elon Musk JUST Confirmed BIG Tesla & SpaceX News; TSLA Up, Investors Celebrate",
@@ -566,24 +552,10 @@
 "description": ""
 },
 {
-"id": "1IYnUpymhL0",
-"channel": "Fundstrat",
-"title": "Are AI giants actually the next Cisco or Netscape?",
-"published": "2026-11-08T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "wFwlD87FGJo",
-"channel": "Fundstrat",
-"title": "Tom Lee: \u201cI think that this is more proof that last week was the low.\u201d",
-"published": "2026-11-10T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "vbpgGdZAnXc",
-"channel": "Fundstrat",
-"title": "Fundstrat\u2019s Tom Lee: Markets Are Rallying on Bad News",
-"published": "2026-11-10T02:00:00+00:00",
+"id": "bzojC8QFsl0",
+"channel": "Matt Pocius on Tesla Stock & Money",
+"title": "Jensen Huang Is OUT. Elon Musk Wants Him",
+"published": "2026-11-12T23:00:00+00:00",
 "description": ""
 },
 {
@@ -594,24 +566,24 @@
 "description": ""
 },
 {
-"id": "dI3rBlIzxhU",
-"channel": "Wicked Stocks",
-"title": "#TSLA WEEKLY CLOSE BELOW $344.34 CONFIRMS ANOTHER SELL SIGNAL #Tesla #daytrading",
-"published": "2026-11-07T00:00:00+00:00",
+"id": "ox2T7IWFt3A",
+"channel": "Fundstrat",
+"title": "Tom Lee: Can NVDA Keep Its Talent Without Jensen?",
+"published": "2026-11-13T00:00:00+00:00",
 "description": ""
 },
 {
-"id": "ThPhqZtLe2k",
-"channel": "Wicked Stocks",
-"title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 9th, 2026",
-"published": "2026-11-08T00:00:00+00:00",
+"id": "dN5wdyQhfuE",
+"channel": "Fundstrat Capital",
+"title": "TOM LEE: AI massacre, while impacting Granny ETF performance, is creating an attractive opportunity",
+"published": "2026-11-12T13:00:00+00:00",
 "description": ""
 },
 {
-"id": "s32r0xK0Dco",
-"channel": "Wicked Stocks",
-"title": "Tech Stocks Face More Selling. Here's Where to Buy | Wicked Market Leaders",
-"published": "2026-11-08T00:00:00+00:00",
+"id": "Dch3SfJmXN0",
+"channel": "Mr. FIRED Up Wealth",
+"title": "Jensen Huang Resigns, What's Next for Nvidia, Best Stocks to Buy Now",
+"published": "2026-11-12T16:00:00+00:00",
 "description": ""
 },
 {
@@ -671,24 +643,17 @@
 "description": ""
 },
 {
-"id": "wP5eKkSnE-0",
-"channel": "Traders Helping Traders",
-"title": "Market Crash: Why I\u2019m Buying (And When I\u2019d Worry)",
-"published": "2026-11-06T00:00:00+00:00",
+"id": "63BnYjJEkfI",
+"channel": "Wicked Stocks",
+"title": "#TSLA MUST HOLD $385.17 TO KEEP THE RALLY TOWARD $408.47 ALIVE #Tesla #daytrading",
+"published": "2026-11-12T14:00:00+00:00",
 "description": ""
 },
 {
-"id": "kY09c0zCq6s",
-"channel": "Traders Helping Traders",
-"title": "Marvell (MRVL) Is at an Insane Discount. Would I Buy It?",
-"published": "2026-11-07T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "5nZA4gkSheI",
-"channel": "Traders Helping Traders",
-"title": "End of Week Recap - Tech Correction",
-"published": "2026-11-07T00:00:00+00:00",
+"id": "0f1S5zeU1oQ",
+"channel": "Wicked Stocks",
+"title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 13th, 2026",
+"published": "2026-11-12T23:00:00+00:00",
 "description": ""
 },
 {
@@ -786,7 +751,7 @@
 "x": {
 "pdicarlotrader": {
 "user_id": "1369405313439391749",
-"since_id": "2120663739036774899"
+"since_id": "2121046452415660472"
 }
 }
 }
