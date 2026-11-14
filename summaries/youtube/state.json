@@ -1,16 +1,5 @@
 {
 "seen": [
-"cwU-R-5ojFU",
-"rt7qeyOkpyU",
-"QfXh6tFG-4c",
-"whVTkWeqhFE",
-"5oFNH80sQOM",
-"5-FPxInLE6g",
-"HEIJUNeiLKo",
-"8Bs7opzk0-M",
-"EM9Mm9OzGdY",
-"BuKqd_sT8Rg",
-"ENmu-qymY54",
 "gQ9aIylyia0",
 "9HJ7RWwDGAk",
 "f8_gYl-u3Bo",
@@ -499,30 +488,20 @@
 "s32r0xK0Dco",
 "wP5eKkSnE-0",
 "kY09c0zCq6s",
-"5nZA4gkSheI"
+"5nZA4gkSheI",
+"R4kV59msPqY",
+"4JFkot2vIMs",
+"HFl22I5jIGk",
+"TRLF-gmywRI",
+"who6xiAE8iY",
+"NSKl-JceZnQ",
+"4P-AAFrVqUE",
+"juSydB5L260",
+"jk6nUoPsfPk",
+"c1ylYgbtiNE",
+"AVBZeaD7RFI"
 ],
 "pending": [
-{
-"id": "R4kV59msPqY",
-"channel": "Brighter with Herbert",
-"title": "While $SPCX Sold Off, SpaceX Did This",
-"published": "2026-11-10T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "4JFkot2vIMs",
-"channel": "Brighter with Herbert",
-"title": "Could The Texas Freeze Actually Help SpaceX?",
-"published": "2026-11-10T15:00:00+00:00",
-"description": ""
-},
-{
-"id": "HFl22I5jIGk",
-"channel": "Brighter with Herbert",
-"title": "4x Waymo In Texas... And Vegas Is Next",
-"published": "2026-11-10T21:00:00+00:00",
-"description": ""
-},
 {
 "id": "L7ztC0RMAtc",
 "channel": "Brighter with Herbert",
@@ -545,10 +524,10 @@
 "description": ""
 },
 {
-"id": "TRLF-gmywRI",
-"channel": "Matt Pocius on Tesla Stock & Money",
-"title": "Elon Musk JUST Confirmed BIG Tesla & SpaceX News; TSLA Up, Investors Celebrate",
-"published": "2026-11-12T00:00:00+00:00",
+"id": "xVvBK8DTKf4",
+"channel": "Brighter with Herbert",
+"title": "Is SpaceX and Tesla in Trouble After Nvidia Lost Jensen?",
+"published": "2026-11-13T15:00:00+00:00",
 "description": ""
 },
 {
@@ -559,10 +538,10 @@
 "description": ""
 },
 {
-"id": "who6xiAE8iY",
-"channel": "Fundstrat",
-"title": "Mark Newton QQQ Downtrend",
-"published": "2026-11-10T16:00:00+00:00",
+"id": "CbGeyQy6dqA",
+"channel": "Matt Pocius on Tesla Stock & Money",
+"title": "Bloomberg: Tesla & SpaceX Merger Deal Could Be Weeks Away",
+"published": "2026-11-14T00:13:00+00:00",
 "description": ""
 },
 {
@@ -584,27 +563,6 @@
 "channel": "Mr. FIRED Up Wealth",
 "title": "Jensen Huang Resigns, What's Next for Nvidia, Best Stocks to Buy Now",
 "published": "2026-11-12T16:00:00+00:00",
-"description": ""
-},
-{
-"id": "NSKl-JceZnQ",
-"channel": "Wicked Stocks",
-"title": "Bitcoin Dropping Lower? | BTC Price Analysis",
-"published": "2026-11-08T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "4P-AAFrVqUE",
-"channel": "Wicked Stocks",
-"title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 10th, 2026",
-"published": "2026-11-10T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "juSydB5L260",
-"channel": "Wicked Stocks",
-"title": "Crude Oil at Critical Support: What It Means for Interest Rates | TLT & SHY",
-"published": "2026-11-10T00:00:00+00:00",
 "description": ""
 },
 {
@@ -657,24 +615,10 @@
 "description": ""
 },
 {
-"id": "jk6nUoPsfPk",
-"channel": "Traders Helping Traders",
-"title": "Thinking About Buying INTC? Watch This First",
-"published": "2026-11-07T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "c1ylYgbtiNE",
-"channel": "Traders Helping Traders",
-"title": "NBIS Stock: Big Discount or Value Trap?",
-"published": "2026-11-07T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "AVBZeaD7RFI",
-"channel": "Traders Helping Traders",
-"title": "CoreWeave ($CRWV): The Debt Problem That Doesn\u2019t Stop Me From Being Bullish",
-"published": "2026-11-09T00:00:00+00:00",
+"id": "he9Hu8kOoqk",
+"channel": "Wicked Stocks",
+"title": "#TSLA IS RUNNING HIGHER \u2014 #SPCX MERGER RUMORS OR TECHNICAL BREAKOUT? #Tesla #daytrading",
+"published": "2026-11-13T15:00:00+00:00",
 "description": ""
 },
 {
@@ -751,7 +695,7 @@
 "x": {
 "pdicarlotrader": {
 "user_id": "1369405313439391749",
-"since_id": "2121046452415660472"
+"since_id": "2121330385963671768"
 }
 }
 }
