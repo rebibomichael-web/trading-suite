@@ -1,18 +1,5 @@
 {
 "seen": [
-"gQ9aIylyia0",
-"9HJ7RWwDGAk",
-"f8_gYl-u3Bo",
-"NZQJdLBMzpI",
-"4msVWAJ1NX4",
-"8g1kcbIAdIg",
-"_BX81KgV-gE",
-"cQoY1cZlyVw",
-"M1jHSmLJdu8",
-"3jcMqzkaROc",
-"Bd_KSzKY-QU",
-"OB8ItiTRULM",
-"i5Jjxu4Adnc",
 "c4VM1cDNXuo",
 "9MJwJJ3C_qc",
 "9DfaiMKlPTI",
@@ -499,30 +486,22 @@
 "juSydB5L260",
 "jk6nUoPsfPk",
 "c1ylYgbtiNE",
-"AVBZeaD7RFI"
+"AVBZeaD7RFI",
+"L7ztC0RMAtc",
+"XaiJrx-W_ec",
+"10d5IiHiz8Y",
+"bzojC8QFsl0",
+"ox2T7IWFt3A",
+"dN5wdyQhfuE",
+"Dch3SfJmXN0",
+"OJKAH8MFL5Y",
+"44lqe8by0xg",
+"BwW1lcVqIF8",
+"5PXLJrxdYok",
+"4zqBE6SEZGc",
+"Lqh7ZX8CPgo"
 ],
 "pending": [
-{
-"id": "L7ztC0RMAtc",
-"channel": "Brighter with Herbert",
-"title": "Google Owns $74 Billion of SpaceX. So Why Leave?",
-"published": "2026-11-11T15:00:00+00:00",
-"description": ""
-},
-{
-"id": "XaiJrx-W_ec",
-"channel": "Brighter with Herbert",
-"title": "Elon Just Called a Rival's AI a \"Masterpiece\"",
-"published": "2026-11-11T20:00:00+00:00",
-"description": ""
-},
-{
-"id": "10d5IiHiz8Y",
-"channel": "Brighter with Herbert",
-"title": "Tesla Robotaxi Is Hiring In HOW Many Cities?",
-"published": "2026-11-12T15:00:00+00:00",
-"description": ""
-},
 {
 "id": "xVvBK8DTKf4",
 "channel": "Brighter with Herbert",
@@ -531,10 +510,17 @@
 "description": ""
 },
 {
-"id": "bzojC8QFsl0",
-"channel": "Matt Pocius on Tesla Stock & Money",
-"title": "Jensen Huang Is OUT. Elon Musk Wants Him",
-"published": "2026-11-12T23:00:00+00:00",
+"id": "J5CqKiLX0s4",
+"channel": "Brighter with Herbert",
+"title": "Every SpaceX Investor Needs To See This Plan",
+"published": "2026-11-14T15:00:00+00:00",
+"description": ""
+},
+{
+"id": "LzkhUN5WDqA",
+"channel": "Brighter with Herbert",
+"title": "Elon Says Hiring Jensen Would Be \"An Honor\u201d!",
+"published": "2026-11-14T20:00:00+00:00",
 "description": ""
 },
 {
@@ -542,48 +528,6 @@
 "channel": "Matt Pocius on Tesla Stock & Money",
 "title": "Bloomberg: Tesla & SpaceX Merger Deal Could Be Weeks Away",
 "published": "2026-11-14T00:13:00+00:00",
-"description": ""
-},
-{
-"id": "ox2T7IWFt3A",
-"channel": "Fundstrat",
-"title": "Tom Lee: Can NVDA Keep Its Talent Without Jensen?",
-"published": "2026-11-13T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "dN5wdyQhfuE",
-"channel": "Fundstrat Capital",
-"title": "TOM LEE: AI massacre, while impacting Granny ETF performance, is creating an attractive opportunity",
-"published": "2026-11-12T13:00:00+00:00",
-"description": ""
-},
-{
-"id": "Dch3SfJmXN0",
-"channel": "Mr. FIRED Up Wealth",
-"title": "Jensen Huang Resigns, What's Next for Nvidia, Best Stocks to Buy Now",
-"published": "2026-11-12T16:00:00+00:00",
-"description": ""
-},
-{
-"id": "OJKAH8MFL5Y",
-"channel": "Wicked Stocks",
-"title": "#TSLA BOUNCES BUT BEARISH WEEKLY REVERSAL SIGNALS MORE SELLING #Tesla #daytrading",
-"published": "2026-11-10T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "44lqe8by0xg",
-"channel": "Wicked Stocks",
-"title": "#TSLA REBOUNDS \u2014 CAN BUYERS PUSH THROUGH $385.17 OR WILL THE RALLY FADE? #Tesla #daytrading",
-"published": "2026-11-10T14:00:00+00:00",
-"description": ""
-},
-{
-"id": "BwW1lcVqIF8",
-"channel": "Wicked Stocks",
-"title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 11th, 2026",
-"published": "2026-11-10T23:00:00+00:00",
 "description": ""
 },
 {
@@ -622,24 +566,10 @@
 "description": ""
 },
 {
-"id": "5PXLJrxdYok",
-"channel": "Traders Helping Traders",
-"title": "$ALAB: The Smart Money Buy Zone That Could Trigger Another 400% Rally",
-"published": "2026-11-10T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "4zqBE6SEZGc",
-"channel": "Traders Helping Traders",
-"title": "Oracle Stock: Massive Opportunity or Debt-Fueled AI Gamble?",
-"published": "2026-11-10T00:00:00+00:00",
-"description": ""
-},
-{
-"id": "Lqh7ZX8CPgo",
-"channel": "Traders Helping Traders",
-"title": "Is Robinhood (HOOD) Stock a Buy After a 42% Drop?",
-"published": "2026-11-10T00:00:00+00:00",
+"id": "WowDtzFWpdw",
+"channel": "Wicked Stocks",
+"title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 16th, 2026",
+"published": "2026-11-15T04:00:00+00:00",
 "description": ""
 },
 {
@@ -695,7 +625,7 @@
 "x": {
 "pdicarlotrader": {
 "user_id": "1369405313439391749",
-"since_id": "2121330385963671768"
+"since_id": "2121646345844908255"
 }
 }
 }
