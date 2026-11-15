@@ -33985,6 +33985,10 @@
     "7d": {
      "pct": -3.0,
      "win": false
+    },
+    "14d": {
+     "pct": -2.73,
+     "win": false
     }
    }
   },
@@ -34005,6 +34009,10 @@
    "outcomes": {
     "7d": {
      "pct": -3.0,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.73,
      "win": false
     }
    }
@@ -35695,7 +35703,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -3.77,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -35795,7 +35808,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -1.69,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MSTR",
@@ -35832,7 +35850,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.28,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "CRWV",
@@ -35848,7 +35871,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 14.5,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "NOW",
@@ -35864,7 +35892,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.27,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "BSX",
@@ -35901,7 +35934,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -8.37,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AAOI",
@@ -35917,7 +35955,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.48,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "DKNG",
@@ -35933,7 +35976,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 2.05,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ON",
@@ -36054,7 +36102,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -8.43,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "SLV",
@@ -36112,7 +36165,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -24.12,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "OSUR",
@@ -36149,7 +36207,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.52,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "SOFI",
@@ -36165,7 +36228,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.87,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "RIVN",
@@ -36181,7 +36249,12 @@
    "video_title": "End of Week Recap - Tech Correction",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.51,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "MU",
@@ -37074,7 +37147,12 @@
    "video_title": "TOM LEE: AI downturn is hurting Technology. We believe a 'blue tsunami' is helpful to Tech/AI stocks",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 3.65,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "QQQ",
@@ -37424,7 +37502,12 @@
    "video_title": "NBIS Stock: Big Discount or Value Trap?",
    "date": "2026-11-06",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.51,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
