@@ -1,0 +1,1447 @@
+At Janice Henderson Investors, we believe working together is the way to work better.
+Like combining your portfolio plans and our in-depth strategy, your valued assets and
+our valuable insights, your vision and our mission, working in harmony to seek the right
+investment opportunities.
+Janice Henderson Investors, investing in a brighter future, together.
+Hey, this is Jeff Lewis from Radio Andy.
+Live and uncensored, catch me talking with my friends about my latest obsessions, relationship
+issues and bodily ailments.
+With that kind of drama that seems to follow me, you never know what's going to happen.
+You can listen to Jeff Lewis Live at home or anywhere you are.
+Download the Sirius Text Them app for over 425 channels of ad-free music, sports, entertainment
+and more.
+Subscribe now and get three months free.
+Offer details apply.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report, the podcast, the most
+profitable hour of the trading day.
+We record this live weekdays at 12 Eastern.
+Listen in.
+Welcome to Halftime Report.
+I'm Mike Santoli.
+Scott Wapner will join us in just moments for an exclusive interview with Altimeter
+Capital CEO and Nvidia shareholder, Brad Gerstner.
+Joining us here today for the hour, Joe Teranova, Jenny Harrington and Jim
+Laventhal.
+Let's get a quick check on the market.
+It's not far off the lows of the session, S&P 500 down about 1.2 percent.
+Under 7500, as Carl was saying, a little bit of a bid in bonds, 514 on tense NASDAQ down
+1.6 percent, semis continue to be the heavy pressure point.
+We'll have more on all of that coming.
+But first, breaking news out of the Fed.
+Let's get right to Steve Leesman with that, Steve.
+Mike Fed Chairman, Kevin Warsh, giving opening remarks at the AI and productivity hearing
+in San Francisco right now.
+He says the era of AI may be the most transformational period in my adult lifetime.
+AI, he says, could supercharge idea generation, changing the method and speed of innovation,
+which is critical, he says, to the growth outlook.
+He says it could sustain growth, quote, at a level substantially higher than the long run average.
+Warsh goes on to say AI can be highly disruptive and economic costly.
+I'll get into some of the scenarios in just a second.
+But he does go on to say AI will have important implications for monetary policy.
+That's part of what they're going to be talking about today in San Francisco.
+The Fed has begun, he says, investigating various contingencies from AI.
+So let's go through three scenarios that Warsh lays out.
+First is that economic gains are shared broader between labor and capital,
+higher long run growth and full employment.
+But there's also the possibility of substantial labor market disruptions
+where the gains go mostly to capital.
+That would mean higher unemployment, though still high growth.
+Finally, there's the scenario, I guess, possible under the first two as well,
+that AI could disappoint in terms of its returns.
+And he warns that if AI does disappoint, it could lead to an economic slowdown
+or a notable rise in unemployment.
+Mike, fundamentally, Warsh is bullish on AI.
+But you can see right there that he's looking at the risks
+that I think we're looking at every minute of every day here on this channel.
+Yeah, a ton to chew over there.
+We'll continue to do that.
+Steve, thank you very much.
+Let's now get to Scott Wilder live with our half-time headliner, Brad Gerstner.
+Scott, over to you.
+All right, Mike, I appreciate that very much.
+Brad, thanks so much for being with us today.
+Obviously, we have a lot to discuss.
+We'll get to the anthropic IPO in just a moment.
+But I know you know where we're going to start.
+And that's on Nvidia.
+You're a large and long-time shareholder.
+Jensen Wong is a friend of yours.
+The FT reporting that he's discussing a return to Nvidia with Silicon Valley allies.
+Are you one of the allies that he's discussing that with?
+He's not discussing it with me, Scott.
+And I hear this talk about war rooms and secret signal channels.
+And if they exist, I'm not in them.
+You're not?
+I'm not.
+With that said, I think everybody out here can agree,
+and welcome to Silicon Valley.
+Everybody out here can agree that Nvidia is a critical national treasure.
+Both Republicans and Democrats know that it's critical
+to our national economic security, about three quarters of our GDP growth this year,
+and our national security.
+But we also know nobody is above the law.
+We know Jensen's made some bad personal decisions,
+and the question on the table is, is there something more than that?
+I wrote the letter to the board last Friday
+because I did not want the board to be pressured
+by anybody politically or otherwise to make a quick decision.
+I made no demands of the board.
+There are no demands to bring Jensen back.
+Immediately, there are no demands that they need to bring it back ultimately.
+What I reminded them of is they get the option to take their time, be deliberate,
+gather all the facts, and then make the decision that's in the best interest of shareholders.
+And so that's where I stand.
+I don't know the answers.
+I don't know the facts.
+I read everything that everybody else does, including yourself.
+I think we need to withhold judgment, don't make rash decisions,
+and the board simply needs to do its job,
+follow the facts, and make the decision as whose best to lead Nvidia forward.
+Have you spoken to him since all of this transpired?
+Yes, of course.
+I texted my friend and said,
+I'm really sad as to what's happened.
+Take the time you need to get it right with the family.
+His wife, Lori, is a friend.
+His daughter, Madison, is a friend.
+And I feel really terrible for them.
+And his response was very short.
+And he said, I'm deeply sorry about what I've done.
+You referenced the letter that you and Gavin Baker jointly sent to the board
+in which you call for a, quote,
+minimum acceptable standards the board owes shareholders.
+That being a, quote, slow measured and deliberate process
+regarding the future leadership of Nvidia
+that leaves all options on the table,
+including the potential return of Jensen Wong.
+Have you spoken to the board since the letter was sent?
+I had some acknowledgement from the board
+that they received the letter and a brief exchange,
+but nothing more than that.
+So you said in the letter that he earned the right
+for a deliberate process that avoids any needless rush
+to replace him before all the facts are known.
+What do you say to those who suggest he forfeited that right?
+Because he broke the very core corporate principles
+that all CEOs are supposed to adhere by.
+He misled the board.
+He misled legal team.
+The affairs are obviously well known,
+not just with the customer, but with a direct report.
+There was another report with a subordinate.
+You've been around a lot of companies and a lot of boards.
+How do you respond to that?
+Yeah. So I mean, listen,
+I take these things really seriously.
+I don't know that he misled the board
+and I don't know that he misled his lawyers.
+You suggested he did.
+There are reports of that,
+but let's just stipulate that as true, Scott,
+that those things are in fact true.
+I believe the board needs to take its time,
+collect all the facts and get this right.
+When you have the president of the United States,
+within days, suggesting you should bring on Tim Cook,
+when you have the Treasury Secretary over the weekend
+saying he expects answers within 10 days.
+When I hear Democrats and Republicans
+on the banking committee saying,
+directing things toward the board,
+you can imagine the extraordinary pressure
+that board is under politically
+to make certain decisions.
+That should not decide what happens here.
+The board has the right and the responsibility
+to take their time.
+And yes, if the facts led them down the path
+of concluding that there were no violations of the law,
+they may Scott say,
+listen, the personal transgressions
+were sufficient to change course
+in terms of the leadership of the company.
+I don't know. I said in the letter,
+it is their prerogative,
+but they need to take their time
+and then explain to shareholders
+what their decision is
+and why they made the decision.
+It makes it seem, though,
+from the letter that you say
+that the board owes shareholders something,
+isn't the board's first responsibility
+to protecting the integrity of the company itself?
+I think both the culture of the company,
+the potential risks from all this,
+the legal risk, the regulatory risk,
+and aren't those things aligned with shareholders
+rather than at odds with them?
+Yes, I don't think those things
+are mutually exclusive.
+I mean, they have mutual stakeholders.
+Shareholders are one of the stakeholders, right?
+You'll notice that I tweeted last week
+my support for Colette Cress in the interim here.
+She's very capable to run this company.
+Nothing. Listen, the company and its leaders
+got up this morning
+and did what they did a week ago
+and the week before that, right?
+They designed the best chips in the world.
+They fabbed the best chips in the world.
+They delivered them to the best
+and most important customers in the world.
+And I'm quite confident that the very capable leader,
+which bought leadership,
+which by the way has been totally diminished
+in all of the reporting on this,
+this whole rock star reporting
+that Jensen had 60 reports
+and the company can't possibly continue on without him.
+I don't believe that's true.
+I don't believe Jensen believes that true.
+With that said, he's an exceptionally visionary leader.
+He built the company over 30 years
+and the minimum he deserves
+is to have a full hearing by the board.
+And if the board concludes,
+based on the full hearing
+that he's not the guy to take it forward,
+so be it, give that answer to Cheryl.
+You posted on X after his exit.
+Silicon Valley is not run by 10 rock stars.
+Founders are essential,
+but the great ones attract legends in their own right
+who compound the magic.
+Thousands of people driven by a mission
+bigger than all of us
+and nowhere is that more true than Nvidia.
+That reads at odds with what your letter suggests
+in the comments that you made after that.
+It only reads at odds with the way people
+are spinning my letter, right?
+They want to spin the letter
+as I'm a tech bro
+and I don't care what Jensen did
+and bring Jensen back.
+That is not what the letter says.
+I showed my support for the leaders of the company
+because they deserve our support.
+This is one of the most important companies
+in the country
+and we have great leaders across the board
+in that company.
+I wanted them to know
+that shareholders like me support them,
+have confidence in them.
+At the same time, I wanted to remind the board
+that they don't need to feel pressured
+to a rush to judgment
+to replace Jensen.
+Do you think they rushed to judgment?
+I don't know.
+I honestly don't know the answer to that, Scott.
+I have confidence in the board
+because I don't have any reason
+not to have confidence in the board.
+However, if I put myself in those shoes
+and I were watching what they were watching last week
+from the White House, from Congress,
+and the pressure that was being exerted,
+I worried that they could succumb to that pressure,
+name somebody very quickly
+because they were feeling that pressure,
+then makes it more difficult
+to have a full and fair hearing.
+Do you have confidence in Collette Cress' ability
+to run the company?
+For certain, permanently?
+No, I mean, listen,
+she I'm sure would be one of the candidates, Scott.
+I don't think she's raised her hand
+to my knowledge and said,
+I want to run the company on a permanent basis.
+Listen, Jensen was an extreme visionary
+in the industry.
+Nobody questions that.
+I think the company is very capable
+making the trains run on time day to day.
+I said in that post for 2027 and 2028,
+it's all baked, right?
+We know what the company knows what it's delivering.
+The fab schedules all all baked.
+The delivery schedules all baked.
+So that execution for the next six quarters
+I'm not worried about.
+What I worry about if I were on the board
+is what's the vision to take us beyond that?
+And that's where Jensen had extraordinary vision
+and also extraordinary relationships in the channel
+to help deliver the vision.
+What did you make of what the Treasury Secretary
+said yesterday on one of the Sunday shows
+if you saw it or not called for a dramatic shake-up?
+Those were were his words
+and they should bring in an outsider as the next CEO.
+Well, you know, when I heard that from the Treasury Secretary
+who I respect a ton as you know
+and I have a relationship with,
+I thought to myself,
+maybe he knows something I don't know, right?
+Because it was a much more aggressive statement
+than I would make based upon the facts that I know.
+But I'm humble enough to know that
+the Treasury Secretary of the United States
+may be in possession of more facts.
+We need to hear those facts, right?
+And so if the facts suggest that he is no longer capable
+of objectively running the business
+aligned with our national security interests,
+then of course I would agree with the Treasury Secretary.
+But based on the limited facts,
+I know that wasn't clear to me.
+He went further.
+He said, I want to keep coming back
+to what was the culture at NVIDIA.
+Were they pressing these seemingly illicit sales
+to goose their revenues and their earnings?
+Yeah.
+Are they concerned?
+I mean, he asked the question
+but it kind of insinuates the answer, right?
+And so the answer from my perspective
+is I have no idea, you know?
+Just this morning,
+the Treasury Department and Commerce
+issued a new framework, right?
+A new framework for chip distribution
+around the world where they basically said,
+we're going to slow down deliveries
+or we're going to require additional levels of licenses
+if you want to export to Singapore
+or Malaysia or Indonesia, okay?
+So we issue new regulations this morning
+which suggests those regulations have not existed
+for the last six to 12 months.
+That may have been what they wanted the regulations to be
+but you wouldn't issue new regulations
+if those existed.
+So again, I just think everybody needs to take a breath.
+We need to actually have the hearing
+in front of the Senate.
+Jensen needs to answer these questions
+and then we need to, you know,
+object, the board needs to objectively weigh those things.
+You want him to publicly testify?
+I think that Jensen is going to be called
+to publicly testify
+and I don't know any reason that he wouldn't.
+It's interesting.
+The Wall Street Journal, one of their columnists
+wrote the following of how, you know,
+many out here are coming to his defense,
+the save Jensen letter, et cetera.
+For certain tech leaders, Jensen's departure
+means losing a valuable personal relationship
+with a man capable of making or breaking
+their artificial intelligence ambitions.
+It goes to the suggestion that the reason
+all of you are so vocal in your support
+is because either you're A, large shareholders,
+or B, he's the ticket to a large part of this whole story
+that you all have so much money riding on.
+What's your response to that?
+I mean, listen, it's hard for me to paint the counterfactual.
+I can tell you the truth, which is, you know,
+a lot of these people are post-economic,
+care deeply about the country,
+and believe that AI is critical
+to our economic and national security.
+But I can also understand the skepticism
+of, you know, folks back where I grew up
+in rural Indiana to say, oh, that's BS.
+You're just, you know, you're just propping up the guy
+who's going to make you all rich.
+I'm saying there is nobody above the law.
+I did not sign the online letter,
+not because I don't respect all of those folks,
+but I don't think it's in Jensen's best interest
+to come back tomorrow.
+A lot of well-known names have signed that letter.
+By the way, and I respect their right to do it.
+I can also understand that argument,
+but from my perspective, I would love to see Jensen
+take the time with his family,
+get it right with your family,
+give the company the time it needs
+to fully investigate this,
+give Colette and the team time
+to, you know, to deliver earnings tomorrow
+and to keep doing the things that they're doing.
+So I don't necessarily believe
+that that's in the best interest of Jensen or the company.
+And so my letter was very different.
+It didn't demand a comeback today,
+and it didn't even, you know,
+say that you need to bring him back in the future.
+It said, follow the facts.
+Do you feel betrayed in any way
+as a shareholder and as a loyal supporter of the company?
+I feel deeply disappointed and sad.
+And, you know, this isn't the first time, Scott.
+You know, I've been around 26 years doing this.
+It's not the first time I've been deeply disappointed and sad.
+You and I had another episode where Jeff Smyzik,
+Bribed, you know, United Airlines,
+Bribed the New Jersey Port Authority in 2015.
+I was a shareholder in United Airlines.
+It was deeply disappointing, right?
+And, you know, they had to make a bunch of changes there,
+including bringing Scott Kirby and the incredible president
+at the time of American Airlines to lead that company forward.
+But we took the time to get it right.
+And so all I'm saying in this situation
+is Jensen is an incredible person
+who's made definitely a big personal mistake.
+And we're going to find out if there's anything more.
+The people who are rushing to judgment
+and saying that he has violated the law
+or doing other things,
+like, I think that's as bad as those saying
+he hasn't done anything wrong.
+Are you thinking about other names
+that you would like to see as CEO if he doesn't come back?
+I mean, as you know, I'm friendly with all the people
+who would likely be, you know, replacements to Jensen.
+But right now I'm not thinking about those things.
+I'm not talking to those people, you know, right now
+I think I'm sitting back gathering the information
+just as everybody else is who's watching.
+Listen, I want to see NVIDIA successful
+because NVIDIA's success leads to America's success.
+They're not the only one,
+but nobody doubts that they control
+the vast majority of the market share in AI on a global basis.
+The reason we're ahead of China largely due to their chip stack.
+So those cheering for the demise of NVIDIA,
+from my perspective,
+are cheering for the demise of our economy,
+are cheering for the demise of our national security.
+That's not anything we should be cheering for.
+If Jensen's not the right guy to lead the company forward,
+I hope he's the first to raise his hand
+and recommend a replacement.
+What do you make of a report that Rene Haas from ARM
+is a possibility?
+I don't know that the board has even started down that path.
+So when you say he's a possibility, who's possibility?
+But of course, Rene is an incredible leader.
+He used to work at NVIDIA for a long time.
+He's leading ARM.
+He's building a new CPU at ARM.
+He's, you know, he's very talented.
+And he, among others, could be capable of leading this company,
+which again, gets me back to this whole notion, Scott.
+This whole idea that there's only one person
+to lead anything in Silicon Valley, you know.
+We have too much hero worship of some of these folks.
+And I think many of these folks would be the first to say it.
+They're incredibly talented.
+But legends recruit legends.
+And I know a lot of the other people that are at NVIDIA.
+It is an incredibly capable team.
+We'll hear what they have to say on the earnings call tomorrow.
+But I'm not worried about their ability to deliver for America
+over the course of the next few months
+while we figure this out with respect to Joe.
+There is, though, conversation out here that,
+and it speaks to how founders are viewed out here
+in almost a reverential way,
+that they should be given benefits of the doubt
+far beyond what a typical CEO would.
+Do you share that view?
+I don't, I actually don't think that's the end,
+that's not my interpretation.
+Let me give you my interpretation.
+I actually put a higher multiple on founder-led companies.
+Because founder-led companies are more courageous generally
+than corporate-led companies.
+Let me give you an example of that.
+You remember, October 22, I write an open letter
+with respect to Metta, right?
+And I was saying to Mark Zuckerberg,
+I think now is the opportunity,
+you know, cut back on reality labs,
+double, triple down on AI.
+You know, get fit, show the way forward.
+Mark Zuckerberg is one of very few leaders
+who would have had the courage to do what he did.
+He wrote a letter in January, he said,
+flatter is faster, leaner is better.
+I first gave you the Heisman, though, on that.
+Okay, but, you know, ultimately,
+the stock went from $90 to $650, and look what he did.
+He totally transformed that company around AI.
+My point is founders can do that.
+They have founder authority.
+They can lead in a way that's very hard
+for a corporate CEO to do.
+Not impossible, not impossible,
+but I think it's rightful that, you know,
+the reason we like great founders here
+is because great leaders matter,
+just like a great quarterback matters in the games yesterday.
+As you kind of reassess the road ahead
+for NVIDIA as a business,
+and you laid out over the next couple of years
+sort of everything's kind of baked,
+Dan Ives, well-known analyst says,
+Jensen Wong was worth a trillion dollars
+in market cap to NVIDIA.
+Wondering sort of what you make of that
+and how you think about what the road ahead
+is going to look like for this company.
+I mean, it's taken a trillion dollars off in the market cap,
+but remember, Scott,
+I think it's down 36% top to bottom so far this year.
+Remember, Jensen led that company.
+It's up 18X, 18 times over the last three years.
+I don't know another company in the history of capitalism
+in the public markets that is up 18X
+on a major market cap business like this one is.
+So a 30% retracement from the top,
+I came on May 28th on your show,
+and I said the AI trade is overdone.
+We pulled back on our exposures.
+We're taking profits because we think there's 20% downside
+in the AI trade.
+I came on on July 2nd and said the same thing.
+So is it a surprise to me
+that we had a 20% downside in the AI trade?
+No, the rest of it is due to the Jensen thing,
+but if you get the right leader
+and the right leader may be Jensen Wong,
+we'll find out the facts,
+but if you get the right leader back in place here,
+I'm quite confident that they're not going to miss a beat
+in leading us forward.
+Have you sold a share of NVIDIA stock?
+Of course I have.
+I told you I took all my exposures down.
+Including NVIDIA?
+All my exposures came down.
+I went from large at the start of the year to small.
+That means all of my exposures came down.
+Have you sold any more since this all happened?
+Yeah, I don't know the answer to that.
+You don't know whether you've sold more NVIDIA
+since this happened?
+As part of our overall portfolio management,
+we're de-grossing the fund,
+so if everything gets de-grossed,
+but I don't know the net buys and net sells.
+The changes that were made this morning from commerce,
+is that a negative for NVIDIA's business in any way?
+And how are you thinking about the issue in general?
+Listen, I think there have been in the last week
+three bills introduced to further restrict
+the diffusion of American technology around the world,
+the diffusion of American chip technology around the world,
+then we have commerce and treasury
+with their new regulation this morning.
+All of that has to be perceived as a headwind
+to the AI semi-strained.
+Competitors, what do you think this means for AMD and Broadcom?
+I don't know what your current positioning is
+in those stocks at all.
+Do you own either one of those names?
+Definitely do not own.
+If we do, it's like one or two percent position.
+Okay, there was a note over the weekend
+from a Wall Street firm that said a year ago,
+it would have taken six to 12 months to onboard
+and start running models on AMD GPUs.
+Now they can onboard new models on AMD GPUs in just three days.
+Is this a benefit to companies like AMD, Broadcom,
+and competitors to NVIDIA?
+Well, I mean, I think that they at first traded up
+when NVIDIA traded down
+because I think the perception was
+that they're going to benefit from this.
+But ultimately from my perspective,
+if the entire AI trade comes under pressure,
+like they're all likely to go down together,
+make no mistake about it.
+Everybody knows NVIDIA's chips are out in front,
+but AMD has produced a good chip
+and yes, it was at the anthropic investor day
+that I think it got leaked out of there
+that they used their own clawed technology
+to build the integrations with the GPU kernels
+to optimize the AMD GPU kernels over a weekend
+doing something that here before
+would have taken six to nine months.
+So that definitely is a penetration of the CUDA moat
+that people had been talking about,
+but I don't think that was the only moat that NVIDIA had.
+You have both Amazon and Google, if I'm correct.
+Not Google, we own Amazon.
+Okay, so Amazon.
+So what's the impact for tranium chips and even TPUs?
+You don't own the stock,
+but you still must have an opinion
+on what it means for the competitive landscape
+in chips like those.
+I mean, listen, I had one of the reasons
+I had come on your shows
+and said that we're taking our exposure lowers.
+I didn't think we were going to be able to build
+what was then the consensus forecast for 2027,
+which was 43 gigawatts of compute.
+That's what was priced into the semi-straight,
+including TPUs, including tranium,
+including the custom Asics out of Broadcom.
+And I said, I'll take the under on that.
+At a public event, the all-in summit,
+I said, I think it's probably going to be closer to 30.
+And so that's kind of where I was then,
+and that's where I am now, Scott.
+So I think the consensus is kind of coming around
+to that point of view,
+but that's where I've been really since June.
+So Anthropoc is a major customer for NVIDIA.
+NVIDIA is an investor in Anthropoc,
+which leads me to the IPO.
+Do you see any fallout in that regard
+before we get to the actual listing,
+the pricing, and your positioning there?
+I mean, listen, if you would have told me a few months ago,
+if you would have said, Brad,
+the couple of weeks leading up to the Anthropic IPO,
+we're going to have a major election
+that totally changes the guard
+and brings into question
+whether or not data centers are going to get built.
+The semiconductor index is going to trade down 60%.
+And then the week before,
+Jensen Huang's going to get pushed out
+as the CEO of NVIDIA.
+I would have told you that's a very, very bad backdrop
+for the Anthropic IPO.
+Here's the crazy thing.
+Notwithstanding that fact,
+they have done such an excellent job
+presenting this company.
+They're in such an excellent position
+on the financials,
+which I'm happy to get into.
+We will.
+That folks like me
+are making this a major order.
+In fact, our order book on Anthropic,
+we're putting in for $5 billion.
+That's more than 5x the largest order we've ever placed
+in an IPO.
+I think this is a cornerstone
+compounder for a long period of time.
+It's where the trade is going.
+I think they're going to benefit the most.
+And so we want to continue
+to be a major shareholder event.
+All right.
+So that's news that you're making this morning.
+$5 billion.
+That will become your largest position then.
+No question about that.
+I mean, fingers crossed,
+if we get the allocation that we want the IPO
+and are able to buy what we want in the aftermarket,
+it would be our largest position.
+You said after the midterms
+that you thought the IPO might price
+at the lower end of the range.
+Are you rethinking that
+based on what you're hearing about demands?
+Well, I mean, I think you saw
+at the high end of the range
+was $1.4, $1.5 trillion.
+I expect that it,
+you know, if you said to me
+they wanted to squeeze the last bit
+out of this IPO,
+then I think it could price
+closer to $1.75 or $1.8.
+I don't think that's where they'll take it.
+That would be risky.
+I think it's more likely to price
+at $1.4, $1.5 trillion.
+What do you make of the run rate increase
+from September to October?
+Some $10 billion.
+Where is this company truly going?
+I think we're in such early inning, Scott.
+And I know, you know, people will say,
+oh, they're talking their book
+and they just want to own this stuff
+and buy this stuff.
+But listen, to me, this is Google 2005.
+I was there in 2000.
+Remember, in 1999, out here in Silicon Valley,
+we had 20 search engines.
+Barry Diller was trying to buy Lycos.
+Everybody wanted to get Excite.
+They wanted to get Yahoo.
+They wanted to get AOL, et cetera.
+Nobody had even heard of Google.
+Those 20 search engines were gone by 2004.
+And there was one left standing
+that captured 99% of all the upside
+ever created in the history of search.
+And that was Google.
+I think this is that 2005 moment
+where Anthropic and OpenAI
+are separating themselves dramatically from the pack.
+I think they will capture
+the lion's share of the economic value
+where major shareholders in both.
+Obviously, I believe that to be true.
+We will find out if it's true.
+But that's why I want to double and triple down
+on our bets there.
+Jensen Wong was a huge proponent of open source.
+Yes.
+So if you take the biggest,
+one of the biggest cheerleaders, so to speak,
+off the field for open source,
+is that a benefit to Anthropic and OpenAI?
+You know, listen,
+Silicon Valley is full of people,
+including myself, who love open source.
+And so I don't think that him off the field
+means that open source isn't going to
+continue to compete very effectively.
+I do worry about open source's ability
+to scale and compete but cut for natural reasons.
+Network effects, scale advantages.
+The economics of the frontier labs are such
+that they can do things like offer Haiku and Luna,
+which are very cheap models to enterprises,
+which really undermine the main reason
+people are using open source,
+which is that they were less expensive.
+So I don't think it's just
+Jensen's off the plane,
+Field Open Source died,
+Jensen's on the plane for Field Open Source
+does great.
+I think it's far more nuanced than that.
+So the midterms,
+what do you think the biggest fallout's
+going to be from the results
+and how have you reacted in your portfolio from that?
+If you've talked me through sort of
+taking your exposure down,
+were you taking it down further around the election?
+Our exposure heading into the election
+was the lowest it's been in probably a few years
+outside of April 1st of the tariff trade, right?
+And why?
+It wasn't because I had like a hugely negative
+call on the market,
+but everything was in the too hard bucket.
+There's just where a lot of unknown unknowns
+and I didn't think the market
+was appropriately pricing those things in.
+So for us, that means,
+you know, people oftentimes,
+you know, Scott will do the show
+and then people will be like,
+oh, I can't believe Gersoner.
+He left everybody as bag holders.
+You know, he sold this or he sold that.
+I'm in the business of investing
+in early stage companies,
+in the best growth companies in the world.
+And in the public book,
+I have a product called a hedge fund.
+And my job is to capture more of the upside
+and prevent less of the downside.
+And so, of course, and I come on your show,
+I tell people, you know,
+whether they choose to, you know, follow or not.
+They were mad at you about core weave.
+Yeah, because I came on your show
+and I said, you know,
+that we were taking down our exposure in May of 28.
+And I said, you know,
+I think the AI trade is overdone.
+I think it could be off by 20%.
+That includes everything, right?
+So the fact that they were mad at me about that,
+I think people should just listen.
+I'm one of the few guys that actually comes on here
+and tells you what we're doing.
+And so with respect to how we feel today,
+going into the election,
+things were in the too hard bucket.
+We continued to size down.
+I just told you, we're making one of the largest orders.
+Notwithstanding all of that concern,
+the largest orders in the history of altimeter
+is into the Anthropic IPO.
+And if we're lucky enough to be a major partner,
+a page one, you know, partner to those guys,
+then our exposures are going to go up by a fair bit
+and it's going to be anthropic.
+And then we'll let these cards get turned over, Scott.
+You know, and as they get turned over,
+I reserve the right to take our exposure up
+or take our exposure down based upon what I see.
+Are you rethinking the trajectory of data centers
+in this country after the results of the midterm?
+What that could mean for CAPEX,
+for the hyperscalers, some of which
+you're obviously invested in?
+Yeah, well, one thing I know is absolutely true,
+which is the number of tokens of intelligence
+that the world wants to consume is going parabolic.
+What we're doing with agents now,
+both internally and externally,
+I think that OpenAI is now doing 25%
+of the total volume of Google searches every day.
+That consumes a lot of tokens.
+So the world wants to consume a lot of intelligence,
+that requires a ton of compute
+and a ton of data centers.
+That's not going away, that trend will continue.
+But you have to take into account
+what's going on in Texas, what's going on.
+So we have regulatory issues
+that we have to take into account.
+We have capital issues that we have to take into account.
+That's why I said multiple times over the summer
+that I thought we were going to build
+five to 10 gigawatts less than forecast.
+I wasn't cheering for that.
+I want to build more compute, not less.
+But it's pretty obvious to me
+that that was going to be the case.
+As you think about the arms race,
+my last question,
+are we in a better or worse position today versus China?
+With Jensen Wong as not the CEO of NVIDIA
+and the new restrictions that we just saw from commerce
+and more that theoretically could be coming.
+Let me answer that on two dimensions, Scott.
+The first dimension is this.
+The president's top three priorities when it comes to AI
+is are we ahead of China?
+Are we ahead of China?
+Are we ahead of China?
+Right.
+For those who are deeply embedded
+in the national security apparatus of the United States,
+they know how critical this is
+to our national security.
+It's no longer about missiles.
+It's no longer about ships.
+It's about AI.
+And so we are ahead
+and I think we're extending our lead.
+Now, why are we extending our lead?
+In part because we're making it harder
+for the Chinese to distill our models.
+You've heard that out of Dario.
+You've heard it out of Sam.
+Various estimates about what percentage
+of their capabilities are derivative of ours.
+Is it 60?
+Is it 80?
+We know it's a lot.
+Okay.
+So by making it harder,
+their models will fall further behind.
+We're also releasing our models less quickly.
+So the United States has passed three prongs
+of its AI regulatory framework.
+You can't release a frontier model
+without it approved by commerce and Casey.
+Number two, you have liability.
+This is the White House accord on superintelligence,
+internal audits, external audits,
+and board oversight.
+So a big safety regime with liability
+if you release it too soon.
+As a result of those things,
+you know, the intelligence gap
+between the unreleased models at the labs
+and the release models is growing,
+which means it's harder to copy the homework.
+So I think we're extending our lead.
+Let me answer a different question
+which I think is core to this,
+which is there are obviously two groups in Washington.
+There are some who believe philosophically
+that we should not have any engagement with China,
+that we should decouple from China,
+and the world is a safer place
+when we're on an adversarial footing with China.
+There's another group mostly led
+by the business community,
+the Tim Cooks, the Elon Musk,
+the Michael Dells, the Jensen Huangs, etc.,
+and the president, who believe that engagement
+leads to more global safety.
+Engagement leads to more prosperity.
+The president is meeting with president Xi four times this year.
+Never happened in the history of the United States, okay?
+That is a policy of engagement.
+It appears that's what he wants to do.
+You've heard him described as dealmaker in chief.
+I think he wants to win, but he wants to engage.
+And so do I think the world is a better place or less?
+I think it comes down to what philosophical group are you in?
+I happen to think that engagement is better,
+but I want to win,
+and I don't want to make it easy on the Chinese
+to keep up with the U.S.
+Do you think we will?
+It's an infinite game.
+The game between us and China is infinite.
+It will play out as long as I'm on the field.
+And so I don't think there's winning or losing.
+I think it's either you're ahead or you're behind.
+Today we're ahead and we're extending our lead.
+Okay, we'll leave it there.
+And I so much appreciate your time.
+Brad Gerstner, thank you very much.
+Thanks for having me, Scott.
+We're not done here.
+We'll be back later this afternoon with Aravind Srinivas.
+He is the CEO and the co-founder of Perplexity.
+We'll get the founder's perspective on all of this as well.
+And then look at that lineup we have coming up tomorrow as well.
+Arthur Mench, the Mistral CEO, Vinod Kosla.
+He is a venture legend out here.
+And then, of course, Andy Jassy, the Amazon CEO.
+There's so much to talk to Mr. Jassy about as well.
+I'll see you later this afternoon.
+And then we'll see you again tomorrow with those big interviews.
+Mike, back to you.
+All right, Scott.
+Look forward to all that.
+Thank you.
+Up next, back to the committee and today's market act,
+which includes Nvidia trading lower to a new
+interday load during that interview.
+Have time back in two.
+Get started at VantageScore.com.
+Have you ever noticed how every new AI tool asks you
+to explain your business to it all over again?
+Google Workspace with Gemini skips that.
+You get Google's AI built right into the premium versions
+of Gmail, Docs, Sheets, and more.
+No new tools, no extra logins,
+just one subscription that gives you personalized AI
+right inside your actual workflow.
+Make work less work.
+Try Google Workspace with Gemini
+at go.gle slash workspace with Gemini.
+Welcome back.
+We have some news just crossing on Nvidia.
+Let's get to Seema Modi.
+Seema Mike, I'm here hearing from one source
+that Nvidia's board is not considering
+bringing Jensen Wong back as CEO.
+Again, that's according to a source familiar.
+I'm told the board right now is focused
+on the investigation at hand and is not in discussions
+to bring Jensen Wong back as CEO.
+That is despite growing calls online and this petition
+and that support that is being built around Jensen Wong.
+Again, I'm being told that the board
+is not considering bringing him back, Mike.
+Fascinating Seema.
+Thank you very much.
+Let's bring in our halftime committee,
+Joe Teranovic, Jenny Harrington, and Jim Leibendal.
+Joe and Jim both own Nvidia.
+Welcome to you all.
+We heard what Brad Gerstner had to say,
+what Seema had to say.
+And I did mention that Nvidia
+was trading off through the interview, Joe.
+You know, Gerstner, it was not a strident call
+that Jensen Wong must be reinstated.
+It was much more nuanced in a sense of,
+look, let's take a beat and consider all options,
+which would include him perhaps coming back.
+But there's the question of who's going to lead the company
+and then the question of the company's
+relative strategic position, given that all it's gone on.
+And the market is doing a rethink
+of really the size of its ultimate opportunity, it seems.
+Yeah, and I think the question is, who is the market?
+You know, who is addressing Nvidia
+and where it's currently pricing?
+And I still believe it's in the hands
+of a lot of quantitative models,
+which are just exacerbating the downside.
+The fundamental analysis on Nvidia
+is really complicated right now.
+You could look at the valuation
+and we all acknowledge it's incredibly cheap.
+But does the market care about that?
+Because look at the other side of that.
+The most expensive Mag7 is where the capital
+is actually flowing towards, and that being Apple.
+So it continues to be an incredibly complicated story.
+At some point, like all stocks
+in the history of complicated stories in the market,
+it'll find a bottom tomorrow night.
+We'll get the opportunity to hear from Collette Kress,
+who I am more than confident is a very thoughtful
+leader of the company.
+She's been the CFO since 2013.
+She certainly knows the numbers pretty well,
+but it doesn't really remove the complexity.
+And I think that's the biggest challenge.
+Do we know the answer to the fact
+have in fact the Chinese been delivered
+any of the advanced AI chips?
+We don't have an answer to that.
+Just no clarity.
+And I think that's what really the dominant headline is.
+And Jim, we will get the numbers tomorrow.
+We'll get whatever guidance they're comfortable giving.
+They'll also be allowed to buy back stock
+after the report earnings.
+That's probably not insignificant,
+given where the stock is and their buying power.
+But I guess almost no matter how you slice it,
+whether it was illicit trafficking of trips
+into China or not, the demand pool is now narrower.
+In other words, if the government is saying
+we can't have these clouds in Southeast Asia
+that Chinese buyers use to access the Nvidia compute,
+all the rest of it,
+it just seems whatever you thought it was a month ago,
+it might be smaller now.
+And now it's the question of
+has the market recognized that in the valuation?
+Right.
+So if you're a long shareholder as I am,
+and Joe, I agree with you that the quants are having a field day here,
+but let's talk about the fundamental question of
+how bad could this be for the earnings picture at Nvidia?
+Let's take the worst case, Mike.
+I mean, that's always a good thing to do
+if you're long the stock and it's going down like this.
+What is the worst case?
+Let's use the higher number of the range
+of how much sales go to China,
+including indirect illicit sales
+that has been estimated up to 20%.
+Okay, next year we're projecting
+almost 700 billion in sales for Nvidia.
+Let's say 20% of that, 140 billion.
+Let's take a really ridiculous analysis here
+and say that 100% of that is profit.
+It's not, right?
+But let's just say 140 billion comes off of earnings.
+Net income next year was going to be about 450 billion.
+Now it's 310 billion.
+That's a lot of money, guys.
+It's a lot of money.
+And what I'm saying in this is that
+a stock that's down as much as it is,
+has lost over one and a half trillion dollars,
+is now pricing in a worst case
+that seems to me far worse than any worst case
+I can really realistically come up with.
+It's down to like two trillion dollars, Jim.
+Yeah, so I consider myself not a current shareholder,
+but a potential future shareholder.
+But a lot rides on that.
+And so first I think we need to acknowledge
+that Jensen made a horrible professional decision.
+Right?
+So it's not just personal.
+And in that, he incinerated over a trillion dollars
+and he incinerated all of his credibility.
+So I'm not sure it's that the market cares
+or doesn't care about the current valuation.
+And I don't think it's really, Jim,
+just about the current earnings
+and using your worst case scenario.
+Because what he also did was he said,
+he said, you know, he said,
+there are 70% earnings throughout the head.
+Okay, who knows?
+Right?
+You have no credibility left.
+You've sacrificed all this,
+like for your own moments of personal pleasure, disgusting.
+Not that I'm judgmental, but I am.
+And I am on a professional level
+because you don't do that
+when the credibility of your firm
+that supports 50,000 employees is on the line.
+I would never do that.
+And I have 10 people's professional lives
+on the line for me.
+But the other thing that he's risked
+is the entire ecosystem.
+And if you look at that circularity of financing chart
+that goes around on Twitter a lot and out there,
+you see the tentacles of circular financing everywhere.
+What happens if those start to retract,
+which I think they are?
+How does the ecosystem get impacted?
+So I think there's a much longer time horizon
+before we know what earnings really are going to be
+and what things really look like in this.
+Now, if we get to that point
+and they've got a great new CEO,
+which I think there's a very good chance of,
+and we have proper visibility to earnings next year,
+then that's a place where we should enter
+because there is no contesting
+that there's 42 or 49,000, whatever it is, employees
+who are super talented
+and they're excellent at operations
+and supply chain and technology.
+Like there's amazing people there
+and they have the best technology.
+So I think there's a chance
+that we invest in one day.
+But Mike, if you don't mind, I want to say one other thing.
+At human hill, we have something that we call the GE Parable
+and for years back in 2013,
+I would say, oh, if GE ever gets to 13, I'm going to buy it
+because I don't have a 5% dividend yield.
+And my partner Greg would always say,
+if GE is ever at 13, you're not going to want to buy it.
+And so I'm sitting here in this moment saying,
+like, I think I'm going to want to buy in video one day.
+And I hear Greg in my head saying, yeah, you may not.
+You may not.
+If it gets to the price you want to pay, you may not.
+That's often the way, right?
+I mean, it's because things actually serve a general feeling though.
+Aren't most people that don't own NVIDIA,
+aren't they looking at this as a potential opportunity down the road?
+It's just ultimately when you want to step in.
+I don't know.
+I mean, I have a client right now who's overexposed.
+I have tons of clients who are overexposed outside of Gilman Hill
+and the reason being it's overexposed to NVIDIA shares.
+Yeah, but what I'm saying is if you do not own NVIDIA.
+Okay, but I would have thought they'd say,
+hey, if I sell it now,
+my capital gain bill is so high I don't want to.
+Right.
+Even those long-term shareholders are saying like,
+I think I should get out.
+If you don't vanguard 500, you still have a 6% position.
+I would just say, you know, what you just said is very rational
+about things can get worse than what I was putting forth
+as the worst-case scenario.
+I think in moments like this, just like on the upside,
+the negativity can go a little too far.
+For sure, which may be the opportunity.
+Which may be the opportunity.
+So without trying to gussie this up too much,
+I would say there's a couple of things
+that I would just lightly push back on your worst case
+than my worst case.
+One, as Brad Gerstner aptly pointed out,
+the next six quarters really are baked in.
+I mean, if you're going to cancel your NVIDIA chips
+in the next six quarters and you're building a data center,
+you're never going to get them back.
+I mean, the company is going to remember that
+and hold it against you.
+The second thing I would say from a sentiment point of view,
+because sentiment does matter here
+if my worst case is not worse enough,
+you know, anthropic coming public,
+assuming it does this week,
+is a shot in the arm for the AI trade.
+It's 60, 80 billion dollars of new capital it comes in.
+Where's that new capital going?
+Most likely a large portion of it is to the chip system,
+whether it's NVIDIA, Broadcom, or whomever.
+But more than anything,
+it shows that six times over subscribe
+that there is a lot of appetite still for this trade.
+I would say that 60 or 80 billion
+in the face of a trillion plus just being incinerated,
+it's a drop in the bucket.
+It's not really that much.
+That's not apples to apples.
+Market cap versus sales.
+I'm just saying like there's a, you know,
+it's a big area and I think,
+I don't think it's that much.
+Sales, we'd have a different market cap
+all the time.
+One of the things that I think has struck a lot of investors
+and it got revealed after all this
+is the apparent anxiety within NVIDIA
+that they were losing their grip
+on the dominant market share,
+that in fact they also may have over committed
+in certain areas and needed to scramble.
+And so it wasn't as if we have unlimited demand
+and we're just kind of parceling out the product
+where we want just to diversify the base.
+It was, we need to find more outlets
+for this in the near term.
+Yeah, and that's the complexity that I spoke to.
+That's where this doesn't resolve itself very quickly.
+I also think, you know,
+we've mentioned the word sentiment a few times.
+Yeah.
+And I think there was a bullish sentiment.
+I represented that bullish sentiment
+believing that the end of the year
+was going to be optimistic
+and that we would have this thrust higher.
+In the conversations that I've had
+with a lot of people in the hedge fund community
+over the last several days,
+most people are pulling back on risk
+because they're what they are seeing in front of them
+and because the calendar is closing on 2026 rather quickly.
+That kind of suppresses some of that optimism
+to a certain extent.
+And the story that we've heard over the last week
+has been about, well,
+the market has absorbed this NVIDIA story resiliently.
+Well, it's not really resilient so much today.
+So let's get through this week.
+Let's hope getting through the week,
+we can get a lift for Anthropa from NVIDIA's earnings.
+But also be aware, the optimism, again,
+that I represented in others as well,
+it's quickly fading as the calendar catches up to us.
+Yeah, and AMD and Broadcom,
+which had taken up the slack from NVIDIA,
+built them four or five percent today to your point.
+It's not just rotational.
+All right, coming up, the earnings set up
+on some key names reporting this week.
+Half time, we'll be right back.
+Hey, this is Jeff Lewis from Radio Andy,
+live and uncensored.
+Catch me talking with my friends
+about my latest obsessions,
+relationship issues, and bodily ailments.
+With that kind of drama that seems to follow me,
+you never know what's going to happen.
+You can listen to Jeff Lewis live at home
+or anywhere you are.
+Download the Series Text Them app
+for over 425 channels of ad-free music,
+sports, entertainment, and more.
+Subscribe now and get three months free.
+Offer details apply.
+WhisperFlow is a voice-to-text app.
+You talk, it types, in any app,
+in more than 100 languages.
+The email in English, the text to your mom in Spanish,
+the client note in Portuguese,
+and it switches languages as you do
+with the ums and typos gone four times faster than typing.
+WhisperFlow is free.
+Get it at whisperflow.ai.
+That's W-I-S-P-R-Flow.ai.
+Okay, wines for the holiday table, check.
+Now what do we bring for a gift?
+Let's stop at Total Wine & More.
+We can grab what we need for cocktails
+and get some help finding something special to give.
+Perfect.
+The holidays are busy enough,
+so getting it all at the lowest prices is always a plus.
+One stop and we're holiday ready.
+Get ready for great gatherings at Total Wine & More.
+Spirits are not sold in Virginia and North Carolina.
+Drink responsibly. B-21.
+Welcome back.
+Let's get these set up on some other key earnings
+outside of Nvidia coming up this week.
+Disney reports tomorrow before the bell.
+Jenny, Jim, you both own it,
+and Jenny, it sort of had a decent run.
+It's kind of found its way into this sort of quality defensive basket, it seems.
+Bout time, right?
+So it's so funny.
+After that heated first half, I'm like, oh, Disney, so easy.
+Right, sure.
+They're reporting tomorrow.
+They should talk about our investment theme,
+which is that theme parks are growing and underappreciated.
+You know, it's about 30% of operating margin and there's growth ahead.
+We expect earnings growth to be 8% this year
+and 12% over the next two years.
+Like, how achievable, how reliable that should be.
+Trades at 16 times earnings has a 5% free cash flow yield.
+And the management went out and they said,
+hey, we really want to do some cost cutting.
+Please cut 20% of cost.
+And you know what else?
+You know what else they did?
+They did a really functional CEO search
+and they got a good quality CEO in there.
+So you've got a management team
+that you can just kind of like be comfortable with.
+Yeah, and maybe a little bit of a conscious.
+Just not now.
+What are you implying?
+So Jim, what do you think they do need to convey
+in terms of looking ahead?
+They also have, whether it's an opportunity or a hazard,
+a really big new competitor, which is the combined,
+you know, Skydance.
+We'll see if that just makes the industry more rational
+or has them other effects.
+Yeah, I mean, I think just executing on the game plan
+that they've got, what is that game plan?
+That streaming profitability makes up for the now well known
+and frankly, at this point, historical decline in legacy
+revenues and operating income.
+You want to make sure that the theme parks
+are still operating well, that the cruise ships are going well.
+And also you want to hear that this isn't,
+that the theme parks are not just predicated on price hikes.
+Jenny mentioned cost cutting.
+And Joe, I know you and I have had a little bit
+of a running dialogue.
+You think that's financial engineering.
+I think that's a new CEO coming in
+and running the business and cutting out fat.
+I don't look at it as financial engineering,
+which I look as more nefarious and that's a definition
+that's loose to begin with.
+But I look at financial engineering as
+when you're bringing on debt to clean up woes
+or maybe do share buybacks or use debt off balance sheet.
+None of that's going on at Disney.
+They're just running the business, new CEO,
+running it smartly.
+I just execute here.
+That's all.
+Jim, Joe, sorry.
+Palo Alto, the security software stocks
+have come in a little bit off a very strong one.
+The cyber trade has to prove itself,
+which is really a different narrative
+than what we've heard over the last several years.
+They have been the offset to what has been
+a very depressed software environment overall.
+So we will hear from Palo Alto.
+The implied move is about 9%.
+The average move is generally about 5%.
+I think you're going to get the beat.
+It's the reaction I'm worried about.
+You're going to see 33% plus revenue growth.
+You're going to see triple digit earnings growth.
+You're going to see really strong margins.
+The guidance is going to look good.
+But let's see the appetite of the market
+to absorb that information and respond accordingly
+and restore the overall bullish trend
+for these cyber names.
+CrowdStrike and Okta will follow on December 1.
+Here's your first one.
+The reaction is really critical.
+I'll be interested to see if we get anybody with conviction
+buying in tech ahead of Anthropica.
+Everyone's going to save their powder.
+I'll have time to be right back.
+Getting some fresh headlines out of open AI CEO Sam Altman.
+Let's get to our Kate Rooney, Kate.
+Hey, Mike.
+So Sam Altman making some comments about Nvidia,
+Jensen Wong, and the recent ouster as CEO.
+This, from what I believe, is the first time
+that he has commented on the situation.
+Nvidia is a massive backer and shareholder of Open AI.
+It's invested about $30 billion in this company.
+He just made these comments at the Semaphore Silicon Valley
+in the World Conference where Scott Wopperner is today.
+He talks about Jensen Wong getting fired.
+He also compares it to his own aster
+about three years ago.
+If you remember, Sam Altman was fired
+from his own company, fired by the board,
+and then reinstated.
+Here's what he said about the Nvidia situation.
+Jensen has long been a hero of mine.
+Heroes have flaws.
+I am grateful for the company he's built.
+I do have personal, strong empathy to a situation like this.
+I remember what it was like, although it feels like forever ago.
+But it's hard to imagine the AI revolution without Jensen.
+And the company he has built took an early bet on us.
+We took an early bet on him.
+I have extreme gratitude for that.
+Mike, other quick headline I want to bring you.
+He did talk about an eventual IPO.
+He dismissed concerns in Anthropic.
+Getting out there first this week would exhaust investor appetite.
+He said it's not a worry.
+They do plan to go public at some point in 2027, Mike.
+All right, Kate.
+Interesting stuff there.
+We got time for some final trades.
+Jim, let's get started.
+Well, I'm kind of pushing the easy button here
+because obviously there's a negative tone in the market.
+Berkshire Hathaway has obviously been having a good tear.
+It's got a lot of cash on the balance sheet.
+I wonder what they do with that cash.
+There's some buying opportunities showing up.
+There are.
+They're just art, so.
+Yeah.
+I mean, defensive stocks, Coca-Cola, Apple, they own.
+I mean, they're benefiting from all that stuff.
+I'm sorry if I'm being too coy.
+I'm thinking in technology.
+I'm not saying what you're saying.
+Okay.
+I'm being distressed.
+I'm thinking in semiconductor.
+I'm starting to pile up.
+Yeah, absolutely.
+Can it be more specific?
+You also have some of the best investment minds out there
+putting that cash to work at a really potentially great time.
+My final trade is Cisco Systems, C-S-C-O Cisco.
+It's got a 5% free cash relief.
+Stock is down 8% on the whole technology move,
+even though they reported great earnings last week.
+And no new technology grows without it growing
+on the backbone of Cisco Systems.
+Joe.
+Probably one of the more exciting trillion-dollar companies
+is Eli Liller.
+That's right.
+Continues to move high.
+A strong momentum in healthcare right now
+is a port in a storm.
+All right.
+S&P pretty close to the day is low.
+It's not too far above last Monday's lows.
+We'll keep watching it through the afternoon.
+It does over halftime.
+The exchange starts right now.
+Hey, this is Jeff Lewis from Radio Andy.
+Live and uncensored, catch me talking with my friends
+about my latest obsessions, relationship issues,
+and bodily ailments.
+With that kind of drama that seems to follow me,
+you never know what's going to happen.
