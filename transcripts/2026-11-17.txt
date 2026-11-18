@@ -1,0 +1,632 @@
+I'm Scott Wapner and you're listening to CNBC's halftime report, the podcast, the most profitable
+hour of the trading day.
+You record this live weekdays at 12 Eastern, listen in.
+Thank you, Carl and Sarah.
+Welcome to the halftime report.
+I'm Leslie Picker.
+Scott Wapner is live at Semaphore Silicon Valley and the World Forum.
+He'll join us in moments with his exclusive interview with Amazon CEO Andy Jassy.
+In the meantime, let's bring in today's investment committee joining us for the
+hour.
+We have a Jason Snipe, Rob Siegen and Josh Brown.
+Let's get a quick check on the market at this hour.
+Off session lows, but you can see the Nasdaq's still down about 1.3 percent.
+The Dow down about 770 points or 1.5 percent.
+The S&P down one and a quarter percent as the 10 year is around 5, 10 or so.
+Guys, it would be nice to have a precedented day, you know, once in a while.
+Today is not that day necessarily and in particular focus we have NVIDIA earnings after the close.
+It's going to be the first time we really think about this company as a potential, you
+know, life without Jensen Wong.
+What are you looking for from the conference call today?
+Well I think unfortunately the focus of the call is not going to be earnings and
+I think that was the situation coming into today's trading action despite the statement
+that we got from Jensen Wong.
+I think now with that statement I think it's even more exacerbated that the earnings
+themselves are not the story.
+Unfortunately I think that statement creates a situation where NVIDIA becomes a prediction
+market almost.
+Is Jensen Wong coming back?
+Is he not coming back?
+I think the effect on the market itself and let's be clear the market has been in a very
+foul mood lately and before Jensen Wong's statement this morning it continued that mood
+and the market was under significant pressure breaking some previous significant lows.
+I think on the other side of that what has happened because I make this statement
+that NVIDIA has now become this prediction market I think it freezes some of the
+selling that we have seen specifically in NVIDIA.
+If you look statistically we're well aware that a lot of active managers have been aggressively
+selling NVIDIA over the last week.
+I think now with this environment where it's binary is he coming back?
+Is he not coming back?
+I think that freezes some of the selling at a time where the market is near term
+oversold and unfortunately the optics become about the near term which is never ultimately
+really good and I think at the end of the day it takes away from what we're going to
+hear tonight with earnings which potentially could be really good.
+So then if it is a prediction market do you feel like the stock is adequately pricing
+in?
+The key man risk associated with Jensen Wong being CEO or not being CEO?
+See I don't look at things I always look at things from the perspective of where
+is sentiment and where is positioning.
+I think those are the two most important things to understand but I think if you're
+sitting there right now and you have a position in NVIDIA and your intention was to sell some
+of that position with the statement today I think you kind of pause.
+You pause, you kind of wait and see what ultimately is going to happen here if the board in
+fact would entertain his desire to return.
+Jensen so far CNBC's sources are reporting that they're not considering bringing him
+back as CEO.
+How material is that position to this company?
+I think that's what investors are trying to assess right now.
+If he doesn't return, does the company have a deep enough bench of talent?
+Does that talent stay?
+Does it maintain its competitive advantage as an AI superpower of sorts?
+I think those are all the questions that are in the market right now and sadly to
+Joe's point the focus won't be on earnings tonight you know 97% data center revenue
+growth that won't be the concern that won't be in focus what will really be in
+focus is the guidance if there is some guidance you know it'll be about what
+what are the commitments going forward obviously Jensen has been the architect
+in many ways for AI infrastructure and how this whole story has played out so
+I do think in terms of him being a very central character just to the
+company and the broader ecosystem is it is going to be very important and I
+don't know if that is in the stock completely or not I think to Joe's point
+there's a lot more that we need to see I know they created an internal committee
+today just for compliance and extort controls I think it's going to be very
+important Commerce Department making a decision today to kind of close the
+loopholes in terms of how compute is being sold overseas in the Far East so
+there's just so much to this story in the short term that is it's
+difficult to make a move for me and I agree with Joe I think you need to
+be patient here and watch this story continue to evolve you say if there is
+guidance yes what's the likelihood that there isn't guidance and what do you
+think that would mean for the stock price at these levels it wouldn't be
+great I think I think quite honestly from my vantage point it maybe is a
+50-50 shot you know I think it can go either way whether you give guidance
+and it's material to the stock and you know could kind of create some
+more volatility that we've already experienced or it kind of steadies
+fears in terms of hey we've got this under control export controls are not are
+we're going to be take a stronger position there and that maybe will
+settle some things down a little bit so I could see it going either way to be
+honest Rob how are you set up going into earnings everybody here owns
+Nvidia right yeah is this is this a tradable order for you well what are
+you listening from the call that would make you change your position one way or
+another Joe smiling at me because I had a lot of people on X this weekend kind of
+diving into my knees as it relates to my opinions over Jensen which I will
+continue to state that undoubtedly I think if there was no wrongdoing the
+company's more valuable with them we'll see if he's the right person for
+that job or not clearly he would like to be considered and I hope that we go
+through a process of identifying whether there was any wrongdoing and we take
+our time in making a decision morality aside in terms of the the the
+extramarital activity why do you think the company is more valuable with
+him real just said look at what he's done for 33 years Jensen has done 100%
+of the talking he is the strategy behind the company the numbers I kind
+of disagree with these guys the numbers do have to be there tonight and I
+think they will be okay I think the call is more about that but it's Nvidia has a
+key man problem AI AI doesn't you can replace the CEO I believe that
+Nvidia could replace Jensen the question was is it more valuable with him
+than without right I believe that that it is what you can replace is the
+CUDA operating system which is the operating system for AI you have a
+company that's growing at 90% obviously we have to look into all the financing
+and and and kind of the sales in China to also see if there was any any
+unscrupulous behavior being done there but if the revenues growing at 90%
+and it's trading at 12 to 13 times earnings that's a governance discount
+not a demand discount and we're not sellers here for sure I said last week
+I bought it in my personal account I bought it a little higher than this that's
+unfortunate but I think when you have an opportunity to buy a name that's
+growing like this I felt like we were fully weighted enough in our client
+portfolios but I want to own some more in my my children's trust and the
+like and when you look at the numbers you have 90% revenue growth this
+year 70% next year uncertainty weighs on the multiple it's not going to derail
+that trajectory because that moats in place Deutsche Bank came out and said
+it trades at six times 2031 earnings that's a value stock in on the most
+important company in the AI universe a value stock right positioning it's
+under owned by most large cap tech managers other by policy in terms of
+what happened or they're just they just don't want to get in front of this
+there's a moat they have a 90% share in advance chips Kuda is locked in right
+there their their language 60% of TSMC's capacity goes to them Cress Jensen
+didn't do anything without her in the room she was in the room in every
+most important decision that this company has made and so our position is
+we're going to be holders and if Jen if Dan I've says Jensen's worth one
+trillion dollars if that's the case fine the market already sent the bill
+with it's discounted in the price right so those are our views going into it
+or at least my additional view on top of our investment teams use and I think
+it's a name that you can continue to own again unless there was some wrong
+doing unless there's a smoking gun which you know Besson's comments this
+weekend we're not that comforting obviously but let due process take its
+course and we'll see yeah the reason I was asked I mean obviously the
+market is trading as such that this is a more valuable company with Jensen
+Wong at that helm but there's a piece in the Wall Street Journal today about the
+culture and some of the kind of ruthless back and forth he had with some of
+the employees at the firm and you know the potential for investigations with
+those in cover I'm just curious Josh if there is a case to be made for
+someone anyone coming in and and driving value here there is a lot of
+outside pressure saying he is he is necessary to this company he is
+necessary to America and national security but is there a case to be made
+for anyone else anyone else to fill his shoes yeah I think there is I wouldn't
+say that's the best case scenario so I my my plan is to stick it out I'm still in
+the stock I've been in it for a really long time I've sat through some really
+big drawdowns this definitely changes the story though and anyone who's not
+able to admit that out loud is either kidding themselves or doesn't fully
+understand the extent to which this company is going to be forced to change
+whether he comes back or not so I think the two worst things they could do
+right now going to the numbers is stop giving one quarters worth of guidance
+today they've always given guidance they always guide out one quarter that's
+always been good enough given what we know about demand for advanced AI chips
+there's really no reason why they should not be able to do that and I think the
+board's job here and Chris's job here is to try to pull together as much
+continuity as possible even if just for the sake of optics you should not come
+out and say given the extraordinary events we're no longer comfortable with
+the guidance that you know we've been giving you every quarter for the last
+15 years like I I just don't see how that serves anyone so I'm hoping somebody in
+investor relations there speaks up and understands this as well as I do if they
+cut guidance it's a major problem for the stock which is why I'm not screaming
+buy it buy it it's 9.75 times forward earnings blah blah blah because I just
+don't know how they're gonna react that's number one number two if it's
+not gonna be Jensen coming back like if you can't do a Tiger Woods be
+like oh I'm a sex addict I'm gonna go get clean for three months and then I'm
+gonna come back and play on the tour again which I I sort of think would be a
+best case for shareholders if it's not gonna be that the other degree by which
+Nvidia is gonna have to changes I think they will have to go outside think
+about a family where the head of household just abruptly runs away from
+home what are you gonna put the kids in charge because nobody in that
+building was making top-level decisions without Jensen being in the loop he has
+so based on what I've read I'm reading like you know the same thing you guys
+are reading Ben Thompson at Chatecary etc there are 60 executives or direct
+reports in there but everything runs through Jensen so one of those 60
+reports I don't think you can like elevate them and have all the other
+siblings play nice I just think it's too messy and you almost need
+somebody to come from outside and come in that could work out well over the
+long-term for shareholders or it could be disastrous I can give you examples of
+both there's no way to know which is which but this is what we're staring down
+and then the third problem and this is maybe the most interesting for the
+viewers the dip worth buying may not actually be an Nvidia the dip worth
+buying maybe in some of the beneficiaries of a mess at Nvidia
+where the buyers the the the power in the equation shifts from oh my god I
+better kiss Jensen Wang's ass to get my GPU allocation to hey you know what it
+turns out we were able to get up and running using AMD chips in the
+Helios architecture through HPE in three days which is what entropic just
+told us in the latest filing if if we start to get a sense that this
+stranglehold that Nvidia has enjoyed over the AI trade since the launch of chat
+GPT this may be threatened regardless of whether Jensen comes back or not then
+you'll understand why this stock is selling at a single digit forward
+multiple and you'll understand why AMD has become a trillion dollar name or
+why we've seen a sterile labs which is the connectivity between both servers
+and chips they're sort of like the switch will into the data center they
+compete with Envy link which is an Nvidia connectivity product if all of a
+sudden it matters less which chips the hyperscalers want to buy then a
+company like a sterile labs starts to get a lot more attention by the way look
+what color it is today so I'm an Nvidia shareholder I've made a lot of
+money in the stock very disappointed in what's gone on I think the best
+result of this is they go through a process they can clear Jensen from
+knowingly doing something nefarious and maybe he gets a second chance I
+cannot look at the camera right now and tell you that I know that's going to
+happen who could know Jensen doesn't know nobody knows and that if and if
+you're not behaving that way and being honest about how uncertain the
+situation is I think you need to look in the mirror I think the other
+aspect to this that we're all Nvidia shareholders I'm not sure how I
+feel about it I don't know how any of you feel about it but if tonight they
+use the balance sheet and they introduce an aggressive buyback I'm not sure is
+that what you want as a shareholder or does that show some form of maybe
+they're on the defensive maybe it's a degree of weakness I don't know what
+do you guys think okay we don't even know what their earnings are going to
+be from Asia that's see this the see this the problem you start doing buy
+backs and then the government starts talking about fines and then it's like
+so that so you could authorize a buyback you can increase the authorization
+doesn't doesn't mandate that you actually have to do the buyback you could
+just announce it to me that would seem too cute right right I mean potentially
+draw additional attention to Josh's point though anybody that is not
+looking at this in questioning their their position in the name isn't that what
+we've seen in the the multiple rewriting that we've seen already could it get
+worse yes if it is worse it could get worse but I think that's what everybody's
+doing it's either a wait-and-see approach or they're trying to take
+advantage of some weaknesses I did personally but again that is different
+than in client accounts right I think that's a very different mindset and
+I think most investors that are out there are in a reassess mode and that's why
+the multiple has rerated so aggressively so I think that's happened
+already well speaking of the balance sheet obviously Jensen Wong was a huge
+champion of this whole Bank of Nvidia notion and the idea of making sure
+this whole AI ecosystem gets the financing it needs a key financing event
+this week of course is anthropic which is currently looking to be the biggest
+IPO of all time sources telling David Faber that they're likely to price
+above the current range of 70 to 78 dollars per share and as we think about
+just the overall interconnectivity here Amazon and Alphabet's Google are set
+to own 15 percent and 14 percent of Anthropics outstanding capital stock
+respectively following the IPO and the concurrent private placement which
+puts their holdings if they do price above the range it upwards of 400
+billion dollars well everyone keeps talking about this range of 70 to 78
+dollars let's see if it actually opens there because 70 to 78 dollars I think
+there's going to be a lot of interest in owning the stock at that level I'm not
+so sure that is where it ultimately is going to open I think it's gonna open
+higher I think it's a lot higher than 70 to 78 because raise your hand if you
+wanted between 70 and 78 I think we all love it at that price so I think you're
+gonna have to make a very a very thoughtful decision on okay do I want to pay
+90 you want to pay 95 do I want to pay 100 I think there are a lot of winners
+from the standpoint of companies like Alphabet like Amazon like Zoom
+communications that invested early in Anthropic and if you own those names
+and I've advocated for owning Zoom communications it's a way to monetize
+their 53 million dollar investment 2023 which is worth multiple billions of
+dollars right now it's a way to monetize it but I think overall my expectation is
+that the Anthropic IPO is going to come it's going to be a clearing event I
+think it's going to be an actually a good clearing event yeah I think this
+is an absolute sell the rumor by the news if I had if I had to bet on it so
+which rumor by which news so Joe and I are saying exactly the same thing it's
+that there was a lot of clearing event discussion around Anthropic sucking
+liquidity out of other tech names which it may have sucked liquidity out of
+other risk assets when you look at what's happened with Bitcoin and some
+of the like right high value high beta momentum investments that are getting
+liquidity sucked out to go into this I think what ends up happening though is
+this is the report card for the entire AI trade this is clearly the
+enterprise winner in AI if you look at what's happening in businesses our
+business included the impact is pretty powerful and we're in the
+infancy infancy state of that 10 billion a new run rate in one month
+this company had I mean it is amazing what is happening so if it prices
+anywhere reasonably I think it's gonna there's gonna be a huge uptake I
+suspect given the demand as you heard Gerstner say yesterday on the show
+he's putting more in this than he is in any company that he's invested in an
+IPO before so I think that thematically there's a lot of people that feel the
+same way when we look across our customer base the number of people
+with their hands in the air say can I get anthropic is pretty high so would
+you all be putting in for allocation that or do you feel like exposure through
+some of these other strategic that are participating in the private
+Amazon Amazon I think it's I think it's also coming to market at almost like
+a perfect time to Joe's point I think perfect time in this sense in this
+sense so if I think about what what Rob just said in terms of what's
+going on with the AI trade it can be better positioned as the clearing event I
+think the market is so much starving for a clearing event it had an
+unbelievable quarter 10 billion 10 billion dollar run rate this month alone
+that is huge raising north of 70 billion six times over scribe over
+subscribe 20% allocation to retail and I could easily see at the end of this
+day at the end of the day being 1.7 point 1.8 trillion dollar
+valuation so that's why I could see it like how it's being how it's sitting in
+what's going on right the perfect time for the market yes any other IPO you'd
+say oh my gosh there's been so much volatility so many questions around the
+AI trade but if this does do well it is a perfect time to make sure that the
+market is stable and to say okay anthropic that it's working it's
+the negative sentiment in the market actually works in its favor because this
+IPO has an opportunity to kind of comfort the market at a time that ultimately it
+needs it and I think again it goes back to Jensen statement this morning you're
+sitting there in the chair and if you believe that there's a chance he's
+coming back I don't think you're selling and again that's comforting to
+the market at a time where the market is clearly said differently if in video
+why was the iceberg if the in video is the iceberg is your carpet yeah let's
+just go with what I said just to be clear it also has to work the stakes are so
+high or this to work given the backdrop up next the investment committee is
+trading more of today's biggest movers and later an exclusive interview with
+Amazon CEO Andy Jassy sitting down with Scott Woffner live from Semfors
+Silicon Valley and the World Forum have time is back in 2 minutes welcome back
+let's get to some stocks on the move Home Depot beating on earnings and
+announcing a new CEO speaking of CEO transitions Rob you own this one shares
+are down about 2.5% yeah I think the stocks down on the guide not the
+quarter not the new CEO the way that CEO left that I would argue is the
+right way to make that that type of transition comps have accelerated for
+the fourth straight quarter but housing is frozen in the Fed is hiking right and
+and certainly in sitting in a hawkish stance so I think you have to own
+this one we've been investors for a long time for the next housing cycle and
+not this quarter so this is a company that I don't think based on its
+premium P is today's purchase all right Berkshire Hathaway trimming it's
+Bank of America's stake Josh you you own Berkshire
+any make of it I do this has been an incredible holding this year pull that
+chart back let me see like you to date you know it's not it's not like
+oh let's hold Berkshire because it's a hedge against all the complicated
+stories happening in AI but it's sort of acts that way and you know this
+stocks up 11% month to date it's up 17% year to date which is a pretty good
+year and it's above every moving average and you just see people looking for
+big liquid stocks that they can own if they want to get away from some
+of their data set their exposure on in the large cap world I don't think tech
+investors are buying Berkshire but it's sort of acted as a safe haven and I hope
+that can continue all right let's get to some of the calls of the day Mizzou ho
+initiating BlackRock and Blackstone at outperform maybe speaking a little bit
+to what Josh was just mentioning in terms of places to rotate Jason you
+own both of these you think there's a merit to that or do you think that they
+too are so intertwined in the AI trade that you really can't kind of divorce the
+two yeah well I think BlackRock obviously a different story I mean continues to get
+passive flows into their ETF business I mean you see kind of all the individual
+stock volatility that we've experienced but you know at the index level I mean
+last week this week is a little bit different but last week the market was
+positive with all the news that we we receive so I continue to like Black
+they're also expanding into private markets and their all-space business so I
+really continue to like this one it's up 11% you know Blackstone obviously has
+been a tougher story down 26 so far this year yeah private equity players
+all managers haven't done as well but I think there's somewhat of a
+dislocation with the price action and actually what's going on with earnings
+I mean their earnings growth has been up 50% so far this year so I think the
+environment improved somewhat even though I know we're going into a tight
+in cycle but I could see a different story from a price action standpoint going
+into 2027 yeah they just have so much exposure in real estate and private
+equity both are seen as being negatively impacted by a higher interest rate
+environment HSBC upgrading Cisco to a buy Joe this is one you own the
+networking names have worked relatively well this is a name that kind of
+rings familiar with some of the old school technology names but they've
+really done an excellent job in establishing a presence in the AI
+networking universe it is not immune to the sell-off that we are seeing in
+technology itself that is for sure it's participating in that in that sell
+off and the most recent earnings really didn't do very much to lift the
+stock but overall when you think about Cisco they've done a phenomenal
+job in recreating themselves to be something that we did not perceive them
+to be several years ago when we heard so many others were benefiting from the
+AI innovation all right now to Pippa Stevens with the CNBC news update hey
+Pippa hey Leslie the FAA is pausing the installation of the routers blamed
+for Friday's nationwide ground stop the more than four-hour ordeal
+triggered widespread cancellations and delays federal officials are still
+investigating the root cause but said the routers and networking equipment
+appear to be involved in the massive disruption more than two dozen families
+of murder victims in California are asking the state Supreme Court to
+reverse governor Gavin Newsom's decision to commute the sentences of all
+five hundred and forty eight people on California's death row the families
+along with California prosecutors are asking for each sentence to be
+reviewed individually Newsom announced the move earlier this month saying he
+felt a moral obligation to commute the sentences and Tiger Woods is
+returning to competitive golf next month for the first time since his DUI arrest
+in March he will play in the hero world challenge in the Bahamas from
+December 3rd through the 6th it's the first tournament since the 2024 open
+championship Woods hosts the tournament which features 20 of the world's
+best PGA PGA tour players Leslie all right Pippa thank you coming up
+Josh Brown's best stocks in the market is laying out the strategy for two names
+on his list that are pulling back from recent highs and we are just moments
+away from Scott Woffner's exclusive interview with Amazon CEO Andy Jassy
+don't go anywhere half time will be right back back with Josh Brown's best
+stocks in the market Josh what are you looking at today
+so we last week we wrote about a couple of tech names that had washed
+off of the list and had been stopped out this week we want to take a
+look at a couple of names away from tech that are pulling back with the
+broader market but are still in uptrends and still interesting to us and the
+first one is Moderna so this has been a huge winner for the list we've
+talked about it earlier third quarter revenue was up 29% to 1.31
+billion but the more important thing that's happening here is the
+personalized cancer vaccine which they're pairing with Ketruda it has
+cut the risk of melanoma coming back or causing death by 42% in a phased
+I listened to the president on stage at an event a week and a half ago say
+they would have been happy with a 15% reduction it is potentially a massive
+blockbuster you see the stock price as we acted but now you have a low
+volume pullback here I think the name is interesting it's it's still
+got momentum based on RSI it's still above these key moving averages and in
+the piece at CNBC pro we give people what those risk management levels are if
+they're interested in taking on the trade the other name is Delta which I
+own personally this has not this is not as good as an entry quite
+frankly I think 80 bucks is the line of the sand for most traders just
+being completely objective to see the stock is bottom there twice maybe
+three times a charm maybe not but if you're in this thing with discipline you
+have to tell yourself the technical picture has changed and the buyers are
+not as excited about it if it violates that level I am in it I do have a
+stop I do think this stock ultimately can get to triple digits at the mid
+point of their most recent guidance the stock is trading about 16 times
+this year's earnings it's got a great growth story dominant market
+position the travel business is the best business within consumer discretionary
+and quite frankly 95 to 96 which capped the rally back in July August I think
+if the stock can take that level out on the next attempt which could begin
+any time now you would much rather be long this stock than flat so we've
+got the risk levels in the piece on Delta as well and both these stocks
+deserve a look yeah it's amazing it's up 52 percent over the last year Joe you
+also own Delta Delta's been the airline that has worked United Airlines
+previously is the name that we own we sold out of that but Delta has the
+ability to manage the necessary inventory related to oil they have the
+stake in the refinery and they clearly have become a dominant force
+both domestically and globally in capturing market share from the
+business traveler and the affluent consumer yeah I was just on a flight
+yesterday very full but I'm sure part of that had to do with some of the
+outages Berkshire Hathaway also raised its stake in Delta in the third
+quarter Jason is that something that you think would encourage you to get
+in here how are you playing the airlines right now yeah so I typically
+haven't got involved with the airlines so cyclical in nature I mean there's
+been a lot of noise and news around them obviously recently but I know Delta has
+been a strong player they perform fairly well in the recent past but it's not
+it's not something that we typically spent a lot of time or every spent a
+lot of time and Rob how do you think about travel and the consumer right
+now we saw retail sales earlier today coming in some of the big bigger
+ticket purchases were being postponed it seemed like but in terms of
+experiences in travel so and we don't we don't own the travel except for
+hosts we own a little bit of the high-end part of the K in travel so we're
+playing the higher end consumer I don't like the exposure for the same
+reasons that Jason mentioned with the energy prices and you know the the
+risk towards the lower end of the market Delta is obviously focused on a
+different demographic but the reality of it is that's a really tough place
+display well speaking of the consumer I know someone who have a lot of thoughts
+on that let's get to Scott Wapner an Amazon CEO Andy Jassy live at
+Semaphore Silicon Valley and the world forum Scott okay Leslie thank you so
+much Andy thank you very much for spending this time with us it's good
+to have you and thanks for having me I really want to start by getting your
+reaction to the news of the moment out here and that is what's gone on
+with Jensen Wong and Nvidia how you see it given his importance in this
+entire AI story well you know I have deep respect for for Jensen and I have
+deep respect for Nvidia and they've been very significant partners for Amazon for
+a long time and they will be for as long as I can foresee and I know they're
+you know I don't know all the details of what's happened but I know they're
+talking through it and see what happens it you have such a unique
+relationship in that you're a customer and you're a competitor let's talk
+about on the customer side of things do you see that changing in any way no I
+mean we have this deep partnership we've led with Nvidia and in all of their
+launches we have a lot of customers who are going to ask to run on top of
+Nvidia chips and our infrastructure for a very long time as long as I can
+foresee and to your point we also have our own custom silicon and
+tranium which is doing really well you know in the last time we talked about it
+in the Q2 call we shared that it was over a 25 billion dollar annual revenue
+run rate or chips business between tranium and our CPU chip Graviton and
+so I think both of those things in the technology space you have this
+cooperation where you you're a customer a company on one thing you
+partner on other things and there's some overlap competitively and these
+market segments are so large there's room for all of us to be successful and
+that's what I think will be the case if one of your competitors though is
+wounded so to speak does that not help Amazon we just don't think of it that
+way I mean again if you just think about our chips business with tranium
+and Graviton it is wildly successful now and growing triple digits year over
+year and so I think it you know it is successful and I think it will be
+successful regardless of what happens around us competitively and you never
+wish ill on a competitor particularly one that you're a partner of and
+you know I think of ourselves more as a partner to NVIDIA as a competitor even
+though there's some overlap and so we we we I believe NVIDIA's business will
+be very strong for as long as I can foresee and we'll be partners with
+them does it help you sell traniums to customers who otherwise might have
+wanted NVIDIA does it give you any kind of competitive advantage in that sense
+I don't see it that way you know I think that people will choose
+the technology and the services based on the capabilities of that technology
+and regardless what's happening around the company
+is there going to be a time where you no longer need NVIDIA chips yourself
+because you've developed traniums fast enough that you no longer
+rely on them at all I don't foresee a day where we're not partners
+with NVIDIA I think they have amazing products
+I think we're going to always have customers who want to run NVIDIA in our
+infrastructure I think in the same way we're going to have a lot I mean if you
+look at bedrock which is our big inference service
+the vast majority of inference in bedrock is on top of our own
+custom silicon and tranium so we're going to have customers who want
+our silicon we have customers that want NVIDIA silicon and there may be others too
+market's trying to figure out it feels like where we are in the whole AI cycle
+where we are from a equity trading standpoint and just from where sentiment is how does it
+feel to you right now where where are we in terms of this build out are we early innings
+still are we middle late incredibly early innings in my opinion just to me it's
+you know if you look at the history of AWS we grew AWS
+we thought was at a very fast rate in the first three years after three years we had a 57 million
+dollar annual revenue run rate and in the first three years this generative AI wave our AI revenue
+in AWS is over 25 billion dollars it's 440 times faster it's you know so it's growing
+unbelievably quickly and yet I would also say that if you look at how the demand
+what it's resembled it's been pretty barbell to date you've had one end of the barbell
+that has been you know the AI labs consuming gobs and gobs of compute and some runaway
+generative AI apps like chat GPT and cloud code and the other end of the barbell have been
+enterprises having success in AI with cost avoidance and productivity so automating customer
+service or fraud or business process automation in the middle of that barbell are all the
+current enterprise production applications more of which use inference than they did before
+but still small percentage of them using inferences pervasively as they will and so there is
+so much growth in front of us we are in the very early innings I think it's I understand why people
+are nervous because the numbers are so big like the growth and the pace of it is so big but if
+you if you have the demand signals and the visibility to it like we do if we look at
+you know we'll always keep a fair bit of capacity available on demand for our customers
+but the big chunks of compute are largely reserved for us in 27 and a good chunk of that in 28 and
+actually fair bit in 29 if you have those demand signals you realize that it is just it is very
+early innings and if you understand the cash cycle and how it works in a business an infrastructure
+business like AWS where you have to lay out that capital for data centers at least a couple
+years in advance before you can put servers in and monetize it and then you advance you
+invest in advance on the server networking gear before you actually start monetizing it
+in the when you're growing this quickly at this rate you're deploying a lot of CapEx and has
+impact on your free cash flow but when you get a few years out into monetizing and breaking even
+and then and then driving positive free cash flow the the free cash flow and the return
+invested capital on this investment is very compelling and so we will be a much larger
+revenue business a much larger free cash flow business in the coming years because of this
+investment I think you blew people away on earnings where you guided out AWS growth for two years
+that stunned some people because you're just not used to doing such a thing is it the demand
+visibility that you think you have that led you to be confident enough to do that you know
+I think from time to time over the years we've guided a little bit further in advance than
+others but I think in this case it's it's what I was saying we we do have what we consider very
+strong visibility into the demand and we also are very aware that we're spending an amount of
+CapEx that's unusual and so being able to share with people that we you know details around why
+we believe that investment is working and paying off and we'll pay off in a very significant way
+I think is is helpful for investors and shareholders speaking of CapEx you guided 220 billion for
+26 the street thinks that you're going to do around double that in each of the next two years
+is that a reasonable assumption that wall streets making I think what we've shared is that you know
+we expect to spend around 220 billion this year in CapEx and that we expect to spend meaningfully
+more next year and you know that's what I would say about it how about the conversation we're
+having as a nation about the data center build out you said on the stage a few moments
+ago that it would be a quote historic mistake if we don't build data centers do you worry that we won't
+you know I I believe I cannot fathom a world where the United States allows itself
+to fall significantly behind other countries including China and allows those countries to
+set the norms and the rules around AI I think that would be a catastrophic mistake and so
+I think there are there are ways that the data center providers can partner better with communities
+which we're spending a lot of time doing right now and but it is everything we do today you know
+even before AI you know shopping entertainment trading stocks financial services ride hailing
+order on our food all those run through data centers and that's before AI and we had not
+as a country it's true cross world but at least in our country we hadn't invested enough in the grid
+to allow ourselves to have some room if there was a lot of growth and then AI came around which is
+growing at this historic pace we were talking about which surely was going to push us into a
+spot of having to build but you know this is a build out unlike anything we've gone
+through in the country since we build out the highways and the bridges in the 1950s
+and it's unbelievably important to the future of the country this is such an incredible week of
+all the news that is going on including the Anthropic IPO which we're going to get this week
+to you made your first investment back in 2023 18 billion dollars what do you make of this company's
+incredible growth how do you think the IPO is going to go you know the the pace which
+Anthropic has grown their business I'm not sure there's been anything like it that that
+we've seen in recent memory and you know it's a very impressive team they have built I think they've
+been very smart in how they focused early on on making the model particularly good at coding which
+was you know is a very big problem space in an area that customers are ready to adopt and you
+know the quality of their models the quality of their products it's been an amazing partnership
+for us you know they've built a lot of you know their models and done a lot of their inference on
+top of our custom silicon and tranium and we have lots and lots of customers together who run
+Anthropic models on top of bedrock our inference service and it's been a you know we've learned
+a lot from partnering with them we hope that we've helped them too and I think it's really
+early with respect to the partnership I think it's early with respect to what Anthropic has
+the capability to do I saw this morning if your notes are converted in full Amazon's
+going to hold 23.8 percent of the outstanding capital stock 48.2 percent of the outstanding
+class n I'm wondering how you view about converting those monetizing what you have made in an
+investment because I can think of a few uses for many billions of dollars that you might need
+in the future well you know we're believers in Anthropic and we we invested not to turn
+around and make a quick buck on it in a year and so we anticipate being holders of their stock
+and and equity for a long period of time and we have you know we have a lot of ways to finance
+what we're investing in the capital expense to fund the really big AI infrastructure build
+out we're having but we expect to be holders of Anthropic stock for a long time speaking of
+funding for the build out and such what do you make of the debate going on right now about a so
+called capital crunch how hard it is for some companies to get the capital now that they need
+there's just much more competition for it and the market's trying to deliberate itself through
+that yeah well you know I think that that'll have its own evolution it already has over the
+last I mean just look at the last 69 months and I expect that there are going to be a
+number of companies who are trying to to finance the amount of infrastructure they believe they have
+the opportunity to change you know customer experiences and their businesses with I you
+know I think the businesses are all different and I think you can't look at the at the funding
+capabilities you know you know the same way for every company I think each company is different
+I think they have different businesses I think even in the infrastructure space
+if you look at the capabilities of of a business like AWS where we don't just have
+you know really cost effective high performing secure AI infrastructure but you know one of
+the one of the things that people haven't realized about AI is that the more AI you do the more
+it drives non AI what we call core because you know all the all the models are doing
+you know you're doing post training you're doing reinforcement learning you're doing
+tool calling there's a lot of things you need to store you have vector databases and you know we
+have an unusual set of capabilities around the services we have and then the financial
+structure that we built around that which is different from a lot of other companies and so
+I think each company will have their own path here as they choose how much they're going to
+try and invest in infrastructure I saved my hardest question for last on purpose how are
+you going to make sure the new James Bond movie is as good as the prior ones because we just named
+Robert Pattinson is going to be the new Bond you tweeted about it yesterday what's different now
+is that Amazon has creative control too with that honor comes in a tremendous responsibility
+obviously what are you feeling well you know I think collectively as a team we feel that
+responsibility it's it's such an amazing franchise that so many people love and so many people are
+interested in I mean just look at yesterday's discussion I mean people are so passionate and
+we have deep respect for it and honor for it and we are you know we we have an amazing team
+working on it and we have a lot of conviction that Robert Pattinson is going to be an amazing
+James Bond and we can't wait to get started with him yeah we can't wait to see it when
+it's all finished Andy thanks so much for your time today so much appreciate it thanks for having me
+let's Andy Jassy of course CEO of Amazon joining us right here back to you Leslie
+great stuff Scott thank you fantastic interview wide ranging as well with the AI infrastructure
+the anthropic IPO the financing what's going on with the cycle and of course a little 007
+inside scoop as well there I want to get your thoughts Joe on what he said about where we
+are in the AI cycle he said we're in very early innings if you have the demand signals like we do
+big chunks of computer reserve for us in 2027 2028 and 2029 he reiterates that they are in early
+innings here and we're just going to think see things skyrocket from here yeah what do you
+make of that I think he's he's basically reiterating what most in the financial services
+industry and the business community itself are well aware of that this is something that's in the
+early stages I think the hiccup that the market is experienced in the wake of the midterm elections
+is the belief that we can get to the next several innings quickly that there is ultimately
+going to be a pause because of a tighter regulatory environment that suppresses the
+capital distribution or even worse the continuance of a higher yield environment that again acts to
+kind of hamstring that capital deployment so I think that's a challenge that's in front of us
+I think we're well aware that most in the industry believe this innovation has a lot longer to go
+there's a longer runway yeah Josh he called it a historic mistake if we don't build data
+centers and he also said they would be a much larger revenue and much larger free cash
+flow business in the coming years because of the investment that we're making that they're making
+yeah look we're going to build the data centers I think now that the election is is gone
+I think you'll find that there are plenty of counties and towns and communities
+that would love to see bags of cash driven into town higher salaries for teachers lower
+property taxes comp utility bills like money solves a lot of things so it maybe it won't be as widespread
+maybe it'd be concentrated into places like Louisiana Wisconsin I don't know the point is
+that there's enough demand and there's enough money to be made and I think the case can be made
+on both where there's a will there's a way but what's more interesting to me is what this means
+from a longer-term investing standpoint I actually think it's a good thing I think this breakneck pace
+charging for some a femoral concept like AGI and somebody has to get there first it's
+winner-take-all that was probably a little bit uncalled for so now if we have a slower more
+deliberate pace we actually could elongate the cycle and we might actually see the hyperscalers
+go back to cash flow positive if the fever pitch comes down a little bit so I'm pretty constructive
+there the losers are going to be some of the component suppliers who were maybe expecting
+five years worth of earnings plowed into two years maybe that doesn't happen and then of course
+the finance challenge neoclouds which I wouldn't go near with a 10-foot pole
+all right we're back with final trades after this
+time now for final trades josh
+berkshire hathaway shelter from the storm
+rob amazon you heard andy's enthusiasm and you don't have to participate in the
+anthropic IPO when you can own amazon who has a nice stake in the company direct response to
+that great interview there um jason avvy continue momentum in sky rizzy and rinvoke i like this
+one here and joe i had the only stock that's green today that's surprising marriott continues to work
+reported phenomenal earnings and the company is a classic example of momentum in consumer
+discretionary goes back to what we were talking about earlier about the consumer that doesn't
+for halftime the exchange starts right now you've been listening to cnbc's halftime report
+podcast you can always catch us live weekdays at 12 eastern only on cnbc
+all opinions expressed by the halftime report participants are solely their opinions and do
+not reflect the opinions of cnbc or its parent company or affiliates and may have been previously
+disseminated by them on television radio internet or another medium you should not treat any
+opinion expressed on this podcast as a specific inducement to make a particular investment
+or follow a particular strategy but only as an expression of opinion such opinions are
+information the halftime report participants consider reliable but neither cnbc nor its affiliates
+and or subsidiaries warrant its completeness or accuracy and it should not be relied upon as
+such to view the full halftime report disclaimer please visit cnbc.com forward slash halftime
+report disclaimer
