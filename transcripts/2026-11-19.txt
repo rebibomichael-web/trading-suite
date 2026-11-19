@@ -1,0 +1,1601 @@
+At Edward Jones, we believe rich isn't about having life all figured out.
+It's opening yourself to all the possibilities.
+That's why your dedicated financial advisor provides long-term planning built around you,
+meeting you where you are, and helping you get closer to where you want to be.
+So no matter where you're starting from, you can move forward with confidence.
+The key to being rich is knowing what counts.
+Let's find your rich, Edward Jones, member SIPC.
+Still wearing the same old underwear? Chances are it's time for an upgrade.
+Start with Tommy John, a 2026 men's health editor's choice in best men's underwear.
+Experience exceptionally soft fabrics, a fit that moves with you,
+and all-day comfort across our premium underwear, sleepwear, and loungewear.
+One less gift to worry about? One more reason to treat yourself.
+Own gifting season with 40% off site-wide at TommyJohn.com slash SXM and use code SXM.
+I'm Scott Wapner, and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Alright guys, thank you. Welcome to the Halftime Report.
+I'm Mike Santoli in for Scott Wapner.
+Our investment committee will be along in just moments.
+But first, let's get to Leslie Picker with the latest on historic anthropic IPO.
+Opened just a few minutes ago, trading just a bit below that opening print, Leslie.
+Yeah, trading about 5% below the opening print of 111.50,
+but still significantly higher.
+You can see 27% higher than its IPO price of $83 a share,
+which was $5 above the range.
+That price last night, they also upsized the offering,
+selling about 155 million more shares than they had initially marketed to sell.
+So in total, this was the largest IPO of all time,
+$81 billion from that market offering,
+another $26 billion in a concurrent private placement
+with a whole host of strategic,
+many of anthropic suppliers participated in that.
+And then on top of that, given today's performance,
+we could possibly most likely expect that over allotment option is exercise,
+which would add another $12 billion to this equity raise,
+bringing the grand total to $119 billion.
+Now, at current trading levels,
+this company is valued on a fully diluted basis of $2 trillion.
+That is double what it raised privately just six months ago.
+So a massive amount of upside for investors who participated in that round,
+although they are most likely locked up for a significant period of time.
+But you can see, Mike, currently trading around 27% higher,
+the largest IPO of all time, anthropic.
+Yeah, and over 300 million shares have traded so far.
+And just a few minutes in, we'll see how this one settles out.
+Leslie, it's quite a job getting it open.
+Obviously, you want a little bit of a pop.
+We'll see if they maximized all the demand at the open or not.
+Our investment committee today, Bryn Taukington, Malcolm Etheridge, Jim Laventhal,
+and Serrat Seti.
+Thanks for all making your way up to the set, Bryn.
+Let's talk about it as a corporate event, as a capital markets event,
+as a broad equity market event,
+because there is a little indigestion in the overall tape at this point.
+Yeah, first of all, it's so exciting to have this IPO of this size go off.
+It looks like it went off very well.
+I think you also have to think through, Mike, when was the last time
+we saw a company start five years ago and already go public?
+Historically, SpaceX was private for what, 20 years?
+Sure.
+Remember Uber forever?
+And so I think that, or in somewhat uncharted waters,
+because if you think about the VC investors who have 10, 15 year funds,
+at max they've been in this fund, this investment for five years.
+So I think when that selling cliff starts, that liquidity cliff starts in Q1,
+I'll be curious to see how much people actually sell,
+because we're such early days of this company.
+And so, I mean, great day for, I think, having a new stock.
+We don't talk about NVIDIA every day.
+No, for sure.
+And talk about just new AI companies that, once again, just started five years ago.
+And frankly, I wonder if it's going to, at least on the short-term basis,
+take the place of NVIDIA as the favorite kind of plaything
+of public investors out there.
+Since NVIDIA has burned a lot of folks who tried to buy that dip so far.
+Malcolm,
+if you own this at $2 trillion, what do you have to believe about the business
+and about how AI develops from here?
+Well, you have to believe that not only are they going to manage to 10x their revenues again,
+which, to Brent's point, they've done it the last four years, basically,
+successively, haven't seen any company do anything like it.
+But you have to believe that from here, they're going to be able to do that again
+in time to pay $900 billion, roughly, worth of spending commitments,
+and then so.
+Because who knows what else the costs are going to be between now and then.
+So it is possible, like just looking at this one, it came out at roughly what,
+$105, I think, when we finally started trading.
+And that imputes something like 42 times sales based on the first three quarters of this year.
+So it's not nearly as expensive as SpaceX was at 100 times sales when it came out.
+So from a valuation perspective, I actually like this one better than SpaceX.
+So, you know, you have to believe a lot of things, but this one seems at least a lot more feasible.
+Everyone is talking about the annual run rate, which recently was $80 billion.
+And so, you know, it's growing so fast, you have to take that snapshot at the end of the curve.
+At least that's the argument, Jim.
+You know, how are you thinking about it?
+First of all, we're $10 off the opening print as well.
+Well, look, I think I'm going to avoid actually talking about the stock price and valuation.
+The rest of the committee can do that.
+But I think this is very important for sentiment in the market overall.
+What was the word you used, indigestion?
+I think we've got a correction going on right now, and it's a correction in the good old fashion sense.
+Not the type of correction we've had for the last six years where it bounces right off the bottom.
+Corrections generally last two to three months.
+We're kind of nearing the end of the second month here.
+What turns it is sentiment.
+And the fact that Anthropic has just raised over $100 billion is key for sentiment in two ways.
+The first is it shows the investor community is willing to commit capital to this industry still.
+I will grant you some of that money comes from within the industry.
+We know that.
+But still, a lot of it has come from outside the industry.
+That's new capital.
+It's a sign of sentiment.
+It also is capital that will flow through to all those sectors that are building out the infrastructure,
+whether that's semis, whether that's industrials, whether that's electrical power.
+So this is important for sentiment overall in the market.
+Mike, just one more thing on a correction.
+Why do I think this is not something worse than a correction?
+It's because the spending plans are still intact.
+We saw that from all the hyperscaler reports.
+Yes, on the margins.
+There will be some changes because of the political winds that have changed
+because of what's going on with China restrictions.
+But still, the spending is there.
+Last word on this, NVIDIA earnings.
+Two and a half trillion, up from two trillion as the backlog goes.
+Yeah.
+I mean, by the way, you're talking about correction.
+I mean, the S&P's making a new low for this cycle.
+We're back to levels.
+We broke the June lows now, right?
+We're down a percent and a half on the day.
+I just want to keep that in mind.
+And the influence of it, anthropic, whether it's major or not,
+is worth keeping in mind as we figure out how the market is trying to digest this type of an offering.
+But first, we want to get over to an early anthropic investor, Byron Dieter, at the Nasdaq Byron.
+It's so good to have you here on this day.
+It's obviously kind of a win no matter how you slice it for the company
+and for its ability to get to this stage.
+What's next?
+I mean, how does this company adapt to, at least on some level,
+reporting its results every three months and catering to what public investors want to hear?
+Well, I do think that this is history in the making today.
+This is sort of the Google moment in 2004 for the Internet Wave.
+This is that first milestone moment for the AI supercycle ahead.
+And I think one of the beautiful things about this company is that they've continued to think long term.
+They have their true north.
+And so I think in their mind and their model, hopefully very little changes.
+They've got the capital now to realize their business plan,
+and they're going to go out and try to change the world for the better and drive this AI wave ahead.
+And in terms of the level of value that's now been assigned to this business,
+obviously it's such an open-ended opportunity that Anthropica has been attacking.
+And it's happened so fast as we've been discussing.
+So there's really no way to suggest where it leads and how fast from here.
+But what does it need to do to substantiate $2 trillion market cap today?
+I think we're all about to see the potential for the market head.
+One of the most compelling things about the roadshow and the discussions was talking about TAM
+and how we need to think about this in a different way.
+This isn't just a software market.
+They are accessing intelligence.
+Much like the prior cycles in cloud computing, we were democratizing access to compute.
+This is democratizing access to intelligence.
+And where that goes in the TAM ahead is unlike anything we've processed before.
+We think it's the sum total of the internet supercycle and the cloud supercycle combined.
+And that's why, frankly, we've underestimated, even in our own investments,
+going back to the Series D and every subsequent round over the last several years,
+we keep upgrading and moving up our models because of the potential that we're just starting to see.
+And that's what I think is resonating with the public and with the market with the buy side right now.
+What does that mean in terms of what level of dominance you're assuming anthropic achieves?
+In other words, you're talking about it being a Google moment.
+Does it have to dominate intelligence the way Google dominated search?
+Is it a winner-take-most type of environment?
+I don't think it needs to be.
+One of the things we've seen over the last several years,
+if you go back to the deep-seek moment and open weights and different competitors,
+is that the market is so big.
+They will lead and we think they will continue to lead.
+And they're going to pace the frontier in a thoughtful way.
+And they're going to drive the frontier of intelligence.
+But it's going to be a cocktail.
+There's going to be many solutions.
+The leading enterprises are going to work with anthropic and others.
+They're going to have open weights models.
+They're going to have different strategies.
+And that's the right answer.
+And so you're going to see solutions out there that thrive.
+You're going to see multiple great businesses.
+But this is a milestone to have that first pure play software AI name out there
+in the public market.
+Before this, people were trying to find exposure to the AI trade
+through hyperscalers or through hardware
+or some of those leading infrastructure plays.
+This is now really the milestone moment for the AI revolution.
+Right.
+I've been saying, you know, you add another way to express
+an enthusiastic view about AI.
+You wonder what it may be detracts from.
+And how does the frenemy relationships evolve from here?
+We keep talking about Alphabet has a large stake.
+It's also got its own frontier model.
+It also sells compute and making its own chips.
+It feels like everybody is kind of running in parallel,
+but also partnering up.
+That's very much the case.
+By the way, I'll say that's also true for the investor syndicates.
+You've got Matt Murphy with Menlo and Ravi from Lightspeed coming on
+everything later.
+They've both been great partners to us on this journey.
+I think that's the same in this ecosystem.
+The hyperscalers need anthropic to succeed.
+They've had great distribution partnerships.
+They've had great technology partnerships.
+They're large investors previously and through the IPO.
+That's the nature of this ecosystem.
+It is so large.
+We're talking about trillions of dollars of capex over the next
+several years that this ecosystem needs to work together.
+It is not a winner takes all dynamic whatsoever.
+And that's why I think anthropic has been such a great
+participant and a great enabler.
+They make this ecosystem better as well as the thousands
+and thousands of businesses that are building on top of them,
+whether it's ISVs building software solutions
+or enterprises building internal apps that they're using
+to take to market for their teams.
+Byron, I really appreciate your perspective right out of the
+gate here.
+Thank you so much, Byron Dieter.
+Pleasure.
+Thank you.
+Surat, I mean, we really should say that the market
+is kind of gagging on this deal at the moment.
+So we're, you know, the dows down a thousand.
+We're showing that not saying it's all causal or
+anthropic stealing all the oxygen.
+But Jim talked about sentiment.
+It's almost like when you have a correction,
+you actually want sentiment to get kind of bad.
+You actually want people to give up a little hope that
+there's a place to hide.
+I don't know how you're seeing this deal in that context
+of what the market's been trying to go through.
+But give us your thoughts.
+I mean, it is interesting, right?
+The dichotomy, the rest of the market's all down.
+Yeah.
+And it's getting worse, at least as we were talking
+because the S&P is down over a percent.
+So I think for right now it's going to be interesting to
+see the support on this stock because we know when
+it goes public there's going to be other people supporting it.
+Sure.
+So let's see what the next couple of days happen
+because you saw what happened to software semiconductors.
+Essentially, I would say the building blocks
+of what anthropic needs.
+So if the market's telling you that those aren't
+happening the way they should be, at some point
+anthropic's going to have to kind of also, I guess,
+define that or be a function of that.
+So we'll see how that goes.
+But to Jim's point, yeah, we are in this mini correction
+and as we go down, you're seeing people kind of
+taking money out of the market.
+Yeah.
+I mean, mini correction, I guess, in amplitude at this point
+for the S&P.
+But I mean, it's like going on six or seven months, Jim.
+Yeah.
+Well, I just wanted to make a point about correction.
+I'm going to come back to your six, seven months in a second.
+Is that that's a lot less bad than a bear market recession.
+That's just not what I see coming here.
+Of course, yeah.
+Well, thank you for saying, of course,
+but I wanted to make sure I didn't bury the punchline here.
+Right.
+Which is that a correction two to three months
+or two months into it, like this is not something
+that needs to leave a lasting mark on us.
+Yeah.
+And Bryn, you know, one of the elements of this deal
+is now we top up the coffers of Anthrop.
+It's got over $200 billion in cash.
+In theory, that kind of backstops the infrastructure trade.
+In theory, I mean, not even just in theory.
+It's going to, right?
+You know the cash is there.
+They don't have to raise the debt for it.
+And yet, you know, when Vidya broke,
+it's low from earlier this month from last week
+on this latest wish lower.
+You're not seeing that part of the market
+take heart in the idea that you've refreshed that trade.
+Well, I think this raise solidifies the cat-back spend
+because now you have a real player
+that's not being marked up by VC companies.
+You have a real player SEC quarterly earnings
+that creates transparency and accountability,
+which I think is a wonderful thing
+that this company's public.
+I wanted to simplify for myself.
+If you look at, like, through Q3 and Anthropic,
+basically for every dollar in revenue,
+they spend $1.03, which is down.
+They're doing very good about shrinking that.
+But if you look at that $1.03,
+about 58% of that is compute infrastructure.
+So to me, I think about SpaceX, Google, and Amazon.
+So if I want to play,
+if I don't want to play Anthrop right now
+because of the liquidity, et cetera,
+to Jim's point about let it trade,
+SpaceX, Google, and Amazon,
+I think are three great ways to play this solidification
+of the cat-back spend that they're going to have
+over the next probably, like, five or six years.
+Yeah, they'll be able to pay the rent at least.
+Could I say, though, good on them
+for being willing to go through with this IPO,
+given everything else that's happening right now
+in this market?
+So you had the blue wave that scared everyone
+into thinking that, oh, my God, the AI trade is done.
+You had all of the nonsense happening with NVIDIA
+and still the open question of what are they going to do
+about their loudest champion, their biggest backer
+with hundreds of billions of dollars that have been spent
+from NVIDIA to prop up the AI trade.
+And normally, if we look at the VIX today,
+it's trading above 25, it's been trading above 25
+pretty much for the last two weeks.
+And the reason I point that out
+is because typically, historically,
+when the VIX starts to get above that level,
+a company will actually think about shelving its IPO.
+In this case, they decided
+not only are we going to still go out with it,
+but go out at the top end of our price target
+and smashed it.
+So I do appreciate the fact that they still
+were willing to look at that and say,
+this is our winner.
+It's a definite achievement.
+The unanswerable question is how much
+the impending anthropic IPO contributed
+to those conditions coming into their pricing of their deal.
+Let's now get to David Faber.
+He has early anthropic investor, Matt Murphy,
+of Menlo Ventures.
+David.
+Thanks, Mike.
+Yeah, Matt Murphy, who joined us a few weeks ago,
+happily with us again.
+Of course, I would assume a very nice day
+for you, Matt.
+We noticed you and a number of others, of course,
+in the pit there, awaiting the pricing
+or awaiting, I should say, the first trade.
+You started investing in this company back in 2023.
+It was a series C round.
+It was basically a pre-revenue valuation.
+I'm just curious.
+Take me back.
+It's not really that many years ago
+what you saw in the business model
+and or what you saw amongst the founders
+that gave you the confidence to say,
+this is a company you think can succeed.
+Sure.
+Anyway, good to see you again, David.
+Thanks for having me back.
+Sure thing.
+Yeah, it was early 2023.
+Basically, the company was pre-launch, pre-revenue,
+and that's when we committed.
+But it was very clear at the time
+that Dario was a special founder,
+he and Danielle, and the five other founders
+coming from OpenAI.
+It was kind of like one of those origin stories
+of founders that you like.
+They were all at OpenAI.
+They wanted OpenAI to focus on ChatGPT.
+It was focused on a lot of different things,
+and they said, this is the opportunity.
+We have such a burning desire to see this launch
+in the world that we're going to leave
+and start a company to do that.
+At the same time, they had developed models
+that were performant on benchmarks
+like Adder Better than OpenAI
+for like a hundredth the cost.
+And now you've seen some of that come out in the S1
+with what they call compute multipliers
+where they've gotten forex more efficiency
+over the course of the last year,
+and that was really one of the fundamental tenants.
+Best research team, amazing compute efficiency,
+and this market just opened it up.
+We always knew there would be more than
+one player in this market,
+and at the time, they were clearly just launching,
+so behind, but in a twinkle of our eye,
+we felt like this had the special sauce
+to be able to be the leader someday,
+and clearly that's played out.
+Yeah, hard to imagine.
+Did you really imagine that they would see
+10x revenue increases year over year over year?
+I thought that for the first couple of years,
+doing 10x at this kind of scale,
+it's like nothing we've ever seen before, right?
+I think Byron was referring to before to InternetWave,
+CloudWave, MobileWave, and all those felt really special
+and disruptive and fast,
+and this one is just growing at 10x or more faster than that.
+So, in aggregate, much bigger than all of those combined,
+and just how quickly companies in this ecosystem
+on the back of anthropic models
+are growing revenue is special.
+Another key reason they left of course OpenAI
+was they wanted to focus even more on safety.
+That continues to be something at least that
+Anthropic talks about a great deal.
+It's a public company now.
+You now own shares and you're a public shareholder.
+I'm just curious as to how you view that now
+and how you would view a decision they might make
+to hold back the latest model because of safety concerns,
+even if a competitor perhaps has a threat about pacing them.
+Yeah, I should have mentioned that before.
+One of the things that we were looking at,
+they were always very focused on trust and safety,
+and we thought that that would really stand out
+in enterprises, and that's played out
+by where Anthropic has by far the largest market share
+with over 55%.
+So enterprises care about a company
+that's really focused on trust and safety.
+I think it's not only good for enterprises,
+good for the market, but it's just fundamentally
+the mission they've been on,
+which is to deliver this technology safely
+to the world at large, and they're very committed to that.
+You hear Dario talk about it all the time,
+and I think it's a really good fundamental value
+to have when a technology is so powerful like this.
+Whether they have to hold models back and so forth,
+because of how quickly the models are getting smarter
+and that intelligence curve,
+it's really hard to say what the next frontier looks like
+and how much they'll have to adapt their velocity,
+but so far they've been responsible about it,
+and it's been great.
+Yeah, you know,
+given your knowledge of the founders
+who remain obviously and will remain in control,
+you know, I'm just curious.
+I mean, it's not hyperbole to say
+the future of humanity could depend
+in terms of some of the decisions they make.
+How comfortable are you with that, Matt?
+Well, I mean, I think AI has that risk in general, right?
+So you feel like it's a great thing
+that the leading company around this opportunity
+is one that's so committed to trust and safety,
+and knowing the founders as well as I do,
+it's very genuine.
+You know, there's all these kind of like side narratives
+around regulatory capture and things like that.
+I don't believe any of that.
+I know this is who they are, what they care about,
+and this is the mission they've been on for a long time.
+All right, as for you,
+I'm just curious as to what your approach will be.
+Obviously, you know, you started investing in 23.
+I know you were in the, led the series D.
+We did?
+Yeah, I mean, you invested in 25 in the E and F.
+You've been all along the way.
+You own a lot of, you know, good amount of shares.
+I don't know, can you share the number with us?
+I think it could be as much as 240 million shares.
+Is that appropriate, roughly right, or?
+Yeah, I mean, the aggregate position is around 25 billion,
+so, you know, clearly the most epic return
+for menlo ventures in our history
+and, you know, one of the top handful
+in the history of venture capital.
+So we feel grateful.
+We have over five LPs that we've delivered
+over a billion dollars of returns to,
+and at the end of the day, you know,
+that's really our job,
+is to get dollars back into foundations
+and endowments and things of that nature.
+So there's a lot of pride in being able to do that.
+But, you know, from here, I think, you know,
+we've just put ourselves in a great position
+as a firm to continue to invest in all things
+around, in AI, around the kind of heart
+and brain that Anthropic has created.
+So it's an incredibly exciting time.
+Yeah, well, right.
+I mean, in a career, if you get even one investment
+like the one you just described,
+you've got to be pretty happy.
+But I am curious.
+Very.
+Given the responsibilities you have to those LPs,
+are you going to be a seller?
+How do you approach it from here
+with the stock trading at 97 bucks or so?
+Well, we bought on the IPO,
+so that should be one indication of our confidence
+in what's ahead.
+So, you know, we haven't really thought about,
+you know, the distribution policy yet.
+We signed the extended lockup
+as one of the major investors.
+And so we'll take that on as it comes.
+But unquestionably, we're extremely bullish
+about the future of this company
+and what they're going to do
+to help change the world in a better way.
+So the last ARR number we got
+was around $81 billion.
+I believe that it's going to be significantly higher next year,
+I assume.
+Are we still going to see that 10X kind of increase
+over, you know, a period of 12 to 18 months?
+Is that even possible?
+I mean, it's hard to speculate on that,
+but law of large numbers eventually has to catch up with you.
+You know, Badaria has been the one every year saying
+that we can continue to compound at 10X
+and he's been right to date.
+But no forward guidance or projections from me,
+but I think in, you know,
+in that number that you mentioned,
+the ARR number that they just dropped,
+showed that there was like another, you know,
+$10 billion, $10 billion month.
+So that's a pretty healthy clip
+and extraordinary.
+You know, most companies take, you know,
+10 years to get to 10 billion
+and they added it in about a month.
+I think Google took like another, you know,
+15 years to go from 10 billion to 100 billion
+and Anthropic did it in like a year.
+So it's kind of crazy.
+It's all crazy.
+The fact that in less than six years,
+this company went from nothing
+to a $1.8 trillion valuation at present
+is also crazy.
+Matt, thank you for taking the time.
+I always appreciate it.
+Yeah, good to see you, David.
+Thank you.
+You're welcome.
+Matt Murphy, Menlo Ventures.
+Mike, send it back to you.
+David, thank you.
+We have seen the stock bounce off a 95 Anthropic.
+It did make that low.
+95 is closer to the IPO price
+than the opening price,
+which is $111.50 just to keep it in mind.
+Obviously, everybody involved
+wants to keep this supported.
+The overall market did have that
+high sharp sell off.
+Now it's trying to come off those lows.
+Surat, nobody on the desk here
+is putting orders for the IPO.
+It's necessarily owning it at these levels.
+But how do you think about the business
+and what price you'd want to own it
+or ancillary ways to address the same themes?
+Well, I think it's a great business.
+It's a frontier model
+and we know the demand is just going to be huge.
+But the other side to look at is when OpenAI
+and some of the other competition comes in,
+how big is this total addressable market?
+Is this the only way to play it?
+Can you play it kind of like through the SpaceX
+or some of the others with the Amazons of the world?
+So I think there's definitely opportunity,
+but like the rest of the people here,
+I'm kind of waiting and seeing to see how this all falls out,
+especially as they go through a quarter.
+What are the earnings going to look like?
+What is the competition going to look like?
+Because you don't really have this
+mode around their business like you do
+with some of the others.
+So I think it's a wait and see,
+great company,
+but at this price kind of just wait and see.
+I guess they would say the mode is the next model, right?
+It's like that much better.
+You know, they obviously have, you know,
+the coding is obviously very attuned to the next developments.
+And Malcolm, I guess where's it going to fit, right?
+Because I don't mean where's the S&P going to put it
+in a year when it puts it in the index
+in terms of what sector.
+But how is this going to fit within the mosaic
+of technology companies that are meant to be
+capturing this opportunity?
+Well, I think it depends on what you just said.
+So is it a model company or is it a product company?
+Is it a software company, basically?
+Because to Sarah's point,
+if they're just going to compete on who has the best model
+or the cheapest model, you become a commodity
+and you know what happens to commodity companies,
+you've got to compete on price and nothing else,
+which is not where you want to be as a company.
+It's not where your shareholders want you to be.
+But if they're continuously putting out products
+that are equally as good as like the ones
+that they have in the cybersecurity space,
+for example, or Codex, the ones that they have specifically
+for coding, we've heard conversation
+about them approaching now medical research
+as the next frontier.
+They've got all the different products that have come out,
+a co-work to compete with Microsoft's co-pilot,
+the productivity tools.
+So as long as they can continue to package products
+around all of the different options
+inside of those language models,
+then yes, I think there is some there there
+and they can continue to increase that sales number
+and hit that target quarter after quarter.
+But I think that's the real question.
+Are we supposed to see them as the frontier model builder
+or are we supposed to see them as the leader building products
+in the software sector still remains to be seen?
+Well, I mean, I think that this is such a new company
+that they are just getting started.
+Dario and Danielle and the other founders,
+I think they use more of their brain than most of us.
+They're incredible.
+He was at Google.
+They're just brilliant people.
+And so I think their ability to execute
+with what they've done in such a short period of time
+is incredible.
+And let's be clear here.
+When you put in documents and say create a PowerPoint,
+which is actually Microsoft,
+it just instantly creates it,
+but it's not using PowerPoint.
+And so I think from a software perspective,
+there's so much to do.
+They were brilliant going enterprise
+versus chat or open AI went consumer.
+And so within Microsoft,
+we use Microsoft system at the company.
+Co-work is an open choice.
+You can use chat.
+You can use the opus.
+And so they're already embedding themselves into enterprise.
+And so I think it's way too early to say
+it's over undervalued.
+I just think I looked at technicals.
+And there are no technicals yet
+because it started trading today.
+And so I think as an investor,
+you want to see where it settles out
+before you start taking a position.
+How does the market think about this stock
+and then you go into it?
+You also want to find out how well
+Dario and the management team
+can actually speak to Wall Street.
+Because Wall Street's got to learn
+exactly what are the adjustments to earnings
+that matter for this company.
+Because all these tech companies
+have their very nuanced ways
+that they adjust earnings.
+And that means something different to every analyst.
+But we've got to worry about, you know,
+a public benefit company
+thinks differently than all the other companies
+that end in INC that worry about
+shareholder returns first.
+By their own declaration,
+they're serving kind of higher masters
+in their own minds than investors.
+We'll see how that develops.
+We're going to get back to David Faber now
+with another early anthropic investor.
+Yeah, we've got two of them lined up.
+We're very happy to have Ravi Matri join us now.
+He's co-founder and managing director
+of Lightspeed Venture Partners.
+Again, one of the early investors in anthropic,
+going back to December of 2023,
+also having led the series E-Round,
+that was at a $61 billion valuation.
+A fair bit away from where we are right now
+at 1.8 trillion.
+Run rate revenue then was about a billion.
+Let me start there if I can, Ravi.
+What was it when you decided to make that investment
+that you saw in this company
+that gave you the confidence at least
+to think that it might be able to achieve great things?
+Yeah, David, thanks for having me.
+The thing that struck us from the very beginning
+with anthropic, it wasn't a particular piece of technology.
+It really was the team and the founders.
+They were incredibly technically smart, as people have said,
+and very mission-aligned,
+consistently from the beginning until this day
+on wanting to build the most powerful intelligence
+but do it with safety.
+And safety means different things to different people,
+but it's all about models
+where humans will always be in control,
+where we understand in detail
+what the systems are doing and why.
+And so that mission with this set
+of really technically exceptional people,
+we believe that was going to be super important
+to how AI developed in our economy and for society.
+And I think looking back today,
+we see that that vision was super important
+for building these powerful AI systems.
+Yeah, they had the correct vision
+and they obviously still talk a great deal about safety.
+I brought this question up with a number of other investors.
+I'll ask you as well.
+As a public company now,
+that tension that's going to exist
+between whether they choose not to perhaps
+deploy a new model because they don't think it's safe enough
+while they watch competitors
+not choose to do something like that.
+How important is that to you?
+How much do you think as a public company
+will have to respond to the needs that its shareholders have
+to see them grow and grow as fast as possible?
+I actually think for AI technology
+and AI as an industry overall,
+it's extremely important that we have
+large frontier intelligence companies
+operate as public companies
+because it ups the standard for transparency,
+for reporting and for governance.
+And I think today actually,
+it marks a very important milestone for the industry
+and I think it's excellent that Anthropic
+is able to lead the way
+in terms of being a company
+that has to operate to a new standard
+of governance and transparency.
+I think previously they've also set the example
+around safety by inviting independent inspectors
+to come in and see how they develop models.
+So all of this, if we're going to have AI
+as this really powerful force in our society
+that needs to exist with the way we
+humanity live, we need institutions
+to be able to trust the technology
+and I think Anthropic is leading the way
+and I think being a public company
+is an important step and a way to set the example
+for how AI technology companies need to exist
+and need to grow.
+Yeah, I mean it is a public benefit company
+which is not something we often see.
+Is that the structure you're happy to see?
+I think it's the right structure
+given how existentially important
+artificial intelligence will be
+to how we live at every level.
+Yes.
+All right, and you know in terms of the future
+for the company.
+Just the guiding principle I think.
+Yeah, go ahead Robbie.
+Yeah, guiding principle I think with the founders
+and the way they manage and lead the company.
+The question they always ask first is
+not can we build this technology in this way
+but should we build this technology in this way?
+And if you start there and try to really be
+thoughtful and considerate about answering
+the question of should we build it
+you then get to okay how are we going to
+execute and build and I think again
+at the frontier for the truly powerfully intelligent
+technologies that we build
+and to operate them in a responsible, safe way
+I think you have to start with that question
+and it is a little different than in a pure
+market-based system where you say well
+can I build it?
+Can I just get it to market?
+Can I sell it?
+I think again the mission from the very beginning
+and what we see today with Anthropica
+in terms of you know how they show up
+in the marketplace is very consistent with that.
+Yeah.
+What are your expectations from here?
+And I ask that also wondering whether
+are you going to hold on to what obviously
+is an incredibly profitable position for you
+or are you going to start to sell?
+Our view on the company has always been
+about the long-term trajectory
+and again I would say with respect to
+what Anthropica generally
+where artificial intelligence
+frontier intelligence where we've really
+gotten to it is very early
+our belief is in the unlocks
+and the benefits that
+that AI will deliver to
+society and to the economy where
+we haven't even seen really
+some of the big changes that will happen
+in medicine and how
+medical care is delivered
+in the hard sciences.
+Dario Modi calls this the compression
+of the 21st century
+and I think in the next year to two years
+we will start to see the frontier
+the most powerful artificial intelligence
+solve problems that
+I think people would have thought
+were either impossible or would have taken
+decades to solve.
+You know like curing cancer
+so I think we're again
+speaking to the long-term durability of growth
+and the value that companies
+like Anthropica will have
+I think we are just very early
+in again value accretion
+and the impact we will ultimately see
+from Anthropica as they deliver
+more of their technology.
+Alright well and again
+you talk about that compression at time
+I mean recursive self improvement may not
+be that far away.
+Is that a positive moment for this company
+or should we all be concerned overall
+for what that's going to mean for humanity
+when the machines take over training themselves
+to do the next model?
+Again recursive self improvement
+there are aspects of that
+where safety technology
+the understanding of alignment technologies
+of interpretability things where
+Anthropica has been a pioneer in technical innovation
+those will be critical
+technologies to have
+if AI companies
+are going to develop
+RSI systems and so again
+I think this importance of operating
+as a company with high transparency
+and safety standards
+being a public company with high standards
+of governance and accountability
+as we get to the age of recursive self
+improvement in AI
+I believe we must
+any company building RSI capable
+systems must operate
+in this way so that the public
+can have confidence that we are
+again building responsibly
+artificial intelligence technologies
+in a way that we're going to all want
+to have this for the benefits
+without some of the
+serious risks.
+Yeah obviously that conversation to be continued
+and certainly there's plenty of public concern
+around it. Ravi appreciate you're joining us
+congrats obviously on a great investment
+as well thank you.
+Yeah thanks for having me.
+Ravi Matri from Lightspeed Mike send it back to you.
+All right David thank you very much
+just past the bottom of the hour
+it has been open for trading for nearly
+45 minutes let's get back to Leslie
+Picker for an update lesson.
+Hey Mike you could see it was up about 22%
+from that IPO price of
+$83 a share but down about
+9% from its first
+trade as you mentioned about 45 minutes
+ago where it opened at $111
+and 50 cents
+so at current levels it is back below
+that $2 trillion
+fully diluted valuation
+it did open above
+$2 trillion fully
+diluted valuation so we'll keep an eye
+kind of where they are in terms of valuation
+and where they are in terms of trading
+just as another case study
+this is obviously the largest IPO
+of all time but it
+took the torch from SpaceX
+which went public just back in June
+which then was the largest IPO
+of all time by a long shot of course
+at the time raising 75 billion
+ultimately raising about
+86 billion including that over allotment
+and kind of thinking back to that day
+its stock opened only about
+say 10% or 11% higher
+and then continued to move higher
+from there anthropic moved higher
+it's come back a bit but obviously
+the trading day is still young so we'll
+see what happens on that front and then of course
+given what's going on in the
+broader market environment you could
+kind of expect maybe a little bit of
+pressure on this new issue as
+IPOs are often seen as
+kind of the riskier end of the spectrum
+of the types of stocks you would invest
+Yeah Leslie, thank you for that
+and I continue to say like Jim
+it's impossible to chicken or egg this
+thing in terms of
+whether the
+which we saw down in the indexes
+after this deal started to trade
+was because of it
+or despite it or having nothing
+to do with it but nonetheless
+we have come off the lows but the rest
+of the market is still in this unsettled condition
+that we've been in for a little while
+a handful of things obviously
+the whole semiconductor trade
+nobody's quite sure
+what to believe in terms of next year's
+trajectory, a 2028 trajectory
+you had the story on AMD
+come out from Hunterbrook this morning
+it's kind of a news operation attached
+to a short selling hedge fund they've had
+others in the past alleging some
+AMD China ties that might need
+scrutiny whatever the reason
+AMD's down, Nvidia made a new low
+the rest of the market is trying to
+the horses here. Yeah and so if we
+talk about the rest of the market and
+the impact of Anthropic obviously we're
+talking so far about the share price of Anthropic
+the valuation, what it means for that business
+but I think there's one fundamental
+aspect that we may not have talked enough about
+which is that there's approximately
+$250 billion of cash
+on the balance sheet in Anthropic
+and I ask rhetorically where does that
+cash go, I think we all know the answer
+it goes into the continuing build out of the AI
+infrastructure which has been
+reasonably questioned over the last few weeks
+as you just set up the question
+Mike that hey you know if we're going to have China
+restrictions not just direct sales to China
+but export restrictions that go
+through Singapore and other Asian countries
+maybe there's going to be a slowdown
+in the build out of the AI infrastructure
+and I quote Torsten Slok from Apollo today
+who says that two thirds of recent GDP
+growth has been on the back of AI
+infrastructure growth so this is
+important and I submit to you
+that $250 billion is a lot of money
+to spend it says nothing
+of the roughly $1.2 trillion
+that the large hyperscalers have committed
+over the coming year to spend
+my point being this, yes China is a real
+risk and the news on AMD today
+is concerning however
+the bigger picture is there is a lot of cash
+that's about to flow through this AI
+infrastructure. That is true
+although I wonder Serad if that was
+just table stakes in other words
+somebody was going to pay it if the
+companies were going to earn what
+they expected to earn next year and the year after.
+Now we have confirmation okay
+they're good for it. Well on the other
+side of it is and you kind of
+mentioned it before
+Anthropic doesn't have to go to the credit markets
+the credit markets were telling
+us hey what is going
+on here because yields were really starting
+to get wide so I think with
+companies like Anthropic and the hyperscalers having
+the cash at least on the demand
+side you're not going to have to worry
+about where is that capital going to come from
+the question is going to be
+do we have enough chips
+is it going to be more
+than we need now just because you don't
+have the other customer on the far east
+and are we going to surplus
+mode at some point or are we going to keep
+up with it and there's going to be demand and right now
+the markets telling you that
+probably we have too many but we'll
+have to see what 29 30 earnings
+look like and we're just too early for that
+that's a really big customer though you're not
+just talking forget China for a second
+they're proposing like
+you can't get chips unless you go through
+X Y and Z
+in all these Asian countries
+right and so how much obviously
+the Nvidia story stop putting the Singapore
+numbers in there how much and you look
+at to Jim's two thirds of GDP growth
+it wasn't the building of the
+data centers it was the guts inside
+that is the growth the semiconductor
+and the equipment that is that two thirds
+and so we'll see if there are
+those restrictions that come out
+in Asia that that we are we are putting
+those restrictions how does that actually
+impact impact GDP we'll see
+to Sirot's point though yes they don't
+need to access the credit markets I'll bet
+they do how long I'll bet
+I'll bet they do it regardless
+but the beauty is right hand because they have
+the cash yeah and remember SpaceX did it
+right after the IPO so
+if they raise I'm just making this up
+50 billion in debt and what are the
+credit spreads going to be what's moody's
+going to say versus 250 billion of cash
+on the balance you guys it's pretty good credit risk
+so they'll get this off and they'll be walking around
+with a pretty fat wallet Tim you
+looked at me like I was going to lend them the
+50 billion dollars
+I hold you in high esteem my friend
+I appreciate you holding my wallet in such
+high esteem I would point to the fact though
+that they're expected to spend
+70 billion dollars in just the first
+three quarters of next year on
+all of the equipment that we're talking about
+so that run rate I mean the cash that
+they're raising today a hundred billion dollars
+over it ultimately ends up being that sounds great
+but those dollars are already
+spoken for that's next year's spending
+and then what are you going to do the year after
+because the anticipation is you got to be able to
+keep 10 xing everything year after
+year to keep on this trajectory well the hope
+obviously is the revenue start to come in
+and can cover a part of that but
+that's that's the fun part of debating
+how the model is going to
+evolve from here I do think we have to look
+you know outside of this silo of the
+market because you know
+we have had things going on besides tech which is
+you had some hawkish fed speak
+you have the dollar has been
+ripping yet commodities have been weak
+this sense of financial conditions tightening
+have been kind of around the edges of the
+stock market and even the banks are down a couple percent
+Morgan Stanley Goldman Sachs are down a couple percent today
+so I wonder
+brain if that means you know there's
+a macro side of things that
+we have to at least listen for
+well the waller comments
+which is you is making these comments
+to me are insane like if you
+to Jim's point two-thirds of GDP growth
+is what is AI
+spending anthropic I promise you
+doesn't care about fed funds rate neither
+just Google or meta but you know what we look
+at commercial real estate we look at housing
+they're like dying on the vine like housing
+is locking up a 50
+basis point hike just is
+so punitive to the real economy that's
+not AI and so
+I think that the federal though
+they're very academic actually when
+they look at the real economy I would be surprised
+if they did that because nothing that
+they can do from the feds blunt instrument
+will do anything to take
+diesel prices down from the war
+to take and help housing so
+I think you also have with the banks
+you know Elizabeth Warren's gonna have a lot
+of a lot of power
+as head of Senate you know banking
+banking committee and so I think that
+just like understanding what's on her hit list
+next year is really important from credit card
+caps from the banks etc so
+I think there's a lot of macro things to
+how to digest and that's probably part of what's going
+on in the market I mean I know that the fed might
+say you know getting the stock market down
+Titans financial conditions to and we actually
+had a little bit of a panic about AI
+catbex and could it would it be sustainable
+even though they don't really care about
+the absolute rate so I wonder
+how that's going to play out in Surat
+outside of this area has the market
+been kind of serving
+things up to you in terms of saying
+okay now we have value creation well I
+think if you look at true cash flow
+companies some of them have kind of sold off
+at this point I mean one we just started buying
+and I know Jim you've been in and out of it is
+Boeing right Boeing has said in 2029 we're
+going to have 10 billion of free cash flow
+and it's going to grow from there stocks
+down 25% right nobody really cares what happens
+in commercial or defense at this point
+you know it's a good entry point for us to
+kind of buy a very high quality company
+with a new leader not so new anymore
+and a new management team so you know we like
+that kind of story we like a waste connections
+you know in the disposable
+garbage area right that's a company
+that raises prices 5.5% a year
+they're going to grow by acquisition trading at
+15.5 times earnings when historically
+traded 18 times so you've got this capital
+kind of moving out of what we think
+are high quality cash flow companies
+and as rates keep on going high if
+they do investors at some point
+will say hey I want cash flows nearer
+to kind of today than I want
+future unless I'm getting the hyper growth that you're
+seeing in the anthropics so I think having
+a mix of these in your portfolio is good
+especially when you get some of these on sale
+and then you can kind of deploy capital
+in there as well. One
+stock speaking of cash flow companies
+that have traded away from
+AI Apple is down
+you know 70 basis points it's not down
+much but it was kind of
+again acting as a counterweight
+to the rest of the market
+you have Jonathan Kikrinski at BTIG
+looked at the times when Apple was near and all
+time high and the S&P was below a 200 day
+average and the history says
+there's a little bit of give back on the way.
+Well it's been quite a beneficiary
+this whole year of all
+the concerns about capital expenditures
+and debt financing
+in the rest of the technology space this
+as we've talked about ad nauseam I'm sorry
+to repeat this but this has been very
+capital light they have not had to raise
+anything and they've been buying back shares
+I will say just so that everybody's
+clear I think this is
+way overpriced at this point in time
+I trimmed it by half a couple of quarters
+ago it's a little bit above where I trimmed it
+so right now I don't look that good but
+I have a pretty good feeling that I'm going to be buying
+that half back at lower prices
+it's just a valuation question we know
+Apple's terrific I'm not going to go into
+whether it's a cycle or a super cycle
+are they getting AI right or not
+we have a lot of these dumb things
+okay across the globe they're going to print
+money for a long time it's just a little
+too expensive right now. Malcolm
+we assume anthropic
+it's a massive disruptor it's going to disrupt
+some things one thing the market doesn't
+think is part of that is
+security software good numbers
+from Palo Alto last night
+and for once the market didn't sneeze at the results
+it's up five or six percent so
+I don't know if that's an area that you think
+you know even though it's beloved as an
+opportunity or even broader software
+it's more likely to be a helper than
+a hindrance to the cyber security firms at
+least the ones that sit at the top the
+standalone ones your Palo Alto's
+outstrikes even Zscaler which is much
+smaller in market size but it also
+has a pretty large platform
+by comparison to the single product
+companies there's also the ones that
+focus specifically on identity management
+like an octa for example cyber
+art got taken out of the market
+by a Palo Alto not that long ago so
+there's not a ton of them left in that space
+but I point that out because these companies
+I think are going to be helped
+by Claude more than they're going
+to be hindered by it simply because
+it's great right now at pointing out
+where the vulnerabilities are it's not
+as great at helping you figure out
+how to patch the vulnerabilities and
+until they close that gap which isn't
+impossible but it does continue
+to allow these companies to operate in
+this space the way that they do at a
+time where all of the larger
+enterprises have gotten
+religion around the importance
+of spending on cyber defense
+and so the TAM is growing
+at a time when we're talking about
+are they going to have increased competition
+which means that there is space for everybody
+to win yeah obviously a lot
+of boards are asking to make sure
+that you have somebody on the
+case he can't just be well we'll see if the
+model can fix it on its own right so
+we'll see how that plays out from here we're going to take
+a quick break now much more on
+the historic anthropic IPL
+right with the discovered
+cashback card it's payback time
+when you earn cashback on everyday
+purchases activate and earn
+5% cashback at different categories
+each quarter on up to
+$1500 in purchases
+that's 5% cashback at different
+places each quarter like grocery stores
+on gas and at restaurants
+it pays to discover terms
+applying see discover.com
+slash 5 for details
+time for a quick break to talk about McDonald's
+they say breakfast is the most
+important meal of the day McDonald's
+thinks so too right now get a sausage
+McMuffin with egg extra value meal
+$5 including a sausage McMuffin
+with egg hash browns and a small
+coffee that's right just $5
+for all of that this deal
+might be the best part of your morning save
+time by ordering ahead in the app at
+participating McDonald's promotion pricing
+maybe lower than meal pricing still
+wearing the same old underwear chances
+are it's time for an upgrade start
+with Tommy John a 2026 men's
+health editor's choice and best
+men's underwear experience exceptionally
+soft fabrics a fit that
+moves with you and all day
+comfort across our premium underwear
+sleepwear and loungewear one less gift
+to worry about one more reason
+to treat yourself own gifting
+season with 40% off site
+wide at Tommy John dot com slash
+sxm and use code sxm
+let's get to today's options
+action Oliver rena joined us from
+Sebo global markets in Chicago
+Oliver good morning good afternoon
+hey Mike couple big
+things on anthropic here first is
+that this is a pretty big eye
+opener for the utility of pre IPO
+perpetual contracts which were
+persistently pricing a 20 to 30%
+higher value for anthropic
+then the IPO was indicating
+and when that IPO price
+jumped this morning to above $80
+the perps jumped to 100
+then 105 and then the stock
+opens right at 110
+so really the perps
+pretty much hit the bull's eye the
+second thing is that the bigger this
+pot the more it seems the market has
+struggled both the broad
+S&P 500 and space X today
+in particular so it seems
+this roughly 80 to 85
+billion dollars of supply might be
+something more like a zero sum game
+than a catalyst for animal
+spirits but when it comes to
+gauging what could happen in the
+future and volatility for the stock
+Monday you might start to get some
+answers options will likely start
+trading then according to my
+understanding but with 40 billion
+dollars of stock and ants already
+changing hands roughly in the first
+hour or so of trading that was
+more than spy and cues combined
+you take that combine it
+with vixx which just hit a high
+of almost 29 and it looks like
+this is going to be a big and
+wild ride for the time being
+yeah for sure
+Oliver really appreciate that and
+Brent obviously them
+the stock has not shown
+tendencies yet in terms of
+volatility in terms of how it's going to
+trade but if you have options on
+Monday how would you utilize
+well I you know I love I sell
+calls buying buying
+options most of them go to zero
+I think it was going to be huge
+volatility I think you know I like to
+go out three months I think you can
+create a really nice income stream
+off the volatility of this stock I
+also think when when Dyer starts
+talking he does have some things
+like the AI ecosystem that will also
+I think increase the volatility and
+be good for sellers of call like
+myself yeah we are showing the
+vixx and then Ali mentioned we got
+up above like 29
+you know in the mid
+20s it's kind of like
+the area you don't want it to
+be in right Jim I mean it's
+basically it means it's very choppy
+everyone's on edge but it's not
+some kind of crescendo of fear that often
+makes a spike and makes you want to buy
+the markets in gear and it's
+placid below 20 I mean it's funny the
+way you phrase that because as you said
+mid 20s is where you don't want it to
+be perversely you kind of do want it
+to be there and you've been talking
+to be passing through there you don't
+want to hang around hang on I'm not
+I'm not calling you out I'm actually
+going to give you a you know pat on
+the back here because for quite some
+time Mike you've been talking about
+this market needs a washout it needs
+a capitulation you've said this for
+someone does need one and you kind
+of want to get the VIX out of the way
+here get it above 25 which is that
+line in the sand where you feel like
+it's going too far again you look at
+the macroeconomic picture here and
+things can change but right now things
+are looking pretty good you look at
+what companies are reporting of course
+things can change but things look pretty
+good get the VIX above 25 get it
+out of the way let's get this washout
+done and move on we were starting
+to get the 2027 you know
+and nobody's deterred
+I mean as far as I can tell everyone
+is feeling like you can extrapolate
+yeah decelerating earnings but
+that should support the market and
+everyone's kind of mid-80
+mid-8000s for the S&P I mean
+Surat do you want to see people getting
+more negative you know
+to Jim's point like
+we this is a correction we really
+haven't seen in a while it's like a
+slow drip and you get people coming
+in now anthropics giving some people
+optimism but I do think you need
+a little flush where
+then people kind of say hey maybe
+it shouldn't be in the market and that's
+kind of the time that like we like to be in
+the market so you haven't seen a lot of
+that lately but that's kind of what we look
+for I mean arguably we might have gotten
+it you know an hour ago but not a major
+one but with AI stocks are down 30 40
+and 50 percent by some and you have
+seen a huge more than a flush at
+the underneath the overall
+is still down about five but within
+sectors that have kind of peaked and
+they come down financials for example
+you know even some of the other ones that
+were leading before commodities have come
+down you look at copper stocks they have
+all come down to 40 percent. Also somehow
+we haven't talked about Bitcoin at all
+this entire time which has been down
+more than 20 percent over the last month
+which is usually the leading indicator
+of the fear and greed index for the retail
+investor so maybe the reason is because
+I've had to sell through my Bitcoin
+position in order to come up with money
+for the exact same crowd but it is
+telling that all of a sudden we see
+Bitcoin start to trade down the rest
+of all of the momentum stocks are trading
+down and now we're having the question
+of why is the VIX spiking and how long
+is it going to stay above. You know what's
+traded really tight with Bitcoin in
+the last six months is Nvidia because
+they're both just kind of like the same
+type of investor would have found their
+way to both of those things of course
+Nvidia used to be kind of a crypto play
+directly and you know you've been
+down the low as I
+mentioned earlier from last Thursday I
+guess it was just under 149 so
+Nvidia kind of bumping along
+the bottom here as well. We're going
+to step away here for just a moment more on the anthropic
+IPO plus our final trade
+when we come back. With the Discover
+Cashback card it's payback
+time when you earn cashback on everyday
+purchases. Activate and
+earn 5% cashback at different
+categories each quarter on up to
+$1500 in purchases
+that's 5% cashback at
+different places each quarter like grocery
+stores on gas and at restaurants
+it pays to discover terms
+applying see discover.com
+slash 5 for details.
+Time for a quick break to talk about McDonald's
+they say breakfast is the most important
+meal of the day. McDonald's thinks so too
+right now get a sausage
+McMuffin with egg extra value meal for
+$5 including a sausage
+McMuffin with egg hash browns and a
+small coffee that's right just $5
+for all of that. This deal
+might be the best part of your morning
+save time by ordering ahead in the app
+at participating McDonald's promotion pricing
+maybe lower than meal pricing. Still
+wearing the same old underwear chances
+are it's time for an upgrade
+start with Tommy John a 2026
+men's health editor's choice in best
+men's underwear experience exceptionally
+soft fabrics a fit
+that moves with you and all day
+comfort across our premium
+underwear sleepwear and lounge wear
+less gift to worry about one more
+reason to treat yourself own
+gifting season with 40% off
+site-wide at TommyJohn.com
+slash SXM and use code
+SXM. We are back. Let's get
+another check on anthropic
+you see it right now 97 and a quarter
+they're about to opened up at
+111 50 obviously
+price the IPO less than $83
+hit a low in late
+morning of $95 and
+five cents are still closer to the low
+highs and the high so far
+on the day was 115
+bucks we also I have the Dow Jones
+industrial average up there it's down
+800 points 1.6% we've now cracked
+below the 50,000
+point mark for the first
+time in some while
+we're going to get some final trades though right now
+it starts right I'm going to stick with Boeing
+I think it's a great place to start accumulating
+Disney
+you know had a good report earlier this week
+and the stocks had a bid to it for the last couple
+of weeks I think you respect that
+all right Malcolm not a Dow stock
+no allow me to be the first
+committee member to make A&T their final
+trade excellent at this price we're just
+market order right there you go
+and Brent Google 30%
+office highs I think it's been too much
+30% off its highs huge exposure
+to anthropic got its
+own stuff going on with Gemini we'll see
+how it goes from here we should also
+point out meta has down about a percent
+and a half it's now eclipsed in
+market cap by anthropic
+in total deluded
+market cap anyway which is kind of remarkable
+it's going to 300 billion of revenue
+next year that's going to do it for halftime
+thanks to all the exchange picks up
+our continuing coverage of the anthropic IP
+up you've been listening
+to CNBC's halftime report
+the podcast you can always
+catch us live weekdays at 12
+Eastern only on CNBC
+all opinions expressed by the halftime
+report participants are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates and may
+have been previously disseminated by them on television
+radio internet or another medium you should
+not treat any opinion expressed on this podcast
+as a specific inducement to make a particular
+investment or follow a particular strategy
+but only as an expression of opinion such
+opinions are based upon information the halftime
+report participants consider reliable but
+neither CNBC nor its affiliates and or subsidiaries
+warrant its completeness or accuracy and
+it should not be relied upon as such to view
+the full halftime report disclaimer please visit
+CNBC.com forward slash halftime report disclaimer
+time for a quick break to talk
+about McDonald's they say breakfast
+is the most important meal of the day
+McDonald's thinks so too right now
+get a sausage McMuffin with egg extra
+value meal for $5 including
+a sausage McMuffin with egg
+hash browns and a small coffee that's
+right just $5 for all of
+that this deal might be the best
+part of your morning save time by ordering
+ahead in the app at participating McDonald's
+promotion pricing may be lower than meal
+pricing
