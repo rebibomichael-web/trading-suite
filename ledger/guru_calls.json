@@ -130,6 +130,7 @@
   "9rlva6saGbE",
   "9uo2zqB8VgQ",
   "9uoEOtH2c7E",
+  "9zMuMbwSYQg",
   "A5_uBkxvm48",
   "AGU3crkFaLE",
   "AIG65fkrKMU",
@@ -198,6 +199,7 @@
   "GKVEU-s9yS8",
   "GLEk8b1zi3w",
   "GuxKs3iYyj0",
+  "H05-AIffjAE",
   "H0nGbLqLw30",
   "HBjOLbhdEdo",
   "HEIJUNeiLKo",
@@ -319,6 +321,7 @@
   "SKrGZWgnH1A",
   "SMY-YeCmF5A",
   "SZukzE9AQco",
+  "SZyJAmR11Iw",
   "SdC-Eh2Irwk",
   "SiTdlq7CuDQ",
   "SrJU7v5w4QM",
@@ -482,6 +485,7 @@
   "hhYN7ur8zlw",
   "hofF_VadCw0",
   "huQcTKcEHys",
+  "i11aiYt-z40",
   "i5Jjxu4Adnc",
   "i5fNFF32guQ",
   "i6lOe2ZN5gw",
@@ -581,6 +585,7 @@
   "qLh6YxlxIYM",
   "qOpwbmLHQ9k",
   "qQUiGv95gnY",
+  "qUtbnjJap3Y",
   "qmoVVZKoLwI",
   "qoh_rrgcUQ4",
   "qtZuKb9eXWk",
@@ -33088,6 +33093,10 @@
     "14d": {
      "pct": -13.99,
      "win": false
+    },
+    "21d": {
+     "pct": -26.83,
+     "win": false
     }
    }
   },
@@ -33112,6 +33121,10 @@
     },
     "14d": {
      "pct": -13.99,
+     "win": false
+    },
+    "21d": {
+     "pct": -26.83,
      "win": false
     }
    }
@@ -34465,6 +34478,10 @@
     "14d": {
      "pct": -6.79,
      "win": false
+    },
+    "21d": {
+     "pct": -6.71,
+     "win": false
     }
    }
   },
@@ -34959,6 +34976,10 @@
     "14d": {
      "pct": -6.79,
      "win": false
+    },
+    "21d": {
+     "pct": -6.71,
+     "win": false
     }
    }
   },
@@ -34983,6 +35004,10 @@
     },
     "14d": {
      "pct": -6.79,
+     "win": true
+    },
+    "21d": {
+     "pct": -6.71,
      "win": true
     }
    }
@@ -35009,6 +35034,10 @@
     "14d": {
      "pct": -6.79,
      "win": false
+    },
+    "21d": {
+     "pct": -6.71,
+     "win": false
     }
    }
   },
@@ -35034,6 +35063,10 @@
     "14d": {
      "pct": -6.79,
      "win": true
+    },
+    "21d": {
+     "pct": -6.71,
+     "win": true
     }
    }
   },
@@ -35058,6 +35091,10 @@
     },
     "14d": {
      "pct": -6.79,
+     "win": false
+    },
+    "21d": {
+     "pct": -6.71,
      "win": false
     }
    }
@@ -35163,6 +35200,10 @@
     "14d": {
      "pct": -6.79,
      "win": true
+    },
+    "21d": {
+     "pct": -6.71,
+     "win": true
     }
    }
   },
@@ -35188,6 +35229,10 @@
     "14d": {
      "pct": -6.79,
      "win": false
+    },
+    "21d": {
+     "pct": -6.71,
+     "win": false
     }
    }
   },
@@ -35212,6 +35257,10 @@
     },
     "14d": {
      "pct": -6.79,
+     "win": true
+    },
+    "21d": {
+     "pct": -6.71,
      "win": true
     }
    }
@@ -35375,6 +35424,10 @@
     "14d": {
      "pct": -21.39,
      "win": false
+    },
+    "21d": {
+     "pct": -37.8,
+     "win": false
     }
    }
   },
@@ -35399,6 +35452,10 @@
     },
     "14d": {
      "pct": -21.39,
+     "win": false
+    },
+    "21d": {
+     "pct": -37.8,
      "win": false
     }
    }
@@ -35692,6 +35749,10 @@
     "7d": {
      "pct": -4.7,
      "win": false
+    },
+    "14d": {
+     "pct": -4.61,
+     "win": false
     }
    }
   },
@@ -35713,6 +35774,10 @@
     "7d": {
      "pct": -4.7,
      "win": false
+    },
+    "14d": {
+     "pct": -4.61,
+     "win": false
     }
    }
   },
@@ -35730,7 +35795,12 @@
    "video_title": "#TSLA REBOUNDS \u2014 CAN BUYERS PUSH THROUGH $385.17 OR WILL THE RALLY FADE? #Tesla #daytrading",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -35746,7 +35816,12 @@
    "video_title": "#TSLA REBOUNDS \u2014 CAN BUYERS PUSH THROUGH $385.17 OR WILL THE RALLY FADE? #Tesla #daytrading",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -35762,7 +35837,12 @@
    "video_title": "#TSLA REBOUNDS \u2014 CAN BUYERS PUSH THROUGH $385.17 OR WILL THE RALLY FADE? #Tesla #daytrading",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -35778,7 +35858,12 @@
    "video_title": "#TSLA REBOUNDS \u2014 CAN BUYERS PUSH THROUGH $385.17 OR WILL THE RALLY FADE? #Tesla #daytrading",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ORCL",
@@ -35815,7 +35900,12 @@
    "video_title": "$ALAB: The Smart Money Buy Zone That Could Trigger Another 400% Rally",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.12,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "ALAB",
@@ -35831,7 +35921,12 @@
    "video_title": "$ALAB: The Smart Money Buy Zone That Could Trigger Another 400% Rally",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.12,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "SPY",
@@ -36845,7 +36940,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 11th, 2026",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -36861,7 +36961,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 11th, 2026",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -36877,7 +36982,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 11th, 2026",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -36893,7 +37003,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 11th, 2026",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "WING",
@@ -36909,7 +37024,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 11th, 2026",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.29,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AVGO",
@@ -36946,7 +37066,12 @@
    "video_title": "4x Waymo In Texas... And Vegas Is Next",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 0.09,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "AMD",
@@ -37645,7 +37770,12 @@
    "video_title": "Everyone\u2019s Scared of NVIDIA. That\u2019s the Opportunity.",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -7.95,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -37661,7 +37791,12 @@
    "video_title": "Everyone\u2019s Scared of NVIDIA. That\u2019s the Opportunity.",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -7.95,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -37677,7 +37812,12 @@
    "video_title": "Everyone\u2019s Scared of NVIDIA. That\u2019s the Opportunity.",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -7.95,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -37693,7 +37833,12 @@
    "video_title": "Everyone\u2019s Scared of NVIDIA. That\u2019s the Opportunity.",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -7.95,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -38003,7 +38148,12 @@
    "video_title": "Is It Too Late to Buy ZETA Stock After Earnings?",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.36,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "ZETA",
@@ -38019,7 +38169,12 @@
    "video_title": "Is It Too Late to Buy ZETA Stock After Earnings?",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.36,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "ZETA",
@@ -38035,7 +38190,12 @@
    "video_title": "Is It Too Late to Buy ZETA Stock After Earnings?",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.36,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "ZETA",
@@ -38051,7 +38211,12 @@
    "video_title": "Is It Too Late to Buy ZETA Stock After Earnings?",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -4.36,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "MRVL",
@@ -38598,7 +38763,12 @@
    "video_title": "Mark Newton QQQ Downtrend",
    "date": "2026-11-10",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -2.64,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -40254,6 +40424,262 @@
    "video_id": "pN2tMj956g4",
    "channel": "Traders Helping Traders",
    "video_title": "The Problem With IREN\u2019s Fundamentals (And Why I\u2019m Still Trading It)",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 350,
+   "stop": null,
+   "target": 400,
+   "horizon_days": 35,
+   "quote": "3 to 5 week framework is two-sided where you can buy the low 350s and sell the low 400s",
+   "video_id": "9zMuMbwSYQg",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA BEWARE THE BOUNCE \u2014 MAJOR RESISTANCE STILL AHEAD #Tesla #daytrading",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 374.3,
+   "stop": null,
+   "target": 385.83,
+   "horizon_days": 5,
+   "quote": "This is still a solid day tradable area. Buying 7430, selling 85.83.",
+   "video_id": "9zMuMbwSYQg",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA BEWARE THE BOUNCE \u2014 MAJOR RESISTANCE STILL AHEAD #Tesla #daytrading",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 363.46,
+   "horizon_days": 5,
+   "quote": "So that's a 3 to 5day sell signal with a settlement below 36346. You can anticipate 34340 to 5105 area within 3 to 5 days.",
+   "video_id": "9zMuMbwSYQg",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA BEWARE THE BOUNCE \u2014 MAJOR RESISTANCE STILL AHEAD #Tesla #daytrading",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 550,
+   "horizon_days": null,
+   "quote": "if we can close above this 41081 4205 area at the end of a week then we enter a long-term buy signal. Everything flip-flops and we play the long side of the market into the 550s.",
+   "video_id": "9zMuMbwSYQg",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA BEWARE THE BOUNCE \u2014 MAJOR RESISTANCE STILL AHEAD #Tesla #daytrading",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 385.83,
+   "stop": null,
+   "target": 410.81,
+   "horizon_days": 5,
+   "quote": "if we close today above 38583 and you're a 3 to 5day swing trader, you can go long to 41081.",
+   "video_id": "H05-AIffjAE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 363.46,
+   "horizon_days": 5,
+   "quote": "you may still be short following the settlement below this area earlier in the week. Hang on for uh 36346. That is the 3 to 5day tempo right now.",
+   "video_id": "H05-AIffjAE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "exit",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": 5,
+   "quote": "if we do close below 363.46, I do think this 34398 to 35105 area is likely within just another probably 3 to 5 days. This is a zone to cover short positions.",
+   "video_id": "H05-AIffjAE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 351.05,
+   "stop": null,
+   "target": null,
+   "horizon_days": 35,
+   "quote": "buying 35105 all the way down to 34398. Both of which can hold through the month of December.",
+   "video_id": "H05-AIffjAE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 410.81,
+   "stop": null,
+   "target": null,
+   "horizon_days": 21,
+   "quote": "this is more like two to three weeks selling 41081 all the way up to 42180",
+   "video_id": "H05-AIffjAE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 267.3,
+   "horizon_days": 60,
+   "quote": "if we can then also close below the 35105 rising channel bottom on a weekly basis. That would set off a sell signal... aggressive selloff within couple of months into the 26730 area.",
+   "video_id": "H05-AIffjAE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I'm very bullish on Tesla with robot taxi expansion happening right now in front of our eyes.",
+   "video_id": "SZyJAmR11Iw",
+   "channel": "Matt Pocius on Tesla Stock & Money",
+   "video_title": "Elon Musk\u2019s Cybercab Just Got Massive News, Investors Celebrate",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 400,
+   "horizon_days": null,
+   "quote": "Randy Carrick is predicting that Tesla stock is about perhaps to hit $400 per share here.",
+   "video_id": "SZyJAmR11Iw",
+   "channel": "Matt Pocius on Tesla Stock & Money",
+   "video_title": "Elon Musk\u2019s Cybercab Just Got Massive News, Investors Celebrate",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "Tesla doesn't usually spend \u20ac3 billion on a car it thinks is stuck.",
+   "video_id": "i11aiYt-z40",
+   "channel": "Brighter with Herbert",
+   "video_title": "Tesla's Cybercab Is Suddenly Moving VERY Fast",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "MRVL",
+   "direction": "long",
+   "kind": "call",
+   "entry": 130,
+   "stop": null,
+   "target": 260,
+   "horizon_days": 90,
+   "quote": "I still think that there's a very high chance that in the next 3 months we are back up at about $260.",
+   "video_id": "qUtbnjJap3Y",
+   "channel": "Traders Helping Traders",
+   "video_title": "MRVL: My Price Targets and Why I\u2019m So Bullish",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "MRVL",
+   "direction": "long",
+   "kind": "call",
+   "entry": 120,
+   "stop": null,
+   "target": 240,
+   "horizon_days": 90,
+   "quote": "the optimal trade entry would be the bottom of this band and the top of the smart money zone. So right between about 130 ... to about 120.",
+   "video_id": "qUtbnjJap3Y",
+   "channel": "Traders Helping Traders",
+   "video_title": "MRVL: My Price Targets and Why I\u2019m So Bullish",
+   "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "MRVL",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 230,
+   "horizon_days": null,
+   "quote": "until we hit $230 to about $240, which is the first short-term take profit.",
+   "video_id": "qUtbnjJap3Y",
+   "channel": "Traders Helping Traders",
+   "video_title": "MRVL: My Price Targets and Why I\u2019m So Bullish",
    "date": "2026-11-18",
    "affiliated": false,
    "outcomes": {}
