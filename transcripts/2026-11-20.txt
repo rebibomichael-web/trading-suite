@@ -1,0 +1,1420 @@
+With the Discover Cashback card, it's payback time when you earn cash back on everyday purchases.
+Activate and earn 5% cash back at different categories each quarter on up to $1,500 in purchases.
+That's 5% cash back at different places each quarter, like grocery stores, on gas, and at restaurants.
+It pays to discover.
+Terms Applying, see Discover.com slash 5 for details.
+This episode is brought to you by Schwab Market Update,
+an original podcast from Charles Schwab.
+Schwab Market Update, an original podcast from Charles Schwab,
+provides an information-packed daily market preview on stock updates,
+US and global economic news, monetary policy decisions,
+and key results and statistics that may impact your trading.
+Download the latest episode and subscribe at Schwab.com slash Market Update podcast
+or find Schwab Market Update wherever you get your podcasts.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report,
+the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Thank you, Sarah and Robert. Welcome to the Halftime Report.
+I'm Leslie Picker. In for Scott Wapner. Today's stocks selling off this hour
+as the NASDAQ goes negative for the year and the Dow and S&P 500 enter a correction.
+Our investment committee is standing by to help navigate it all.
+Joining me for the hour, Stephanie Link, Amy Raskin and Kevin Simpson.
+Let's get a check on the market, which has accelerated some declines,
+although off the lows of the session, the NASDAQ currently down 3%.
+The S&P down 1.7%.
+And the Dow is down just 0.3%.
+We're also monitoring the White House where President Trump is expected
+to hold a news conference at any moment following his trip to China
+where he met with China's President Xi Jinping and Russian President Vladimir Putin.
+We'll bring you any updates as soon as that gets underway.
+Guys, looking at this sell-off today, I mean, it's pretty remarkable
+because there were several events this week that were supposed to be the clearing event.
+As I know we have said a lot on this show and elsewhere.
+There was the Nvidia earnings and the anthropic IPO.
+And both of them seem to have kind of done the opposite,
+even though they both were better than expected.
+There's a lot of unknowns right now.
+And it all started with the blue wave, right?
+I mean, that started this whole thing.
+The unknowns plus a hawkish Fed is what the market does not like.
+The Fed should not nearly be this hawkish, but we can get into that.
+Let's talk about the unknowns.
+So the blue wave was supposed to be now all of a sudden data center is dead.
+I don't believe that to be the case, but that's what people were thinking.
+And that started the correction in a big way.
+Then you had Nvidia, the earnings were amazing, but the CEO overhang.
+We don't even know the spy thing.
+We do not know about China.
+Then AMD yesterday in the middle of Anthropic, the hedge fund short,
+because they're selling chips into China.
+We don't even know if that's the case or not.
+But that added on like a pile on.
+And Anthropic was not kind of the clearing event.
+It was a very successful IPO and it's very early innings.
+And in fact, if it continues to be weak, it gets even more interesting.
+I did not participate, but I have my eye on it.
+This is a mega growth hyperscalar that is kind of the anti-AI concern
+or data center death in my opinion.
+So you have all these things.
+So I went back and I looked in the last five years in terms of performance.
+And we all know these numbers.
+Past five years, Nvidia is up 316%.
+Broadcom up 479%.
+Micron up 732%.
+AMD up 250%.
+You get my point.
+So people are like, wow, what do I do now?
+And some are very hesitant in terms of selling where they have been
+because of these embedded gains.
+But now you all of a sudden have this big correction
+and they're like, it's a panic.
+That to me is what it feels very much like.
+If you step back, I do not think the blue wave is the death of the AI trade.
+Maybe we slow.
+Maybe we don't grow or increase spend by $7 trillion on data centers
+between now and 2030.
+Maybe we spend three or four trillion.
+Maybe it's two or three trillion, but you're still talking about trillions.
+Now, I think that you can pick and choose any area that is benefiting
+from all this spend and look for opportunity.
+I still think you need to spend on the grid,
+no matter if you have data centers or AI in general.
+And we are going to have it, but the grid is stressed.
+And so the companies that have benefited from the repair,
+I think they're opportunities.
+I added to quanta services this week.
+I think power.
+We still don't have enough power, not even nearly enough power.
+Even if you haircut this whole spend by what I just said.
+So I think you have to look for opportunities.
+It's hard to catch a falling knife.
+I understand that.
+So if you want to wait for the dust to settle, I get it.
+I don't know if we're ever going to say, OK, dust has settled.
+Now you go out and buy.
+So I think you want to leg in.
+I've been adding to meta because I think that if you do see a slow
+down in the spend, you're not going to have this frenzy of
+CapEx raises, and they have been at the forefront of doing
+just that.
+So it doesn't feel good.
+I think you just got to take a pause.
+Watch the Fed, though.
+Watch the bond market because that's what I think is underlying
+really this consternation that we're seeing.
+Yeah, Amy, in terms of just the overall sentiment of the market,
+it feels like there's almost a buyer strike going on in terms
+of hedge funds and active management.
+I think as Stephanie said, these stocks have huge gains,
+and most people are overweight because they haven't wanted to
+sell because they don't want to recognize the capital gains.
+So it's not like people are saying, oh, my gosh,
+now I have to go buy NVIDIA because I only have 3% NVIDIA.
+Like, it's still a big weight in people's portfolios.
+So I do think you are.
+You do have a little bit of a buyer strike.
+I also think you have an issue that we still don't really
+know the business model of AI.
+You're spending trillions.
+You're spending a lot of money.
+Revenue is growing fast, but they're still not equal.
+Even if you're annualizing the revenue,
+you're still spending more than the revenues coming in the door.
+Howard Marks had a really good memo about this.
+There's just a lot of unknowns, and I don't think
+you're going to get answers to those unknowns for a while.
+You know the cost of capital is going up.
+You know it's getting more expensive to build the data
+centers because you have to embrace a town and subsidize.
+And so you're getting more expensive data centers,
+and you're seeing the growth.
+But it's going to be years before, in my opinion,
+before growth actually equals the capital spending.
+You know depreciation numbers are going to go way up.
+So you still have this business model of what is the
+cost for token going down?
+What's the growth going to be?
+You don't know where that evens out.
+It kind of looks like AI revenue growth in aggregate.
+If you look at both open AI, growth is slowing pretty
+dramatically just as the token prices are coming down.
+So I still think you have all of those overhangs
+that will take a while to unfold.
+I think Stephanie listed all the catalysts,
+why all of a sudden people are worried about it now.
+But it could have been like five other catalysts
+to get people to worry about that too.
+I'm not putting too much weight in the Jensen saga
+or I just think it's the underlying trend
+is for a while everybody believed this was all going
+to work out and the productivity improvements
+were going to generate enough good that will compensate
+for what we're spending.
+I think that's a question.
+I still think it's unknown and we'll see.
+So now people are worried about the other side of it.
+Well, because I thought that the anthropic S1
+and its 350 pages was supposed to tell us
+what this business model meant for the entire ecosystem.
+And there were some numbers in there
+that gave us a little sense of forward projections
+just given kind of ARR what they're doing on that front
+as well as...
+I think there are numbers that gave you both ways.
+There are numbers that said,
+okay, we're growing really fast
+and profitability might be better
+but then you're seeing token prices come down
+very dramatically and you're seeing $900 billion
+of commitments that we're not sure
+how that's going to be financed.
+What really is worrying me about this sell-off
+is that you're not seeing the 10-year fall further.
+So you're seeing the 10-year sort of stuck around 5
+as the NASDAQ goes negative for the year.
+Like to me, that's a worrying sign
+is basically saying your cost of capital
+is not coming down commensurate
+with your decline in stocks.
+So you think there could be more to fall
+as a result of that dynamic?
+I do.
+I do think...
+I mean obviously there could be more to fall.
+As Stephanie said, stocks are still up dramatically.
+We've had three wonderful years
+of major equity gains
+and so now we're seeing a little bit of a pullback.
+A 10% pullback to me doesn't say,
+okay, you have to step in and buy it.
+The only thing is that some of these stocks
+are down 30%, 40%, 50% from their highs.
+From their highs.
+And yet the numbers that I cited earlier,
+they're still up so much.
+They're still up dramatically.
+That's why you're in this really tough environment right now.
+And they're not low enough
+that value investors are going to stop it.
+Right.
+That's where...
+And that's kind of where you need to get to
+to say, okay, here's the new incremental buyer.
+And that usually takes a very long time
+to transition from a growth investor
+to a value investor.
+Usually not pretty.
+Yes, yes.
+Yeah, no, Steph brings up a good point
+about just diversification.
+The fact that there have been these
+concentration concerns for the past few years.
+Sure.
+People being over-indexed to NVIDIA,
+to the Mag7 and so forth.
+And now you have NVIDIA,
+43% off of its most recent highs.
+SpaceX down 42%.
+Broadcom 35.
+Alphabet, which is one of the few
+big tech names in the green today.
+Down 32%.
+Meta 26.
+Kevin, at what point do these
+concentration concerns get solved
+by the broader market activity?
+And the dispersion, which is actually
+among the highest we've seen,
+at least among S&P 500 names.
+Pretty much any year going back to,
+you know, 40 years other than,
+say, the great financial crisis
+and the dot-com bust.
+I think we only have to go back to
+2022 to really see it,
+because we saw the Mag7
+and the tech stocks just get
+decimated in 2022.
+Now, granted, the Mag7 was the trade
+in 2023 that left everyone else behind.
+I mean, we're more value
+dividend managers, so
+2023 was somewhat painful for the first
+10 months, until the Fed basically
+called no moss on rate hikes.
+And I wonder if that same playbook
+is what investors are fearing
+as we turn the page and head into 2027.
+Because both of you touched on things
+that are concerning me.
+The cost of capital, the credit markets,
+the bond markets, the Fed.
+One of the things that I think was lost earlier
+in the week was when Waller said,
+we're too easy.
+We need a 50 basis point rate hike.
+And we're starting to hear about that now
+because we're looking for explanations
+as to why the markets are selling off.
+But if the Fed does give us
+a 50 point rate hike in December,
+I think that the damage is far from over.
+But on the other hand, since Kevin Warsh came in,
+he said, we're not going to leak anything.
+We're not going to talk about what we're going to do.
+We're not going to give any direction.
+And all they do is leak and talk about it
+and give us direction.
+But maybe that 50 basis point threshold
+is sort of overstated a little bit.
+So if we only get a 25 basis point rate hike,
+then the market can celebrate a little bit
+and say, whoa, it could have been a lot worse.
+You know, it's interesting that, I mean,
+oil prices are down 27%
+from the peak, WTI,
+it's 113.
+So it's like, that's coming down.
+I mean, home prices are not coming down,
+but they're moderating.
+There's other parts of inflation
+that are coming down.
+And by the way,
+AI is going to be a productivity enhancer
+at some point.
+So it's just curious as to why
+they're so hawkish right this moment.
+It doesn't make a lot of sense.
+Well, the bond market is associated
+from the oil market this week
+for the first time also.
+From the Nasdaq, yeah.
+So that's to me the worrying thing.
+I do think inflation,
+the things that I'm worried about inflation
+is you're seeing more small businesses say,
+I'm going to raise prices.
+Like, you're seeing it seep in
+in a way that we hadn't seen it before.
+Just the breadth of inflation,
+the breadth of things
+that are going up in price.
+I agree with you.
+The oil price coming down is a big, big deal
+and it will sort of get into the pipeline.
+But I also think people are worried about
+this January, February effect
+of inflation sort of being higher.
+It has been higher at the beginning of the year
+for the last few years as things
+as contracts get reset.
+So you sort of have gotten a bump.
+So it doesn't feel like
+the pass-through, the oil,
+like we're still comping
+the higher oil prices
+in November and December.
+And then you're worried about,
+okay, maybe January and February
+numbers won't look good
+because of a seasonal thing.
+So it sort of,
+it looks like it's going to be
+potentially mid-2027
+when you finally sort of see
+these oil prices really being reflected
+in the inflation numbers,
+at least in the core numbers.
+Yeah.
+It is noteworthy,
+as Kevin mentioned,
+that the decoupling of the rates
+in oil took place this week
+given all of the news
+and all of the kind of macro back and forth.
+I'm looking at shares of Anthropic now
+currently at 85-20 down 12%.
+And Kevin, how do you think about,
+okay, so it's November 20th.
+You've got say six more weeks of the year.
+The NASDAQ just turned negative today
+and Anthropic was supposed to be the vehicle
+by which you could probably generate some alpha
+if you got allocation in the IPO
+because there was this conventional wisdom
+out there, very few skeptics
+who believed this would work,
+at least just for a day.
+So what happens now
+for people who are kind of
+underwater
+and there's a lot of idiosyncratic
+pain out there?
+What do they do with that?
+I mean, I think that's why you watch the show.
+What do we do when all of this stuff fits the fan?
+And I think for a lot of
+maybe retail investors and not to
+be critical, but if you have a
+concentration in technology
+and you have a concentration in bag seven,
+it's difficult to figure out what to do now.
+I don't know that you really
+have a great path to recovery.
+On one hand, as Stephanie mentioned,
+you've got tax consequences.
+On the other hand, you have still
+massively embedded gains if you look back
+and stretch over three or four years.
+I think the one thing that we do differently
+when we think about capital preservation,
+I think it was Stan Druckenbauer that made
+some comments this week in Texas
+that really resonated. When you have this
+kind of uncertainty, it's probably better
+to circle the wagons and think about
+capital preservation. You don't go long,
+you don't go short. You just kind of think
+about maybe waiting it out and looking for
+opportunities. But is that why we don't
+have any buyers? Nobody's buying right now.
+I think we're about to see margin calls
+and maybe that's why. I don't know if
+that's necessarily been baked in yet,
+capital on the sideline that's rushing in.
+This is the first time since 2022
+that we haven't seen retail come in
+and buy the dip. So that's another thing
+that gets me a little bit nervous.
+But what we've done, and we'll get into it
+with the trades later in the show,
+we've tightened our stop losses, we've kept
+our position size small, and as we
+actually get into some of the trades,
+I'll eat some humble pie and show you
+where I was wrong, but what we did.
+Because if you have a small position
+and you keep your losses tight, you can live
+on the right powder. So I
+don't know how much of that you can follow me
+into these trades, but I think just being
+a little bit more tempered in your expectations
+and sane and calm
+is probably the best recipe
+for success at this point. Yeah,
+especially as rates to your point aren't
+necessarily following that same sentiment
+as you might expect with the Nasdaq
+currently down three and a half percent
+near session lows.
+I mean, at this point
+how are you thinking about the
+trajectory from here and any
+upcoming potential catalysts?
+I mean, we're through earning season.
+We've got this IPO done.
+I mean, there's a lot of noise in terms
+of the tech outages and obviously
+what's going on in Nvidia, but
+what should we be looking toward? I mean,
+I'm just looking at the fear and greed index
+and that's a sentiment gauge at 15.
+One being extreme,
+100 being extreme on the other side,
+so 15 is pretty low.
+The S&P oscillator is negative five.
+We haven't seen negative five in a long time.
+So sentiment is getting there.
+At some point, you make a list
+of the best of the best that you have.
+The blue chip companies,
+number one or number two
+in any given industry, good balance sheets,
+good market share, amazing management teams
+and free cash flow, which we know
+a lot of the Mac 7s
+don't have right now at this very moment,
+but there are so many other
+names in the S&P 500,
+so many other sectors that do
+have all of those characteristics
+and sometimes they get sold with everything
+else. And so I think
+of something like a Starbucks. I think of
+something like an Estee Lauder.
+Because I think if rates are coming down
+and oil is coming down, discretionary
+is kind of sets up pretty well.
+The consumer has stayed pretty resilient with
+good decent retail sales numbers this week.
+The consumer still has a job.
+So I'm looking at areas,
+certainly I'm looking in the areas
+that have gotten hit really hard,
+but there are other parts that are getting hit hard too.
+And I think maybe that's where
+you kind of take a look.
+I don't have a catalyst for you though.
+Unfortunately,
+for between now and the end of the year, maybe it's the
+PCE number that comes out next week
+that's less than expected
+so we can take a deep sigh
+and we can get the Fed kind of like
+to calm down a little bit.
+I'm just looking for quality on sale
+because I think in a year's time
+we'll be happy that we did buy
+low and these prices are pretty low.
+Let's dig into
+Anthropic a little bit more.
+Obviously, Sawd's debut yesterday,
+the largest offering of all time,
+really by a long shot,
+exercised its over allotment this morning,
+raising a total of 119 billion
+dollars including that private placement
+market offering plus the green shoe
+which is kind of remarkable
+given the backdrop,
+given the tape that's out there.
+And Steph, you said you were looking at it.
+You bought SpaceX a few weeks
+after that went public.
+What would be the level that you feel like
+Anthropic, especially given
+all of the risk sensitivity
+that's out there that would be a buy for you?
+Oh, sure. I mean, I think you let a couple
+of weeks go by unless it breaks price.
+I mean, if it breaks price,
+you're going to have more volatility, right?
+It's like a dollar fifty above.
+You're very close. So that's why
+I'm saying you wait a couple of weeks
+only because it's probably going to be
+at least a couple of weeks.
+But I mean, this is a company that
+is growing just remarkable.
+They have growth, revenue growth.
+From one queue of last year
+to three queue of this year,
+the company grew revenues 1200%.
+What company do you know that's grown
+that much and it's not going to last
+at that level, but it's substantial.
+Their total revenue is 375
+million in the first quarter of last year
+to 17 billion at last quarter.
+I mean, these are really astronomical
+numbers and I think it's exciting.
+I want to be part of it
+because I think long term they're a winner.
+I just think the volatility, just because
+of the learnings from SpaceX,
+the volatility in the first couple
+of months, you know, you just let it kind
+of calm down a little bit. But I see
+myself owning this over the long haul,
+over the long haul. Yeah, bigger float
+for this one than SpaceX 2,
+which you would think could attenuate some
+of the volatility, although we haven't seen that
+quite yet. Kevin, you also
+bought SpaceX a few weeks after its IPO.
+Are you feeling the same kind of bullishness
+here? Did you buy it? Did you
+seek an allocation? Did you buy yesterday?
+Well, we don't really participate in
+IPOs. We tend to look at things after
+they trade. But in our growth strategy,
+we did buy SpaceX after
+and similar to what Stephanie did, after
+a big pullback. You have to look at these
+things from the liquidity event for early investors.
+So the initial trades are
+somewhat sketchy because of this
+pent up demand for liquidity.
+I think that the anthropic and what will
+happen with open AI at some point
+in the future make for amazing
+investments for retail investors.
+I couldn't love SpaceX anymore,
+but the price and the volatility is insane.
+One advantage we have is that we can sell
+and do right covered calls against
+the Teslas, the SpaceX, ultimately
+the anthropic. But I think if you're looking
+to get into this, like anything else, who takes
+Stephanie's playbook of parsing it out
+over time, waiting for some pullbacks,
+it's a pretty precarious market.
+If you take positions and we did do a little
+buying this week, but literally half a percent,
+one percent, nothing crazy
+because tomorrow they could be cheaper.
+Even Nvidia, which we sold last week
+and I bought it and waited six years
+to buy Nvidia for it finally to pay a dividend.
+We get in it, it goes down 20%,
+we get stopped out, I lost
+20% on Nvidia. But I sold it
+last Thursday, it's over 30
+dollars less today, like it's down another
+30 dollars. So I don't think
+that you want to be too crazy
+picking up on anything at
+this type of
+tape. But I think you can definitely
+have a list, I think anthropic can be on it.
+But just be patient and be careful.
+And I think that will be
+the best advice that we can offer collectively today.
+Given what we were talking about Amy
+earlier about just the over-concentration
+and how people still, even though
+many of these stocks have come back,
+still feel overexposed to some
+of these names, have
+multiples contracted to the point where that
+can be ignored?
+That the multiples are low enough?
+For some of the names, they're
+very low. The question, for
+the names that they're very low, the question is
+are they over-earning? And the answer is probably
+yes. And then the question is, how much are
+they over-earning? How much
+is this big cat-back spend pulling
+forward cat-backs that should be over multiple
+years? So it's sort of
+what we saw in the global financial crisis
+with the housing stocks. They never got expensive
+but they were well
+over-earning and then they still
+crashed on the banks similarly.
+Right. So I think
+the Mag7 are getting
+there. I think they're getting cheaper, but I
+do think if AI
+has a few hiccups, they're not going
+to work. I know there are people who think
+differently that think, oh, if spending really
+slows, you're going to get this big
+ramp back and cat-backs for the Mag7.
+What's worrying me about a lot of the Mag7
+is that their core sort of
+monopolistic businesses
+are a-treading a little bit. And you saw
+that with Google and Search. You're sort of
+like, oh, AI is eating at this
+cash cow business that I basically
+had a monopoly in and
+now, like, that
+fundamental business
+that I would value Google off is
+in jeopardy. So I do
+think what you had in the Mag7 is you sort of
+have these natural monopolies. AI
+to me is very different. It's not a natural monopoly.
+You're seeing that with the back and forth
+between open AI and Anthropic.
+Often, big technological
+advantages
+create a lot of value for
+consumers. Often they don't create
+a lot of corporate value.
+So I think that, again, I still go back
+to this business model. I want Anthropic
+to succeed. I really like the idea that
+the premier AI lab
+is a PVC in this country.
+I think there's a lot of good with that.
+I want it to work. I still
+don't know the business model, the long-term
+business model, and that keeps me on the
+board. Milius
+Ben writes it says, owning Anthropic
+is an AI semis hedge
+staff. This idea that
+it could be one of the AI
+stocks that actually holds up in the near-term
+while the rest of the AI trade still faces
+questions. A down cycle for
+compute would hurt the company's selling chips
+and hardware, but it would lose Anthropic's cost
+to supplier. That is how
+the dynamic traded yesterday
+but not today.
+No, I know. I think this
+is just a de-grossing day.
+And it has been, by the way, a de-grossing
+market for the last couple of weeks.
+Morgan Stanley's prime brokerage desk
+saw record de-grossing. What was it two weeks
+ago? And now you're seeing this. This has
+got to be another record.
+The fundamentals are very strong, I think,
+at Anthropic, but there's still a lot of volatility
+attached to an IPO.
+There's so much volatility
+in established companies.
+I can understand why people are like, okay, made
+some money, made a lot of money, and take the money
+and run. I do think, though, that this company
+has substantial growth.
+I mean, you have net retention of 900%.
+It's amazing. I mean, that is
+a number. I've never seen numbers like this
+before. But I think we all have to get
+comfortable with the business model,
+with where this overall market is
+at at this point.
+And I would say, rather than
+buy something that is unknown in terms
+of how it's going to trade and where it settles out,
+there's a lot of other stuff that we know
+that's getting hit really hard, that we know
+about the fundamentals and
+the characteristics and the personalities
+of the stocks in the market.
+And they're over, you know, six years old.
+Right. As a company, and probably
+worth less than $2 trillion.
+So is Anthropic today.
+NASAC just hitting session lows
+a few moments ago, down 3.6%
+right now.
+Kevin, what are the safe havens?
+Would you say, given that
+there doesn't seem to be as much of a flight
+to treasuries,
+the Mag7, which
+have in certain times recently
+acted as safe havens,
+not so much anymore,
+what would you advise?
+Well, I
+think when you look at the VIX, which is something
+that I'm paying attention to to see if we can get a
+capitulation, because we're all looking
+for an all clear signal. If we see that go to
+70, then you can probably, you know,
+put back the truck up and bring
+the register. That's just 70.
+40 would be really bad.
+31 in
+change. It's still very attractive off of
+the base that we've had. I'm old
+and remember the late 90s.
+So what I think, what we're doing
+again is we've got dry powders. So there's
+about 12% cash on the sideline,
+not anxious to put too much of it to work.
+You can start writing covered calls
+here with that VIX. Yes, granted, not at
+70, but over 30, you can look at
+options out of the money and generate
+some nice hedging there without having to
+sell and create tax consequences.
+And I think if you look outside of
+Tech, which you can, there's still a lot of
+beaten up sectors and I don't know
+if you're not in a diversified portfolio
+and you own only technology,
+then I would begin to look outside of it
+and build other things. But again, it's
+not an all or some
+decision. You have to do it in
+piecemeal and very gradual. So
+I think the biggest thing, Leslie, from
+an advice standpoint today is really
+just focusing on math and not focusing
+on emotions. It's hard to do, but
+if you can separate that, I feel like
+it's just going to prevent you from making
+really bad decisions at really bad
+times. That's what we have AI for, right?
+Just kidding.
+Ask the robot. Just kidding.
+We do have a VIX up
+80% over the last month,
+so it has surged.
+President Trump has started speaking
+at the White House. Let's bring in our
+Megan Casella, who's been monitoring. Megan.
+Hey, Leslie.
+So the president is just now walking into
+the briefing room. We've not yet heard him
+start his remarks. You can see him on your
+screen there. He's there to talk.
+He says about his recent trip to Asia.
+The White House was putting up some boards. You can see
+one of them there talking about
+this trilateral meeting that he had
+with the leaders of China and Russia, also
+talking about trade deals that were struck
+with the Philippines and Indonesia. So that's
+where he's going to start. But that is
+a jam-packed briefing room in there, full
+of reporters brimming with questions.
+The last time the president really took questions
+in this sort of setting was November 9th
+by my count. And as you know, Leslie,
+a whole lot has happened since
+then. So expect him to see some questions on
+all of this in video fallout on
+Jensen Huang's resignation on the shift
+in U.S. policy that's expected because
+of that, what that might mean for the
+U.S.'s relationship with China. Of course,
+today's market sell-off is likely to come
+up as well, the anthropic IPO.
+So Leslie, we expect the president to be
+in the briefing room for quite some time.
+I believe Secretary of State Marco Rubio is expected
+to be there with him as well. It's according
+to our sister network MSNL. So we'll see
+if he makes remarks. We'll be monitoring
+all of it and bring you some more news once we have it, Leslie.
+Yeah, to your point, Megan, no shortage
+of questions to be asked if he takes
+them. And most of them, many of them
+very relevant to this audience as well. So
+we look forward to hearing your report.
+Up next, we're all over this sell-off.
+The committee making some big moves today
+will run you through the trades. Halftime is back into it.
+And the company will be back to make
+some big moves today.
+And the committee is looking at the
+market for the next three days to do
+some big-to-three-day purchases. Activate
+and earn 5% cashback at different
+categories each quarter on up to
+$1,500 in purchases.
+That's 5% cashback at
+different places each quarter, like grocery
+stores, on gas, and at restaurants.
+It pays to discover. Terms
+applying, seeddiscovered.com
+slash five for details.
+The original podcast from Charles Schwab
+provides an information-packed daily
+market preview on stock updates,
+U.S. and global economic news,
+monetary policy decisions,
+and key results and statistics that may
+impact your trading. Download
+the latest episode and subscribe
+at Schwab.com slash Market Update
+podcast. Or find
+Schwab Market Update wherever you get
+your podcasts. Still wearing the same
+old underwear? Chances are
+it's time for an upgrade. Start with
+Tommy John, a 2026 men's health
+editor's choice in best men's
+underwear. Experience exceptionally
+soft fabrics, a fit that moves
+with you, and all-day comfort
+across our premium underwear, sleepwear,
+and loungewear. One less gift to
+worry about? One more reason to treat
+yourself. Own gifting season this
+Black Friday with 50% off
+sitewide at TommyJohn.com
+slash SXM and use code
+SXM. Welcome back to halftime,
+Nasdaq, negative for the year,
+and we're currently down more than
+3.5%. We have some committee
+moves to hit, though. Kevin,
+let's start with you. You bought
+Texas Instruments. Yeah, now, again,
+this is a half a percent position,
+so we want to keep position size
+like very much front and center
+in this big sell-off, but it's
+only 20% off its
+eyes. And yeah, I said only 20%.
+But what I liked about this wasn't
+just the revenues and sales that
+were up. It's how much cash
+flow. We're a big contributor.
+Industrials grew 40%. Automotive
+was up in the teens. It's not
+just an AI play. They've reduced
+their cost on factory spends, and
+if those factories become more
+profitable, more of those sales
+dollars will go right to the
+bottom line for fee cash flow.
+Lastly, they also increased the
+dividend by 7% for the 23rd
+consecutive year. Texas
+Instruments is a tech stock. It's
+very volatile. We took a small
+step. Currently down about 5%, but
+up 56% for the year.
+Steph, you're also buying the dip
+and tech you added to your position in
+Zscaler, which is a cyber play.
+We've obviously a lot of news and
+consternation around tech outages
+and cyber security and so forth.
+And record earnings at Palo Alto,
+and I think you're just seeing record
+earnings across the board.
+Unfortunately, because
+of all of that's going on, and
+Zscaler is down 12%
+on the year. Palo Alto is up 90%
+on the year. So it's been a massive
+laggard to the group. I still love
+Palo Alto, not changing anything there,
+but I think Zscaler offers a better risk
+reward. It's at a 50% discount to
+EV2Sales to its historical average.
+They're going to do RPOs of
+27%. They're going to do
+ARRs in the mid-20s, I think,
+and long-term they have a goal of
+annualized recurring revenue, ARR,
+$8 to $10 billion.
+So I like the total addressable market.
+I like the space. And I just think that
+this is the laggard that I think can play catch up.
+Amy, in the cyber world, you own
+CrowdStrike. I do. How much dispersion
+do you see in the businesses right now
+or given all the headline risk that's out there?
+Do you think it really is a tide that's going to lift?
+I think this tide is going to lift all boats.
+I think they're all doing well. CrowdStrike.
+We trimmed CrowdStrike last time I was on
+in October. It happened to be a good
+trim. I had trimmed it also before
+that because it had worked so well, which was a bad trim.
+But we like the
+space. And you're going to see
+more dollars shift towards it over time.
+You just have to.
+I think I've said it before many
+times. I think cybersecurity is bigger
+than AI because of AI, unfortunately.
+And I think that's underappreciated.
+And the stocks are really expensive.
+Yes. I haven't looked at ZKL, but CrowdStrike
+is really expensive. But if you look at
+the overall market cap, they could still
+go up a lot. CrowdStrike's still like
+$200 plus billion market cap.
+It's not in this trillion-dollar
+market cap number. So you are seeing
+growth. You have more
+room for more growth.
+So I actually get a little bit more comfortable
+when you don't have to
+grow from a 1.5 trillion to a
+$3 trillion market cap to make a lot of money.
+You can have more reasonable
+estimates. Yeah. It was weird that
+yesterday on the anthropic IPO
+there were no major tech outages.
+Right.
+So I guess AI was distracted doing other things.
+Whatever you got.
+You are also adding to your United Health
+position. Yeah. Wow.
+Which has had a week. What? A week.
+I mean, down 16% in two days.
+So this is my definition of
+number one on sale.
+And it got hit because of the CMS
+initial ruling, which is not
+a final ruling by any means on Medicare
+Advantage. These guys
+are number one. This is the number one
+company in the industry with the best balance sheet
+and the best CEO in the planet.
+They have Optum, which diversifies their revenue mix.
+It's an insurance company.
+And they're doing a really good job
+in terms of diversifying their businesses
+from Optum. And they're going to see much more
+recurring revenue as well.
+Now, the CEO has been in place since last
+May, early May, late April. And he
+at the time, he bought $25 million worth of
+stock. And the company
+just last month announced a $50 billion
+buyback program too. So you got to believe
+that they're all in there now buying
+more. And I think the numbers
+and the fundamentals are actually
+improving at the company, especially
+they're doing a great job in the medical loss ratio
+as well. So I just thought down 16%
+for the number one player. And I think
+this is going to get not overturned.
+I think they'll be partial issues ahead,
+but it's not going to be this draconian
+cut in rates.
+Kevin, you own it, but you've trimmed it.
+Oh, yeah, I could wax poetic on all the
+reasons we love this company, but I couldn't have gotten
+the timing any more wrong. We just bought it
+at 390 prior to this happening.
+It took a 15% drop and we got
+triggered out a stop loss on half
+of it. I still own 2%. I'm happy
+it's up today with a race four year
+guidance in October. The numbers were great.
+I agree with everything Stephanie said about it.
+I wish we were entering the position today,
+but I run a rules based strategy when
+things go down. I get stopped out. This happens.
+We still own 2%. I can always
+buy it back. I'm not, you know, out
+of the out of the game forever.
+But what the lesson here is that if I take
+a small loss of a small position, I
+can live to fight another day. So I don't have to
+have the hubris to think that I'm right
+or it needs to get back to even or I need
+to make a profit on it. I wish I had
+waited and bought it with Stephanie did
+and we'll hope that the stock comes back
+and we can continue to talk favorably
+about it. All right. Up next
+your ETF edge and more on today's
+sell off will focus on ETFs
+with Dom Chu on deck with
+today's ETF edge.com. What's coming
+up, Don? All right. So Leslie is
+the price action that we're seeing in
+Anthropic critical to the broader
+tech trades overall, as well
+as the prospects maybe for even
+higher profile IPOs coming down the
+pike. We're going to check in with an IPO
+strategist on what levels to watch and
+what key assets to watch. That's coming
+up next on ETF edge on the
+halftime report. Keep it right here
+and welcome back to the halftime report.
+I'm Dominic Chu with today's ETF edge
+now that Anthropic is public.
+What could it mean for other pending
+AI related IPOs and even the health
+of the broader IPO pipeline
+joining me now is Nick Smith, the senior
+research analyst over at Renaissance Capital.
+They specialize in scrutinizing these IPOs.
+So tell me a little bit
+right now, Nick, about what the Anthropic
+price action as we drift kind of back
+towards that $83
+IPO price. What does that mean exactly
+for appetite when it comes
+to AI and IPOs?
+Yeah, yesterday's
+first APOP up 17%
+was
+a pretty good sign.
+Could have been higher, but especially
+in the backdrop of yesterday's broader
+market, still a positive
+sign, especially after
+pricing above the range and adding
+additional shares. Of course
+today it's a complete different story
+down 13%.
+So not
+the icebreaker that
+we're looking for to sort of open up
+the market for additional
+IPOs and especially
+AI related IPOs.
+A number have certainly
+filed new amendments with
+financials for the third quarter that could
+go later this year
+and scale, for example, which
+has a deal with Anthropic.
+But certainly this is not
+the start to trading that
+these companies would be looking for to be willing
+to go. All right. And what other
+types of either stocks or ETFs
+other parts of the market are you looking
+at with regard to whether or not you could see
+renewed risk appetite or more
+risk aversion to come?
+I mean, the AI trade in general
+is just not doing well right now.
+Hasn't been for a while
+Anthropic, you know, when it
+followed, when it launched was never looking good
+still got done. So that's
+certainly a positive, but
+need to have, you know, kind of a
+big turn around in these names
+and the market in general to
+you know, coax these
+these IPOs to move
+forward kind of after Thanksgiving.
+All right, Nick, thank you very much for the conversation.
+We're going to continue it over at
+etfedge.cmbc.com
+with Nick's colleague Renaissance Capitals Avery Marquez
+as well as Tema ETF's
+chief investment officer, Yuri
+Kojimarian. They actually had
+pre IPO exposure to
+Anthropic. Leslie, I'll send things back over
+to you guys. Not so common
+to hear that, but it does exist. I'm looking
+forward to that conversation. Up next
+we're watching Anthropic. It's
+just about
+92 cents away
+from breaking through syndicate, breaking
+through its IPO price
+that was set
+less than 48 hours ago.
+Don't go anywhere. Halftime is back in two.
+Let's get another check on
+Anthropic, which is just
+about
+29 cents away from
+its IPO price. You can see those shares
+down 14%
+after rallying 17%
+in their debut yesterday, but
+trading as high as 115
+very close
+to when this stock opened in its debut
+right before
+this show yesterday, around
+say 1150 a.m. or so,
+$83.16
+now currently about
+16 or so
+cents away from that
+IPO price. Let's get more on this Anthropic
+sell-off. Oliver Renwick joins us
+from SIBO Global Markets
+in Chicago, Oliver.
+Hey, Leslie with Anthropic
+Reversing today. Options scheduled for Monday
+can't come fast enough.
+Be ready for very high volatility as you
+can see. That means expensive
+downside of hedges if that's what
+you're looking for. Anthropic moved
+20% yesterday, more than
+12.5 now, 14% today.
+That equates to very high implied
+vol, likely somewhere between
+100 and 150, which would
+be higher than anything in the S&P 500.
+Comparable to tech stocks like Nebius,
+Core Weave, Bitcoin Treasury
+Strategy. That is not a great
+group to be in right now, but demand
+will likely be bigger than anything
+we've seen before anyway.
+High volatility is not deterring traders
+from making big bets right now.
+For example, the biggest single trade
+of the day across the entire market
+is in SMH and it's a
+$90 million opening put
+by of 380 strike calls
+in September next year
+that need a 20% further
+sell-off to pay from the premium
+and go deeper through the strike.
+For comparison also,
+look at SpaceX when it went public.
+On the first day, it was almost
+2 million contracts and $2.5
+billion in premium,
+but that was against a much more calm
+and peaceful backdrop.
+VIX was 17.5 when SpaceX
+went public before its vol
+dropped substantially. Today with
+VIX above 30, that means
+Monday's anthropic options should be a
+bit more advanced like we've never seen.
+Yeah, I think you also have
+some levered ETFs launching that day
+as well. So, you know, you think
+you've seen volatility now. We'll see
+what next week brings. Those shares
+currently at 83.36, so coming back
+a little, but we'll continue monitoring
+them all over. Thank you. We are
+getting some news out of the White
+House. Let's get back to our Megan
+Pistella for that. Hi, Megan.
+Leslie, that's right. The president
+making some news here where he's
+saying that our building data centers
+overseas. He says we want those data
+centers in the U.S. Here's more of what
+he said. He was saying we're not going
+to allow our companies to build data
+centers outside of our country. Many
+of them are here. We're not going to let
+them go elsewhere. He says if they do
+that they can, but we're going to put
+a tremendous tax on them. Leslie,
+he went on to specifically call out
+companies that are building data
+centers in Finland. We took a look
+Google and Microsoft have both been
+building data centers in Finland.
+Cerebras on that list as well.
+Amazon then has data centers in the
+Middle East. You can keep going down
+this list, but this is really a shot
+being fired directly from the president
+as he stands at the White House at
+these major tech companies, saying
+that they need to move all of that
+construction, all of those jobs, all
+of that computing power here into
+the United States or else they'll
+face big new penalties. Leslie.
+Yeah, at a time where there's a
+lot of work currently down about
+3.8% as well, Megan.
+Thank you more on the sell off
+with Mike Santoli next.
+My name is Cesar de la Fuente.
+I'm a bio engineer in my lab.
+We use AI including
+open AI tools to discover
+new antibiotics with traditional
+methods. You can take five, six years
+to identify new antibiotic molecules.
+Now you can do it in a few hours
+that ultimately can lead to saving
+more lives. Open AI gave Dr.
+de la Fuente's team early access
+to GPT-6 Rosalind, a model
+built for life science research.
+Open AI, proud partner of a
+future with fewer deadly infections.
+With the discovered cash
+back card, it's payback time when
+you earn cash back on everyday purchases.
+Activate and earn 5%
+cash back at different categories
+each quarter on up to $1,500
+in purchases. That's
+5% cash back at different places
+each quarter, like grocery stores
+on gas and at restaurants.
+It pays to discover. Terms applying
+see discover.com
+slash 5 for details.
+It's more like what are you not looking at. Everything
+is moving right now.
+These are the moments where you try
+to gauge just exactly how
+messy, disorderly, desperate
+a lot of the action is on the downside
+that sometimes there's a
+foretelling of an imminent
+rebound at least in time
+if not in price. Now
+$7,000 on the S&P 500
+is relatively important. We're just
+above there right now. It was
+basically the ceiling for the trading range
+of the third quarter and the first quarter
+going back a little while, but almost a
+year. Usually you want to see
+these ranges hold up once you've gone above
+them and that becomes the floor of this
+one. Hey, look, corrections. Everyone
+says they're natural
+and routine, but this is what they feel
+like. They feel like people trying
+to stampede out of the market
+all through the same door. Obviously
+it's still very concentrated
+in semis and the related
+A.I. trade. That's starting to look
+like it's an all out purge
+and capitulation. So we'll have to see
+today's an options expiration day.
+You should have some, you know,
+seasonal support, but that's gone by the wayside
+for a month now. And I think
+it is a matter of sort of we're going to
+get a snap back at some point in the coming days
+almost certainly it's the character
+of that rebound that's probably
+going to tell us if it's sustainable or
+not. I mean, you have to at least
+come up with a plan
+in the event that October
+is a consequential high for the S&P.
+Mike, do you get any sense that there's
+some sort of unwinding
+or, you know, de-grossing
+of one or several
+funds out there? You know, you
+obviously in the market action itself
+you would say probably
+the kind of flummoxing
+part of that is
+for weeks you've heard all of the sell
+side firms say there's been massive
+de-grossing. There's been massive liquidation
+in tech among hedge funds.
+Practical investors are at rock bottom
+positioning on the scale of the past
+couple of years. That might be important
+because we've been very, very levered to the
+tech trade since then. So it's not
+clear to me how much was left to go
+but, you know, extremes can
+always go to further extremes
+and, you know, what you
+thought was an acceptable risk level
+yesterday all of a sudden
+seems unacceptable because semi's are down
+another 8%. So in theory
+this should run its course on some level
+obviously the earnings sustainability
+is massively being questioned
+I do think there's another factor here
+which is, like in the fourth
+quarter of 2018, as you and I discussed
+this morning Leslie, you had
+a tightening fed
+in a still strong economy
+with good earnings growth but
+stock market kind of falling
+apart and rebelling against this idea
+that financial conditions were tightening
+at the same time that you had
+this sort of risk appetite leaving
+equities after a good run. So I think
+that there's at least echoes there
+hopefully it doesn't go down to a
+near 20% decline in the S&P
+which was what we had back then
+but it really did turn on a dime back
+then because the Fed kind of did a
+dovish pivot people said the fundamentals of the economy
+are still hanging in there. So
+look we got to see, I keep saying
+we started from a point of massive
+concentration and leverage and
+crowding into tech six months ago
+and the process of
+rebalancing out of that I guess continues.
+Yeah I think Citadel had a piece out
+just a short while ago that said
+2018 again question mark
+I think there are a lot of periods that
+this kind of reminds people of
+whether it's the IPO issuance and then
+the stock that falls after it
+kind of a stock market falls after it
+akin to say 2020-2021
+era which was at the time
+sort of this record breaking
+equity issuance market and we've of course
+seen a lot of supply come onto the
+market I mean 119 billion
+in the last 24 hours alone.
+Yeah it is true and
+you know I really want to stress
+that it wasn't wrong
+two days ago to think that
+a good reception for the anthropic IPO
+was a healthy sign
+for the market and the commitment to
+the AI trade it did not work out that way
+obviously people have more risk to take down
+than we thought and the market did
+choke on that supply but
+you know that's why they play the games
+you know you can't draw it up in advance
+Yeah I said earlier it was supposed to be a
+clearing out event but it turned out
+to be a clearing
+out it was supposed to be a clearing event
+but it turned out to be a clearing out event so
+We've got to stop using the clearing out
+clearing event phrase
+I know it's all jumbled
+Mike thank you final trades coming up
+we are back with final trades
+Kevin we'll start with you
+I'm going to go with Amazon come for the store
+stay for the cloud their anthropic steak
+Amy I'm going to go with Verizon
+you can tell you how I feel about the market
+these days but single digit multiple
+six percent dividend yield
+I'm not really worried about SpaceX
+and they're getting into their business
+and a rare stock in the green
+so Target really great quarter
+I think the turnaround is here
+but I think there's still more to go
+they have now outcomped Walmart
+three quarters in a row
+five point six percent is very commendable
+and it's because transactions are up five
+but they're getting people in the store that's important
+all right let's take a look at the markets
+in the final ten seconds of the show
+the NASDAQ into negative territory
+for the year currently down three point
+four percent the SMP at
+seven thousand twenty five so close to
+breaking through that seven thousand level
+that does it for halftime the exchange starts right now
+all opinions expressed by the halftime report participants
+are solely their opinions and do not reflect
+the opinions of CNBC or its parent company
+or affiliates and may have been previously disseminated
+by them on television radio internet or another medium
+you should not treat any opinion expressed
+on this podcast as a specific inducement
+to make a particular investment or follow a particular
+strategy but only as an expression of opinion
+such opinions are based upon information
+the halftime report participants consider reliable
+but neither CNBC nor its affiliates
+and or subsidiaries warrant its completeness
+or accuracy and it should not be relied upon
+as such to view the full halftime report disclaimer
+please visit cnbc.com forward slash halftime
+report disclaimer
+hey fidelity
+what's it cost to invest with the fidelity app
+start with as little as one dollar
+with no account fees or
+trade commissions on us stocks
+and ETFs
+that's music to my ears
+I can only talk
+investing involves risk including risk of loss
+zero account fees apply to retail brokerage accounts only
+zero dollar commission does not apply to customers designated by
+international equity trader a limited number of ETFs
+are subject to a service fee of $100
+see details of fidelity.com slash commissions
+fidelity brokerage services LLC member NYSE SIPC
