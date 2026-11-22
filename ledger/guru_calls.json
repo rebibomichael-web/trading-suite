@@ -43,6 +43,7 @@
   "3LqALndboAs",
   "3PefC0ksI4Q",
   "3QOj-4Hvi2M",
+  "3T0sad7BBpE",
   "3aAdlBfC79U",
   "3d7rStMhn2M",
   "3fQpCn-RMsI",
@@ -109,6 +110,7 @@
   "7oLH55h4mF4",
   "7us01PXykN0",
   "7w65LSS8fTY",
+  "80eS6y1bWWg",
   "8Bs7opzk0-M",
   "8KQhOb4WCsg",
   "8WZtm6aoKS0",
@@ -205,6 +207,7 @@
   "GyunG_3l9J0",
   "H05-AIffjAE",
   "H0nGbLqLw30",
+  "H2NYFGdwgfc",
   "HBjOLbhdEdo",
   "HEIJUNeiLKo",
   "HFl22I5jIGk",
@@ -347,11 +350,13 @@
   "UJ59CDS6bD4",
   "UMNFZ089-Lw",
   "U_qTZhaPDZw",
+  "UbvtgrDsV5M",
   "UdLwrprmSu4",
   "UegL7MGsHPI",
   "UeskgA6tiQ0",
   "UlBuOhPINF8",
   "UriYu4mAIYA",
+  "UvwjB7AW7Mw",
   "UwL_ifM_sXg",
   "V1xC6Lh5BpM",
   "V72IauRTBg8",
@@ -400,6 +405,7 @@
   "ZYTnNRRLtbE",
   "Zb7qLINHPuk",
   "_0zvWmgOv0U",
+  "_5qZbFV-H68",
   "_6FkiV0PTF0",
   "_BX81KgV-gE",
   "_CZrR8Tj31c",
@@ -427,6 +433,7 @@
   "bym04HwDWu4",
   "bzojC8QFsl0",
   "c1ylYgbtiNE",
+  "c3_AROVaZrM",
   "c4VM1cDNXuo",
   "cBnuFwFw5xw",
   "cCcdM2DG8tc",
@@ -477,6 +484,7 @@
   "gCCG7e9jJo0",
   "gGWjIQjx-Ps",
   "gL7nK_Izr5I",
+  "gMMB4NU75Fs",
   "gOFMvfeauQQ",
   "gOcNm0TWc_o",
   "gQ9aIylyia0",
@@ -575,6 +583,7 @@
   "o5zWzpHhlSI",
   "oO2GjAOho3M",
   "oRylPE_KwZ0",
+  "oX39Za67KyM",
   "o_d7keUuTuE",
   "ox2T7IWFt3A",
   "p0OZclnyCts",
@@ -33891,6 +33900,10 @@
     "14d": {
      "pct": -2.4,
      "win": false
+    },
+    "21d": {
+     "pct": -13.5,
+     "win": false
     }
    }
   },
@@ -33915,6 +33928,10 @@
     },
     "14d": {
      "pct": -2.4,
+     "win": true
+    },
+    "21d": {
+     "pct": -13.5,
      "win": true
     }
    }
@@ -33941,6 +33958,10 @@
     "14d": {
      "pct": -2.4,
      "win": false
+    },
+    "21d": {
+     "pct": -13.5,
+     "win": false
     }
    }
   },
@@ -33965,6 +33986,10 @@
     },
     "14d": {
      "pct": -2.4,
+     "win": true
+    },
+    "21d": {
+     "pct": -13.5,
      "win": true
     }
    }
@@ -34194,6 +34219,10 @@
     "14d": {
      "pct": -2.73,
      "win": false
+    },
+    "21d": {
+     "pct": -16.66,
+     "win": false
     }
    }
   },
@@ -34218,6 +34247,10 @@
     },
     "14d": {
      "pct": -2.73,
+     "win": false
+    },
+    "21d": {
+     "pct": -16.66,
      "win": false
     }
    }
@@ -35114,6 +35147,10 @@
     "14d": {
      "pct": -2.4,
      "win": false
+    },
+    "21d": {
+     "pct": -13.5,
+     "win": false
     }
    }
   },
@@ -35313,6 +35350,10 @@
     "14d": {
      "pct": 10.95,
      "win": true
+    },
+    "21d": {
+     "pct": 2.69,
+     "win": true
     }
    }
   },
@@ -35337,6 +35378,10 @@
     },
     "14d": {
      "pct": 10.95,
+     "win": true
+    },
+    "21d": {
+     "pct": 2.69,
      "win": true
     }
    }
@@ -36141,6 +36186,10 @@
     "7d": {
      "pct": 2.59,
      "win": true
+    },
+    "14d": {
+     "pct": -6.19,
+     "win": false
     }
    }
   },
@@ -36162,6 +36211,10 @@
     "7d": {
      "pct": 3.63,
      "win": true
+    },
+    "14d": {
+     "pct": -7.26,
+     "win": false
     }
    }
   },
@@ -36182,6 +36235,10 @@
    "outcomes": {
     "7d": {
      "pct": -3.77,
+     "win": false
+    },
+    "14d": {
+     "pct": -23.16,
      "win": false
     }
    }
@@ -36204,6 +36261,10 @@
     "7d": {
      "pct": -12.75,
      "win": false
+    },
+    "14d": {
+     "pct": -32.74,
+     "win": false
     }
    }
   },
@@ -36225,6 +36286,10 @@
     "7d": {
      "pct": 18.93,
      "win": true
+    },
+    "14d": {
+     "pct": -5.49,
+     "win": false
     }
    }
   },
@@ -36246,6 +36311,10 @@
     "7d": {
      "pct": 4.91,
      "win": true
+    },
+    "14d": {
+     "pct": -13.77,
+     "win": false
     }
    }
   },
@@ -36267,6 +36336,10 @@
     "7d": {
      "pct": 8.93,
      "win": false
+    },
+    "14d": {
+     "pct": -3.46,
+     "win": true
     }
    }
   },
@@ -36287,6 +36360,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.69,
+     "win": true
+    },
+    "14d": {
+     "pct": -10.33,
      "win": true
     }
    }
@@ -36309,6 +36386,10 @@
     "7d": {
      "pct": -13.43,
      "win": false
+    },
+    "14d": {
+     "pct": -39.66,
+     "win": false
     }
    }
   },
@@ -36329,6 +36410,10 @@
    "outcomes": {
     "7d": {
      "pct": -5.28,
+     "win": false
+    },
+    "14d": {
+     "pct": -24.33,
      "win": false
     }
    }
@@ -36351,6 +36436,10 @@
     "7d": {
      "pct": 14.5,
      "win": true
+    },
+    "14d": {
+     "pct": -14.85,
+     "win": false
     }
    }
   },
@@ -36372,6 +36461,10 @@
     "7d": {
      "pct": 0.27,
      "win": true
+    },
+    "14d": {
+     "pct": -14.08,
+     "win": false
     }
    }
   },
@@ -36393,6 +36486,10 @@
     "7d": {
      "pct": 3.72,
      "win": true
+    },
+    "14d": {
+     "pct": -1.8,
+     "win": false
     }
    }
   },
@@ -36413,6 +36510,10 @@
    "outcomes": {
     "7d": {
      "pct": -8.37,
+     "win": false
+    },
+    "14d": {
+     "pct": -30.01,
      "win": false
     }
    }
@@ -36435,6 +36536,10 @@
     "7d": {
      "pct": -0.48,
      "win": false
+    },
+    "14d": {
+     "pct": -34.31,
+     "win": false
     }
    }
   },
@@ -36456,6 +36561,10 @@
     "7d": {
      "pct": 2.05,
      "win": true
+    },
+    "14d": {
+     "pct": -14.64,
+     "win": false
     }
    }
   },
@@ -36477,6 +36586,10 @@
     "7d": {
      "pct": 12.24,
      "win": true
+    },
+    "14d": {
+     "pct": -3.9,
+     "win": false
     }
    }
   },
@@ -36498,6 +36611,10 @@
     "7d": {
      "pct": 1.96,
      "win": true
+    },
+    "14d": {
+     "pct": -15.46,
+     "win": false
     }
    }
   },
@@ -36519,6 +36636,10 @@
     "7d": {
      "pct": 12.08,
      "win": true
+    },
+    "14d": {
+     "pct": -1.01,
+     "win": false
     }
    }
   },
@@ -36539,6 +36660,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.99,
+     "win": false
+    },
+    "14d": {
+     "pct": -10.53,
      "win": false
     }
    }
@@ -36561,6 +36686,10 @@
     "7d": {
      "pct": -14.79,
      "win": false
+    },
+    "14d": {
+     "pct": -31.59,
+     "win": false
     }
    }
   },
@@ -36581,6 +36710,10 @@
    "outcomes": {
     "7d": {
      "pct": -8.43,
+     "win": false
+    },
+    "14d": {
+     "pct": -31.05,
      "win": false
     }
    }
@@ -36603,6 +36736,10 @@
     "7d": {
      "pct": -5.85,
      "win": false
+    },
+    "14d": {
+     "pct": -21.12,
+     "win": false
     }
    }
   },
@@ -36623,6 +36760,10 @@
    "outcomes": {
     "7d": {
      "pct": 18.16,
+     "win": true
+    },
+    "14d": {
+     "pct": 3.65,
      "win": true
     }
    }
@@ -36645,6 +36786,10 @@
     "7d": {
      "pct": -24.12,
      "win": false
+    },
+    "14d": {
+     "pct": -43.85,
+     "win": false
     }
    }
   },
@@ -36665,6 +36810,10 @@
    "outcomes": {
     "7d": {
      "pct": 5.23,
+     "win": true
+    },
+    "14d": {
+     "pct": 0.58,
      "win": true
     }
    }
@@ -36687,6 +36836,10 @@
     "7d": {
      "pct": 3.52,
      "win": true
+    },
+    "14d": {
+     "pct": -10.27,
+     "win": false
     }
    }
   },
@@ -36707,6 +36860,10 @@
    "outcomes": {
     "7d": {
      "pct": -4.87,
+     "win": false
+    },
+    "14d": {
+     "pct": -23.01,
      "win": false
     }
    }
@@ -36729,6 +36886,10 @@
     "7d": {
      "pct": -10.51,
      "win": true
+    },
+    "14d": {
+     "pct": -24.1,
+     "win": true
     }
    }
   },
@@ -36749,6 +36910,10 @@
    "outcomes": {
     "7d": {
      "pct": 12.8,
+     "win": null
+    },
+    "14d": {
+     "pct": -13.84,
      "win": null
     }
    }
@@ -37737,6 +37902,10 @@
     "7d": {
      "pct": 8.93,
      "win": true
+    },
+    "14d": {
+     "pct": -3.46,
+     "win": false
     }
    }
   },
@@ -37758,6 +37927,10 @@
     "7d": {
      "pct": 8.93,
      "win": true
+    },
+    "14d": {
+     "pct": -3.46,
+     "win": false
     }
    }
   },
@@ -37825,6 +37998,10 @@
     "7d": {
      "pct": 3.65,
      "win": null
+    },
+    "14d": {
+     "pct": -7.74,
+     "win": null
     }
    }
   },
@@ -37846,6 +38023,10 @@
     "7d": {
      "pct": 3.63,
      "win": true
+    },
+    "14d": {
+     "pct": -7.26,
+     "win": false
     }
    }
   },
@@ -37867,6 +38048,10 @@
     "7d": {
      "pct": 3.63,
      "win": true
+    },
+    "14d": {
+     "pct": -7.26,
+     "win": false
     }
    }
   },
@@ -38261,6 +38446,10 @@
     "7d": {
      "pct": -10.51,
      "win": false
+    },
+    "14d": {
+     "pct": -37.21,
+     "win": false
     }
    }
   },
@@ -38282,6 +38471,10 @@
     "7d": {
      "pct": 8.93,
      "win": false
+    },
+    "14d": {
+     "pct": -3.46,
+     "win": true
     }
    }
   },
@@ -38303,6 +38496,10 @@
     "7d": {
      "pct": 8.93,
      "win": false
+    },
+    "14d": {
+     "pct": -3.46,
+     "win": true
     }
    }
   },
@@ -38324,6 +38521,10 @@
     "7d": {
      "pct": 8.93,
      "win": true
+    },
+    "14d": {
+     "pct": -3.46,
+     "win": false
     }
    }
   },
@@ -38345,6 +38546,10 @@
     "7d": {
      "pct": 8.93,
      "win": true
+    },
+    "14d": {
+     "pct": -3.46,
+     "win": false
     }
    }
   },
@@ -38366,6 +38571,10 @@
     "7d": {
      "pct": 8.93,
      "win": true
+    },
+    "14d": {
+     "pct": -3.46,
+     "win": false
     }
    }
   },
@@ -38408,6 +38617,10 @@
     "7d": {
      "pct": 6.01,
      "win": true
+    },
+    "14d": {
+     "pct": -8.88,
+     "win": false
     }
    }
   },
@@ -38555,6 +38768,10 @@
     "7d": {
      "pct": 11.02,
      "win": true
+    },
+    "14d": {
+     "pct": -13.4,
+     "win": false
     }
    }
   },
@@ -38576,6 +38793,10 @@
     "7d": {
      "pct": 11.02,
      "win": true
+    },
+    "14d": {
+     "pct": -13.4,
+     "win": false
     }
    }
   },
@@ -38597,6 +38818,10 @@
     "7d": {
      "pct": 11.02,
      "win": true
+    },
+    "14d": {
+     "pct": -13.4,
+     "win": false
     }
    }
   },
@@ -38618,6 +38843,10 @@
     "7d": {
      "pct": 11.02,
      "win": true
+    },
+    "14d": {
+     "pct": -13.4,
+     "win": false
     }
    }
   },
@@ -40159,7 +40388,12 @@
    "video_title": "#TSLA IS RUNNING HIGHER \u2014 #SPCX MERGER RUMORS OR TECHNICAL BREAKOUT? #Tesla #daytrading",
    "date": "2026-11-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -11.38,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -40175,7 +40409,12 @@
    "video_title": "#TSLA IS RUNNING HIGHER \u2014 #SPCX MERGER RUMORS OR TECHNICAL BREAKOUT? #Tesla #daytrading",
    "date": "2026-11-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -11.38,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -40191,7 +40430,12 @@
    "video_title": "#TSLA IS RUNNING HIGHER \u2014 #SPCX MERGER RUMORS OR TECHNICAL BREAKOUT? #Tesla #daytrading",
    "date": "2026-11-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -11.38,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -40207,7 +40451,12 @@
    "video_title": "#TSLA IS RUNNING HIGHER \u2014 #SPCX MERGER RUMORS OR TECHNICAL BREAKOUT? #Tesla #daytrading",
    "date": "2026-11-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -11.38,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -40244,7 +40493,12 @@
    "video_title": "Is SpaceX and Tesla in Trouble After Nvidia Lost Jensen?",
    "date": "2026-11-13",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -22.92,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41779,6 +42033,390 @@
    "channel": "Brighter with Herbert",
    "video_title": "Billionaires Are LOADING UP On Tesla And SpaceX Stocks",
    "date": "2026-11-18",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "MSFT",
+   "direction": "long",
+   "kind": "call",
+   "entry": 440.67,
+   "stop": null,
+   "target": 550,
+   "horizon_days": null,
+   "quote": "This is our bottom picking zone. This is our targeted zone of support. I do think it's likely that we will reach it.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 172,
+   "stop": 172.12,
+   "target": 95,
+   "horizon_days": 21,
+   "quote": "the lower 170s are a good short sale if given the opportunity",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "META",
+   "direction": "long",
+   "kind": "call",
+   "entry": 539.32,
+   "stop": 510.34,
+   "target": null,
+   "horizon_days": null,
+   "quote": "Until then, this is a solid zone to buy into. Uh whether it's near, mid, or long-term.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "MU",
+   "direction": "long",
+   "kind": "call",
+   "entry": 559.38,
+   "stop": 559.38,
+   "target": 760.01,
+   "horizon_days": null,
+   "quote": "So you're either buying Micron on weakness at 55938, stopping out with a settlement below",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "SPCX",
+   "direction": "long",
+   "kind": "call",
+   "entry": 142.74,
+   "stop": null,
+   "target": 184.79,
+   "horizon_days": null,
+   "quote": "So you're buying SpaceX with a settlement above 14274 anticipating the 180s by the end of the year perhaps.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "GOOGL",
+   "direction": "long",
+   "kind": "call",
+   "entry": 251.53,
+   "stop": 251.53,
+   "target": 341.51,
+   "horizon_days": null,
+   "quote": "you're either bottom picking 251.53 with a restrictive uh stop loss",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AMZN",
+   "direction": "long",
+   "kind": "call",
+   "entry": 237.46,
+   "stop": 237.46,
+   "target": 274.48,
+   "horizon_days": 35,
+   "quote": "You're buying 23746. 3 to 5 weeks later we could be at 27448.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSM",
+   "direction": "long",
+   "kind": "call",
+   "entry": 289.5,
+   "stop": 289.5,
+   "target": 383.01,
+   "horizon_days": 35,
+   "quote": "Until then, this is solid bottom picking territory. An area to cover a short position you may have established last week or an area to actually go long through Q1.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "PLTR",
+   "direction": "short",
+   "kind": "call",
+   "entry": 150.03,
+   "stop": null,
+   "target": 108.8,
+   "horizon_days": null,
+   "quote": "you could sell 1503 and buy the mid to upper 120s.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "INTC",
+   "direction": "short",
+   "kind": "call",
+   "entry": 60.67,
+   "stop": 60.67,
+   "target": 42.03,
+   "horizon_days": 35,
+   "quote": "if you're short Intel, um, you know, you want to stay short below 60.67. cover that short position at 4203.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AVGO",
+   "direction": "short",
+   "kind": "call",
+   "entry": 398.2,
+   "stop": 402.4,
+   "target": 251.88,
+   "horizon_days": null,
+   "quote": "This is still a market to be sold into the 3982 to 40240 region.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AMD",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": 372.06,
+   "stop": 372.06,
+   "target": 500,
+   "horizon_days": 21,
+   "quote": "AMD still remains constructive still is bullish the pattern remains intact through the first quarter above 37206.",
+   "video_id": "3T0sad7BBpE",
+   "channel": "Wicked Stocks",
+   "video_title": "Tech Stocks Face More Selling \u2014 Where to Buy and Sell | Wicked Market Leaders",
+   "date": "2026-11-21",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 385.83,
+   "stop": null,
+   "target": 363.46,
+   "horizon_days": 5,
+   "quote": "below which you are short as a three to five day swing trader down to 36346 which is a 58 Fibonacci",
+   "video_id": "80eS6y1bWWg",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA RALLY FAILED \u2014 A WEEKLY CLOSE BELOW $351 OPENS THE DOOR TO $267 #Tesla #daytrading",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 363.46,
+   "stop": null,
+   "target": 385.83,
+   "horizon_days": null,
+   "quote": "buy and even reverse and go long short term only at 36346 the downside 58 Fibonacci from the last couple of weeks activity",
+   "video_id": "80eS6y1bWWg",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA RALLY FAILED \u2014 A WEEKLY CLOSE BELOW $351 OPENS THE DOOR TO $267 #Tesla #daytrading",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 351.05,
+   "horizon_days": 10,
+   "quote": "if we do close below 363 point 46 we should over the next several days by the end of next week at the very latest test that 351 05 level",
+   "video_id": "80eS6y1bWWg",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA RALLY FAILED \u2014 A WEEKLY CLOSE BELOW $351 OPENS THE DOOR TO $267 #Tesla #daytrading",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 267.3,
+   "horizon_days": 150,
+   "quote": "longer term, say by the end of Q1, we can find ourselves in the 260s and dropping. This channel bottom in reach at 26730 over the next three to five months",
+   "video_id": "80eS6y1bWWg",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA RALLY FAILED \u2014 A WEEKLY CLOSE BELOW $351 OPENS THE DOOR TO $267 #Tesla #daytrading",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 120,
+   "stop": null,
+   "target": 170,
+   "horizon_days": null,
+   "quote": "I will be loading up my long-term account down around $120 if that happens because it has never broken that support since we started trading above it.",
+   "video_id": "H2NYFGdwgfc",
+   "channel": "Traders Helping Traders",
+   "video_title": "My Worst-Case Scenario for NVDA Is Almost Here",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 115,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I will be loading up shares at about 110 to $115 if that happens.",
+   "video_id": "H2NYFGdwgfc",
+   "channel": "Traders Helping Traders",
+   "video_title": "My Worst-Case Scenario for NVDA Is Almost Here",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 170,
+   "horizon_days": null,
+   "quote": "I think we're going to bounce massively off of here. I think the best case scenario... Price moves back up to 170 and then we reject.",
+   "video_id": "H2NYFGdwgfc",
+   "channel": "Traders Helping Traders",
+   "video_title": "My Worst-Case Scenario for NVDA Is Almost Here",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "SPY",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I would say that this is a buying opportunity where we currently are. Of course, as long as we're being responsible.",
+   "video_id": "UbvtgrDsV5M",
+   "channel": "Traders Helping Traders",
+   "video_title": "SPY Is Testing Support That Only Broke in 2000 & 2008",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "SPY",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 720,
+   "horizon_days": 14,
+   "quote": "we get a big push, maybe up to 710, 715, 720. We fill this volume gap, then we get one more rejection.",
+   "video_id": "UbvtgrDsV5M",
+   "channel": "Traders Helping Traders",
+   "video_title": "SPY Is Testing Support That Only Broke in 2000 & 2008",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "QQQ",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I believe we're still in a bull market for not only S&P, but for tech... ultimately, I think it makes sense to buy that AI dip.",
+   "video_id": "UvwjB7AW7Mw",
+   "channel": "Fundstrat Capital",
+   "video_title": "Why You Should Buy The AI Dip Right Now",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I think Tesla is making some fairly strategic decisions... this is going to be an insanely profitable approach of what they're doing.",
+   "video_id": "_5qZbFV-H68",
+   "channel": "Brighter with Herbert",
+   "video_title": "Every Tesla Investor Needs To Hear This",
+   "date": "2026-11-20",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "Whether the demo lands in December or in March, the demo is a checkpoint along the way, but the factory is the actual. So follow that factory. If you're a Tesla investor, that's the part you should focus on",
+   "video_id": "c3_AROVaZrM",
+   "channel": "Brighter with Herbert",
+   "video_title": "Is Optimus Ready For Elon's Own Robot Test?",
+   "date": "2026-11-21",
    "affiliated": false,
    "outcomes": {}
   }
