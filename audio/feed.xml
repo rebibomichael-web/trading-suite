@@ -7,6 +7,18 @@
 <description>Narrated daily YouTube channel digests and CNBC Halftime Report summaries, generated automatically.</description>
 <itunes:author>trading-suite automations</itunes:author>
 <item>
+<title>YouTube digest — 2026-11-23</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-11-23.mp3" length="3404016" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-11-23.mp3</guid>
+<pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Halftime Report — 2026-11-23</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-11-23.mp3" length="2169504" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-11-23.mp3</guid>
+<pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>YouTube digest — 2026-11-21</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-11-21.mp3" length="8109792" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-11-21.mp3</guid>
@@ -275,30 +287,6 @@
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-26.mp3" length="2825568" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-26.mp3</guid>
 <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>YouTube digest — 2026-10-25</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-25.mp3" length="3570192" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-25.mp3</guid>
-<pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>YouTube digest — 2026-10-24</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-24.mp3" length="3511296" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-24.mp3</guid>
-<pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>YouTube digest — 2026-10-23</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-23.mp3" length="4323888" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-10-23.mp3</guid>
-<pubDate>Fri, 23 Oct 2026 07:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Halftime Report — 2026-10-23</title>
-<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-23.mp3" length="0" type="audio/mpeg"/>
-<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/halftime/2026-10-23.mp3</guid>
-<pubDate>Fri, 23 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>

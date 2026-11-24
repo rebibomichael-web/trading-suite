@@ -1,0 +1,1222 @@
+We know life is busy. That's why saving money should be effortless. With Atlantic Union Bank's round-up savings,
+every time you use your debit card, your purchase rounds up to the nearest dollar and
+automatically goes into savings. So whether you're grabbing coffee, filling the tank, or picking up groceries, you're saving without even thinking about it.
+It's just one of the ways Atlantic Union Bank makes managing your money easy. Learn more at AtlanticUnionBank.com or stop by a branch today.
+Atlantic Union Bank. Any way you bank.
+Looking for a financial advisor and need some kind of sign? Here's one.
+Edward Jones is ranked number one for client satisfaction among advised investors by JD Power. That's a sign.
+You're in good company when you choose ours. Visit EdwardJones.com slash JD Power to learn more. Edward Jones, member SIPC,
+JD Power 2026 US Investor Satisfaction Study, published March 2026, data as of January 2026.
+Compensation for using, not obtaining the ranking. Past client experiences are not a guarantee of future results.
+I'm Scott Wapner and you're listening to CNBC's Halftime Report, the podcast, the most profitable hour of the trading day.
+We record this live weekdays at 12 Eastern. Listen in.
+Carl, thank you. Welcome to the Halftime Report. I'm Scott Wapner, front and center this hour. What else? The return of Jensen Wong and the
+stunning rebound today in stocks. We are trading the markets, of course. We'll be joined also in a moment by
+Altimeter's Brad Gershner on the NVIDIA News. Joining me for the hour, Joe Chernova, Liz Thomas, Jenny Harrington, Josh Brown,
+stocks are soaring. And note by now, one of the more extraordinary rallies we've seen in some time. There it is from
+a index perspective. NASDAQ up near 7%, NVIDIA surging near 33%. After reinstating Jensen Wong as CEO, President Trump
+saying on this network earlier this morning, he all but orchestrated that return.
+I've been speaking to the board directly and indirectly, and I felt very strongly about it. And I felt more strongly as I
+saw what was happening with the company because that was, to me, a very important part of our country. This is, you
+know, represents something very special, what he's done and what the company's done. And I found the board to be very,
+very reasonable.
+Josh, I'll bring you first. You said that there was a limit on how much this stock was going to go down
+before Jensen Wong would be reinstated. You said it was a hundred bucks. We didn't quite get there. But nonetheless,
+the point was made. And the president was asked by Amon Javers about the sell off and whether it played a
+role. The president said, quote, probably so. What's your reaction?
+Okay, definitely so. And I guess my thinking was, look, governance is great. But when like trillions of
+dollars vanish, not just from Nvidia, but from the overall stock market, at a certain point, a lot of
+administrations would take a look and say, well, what do we have to do to keep this from becoming an
+economic issue? And look, it's not just Brad Gersner and Josh Brown that own Nvidia. It's literally the
+entire investing public has some stake in AI, whether we want to or not, whether we've done it
+deliberately or not, you're talking about trillions of dollars in people's retirement accounts. And, you
+know, at a certain point, most administrations would at least ask themselves the question, this is an
+administration that we instated a soccer player over the summer from a red card. So like, nobody
+should be totally shocked. So I think what I was saying last week, as this was playing out is,
+look, if this stock falls below 100, I just made up a round number. That's how he gets back.
+Because the board looks at the candidates, they look at the way forward, and then they look at this
+guy sitting out here sending tweets that he wants to come back. And they just say, yeah, there
+might be other replacements. There's probably not a quicker fix, better replacement that could
+immediately fix this situation. It was becoming an actual catastrophe, like not a day traders
+problem, but like a U.S. economic problem. So I don't want to get into the morality. Some
+people love this. Some people hate it. That's not my job. I think one of the one of the most
+important things that you could say is that most Americans have exposure to the A.I.
+theme. Many have exposure directly to NVIDIA. And, you know, all of the conversations
+aside about corporate governance, this to me was a likely outcome. Today it's become
+the actual outcome. I mean, it's a reminder of some sorts that the president Joe has
+an asymmetric upside button, and he pushed it again. And whether it was Liberation
+Day, where he said, you know, buy stocks and reverse the decision. Josh brings up
+the red card. I mean, it's worth putting on the list. And then this, you, because
+of a recent rebalance, literally last week, which we're just talking about for
+the first time now, you no longer have NVIDIA in your JOTE ETF. So talk to me about
+that as much as you're able to say for compliance purposes and where we go from
+here. So I'll speak directly that I feel great. And I'll tell you why I feel
+great that you no longer own the stock. Yeah, I feel great because I don't
+think this is about just NVIDIA. I think the best thing that happens now
+is that the news cycle surrounding NVIDIA quiets. Jensen Wong goes back to doing what
+he does best, the creativity, the engineering. NVIDIA continues to generate
+the revenue that they do. And at some point we will own it again. Why do I feel
+great? Because this was about the AI universe. And I think if there's
+anything that we have learned over the last week, it's how reliant we are on
+that AI universe. Now, Josh used the word economy, I think in the purest and most
+simple explanation, it is about risk asset return more than anything else.
+This market went, this market went parabolic as it relates to greed in June.
+We now went the other way, parabolic as it relates to fear. Okay, hold on your
+thought just for one second because a good portion of this story is out of
+Washington. Our Megan Casella has some breaking news. What are we learning
+now, Megan? Scott, the Senate Banking Committee has just confirmed that Jensen
+Wong will be appearing on Capitol Hill just after Thanksgiving for what will be
+a public hearing and public testimony about all that we've been learning about
+in NVIDIA. This is Senate Banking Chairman Tim Scott formally announcing this
+hearing now for December 3rd. It's titled Protecting America's AI Advantage
+Oversight of U.S. Export Controls. Jensen Wong will be the sole witness at
+that hearing. And Scott confirming here that this will be a public
+hearing live streamed online as well. So, Scott, we had heard that this was
+coming but we had been waiting for some confirmation, especially after this
+morning's news, about Jensen Wong's green statement
+abort atop NVIDIA as to whether it would still move forward. Now we know
+at least this one hearing will be happening on December 3rd. We also do
+still currently expect Jensen Wong to go to Capitol Hill for some closed-door
+testimony before this that had been scheduled on the house side for
+December 1st. We haven't heard any update on that
+today since the reinstatement but now we know for sure he will be there for a
+public hearing on December 3rd. Scott. There are spectacles and then there are
+spectacles and this will certainly be chalked up as one.
+Megan, thank you. Let us know if you get anything more. That's Megan Cassella
+down in Washington for us. Again, the public hearing December 3rd
+with Jensen Wong in front of Senate Banking. Forgive me for interrupting
+you but that's important news. That certainly is important news but it's
+about the universe and that's why I feel good.
+It's about the lifting of semis and semi-equipment names.
+It's names like Astera Labs which we own. Look, we're equally weighted.
+We don't own NVIDIA and you could see the return today. You could all pull it up
+for Joe T. We're doing great. We're up nearly five percent.
+We're having a great day and it is because the AI universe right and the AI
+universe is lifting and I think that's the single most
+important dynamic out of all of us. Okay, I'll get you guys real quick on
+this too because I want to bring in Brad Gerstner. Evercore
+trading desk today. Liz has a note that says this is arguably the most
+consequential development in AI since ChatGPT launched. Washington has
+effectively acknowledged that the AI buildout has become too
+strategically important to fail and that Jensen himself is too
+indispensable to lose. The U.S. government has become the
+implicit backstop of the AI industrial complex. For lack of a
+better phrase, this is AI's first bailout, not of a balance sheet but
+of the architecture supporting a trillion dollar industrial buildout.
+Is that sort of what we need to think of this as?
+I think that's a very direct way to say it and a direct way to say
+we realize that we don't have a Fed put right now because we've got a Fed and a
+hiking posture. We keep forgetting that we have a presidential put.
+But that was the rest of my statement.
+Keep forgetting that.
+But we still have the Trump put and we just got it over the weekend.
+I think the message that this sends is how dependent, not just the market,
+obviously the market is dependent on AI. Everybody's known that for a long time.
+But how dependent the U.S. economy is on AI, how dependent probably the U.S.
+consumer is on AI and businesses outside of the AI ecosystem because
+everything is now wrapped up in this. We've got a put, whether we call it a Trump put,
+a government put, we've got some saving, some force of saving that is going to happen if
+things get too painful. This does remove a major overhang from the market,
+but it doesn't remove everything that was going on before.
+So now I think we go back to the state, at least for a while, where we're still considering
+what did we need to re-rate these stocks as with a Democratic Congress,
+with questions about whether or not CapEx can continue at the same speed,
+and with everything else that's been going on, all of the cyber stuff that's been happening as well.
+So I think we still go back to that place. I don't think we're going to see
+the highs that we saw in summer anytime soon, but this certainly removes a humongous negative.
+Well, this will surprise no one, but I feel absolutely horrible about this.
+And the reason I feel horrible about it is because there's too much of this belief out there,
+and everyone's verified it today, that the entire U.S. equity market,
+$80 trillion of value is reliant on one person. And if one person can erase $8 trillion over a couple
+weeks and then add back $4 trillion, if one person can do that, that says to me,
+we're sitting on something that's extremely fragile, and that scares the Bejesus out of me.
+Well, I mean, you want to play a morality market, go ahead.
+It's not morality.
+But this is the...
+That has nothing to do with morality.
+A judge, a hand.
+Okay, that literally has nothing to do with morality.
+This is the hand you're dealt.
+It's not just the average person.
+It happens to be the most powerful person on planet Earth.
+Okay, you can say that, but it is still one person.
+And I know I said this last week, too, and I screw up the whatever it is,
+but it's like, sure, cemeteries are filled with indispensable men, right?
+I don't believe that one person is ever indispensable.
+That was what De Gaulle said that Lloyd Blankfein had tweeted about last week, too.
+Right, and everyone's been saying that, and I think that that's true.
+Like, there's other people who can do things.
+And if one CEO of the thousands of companies out there
+can have this big an impact, that scares me.
+It says there's fragility.
+Okay, we'll deal with what is happening in the market.
+Let's bring in Brad Gerson of Altimeter.
+He joins us now.
+Obviously, we had to hear from you, given you were one at the front of the pack,
+suggesting that maybe the board acted too hastily, that Jensen should come back.
+What's your reaction?
+Well, Scott, thanks for having me on.
+It's good to be here.
+You know, listen, when I came on with you last Monday across the street,
+what I said is nobody's above the law.
+Jensen Wong's not above the law.
+No founders are above the law.
+But I wrote the letter to the board of directors because I was worried
+that there was a rush to judgment, that we were deeming him guilty
+before there had actually been any hearing on the subject.
+And so I said on Thursday on CNBC, it was becoming increasingly unlikely
+that he actually violated the law.
+And then we heard this morning, the president himself said they did rigorous work, research,
+into all of the agency.
+Was there any evidence that he violated the national security law?
+And the answer was no.
+And then he talked to the Department of Justice, and there was no evidence there either.
+And so I give huge credit to the board of directors.
+They remained mentally flexible.
+They slowed down.
+They gathered the rest of the facts.
+And the facts on the table were he made a huge mistake in violating the trust
+of his family and the board regarding his personal infidelity.
+He apologized for it.
+His family is standing with them.
+So he has to deal with that.
+And that's, you know, I'm certain something he's very apologetic for.
+But there was a much bigger thing at stake here, which is,
+are we going to railroad somebody without actually asking the questions?
+And when the entire administration clears him of a violation of the law,
+it was the appropriate thing for the board to reinstate him as the CEO.
+And I was glad that they moved quickly to do it.
+It wasn't about the whole market hinging on one person.
+This was really about the rule of law in this country.
+And it says a lot that we were able to move quickly to put somebody back in
+who has been cleared from violating the law.
+So there's a lot that you said, and there's a lot to get to.
+And I want to try and get to everything that I think is important.
+So I presume that you heard the president on CNBC within the last couple of hours,
+and that most people did as well.
+And you heard him directly answer some of the questions.
+In one of the questions on what role he played in terms of who he spoke with,
+he was obviously transparent about speaking with the board.
+He also said, quote, I spoke to people you interview all the time.
+Did you speak directly to the president about bringing Jensen Wong back?
+Just want to check that box.
+Right. I did not speak directly to the president.
+But did you speak to the Treasury Secretary or anybody high up of that
+level within the administration about your view of getting Jensen Wong back?
+I don't want to get into all the, you know, personal back and forth
+that may or may not have occurred.
+I'm very public about this guy.
+I made very clear.
+This hinged on a single question.
+Did Jensen Wong violate our national security laws or not?
+And I was the first to say,
+you need to answer that question before he could be reinstated as the CEO.
+Remember, there was a call to bring him back with no investigation or with no question.
+But now we know the investigation has been going on for 14 months.
+And so when it became clear that there wasn't a violation of law,
+based on everything that they, based on all the work that had been done,
+I had made it apparently abundant both on CNBC and in private communications
+that he should be clear to this.
+The board should reevaluate its decision.
+They had rushed to that conclusion, I think, and needed to reassess it
+with a whole set of facts, which they did.
+And I think they made the right decision to bring Jensen back as the CEO.
+I'm going to use your word.
+If you say that the board rushed to their decision,
+do you think the board should be replaced?
+Listen, I think today it's about getting Jensen back in his seat.
+I think the board deserves a lot of credit.
+Again, what oftentimes happens in these situations, Scott,
+is a board will make a decision and then they will dig in their heels.
+They won't be thoughtful about reevaluating their decision with new set of facts,
+because it might be embarrassing that they moved quickly.
+So I give a lot of credit to them to taking on a new set of facts,
+reevaluating the situation and making a different decision.
+I'm certain that this board and management will all reflect
+on things they might have done better with the fullness of time and information.
+And that may mean that there are certain members of the board
+that are changed or may mean that they need to bring in external talents
+around compliance or export controls or other things
+that they didn't have on the board before.
+I hope that the company gets a lot better as a result of this.
+I'm certain that they will take that into consideration,
+but I'm not today coming on to call for any immediate change to the board.
+This has obviously shed a lot of light on the internal happenings at NVIDIA.
+The lack of what some would say is a credible succession plan,
+the 60 direct reports, et cetera, on a governance angle,
+because this shed such new light on those very important issues,
+do you think those things need to be fixed?
+Would you like to see that as a major shareholder here?
+Listen, nobody was talking about Jensen's 60 direct reports
+being a problem three months ago.
+In fact, people were talking about how amazing it was
+that he built such a flat organization that could move so quickly.
+Remember, this is a company that almost everybody
+in the semiconductor complex was releasing one generation
+of new chips every two years at best.
+This company came out and said,
+no, we're going to not only release a new chip every year,
+but we're going to release an entire new factory every year,
+all the networking that goes around that,
+all the security that goes around that,
+all of the capability.
+Most people thought it couldn't be done.
+So who is the industry, or Brad Gershner,
+to second guess somebody who has delivered 10x performance
+for shareholders, put America in the global lead in AI,
+and frankly has done something that was never before seen
+in the semiconductor industry?
+So I'm certain that Jensen above everybody else
+will take a look at all the things that went right,
+the things that he can improve.
+He'll improve upon those things.
+He is a very reflective person in that regard.
+So I think he'll do those things.
+But no, I don't think that we should be out here judging
+the way he was running the business, except to say,
+the way he was running the business put us
+in the global lead in AI.
+Have you talked to him since last evening or this morning?
+Yes.
+What was the conversation like?
+Just deeply personal.
+You know, here's somebody who is imagined being an issue.
+He's made a huge personal mistake with respect to his family.
+Billions of people know about it.
+He hurts normal human being, and he hurts about that.
+There's no place to hide from that.
+But he also heard about the fact that he heard his company.
+He hurt his shareholders because they all had to go through
+all of this chaos over the course of the past week.
+So I think he is humble.
+He is apologetic.
+He feels great about being given a second chance.
+And I think he's absolutely committed to making sure in this
+second chance that he delivers for America.
+He delivers for his employees.
+He delivers for his family.
+He delivers for his shareholders.
+There's no bravado, right?
+It's really just gratitude for the opportunity to show the
+world what I believe to be true, which is here's a patriot,
+somebody who cares deeply about the country,
+who made a mistake.
+And his mistake is, you know, one that, unfortunately,
+had to play out on the stage for billions to launch.
+What would it have mattered to the stock had this not happened?
+It had obviously lost more than a trillion dollars worth of
+value.
+I read this Evercore note from this morning who calls
+today's news, arguably the most consequential development
+in AI since chat GPT launched that Washington has
+effectively acknowledged the build out has become too
+strategically important to fail.
+That Jensen himself too indispensable to lose.
+Was he too important to fire?
+No, nobody's above the law.
+And Jensen is extraordinary.
+He is an end of one.
+But, you know, in this country, you know,
+we have a rule of law above all else.
+And I think it's critically important that we demonstrated
+that, you know, he has to answer for those things.
+I'm thrilled he's going to live stream from the banking
+committee because I think it's important that the country
+hears from him that he rebuilds confidence, right?
+And how deeply he cares about the country and why the
+things he believes he believes puts the country, you know,
+further ahead.
+What I will say is this, the day before Jensen, right,
+resigned or was forced to resign as CEO of NVIDIA,
+the stock was at $174 a share.
+It had already come down from $230 a share
+to $173.
+Scott, I've been on this program since the end of May,
+saying that AI was going to have a pullback,
+that the semiconductor index had gone too far, too fast,
+that we had to see whether or not the AI revenues
+would justify this level of CapEx.
+There are still tremendous number of questions out there
+that have to get answered in this super cycle.
+So all of the story around Jensen is super important,
+but it's separate and apart from the big questions
+we have to answer,
+which is how fast is AI going to be diffused, right?
+What are those revenues going to be?
+Is that a large enough return to pay for the entire
+CapEx build out that we're seeing?
+I think we're very lucky as a country to be in the
+position that we're not only extending our lead
+over the rest of the world when it comes to
+frontier intelligence, but think about this.
+We're spending over a trillion dollars a year
+to build the most important national asset,
+important to our national security,
+important to our national economic security,
+and it's all being funded by the free cash flow
+of the private sector,
+not by the public sector building this out.
+This isn't a public sector put.
+The public sector doesn't have to spend any money on this.
+This is our most important companies,
+including Nvidia, that are pouring their free cash flow
+into building out all of these data centers,
+building all these new generations of chips,
+and putting us in the position to lead the world in AI.
+It's what makes America great.
+And then the demonstration today,
+right, that we can gather a new set of facts
+around the rule of law,
+and when somebody does not violate the law,
+they're innocent until they're proven guilty.
+So I'm thrilled that he's back at the helm,
+and we have a lot to prove in order to justify
+the next leg up in terms of AI.
+You still feel like the market itself
+is in a bit of a precarious position.
+It sounds like you don't think this is a clear moment,
+albeit an extraordinary one that we're witnessing
+by virtue of a stock move,
+the likes of which we haven't seen,
+and the intervention by a president
+that we may never see again.
+That's right, Scott.
+I don't think that, again, I just mentioned
+the stock had gone from 230 to 173
+before Jensen was forced to resign from the company.
+So clearly, we had come off of those historic highs
+that we saw at the end of June.
+So to have the next leg up, what do we need?
+What we need is the labs to demonstrate
+they can go from $5 billion a month of revenue
+to $10 billion to $15 billion durably.
+We need to see anthropics revenue go from,
+you know, let's call it $82 billion revenue run rate
+to $200 billion revenue run rate at the end of next year.
+Now, I think that's going to happen.
+I think it's occurring bigger and faster
+than people have their arms around.
+Remember, I think as of this morning,
+what was imputed into the NVIDIA multiple
+was actually negative growth for 2028 and 2029.
+I think it's nuts.
+I think there's no chance that we're going
+to see that negative growth.
+But nobody's going to listen to me on that.
+They're going to have to wait until the cards are turned over.
+They're going to wait and see whether or not
+these revenues actually show up.
+And so I think once we get into Q1 and into Q2 of next year,
+we see some of these big products coming into the fore.
+Then we can, you know, take the next leg higher.
+But Jensen coming back was a critical
+and an important thing for the country and for the company.
+And so I think we can celebrate that.
+But it's not a get out of jail free card.
+It doesn't mean everything goes to the moon.
+But I think it sets us up when we see the revenues
+for the market to move higher.
+You surprised that Anthropics traded
+the way it has since the IPO.
+It's red again today.
+Yeah, I mean, listen, I think one of the things that,
+you know, you see there, remember,
+there are a couple of things that were unusual with this IPO.
+The first one was that you have 300 million shares,
+employee shares, that were able to be sold on day one,
+which frankly, I love.
+It creates more liquidity in the market.
+It's the fair and right thing to do for those employees.
+We also know that there's been massive hedging.
+Just because, imagine this Scott,
+you had $1.5 trillion of value created for LPs,
+like pension funds, firefighters, teachers, cops,
+you know, for endowments,
+like, you know, most of the children's hospitals
+and schools in the country,
+they all own this stock on a look-through basis.
+So they're doing the prudent thing.
+They're hedging their exposure.
+So there's been massive cell pressure
+over the course of the last couple of days in Anthropic
+because everybody kind of readjusts
+and hedges out that exposure.
+Now, what do I think is going to happen
+over the course of the next three weeks?
+You have four or five indexes
+that are going to include Anthropic.
+That creates about $30 to $50 billion of buy pressure.
+Right? So we had a whole bunch of selling
+because of hedging right out of the gate.
+And now you're about ready to have a whole bunch of buying
+in the stock.
+But to me, listen, $87 a share for this company
+is something the company is celebrating.
+Remember, it went public at $83 a share.
+And I think this dynamic,
+we always see right when stocks go public,
+you have to have this equilibrium,
+you know, this recalibration about supply and demand.
+My expectation is that it will strengthen
+as we see the index inclusion.
+And then the most important thing for me,
+I'm not playing for 90 bucks or 100 bucks.
+We think the stock will be $3 trillion
+by the end of next year,
+based upon 10 times forward revenue,
+which is a much lower multiple
+than many of the best companies in the market.
+Did you get the full $5 billion allocation
+you were hoping for?
+No, we did not.
+We were, I think, one of the top 10 allocations
+to the company.
+I never expected that we would get $5 billion, Scott.
+But I'm grateful that we got over a billion dollars
+of incremental anthropic on the IPO.
+And we're going to continue to be opportunistic.
+Obviously, it's one of our bigger holdings.
+And we think so long as the company
+continues on the path they are.
+Listen, they're pushing the frontier.
+They're driving down the cost of intelligence
+so more people can benefit from it.
+And the products that are on the shelf
+at both open AI and anthropic, remember,
+the good news here is we have two companies
+that are leading the race.
+We have incredible competition.
+Don't count out Google.
+Certainly, don't count out Elon.
+Don't count out Meta.
+We have the open source models that are competing.
+We have the most vibrant competitive ecosystem in the world.
+And I'm quite certain that our lead has extended
+dramatically over the Chinese open source models
+over the course of the last six to nine months,
+not on the bench much,
+not with the intelligence we've released into the world,
+but the intelligence inside the labs
+that are solving problems like Navy or Stopes.
+The unreleased intelligence is way further ahead
+than it's ever been.
+I think it's a great thing for the country.
+And with Jensen back at the helm,
+certainly we know that he's going to make sure
+that everybody who wants to build frontier intelligence
+is going to get the most important component of that,
+which is frontier silicon.
+I'll end with one question.
+Speaking of being in the lead,
+we've been the undisputed leader in free market capitalism, right?
+It is what we do.
+It is what we celebrate.
+It's the bastion of what this place
+that I'm literally sitting in is all about.
+We've entered uncharted territory, obviously,
+with an administration willing to lean in
+in corporate business like no other
+that really we've ever seen.
+And maybe the ship has sailed from here forward
+as a result of that, I don't know.
+How are you as an investor and an important one
+and a public one and one that's on TV all the time
+getting your arms around that very issue?
+I mean, Scott, it sounds good,
+but I'm not sure a lot's changed.
+I mean, the reality is there's been a relationship
+between government and the private economy
+as long as I've been in the business.
+This president clearly is kind of an end of one
+how he conducts the affairs of the Oval Office.
+Why? Because he comes out of the business world.
+He knows all the CEOs.
+He's highly engaged.
+He's very strategic in terms of his negotiations
+with President Xi on this matter.
+I think he has a finger on the pulse of what is going on,
+but I want to be very clear.
+If the president of the United States had come out
+and tried to put Jensen Wong back at the helm of Aditya,
+right, and he had violated the law
+or violated national security or done anything else,
+right, nobody would support that.
+And I don't think the president, for one minute,
+would consider that, right?
+He was very clear this morning that they went deep
+every part of the administration
+to ask the important question, did he do anything?
+Has he been totally cleared?
+Is there any evidence, any evidence,
+that he did anything not in the interest
+of the United States of America?
+And I think it's fair because they came after him
+in such a tough way right out of the gates.
+As though he was guilty, I think it was important
+that they just put on the table.
+The guy did not do...
+We have no evidence that he did anything.
+And so the board made an independent decision
+based on that.
+I don't think it's a huge change for America,
+but let me finish with this.
+I will celebrate free market capitalism.
+We are extending our lead on the rest of the world
+in all the things that matter.
+We invent more things.
+We move human progress forward
+more than any other country on the planet.
+It's a magical combination of risk takers
+like Jensen who started off scrubbing toilets at Denny's,
+an immigrant to this country.
+We are also celebrating strategic immigration
+to this country and getting the best
+and the brightest who want to build here.
+And then we give them risk capital.
+I'm here in Silicon Valley.
+There is more risk capital willing to back
+the Elon Musk of the world and the Larry Page
+and Sergey Brins of the world
+and the Jensen Wong's than anywhere on the planet.
+And then we bring all that together
+with an incentive structure
+where we don't pump, punish, and demonize success.
+We celebrate success.
+Not to leave everybody else behind.
+Nobody's been more on the front as you know than me.
+We have to make sure everybody is sharing
+in the upside of America.
+I want everybody to own shares in AVIDIA,
+and Anthropic, and OpenAI.
+We've created 70 million stock accounts,
+free stock accounts for every single citizen
+under the age of 18 to do just that.
+And we have huge announcements coming,
+a lot more going into those accounts.
+And I hope Jensen is one of those people.
+I hope he puts some AVIDIA shares into the accounts
+because that is the magic of this country.
+Not only do we innovate,
+not only do we drive the planet forward,
+but we also do it in a way consistent
+with the American dream
+where everybody feels like they're in the game.
+The risk is not abundance.
+The risk is the distribution of the abundance.
+We need to make sure that the distribution
+is more equitable,
+and everybody feels excited when the country wins.
+I think we're making huge strides in doing that.
+I'm dedicating the rest of my life
+to making sure that's the case.
+Appreciate your time very much.
+Thank you for coming on.
+We'll talk to you soon.
+That's Brad Gerstner.
+Coming up next, we'll have more
+on this extraordinary market rally.
+We're back right after this.
+Vantage View often leaves millions
+of qualified credit seekers out of the picture.
+Vantage Score is changing that
+by modernizing credit scoring.
+Vantage Score uses 400% more credit
+and alternative data
+to create a fuller picture of financial behavior,
+including trended credit data,
+rental payments, and timely utility payments.
+Vantage Score safely broadens access
+to the credit economy
+and brings 5 million mortgage-ready borrowers
+into the market.
+That's why top lenders like Rocket Mortgage
+as well as nine of the top 10 banks
+rely on Vantage Score 4.0.
+With higher predictability
+and greater access to credit,
+everybody wins.
+Get started at VantageScore.com.
+Ever notice how every new AI tool
+asks you to explain your business
+to it all over again?
+Google Workspace with Gemini skips that.
+You get Google's AI
+built right into the premium versions
+of Gmail, Docs, Sheets, and more.
+No new tools, no extra logins,
+just one subscription
+that gives you personalized AI
+right inside your actual workflow.
+Make work less work.
+Try Google Workspace with Gemini
+at go.gle slash workspace with Gemini.
+Whoever said fork in the road
+must have been hungry for the Serento
+and Serento Turbo Hybrid.
+They're three-row seating
+and 10-year 100,000 mile
+limited powertrain warranty.
+With a capable Serento and Serento Turbo Hybrid,
+every way forward is the right way.
+Visit your local Kia dealer today.
+Kia, movement that inspires.
+Call 800-333-4.
+Kia for details.
+Drive safe, see retail to forward to details.
+It is not just NVIDIA
+from the semi-space rallying today.
+Extraordinary gains across the board.
+Micron up almost 20%.
+Hynix is 20.
+Marvell, others in the AI orbit
+like Oracle, Palantir,
+So McCoreweave, Navias.
+Go down the list.
+I mean anything AI related
+in the Bank of NVIDIA orbit,
+if you will, is up a lot today.
+What do I do with that?
+Goldman, their desk today says
+the semi-stock charts appear to be
+suggesting that EPS cuts are coming.
+However, almost every investor we speak
+with does not see that
+as a likely near-term catalyst.
+Who's right?
+Stock charts or company sound bites?
+So let me respond to your question
+and reference how Brad responded.
+Is the market still in a precarious position?
+You asked me, how do I feel about
+NVIDIA not being a joke to you?
+I said I feel great
+and I cited today's performance.
+That's today, Scott.
+We're just stabilizing what has been
+an awful environment for the market
+really since October.
+In October, I told you
+I thought the momentum factor comes back.
+We get a November rally.
+Awful calls.
+This market still is in a precarious position.
+You're not getting back the market
+of the first half of 2026.
+The road ahead is still very difficult.
+It's still very hard.
+Remember, as a result of the election,
+you have regulatory headwinds
+that are still sitting out there right now.
+So yes, those charts look incredibly damaged.
+I like the stability that we got today
+obviously because I'm long,
+but I know going forward,
+this road is going to be more difficult.
+I mean, Josh, the Wall Street Journal
+asked a question.
+Has the AI bubble already burst?
+And then it looks back to 2000
+and compares to today
+with some of the biggest names then versus now
+and the pullbacks they had then versus now
+and they find some what they suggest
+are striking similarities.
+For example, Intel was down 60% in 2000,
+down 64% from highs in 26.
+Oracle huge, Cisco huge then and now,
+Micron then and now huge, Qualcomm 54, 42,
+Seagate, Nvidia, et cetera, et cetera.
+We had discussed at times
+as to whether a large part of this market
+had already corrected enough.
+That's sort of what they're getting at.
+I'm wondering how you would answer that question.
+Well, there's a really obvious difference here between
+first of all, all of those price declines.
+They all happen in 2022 also.
+I don't think most investors would look back
+four years ago and say
+that was anything like the year 2000.
+So just this idea that large cap tech
+has a big draw down
+doesn't mean we're replaying the 1999
+over the waterfall scenario.
+The very big difference between now and then
+is that that was a valuation driven bubble.
+We were paying increasing multiples
+in 97, 98, 99.
+By the end of 99, I was there.
+There was no price high enough for Intel.
+There was no multiple that was too high for Cisco.
+Any multiple made sense.
+Obviously, we're in the reverse situation.
+We've seen the NASDAQ 100s PE ratio down 40%
+since the start of the year
+because we've seen the expected earnings
+of the S&P tech sector.
+Some leaving out, communication services,
+a lot of stuff.
+Just the S&P tech,
+they were supposed to earn $100 a share
+for the next year.
+And now that estimate is at 160.
+So we've seen 60% growth in earnings,
+not revenue, earnings expectations.
+And all that's happened this year
+is the reverse of the year 2000.
+We've seen a literal derating
+that ranks probably amongst,
+I would guess, the five top worst
+PE multiple deratings we've ever seen.
+So here's a very simple way to answer your questions, Scott,
+with an even better question.
+Right now, we're expecting about 40% growth
+from the tech sector in 2027.
+That is twice as much growth
+as we're looking for from the overall market.
+Are we going to get it?
+Are all these chip sales that are already
+being baked in and booked?
+Like, are they going to get pulled?
+Are people going to decide,
+I don't want this compute anymore?
+Because if so, those estimates are at risk.
+And it could be a 2000-esque situation
+where the growth that everyone was betting on
+did materialist.
+But I'm telling you that I think sentiment-wise,
+it's the exact opposite setup.
+Nobody believes that this growth
+is actually going to happen.
+And given what we know about the lead times
+for AI and compute,
+it's actually very likely
+that the growth is going to happen.
+So I guess I'm a little bit more bullish
+into year-end than Joe is right now.
+But the parallel of the 2000,
+it's almost like a Lewis Carroll
+through the looking-glass opposite picture.
+Nobody is bullish.
+Nobody's excited.
+Nobody believes.
+Well, Liz, what do you make of Mike Wilson?
+Morgan Stanley says,
+this is the fat pitch they've been waiting for.
+Remember, he was calling for this correction
+and then a significant rally.
+Got it a little wrong in terms of
+while the S&P broke below our 71 to 7,300 range,
+we view this as an overshoot of fair value
+when we remain constructive into 27
+with the washout.
+This is the fat pitch we've been patiently waiting for
+and we're not going to miss it.
+Should we miss it?
+Is that what this is?
+The fat pitch?
+I think in the near term,
+it probably is a fat pitch.
+And I think there's probably a recovery
+and a bounce that will ensue over the short term.
+But I think we are completely transitioning
+into a different phase of the market.
+We cannot forget that going into this
+and through this,
+defensive leadership has been very, very loud.
+And then when you look even today,
+the market is ripping obviously
+in the equity market,
+but the dollar is stronger.
+That's another defensive message.
+I think that we are transitioning to a place
+where investors will remain discerning.
+We still have all these headwinds going into 27.
+And I think 27 is going to be a tough year.
+Joe, don't be mad at me.
+I know I'm sitting right next to you,
+but I don't think momentum is the place to be.
+I think value is the place to be.
+I think quality is the place to be.
+And I think a Fed and a hiking posture
+changed the game in September.
+And we have to respect the fact
+that the cycle is getting older.
+Goldman today says three conditions
+to support an S&P 500 correction bottom.
+Okay. We're watching for one of the three
+that would support an equity bottom and recovery.
+Number one, news that increases investor confidence
+in the trajectory of future earnings
+associated with AI investment and monetization.
+Maybe we check that box this morning
+because this note came out yesterday.
+So can we check that?
+I don't think so.
+Why not?
+Because I'm not sure.
+I think it goes back to what Josh said.
+He said, nobody believes those earnings.
+And then I think what the reality is
+is that a lot of people are in Brad's camp
+where Brad said specifically
+a tremendous amount of questions
+that still need to be answered in this super cycle.
+So I don't think you can quite check the first box here.
+Go to the second one
+because I think we only have the third one.
+An improvement in the macro,
+such as the dovish signal for Fed policy.
+Well, we can't check that yet.
+We can't check that.
+You said third, major decline in positioning,
+such as often marked by themselves.
+Wait, why can't we?
+Pastry.
+Maybe that's whole.
+Why can't we?
+I don't think we can
+because I think there's still exactly,
+as you were saying,
+that nobody believes those huge earnings.
+And I think that there's a lot of apprehensive hope.
+No, the macro.
+Oil is down to, Jenny,
+oil is down to 80.
+Oh, do you want to talk about the macro?
+And the Fed, well, that's the question.
+That number two on this screen.
+Yeah, I think...
+Oil is down to 80
+and the Fed is probably not backed against the wall
+to do a 50 point rate hike
+or whatever everyone was worried about.
+Okay, but you have wallers still out there saying,
+like, hey, let's do something severe with 50 basis points.
+We still think that there's hikes coming.
+So maybe not that,
+but I do think you might have gotten number three
+on Friday.
+So maybe of the three.
+You know, maybe that's the one leg of the stool
+that you've got under you.
+I think people are apprehensively cautious,
+apprehensively, maybe a little bit positive,
+but there's a lot out there to digest.
+And like Brad said,
+there are a lot of questions that need to be answered
+and the only way they're going to be answered
+is through the passage of time.
+We can't accelerate their answers.
+We'll ask Mike Santoli.
+Mike Santoli.
+Santoli.
+We'll ask him that question next.
+Dance all night.
+Carol Oliver Town or tiptoe under the mistletoe.
+DSW is your designer shoe wonderland for comfy slippers,
+joyful party shoes, statement boots, and more.
+Shop in store or visit dsw.com.
+DSW, let us surprise you.
+Observe the North American dad.
+50s, great polo collection.
+He enters his vehicle information on Carvana
+and offer appears in minutes.
+Remarkable.
+He squints, reads it again, smiles and says,
+dang, that's a good offer.
+The highest form of approval.
+No haggling, no hassle.
+No one called him boss.
+He's still on the couch.
+Astonishing.
+Sell your car today on carvana.com.
+Pickup fees may apply.
+We're back on Halftime Report.
+I am Frank Holland with the CNBC News Update.
+President Trump tap director of national
+intelligence, Jay Clayton, today
+to serve as the acting national cyber director.
+Clayton will assume that role pending
+Senate confirmation of President Trump's
+election for that post Kristen Davies.
+The shakeup comes after Trump fired
+the former director following a spade
+of U.S. technology outages.
+Oregon and Virginia suit SpaceX today
+over its GROC Imagine AI tool,
+saying it allowed users to generate
+sexualized images of women and of children.
+They say the tool's spicy mode allowed
+for the creation of these illicit images.
+X said today it screens all prompts
+and will continue to work with authorities
+to pursue any bad actors.
+The states are seeking financial damages.
+And Ukraine's President Vladimir Zlensky
+claimed responsibility today for two strikes
+on two Russian ships
+and a long range assault off the coast of Libya.
+He says seven Ukrainian-made drones
+were deployed in those strikes,
+which he says sank one of Russia's newest
+Navy vessels and damaged a cargo ship
+that was used to transport weapons.
+Halftime report returns right after this break.
+All right, senior markets commentator,
+the overtime co-anchor, Mike Santoli,
+as is Mark and Memo.
+I mean, different Memo than you came in with this morning,
+obviously.
+So what do we do with this?
+Totally extraordinary course of events.
+However, I would argue that the rally
+so far stopped in a pretty predictable spot.
+So you have to keep that in mind.
+SAP was going to be up more than 2% at the open
+before we got to Jensen-Wong-Green statement news.
+So we were going to have the rally attempt.
+Everybody would tell you
+Friday was a bit of a washout.
+It was at least good for a tactical low.
+Now we get up SAP to like 7,300 buying stops.
+We have to settle in.
+That makes sense.
+I don't think it means you give it back
+or anything like that,
+but it does show you that this was,
+I think we got in a hurry to a place
+we were probably going to be
+figuring out the next test took place.
+Now the implications for the AI trade,
+obviously that's where most of the pain was.
+They have more room to come back.
+I still think you have a few percent of room
+above where the index is all right now
+before it's anything more than just kind of a reflex snapback.
+See, you make a great point.
+We were due for a reflex snapback
+after the size of the selling we had on Friday.
+How do you equate for a presidential push?
+How do you attempt to understand asymmetric upside
+from the pushing of a proverbial button
+that exists at all times?
+We forget about it and we're reminded
+in ways like this.
+Well we are, but I also think
+that the timing of it makes it seem
+like a much more exaggerated
+and highly valued put.
+The one thing I'll put out there
+is that you can have a Trump put
+or a Fed put.
+I don't think you can have both.
+And that might be what the market
+is going to kind of get toward
+trying to figure out if this punk is the dollars up.
+You got short term yields up.
+Not at challenging levels necessarily today,
+but keep it in mind there are offsets out there.
+Yeah, all right.
+We'll talk later for sure.
+Mike, thank you.
+That's Mike Centoli.
+How about that deal of the day
+gets pushed to 52 and a half minutes in?
+Crowd strikes buying C-scaler.
+It's only $44 billion.
+That's all.
+It's extraordinary for what it represents.
+You'll see both CEOs on Madden Night with Kramer.
+So you don't want to miss that.
+Josh, you first then Joe.
+I want to hear from you too.
+Would you get the first crack at this, Josh?
+Yeah, one of the recurring themes this year
+that Stephanie and I have been talking about
+with these cyber stocks is that
+the vendors have to consolidate
+in response to what the customers want.
+And some companies are large enough to be platforms
+and some will probably just remain a standalone product.
+And in this case, CrowdStrike is buying
+the literal best in class, the only scaled inline
+zero trust network.
+That's 8,000 corporate customers
+that now can be cross sold Falcon,
+which is CrowdStrike's product.
+So basically, they were able to take 16% of the company.
+They're buying it for stock.
+It's immediately accretive.
+And they can own $4 billion in new ARR instantly
+and become the number one player in this space,
+which becomes increasingly important in the AI world.
+I think it's a coup for CrowdStrike shareholders.
+I congratulated George this morning.
+I love everything about it.
+What about you?
+Eloquently stated.
+I think Octa is another name you want to keep your eye on.
+I think Solidation continues.
+And I think some larger tech players step in
+to get the vertical nature of cybersecurity with acquisition.
+Does this reinforce your belief of this space
+that there may be more deals like this
+that is going to remain top of mind?
+The stocks didn't run a lot.
+In an environment in 26,
+which has literally been a roller coaster for technology,
+the one consistent theme that you could invest
+around is cybersecurity.
+And I think that remains in place
+going into the next several years.
+Liz, how do you view something like this?
+I like it.
+I'll preview my final trade a little bit, I guess.
+Teaser, teaser.
+Yes, I like cyber.
+And look, right now, I think the cyber ETF is down about 11%
+because of these recent pullbacks.
+That's a gift.
+I think that this is a theme that continues to live on
+and only gets more and more important.
+Completely agree with both Josh and Joe.
+Consolidation continues in this space.
+And it's an opportunity for the large-cap companies.
+Come on, Jenny, we got no dividends here.
+Like, what's the story?
+There's no dividends in the cyberspace.
+Come on, guys.
+We used to own Palo Alto in our discipline growth strategy.
+And then it just did too well.
+You know, we've got that very strict
+5% or better free cash flow hurdle for discipline growth.
+And unfortunately,
+when stocks trade at higher valuations,
+I can't get into them.
+It's a discipline that cuts both ways.
+It saved us last week.
+Your best name?
+Did you rebalance in or out of anything
+as it relates to these?
+Right now, we have CrowdStrike.
+We don't have Okta.
+We don't have Palo Alto.
+Why did you rebalance again?
+We rebalanced on Thursday
+because of a new partnership with the New York Stock Exchange.
+Okay.
+Because it's off schedule.
+Yes, it's off schedule,
+but a new schedule will be introduced.
+We'll talk more about that.
+Yeah, we will.
+We will.
+I just want to make sure people understand why,
+you know, midway through November.
+The strategy goes more towards momentum.
+Okay.
+It's still rules-based?
+Sure is.
+All right.
+I think you've got to go to brain-based.
+Let's get the performance better.
+Let's get the performance better.
+Right?
+Over here for you.
+That's what's most of them.
+Right?
+Like, on a day we're in video,
+you're just out of video.
+It's 30%.
+Let's go brain-based.
+No.
+No.
+We're going to stay rules-based.
+All right.
+We'll do finals next.
+All right.
+Three o'clock.
+Eastern closing bell.
+How about that?
+Rick Reader is going to join us.
+Some say the Fed hikes.
+It's going to be an epic mistake.
+Does he agree?
+He'll tell you.
+Has he been buying any AI-related names in the pullback?
+He'll tell you because that's what he does
+and that's why you've got to watch.
+So, I'll see you on closing bell.
+Alex Cantuic, Stephanie Link, Abbey Yoder
+will join me as well.
+Josh Brown, you're up first.
+What's your final?
+Yeah.
+I bought some Anthropic for my dividend strategy.
+I don't know if Jenny likes that poll,
+but I made it.
+All right.
+Real quick.
+I don't have a lot of time,
+but what do you make of the way
+the stock's traded?
+Real quick.
+Anthropic?
+It's not good.
+Yeah.
+It's a miracle.
+Let him go.
+It just raised $80 billion.
+Okay.
+Jenny.
+Okay.
+Miracle for you real quick.
+So, when I tell you that I'm spooked by the market
+and very uncomfortable with the fragility,
+I want to own companies like Kimberly Clark,
+where as long as babies keep pooping
+and noses keep running,
+they keep minting cash and you've got a 5% yield,
+that's where I want to be when I'm uncomfortable.
+Jenny Harrington, ladies and gentlemen.
+There you go.
+As only Jenny Harrington can do.
+Liz Thomas.
+Cyber security, as I already previewed.
+Demand is still there,
+and I think that hacks and tech outages
+are a feature of this entire cycle.
+Amgen, cautiously bullish.
+Let's finally see the market respond to good news.
+All right, guys.
+He exchanges now.
+I'll see you at three.
+You've been listening to CNBC's
+halftime report, The Podcast.
+You can always catch us live weekdays
+at 12 Eastern only on CNBC.
+All opinions expressed by
+the halftime report participants
+are solely their opinions
+and do not reflect the opinions of CNBC
+or its parent company or affiliates
+and may have been previously disseminated
+by them on television, radio,
+internet or another medium.
+You should not treat any opinion
+expressed on this podcast
+as a specific inducement
+to make a particular investment
+or follow a particular strategy,
+but only as an expression of opinion.
+Such opinions are based upon information
+the halftime report participants
+consider reliable,
+but neither CNBC nor its affiliates
+and or subsidiaries warrant
+its completeness or accuracy
+and it should not be relied upon as such.
+To view the full halftime report disclaimer,
+please visit CNBC.com forward slash
+halftime report disclaimer.
