@@ -7,6 +7,12 @@
 <description>Narrated daily YouTube channel digests and CNBC Halftime Report summaries, generated automatically.</description>
 <itunes:author>trading-suite automations</itunes:author>
 <item>
+<title>YouTube digest — 2026-11-26</title>
+<enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-11-26.mp3" length="7178832" type="audio/mpeg"/>
+<guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-11-26.mp3</guid>
+<pubDate>Thu, 26 Nov 2026 07:00:00 +0000</pubDate>
+</item>
+<item>
 <title>YouTube digest — 2026-11-25</title>
 <enclosure url="https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-11-25.mp3" length="5909904" type="audio/mpeg"/>
 <guid isPermaLink="false">https://raw.githubusercontent.com/rebibomichael-web/trading-suite/main/audio/youtube/2026-11-25.mp3</guid>
