@@ -27,6 +27,7 @@
   "1Jz2b_4YM0M",
   "1KRxwYrnBxw",
   "1Nvi3Lew5Sc",
+  "1RAqnQcWeNs",
   "1Rjk6QBw8Ns",
   "1tsqjnXhlgQ",
   "2-kX-GtQOBY",
@@ -97,6 +98,7 @@
   "6JiCk6cVtV0",
   "6QhoxDNCPn4",
   "6bAJl2Sv-38",
+  "6jl_sva-nck",
   "6mA3nuKZ31c",
   "6s97PDNRe8w",
   "6vj1-lKdGL0",
@@ -182,6 +184,7 @@
   "Dj6WtuhOnE0",
   "Dju3H1wSzK8",
   "Dqe8ZC2644M",
+  "DrvA-tljMuU",
   "Dv2px5EDiQU",
   "EIAGqOk-0p4",
   "EILADPAOtBA",
@@ -223,6 +226,7 @@
   "I4s0m6kID8k",
   "I5Vf-AnGPi8",
   "I5dpvbLi6ks",
+  "I5fEMrGiJdc",
   "IBr13nHEfrA",
   "INeP25CkCTw",
   "IUc0POTlW3E",
@@ -276,6 +280,7 @@
   "Mqvb8YNMnx8",
   "Msyehavhwyk",
   "MtMvE4SwQ_k",
+  "MyU2lMEaURY",
   "MyfP0zhDsS0",
   "N5EyJgFP3Ww",
   "NCGRIpPY-Zg",
@@ -424,6 +429,7 @@
   "_bP0huIx4z4",
   "_lH9IeWPQFo",
   "_qCZv_el3J8",
+  "_stAmiEmkDo",
   "a0HdCib_iu4",
   "a8VVvySfz94",
   "aAv34aqkoZI",
@@ -537,6 +543,7 @@
   "j5IO0qSqamw",
   "j60wPISLrzk",
   "jLRDQ9Ntc_E",
+  "jOuTKm669f8",
   "jQhVyoqYcKc",
   "jWvuQeQ7Yco",
   "j_eZaqbE5aA",
@@ -714,6 +721,7 @@
   "yi1rj-lYZVE",
   "yxG7C4rgA7I",
   "yyO0gYEIH-c",
+  "z4kXc4CyEc0",
   "z5zL_U5CdXs",
   "zIO-po4gKjQ",
   "zLDvkVt8rdU",
@@ -36031,6 +36039,10 @@
     "14d": {
      "pct": -4.61,
      "win": false
+    },
+    "21d": {
+     "pct": -3.47,
+     "win": false
     }
    }
   },
@@ -36056,6 +36068,10 @@
     "14d": {
      "pct": -4.61,
      "win": false
+    },
+    "21d": {
+     "pct": -3.47,
+     "win": false
     }
    }
   },
@@ -36076,6 +36092,10 @@
    "outcomes": {
     "7d": {
      "pct": 0.09,
+     "win": true
+    },
+    "14d": {
+     "pct": 1.29,
      "win": true
     }
    }
@@ -36098,6 +36118,10 @@
     "7d": {
      "pct": 0.09,
      "win": false
+    },
+    "14d": {
+     "pct": 1.29,
+     "win": false
     }
    }
   },
@@ -36119,6 +36143,10 @@
     "7d": {
      "pct": 0.09,
      "win": false
+    },
+    "14d": {
+     "pct": 1.29,
+     "win": false
     }
    }
   },
@@ -36139,6 +36167,10 @@
    "outcomes": {
     "7d": {
      "pct": 0.09,
+     "win": true
+    },
+    "14d": {
+     "pct": 1.29,
      "win": true
     }
    }
@@ -36186,6 +36218,10 @@
     "7d": {
      "pct": -2.12,
      "win": false
+    },
+    "14d": {
+     "pct": -11.51,
+     "win": false
     }
    }
   },
@@ -36206,6 +36242,10 @@
    "outcomes": {
     "7d": {
      "pct": -2.12,
+     "win": false
+    },
+    "14d": {
+     "pct": -11.51,
      "win": false
     }
    }
@@ -37420,6 +37460,10 @@
     "7d": {
      "pct": 0.09,
      "win": true
+    },
+    "14d": {
+     "pct": 1.29,
+     "win": true
     }
    }
   },
@@ -37440,6 +37484,10 @@
    "outcomes": {
     "7d": {
      "pct": 0.09,
+     "win": false
+    },
+    "14d": {
+     "pct": 1.29,
      "win": false
     }
    }
@@ -37462,6 +37510,10 @@
     "7d": {
      "pct": 0.09,
      "win": false
+    },
+    "14d": {
+     "pct": 1.29,
+     "win": false
     }
    }
   },
@@ -37483,6 +37535,10 @@
     "7d": {
      "pct": 0.09,
      "win": true
+    },
+    "14d": {
+     "pct": 1.29,
+     "win": true
     }
    }
   },
@@ -37503,6 +37559,10 @@
    "outcomes": {
     "7d": {
      "pct": -10.29,
+     "win": false
+    },
+    "14d": {
+     "pct": -8.71,
      "win": false
     }
    }
@@ -37549,6 +37609,10 @@
    "outcomes": {
     "7d": {
      "pct": 0.09,
+     "win": true
+    },
+    "14d": {
+     "pct": 1.29,
      "win": true
     }
    }
@@ -38388,6 +38452,10 @@
     "7d": {
      "pct": -7.95,
      "win": false
+    },
+    "14d": {
+     "pct": -8.0,
+     "win": false
     }
    }
   },
@@ -38408,6 +38476,10 @@
    "outcomes": {
     "7d": {
      "pct": -7.95,
+     "win": false
+    },
+    "14d": {
+     "pct": -8.0,
      "win": false
     }
    }
@@ -38430,6 +38502,10 @@
     "7d": {
      "pct": -7.95,
      "win": null
+    },
+    "14d": {
+     "pct": -8.0,
+     "win": null
     }
    }
   },
@@ -38450,6 +38526,10 @@
    "outcomes": {
     "7d": {
      "pct": -7.95,
+     "win": false
+    },
+    "14d": {
+     "pct": -8.0,
      "win": false
     }
    }
@@ -38822,6 +38902,10 @@
     "7d": {
      "pct": -4.36,
      "win": null
+    },
+    "14d": {
+     "pct": -9.3,
+     "win": null
     }
    }
   },
@@ -38842,6 +38926,10 @@
    "outcomes": {
     "7d": {
      "pct": -4.36,
+     "win": true
+    },
+    "14d": {
+     "pct": -9.3,
      "win": true
     }
    }
@@ -38864,6 +38952,10 @@
     "7d": {
      "pct": -4.36,
      "win": false
+    },
+    "14d": {
+     "pct": -9.3,
+     "win": false
     }
    }
   },
@@ -38884,6 +38976,10 @@
    "outcomes": {
     "7d": {
      "pct": -4.36,
+     "win": null
+    },
+    "14d": {
+     "pct": -9.3,
      "win": null
     }
    }
@@ -39543,6 +39639,10 @@
    "outcomes": {
     "7d": {
      "pct": -2.64,
+     "win": true
+    },
+    "14d": {
+     "pct": -5.43,
      "win": true
     }
    }
@@ -40997,7 +41097,12 @@
    "video_title": "AVGO Is Still the Best Setup in the Market",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -11.86,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "AVGO",
@@ -41013,7 +41118,12 @@
    "video_title": "AVGO Is Still the Best Setup in the Market",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -11.86,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41365,7 +41475,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 18th, 2026",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -5.29,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41381,7 +41496,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 18th, 2026",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41397,7 +41517,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 18th, 2026",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41413,7 +41538,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 18th, 2026",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41429,7 +41559,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 18th, 2026",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41445,7 +41580,12 @@
    "video_title": "Every SpaceX Investor Needs To See This",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -41461,7 +41601,12 @@
    "video_title": "TOM LEE: Why the tech weakness is in the final innings, despite the continued uncertainty",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.05,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41477,7 +41622,12 @@
    "video_title": "#TSLA BROKE BELOW $385.17 \u2014 STILL BEARISH DESPITE POTENTIAL BOUNCE #Tesla #daytrading",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41493,7 +41643,12 @@
    "video_title": "#TSLA BROKE BELOW $385.17 \u2014 STILL BEARISH DESPITE POTENTIAL BOUNCE #Tesla #daytrading",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41509,7 +41664,12 @@
    "video_title": "#TSLA BROKE BELOW $385.17 \u2014 STILL BEARISH DESPITE POTENTIAL BOUNCE #Tesla #daytrading",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41525,7 +41685,12 @@
    "video_title": "#TSLA BROKE BELOW $385.17 \u2014 STILL BEARISH DESPITE POTENTIAL BOUNCE #Tesla #daytrading",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41541,7 +41706,12 @@
    "video_title": "#TSLA BROKE BELOW $385.17 \u2014 STILL BEARISH DESPITE POTENTIAL BOUNCE #Tesla #daytrading",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41557,7 +41727,12 @@
    "video_title": "#TSLA BROKE BELOW $385.17 \u2014 STILL BEARISH DESPITE POTENTIAL BOUNCE #Tesla #daytrading",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41573,7 +41748,12 @@
    "video_title": "#TSLA BROKE BELOW $385.17 \u2014 STILL BEARISH DESPITE POTENTIAL BOUNCE #Tesla #daytrading",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "IREN",
@@ -42005,7 +42185,12 @@
    "video_title": "Tesla\u2019s New Business Is Huge for SpaceX (Nvidia Is Involved)",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "SPY",
@@ -42213,7 +42398,12 @@
    "video_title": "Tesla Robotaxi enables 24/7 operations everywhere",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -42229,7 +42419,12 @@
    "video_title": "Elon Just Hinted At A Date Nobody Expected",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": 1.2,
+     "win": null
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -42245,7 +42440,12 @@
    "video_title": "NVDA Crushed Earnings. Here\u2019s Why I Think This Was the Bottom",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.05,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "NVDA",
@@ -42261,7 +42461,12 @@
    "video_title": "NVDA Crushed Earnings. Here\u2019s Why I Think This Was the Bottom",
    "date": "2026-11-17",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.05,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "BMNR",
@@ -43540,6 +43745,342 @@
    "channel": "Brighter with Herbert",
    "video_title": "Wall Street Upgrades Tesla. Then Elon's Big Warning",
    "date": "2026-11-24",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": 345,
+   "stop": null,
+   "target": 410,
+   "horizon_days": 14,
+   "quote": "Buying the mid 340s, mid 350s, selling the low 410s, low 420s. It is about as simple as that.",
+   "video_id": "6jl_sva-nck",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA 'S RECENT RELATIVE STRENGTH FACES A MAJOR TEST #Tesla #daytrading",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 260,
+   "horizon_days": null,
+   "quote": "as long as we're not able to get back above it, the path of lease resistance remains south. And I'm talking longer term. I do keep talking about the 230 260s narrowing weekly as our overall objective.",
+   "video_id": "6jl_sva-nck",
+   "channel": "Wicked Stocks",
+   "video_title": "#TSLA 'S RECENT RELATIVE STRENGTH FACES A MAJOR TEST #Tesla #daytrading",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I think it's a win, a huge win for Elon... in terms of stocks, yes, it's a giant win for our stocks, for SpaceX and Tesla",
+   "video_id": "DrvA-tljMuU",
+   "channel": "Brighter with Herbert",
+   "video_title": "Tesla and SpaceX Catalysts Just Landed. Are They Real?",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I think it's very good for the stocks. I think we are now again off to the races unless politics comes back in and tries to dismantle Nvidia and Yensen.",
+   "video_id": "DrvA-tljMuU",
+   "channel": "Brighter with Herbert",
+   "video_title": "Tesla and SpaceX Catalysts Just Landed. Are They Real?",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "SNDK",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 125,
+   "horizon_days": null,
+   "quote": "I think the stock's worth at least $125. Of course, the market doesn't care what I think.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "SMH",
+   "direction": "long",
+   "kind": "call",
+   "entry": 41,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I think a reasonable DCA area is going to be where it's at, 41 to 35. And if I buy in this zone, and I think long term, I I feel like I'm in pretty good shape.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": 200,
+   "horizon_days": null,
+   "quote": "I think it probably finds some footing though in this range somewhere between 125 and 150. And longer term, I could see this stock next year being over $200.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "VGT",
+   "direction": "long",
+   "kind": "call",
+   "entry": 100,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I like this thing under 100 bucks.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AXON",
+   "direction": "long",
+   "kind": "call",
+   "entry": 300,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I think the riskreward is favorable, especially at that $300 level, especially under $300 on Axon.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "LITE",
+   "direction": "long",
+   "kind": "call",
+   "entry": 500,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "This would be my DCA area. This is 350 to basically 500 bucks. So I like this stock here.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "ORCL",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I like the stock even at 150 bucks. It's trading closer to 100. I'll take that.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AVGO",
+   "direction": "long",
+   "kind": "call",
+   "entry": 275,
+   "stop": null,
+   "target": null,
+   "horizon_days": 730,
+   "quote": "Maybe you see 275. I've got some limit orders in for that.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "MU",
+   "direction": "long",
+   "kind": "call",
+   "entry": 575,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I got another order in at 575, another one at 550, 525. I just buy $5,000 as it comes lower.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "AOI",
+   "direction": "long",
+   "kind": "call",
+   "entry": 29.97,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "a AOI $29.97. It's a spec stock. Do not go heavy.",
+   "video_id": "MyU2lMEaURY",
+   "channel": "Mr. FIRED Up Wealth",
+   "video_title": "Why I'm Buying This Stock Market Crash, Best Stocks to Buy Now!",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 475,
+   "horizon_days": 365,
+   "quote": "Seapport Global initiates coverage of Tesla at buy sets price target at $475 for the next 12 months.",
+   "video_id": "_stAmiEmkDo",
+   "channel": "Matt Pocius on Tesla Stock & Money",
+   "video_title": "SpaceX Stock Will 29x (Billionaire Ron Baron Explains Why) [New]",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 346.9,
+   "stop": null,
+   "target": 297.38,
+   "horizon_days": 21,
+   "quote": "closing today below 34690 is an aggressive sell signal. I would expect the 29738 July low within 1 to 3 weeks",
+   "video_id": "jOuTKm669f8",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 27th, 2026",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": null,
+   "stop": null,
+   "target": 265.42,
+   "horizon_days": null,
+   "quote": "my actions are either out or short right now below 41315, aggressively short with a settlement below the three the mid 340s",
+   "video_id": "jOuTKm669f8",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 27th, 2026",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "short",
+   "kind": "call",
+   "entry": 370.68,
+   "stop": null,
+   "target": 354.41,
+   "horizon_days": 1,
+   "quote": "if we open today below 370.68 being a Friday and all we can indeed test that 354.41",
+   "video_id": "jOuTKm669f8",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 27th, 2026",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "one can aggressively pursue a long position in Tesla that could play out through all of 27. Investment grade support I call it in the 230 265 area.",
+   "video_id": "jOuTKm669f8",
+   "channel": "Wicked Stocks",
+   "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 27th, 2026",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "NVDA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "I'm comfortable with all of that. The plan needs Nvidia to keep shipping on time for the next two years and Monday made that more likely.",
+   "video_id": "z4kXc4CyEc0",
+   "channel": "Brighter with Herbert",
+   "video_title": "Elon Fought For Jensen. Now We Know Why",
+   "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "neutral",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "For Tesla, Jensen's return mostly protects the speed of improvement, the order of magnitude a year pace Elon talked about.",
+   "video_id": "z4kXc4CyEc0",
+   "channel": "Brighter with Herbert",
+   "video_title": "Elon Fought For Jensen. Now We Know Why",
+   "date": "2026-11-25",
    "affiliated": false,
    "outcomes": {}
   }
