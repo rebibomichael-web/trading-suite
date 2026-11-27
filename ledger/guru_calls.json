@@ -143,6 +143,7 @@
   "AGU3crkFaLE",
   "AIG65fkrKMU",
   "AKnoaDzH4q4",
+  "APlQ3-oT6cQ",
   "AVBZeaD7RFI",
   "Aa70DvVVLBI",
   "AbblEI8Uwdk",
@@ -35985,6 +35986,10 @@
     "14d": {
      "pct": -0.38,
      "win": null
+    },
+    "21d": {
+     "pct": -1.31,
+     "win": null
     }
    }
   },
@@ -37022,6 +37027,10 @@
     "14d": {
      "pct": -0.38,
      "win": true
+    },
+    "21d": {
+     "pct": -1.31,
+     "win": true
     }
    }
   },
@@ -37046,6 +37055,10 @@
     },
     "14d": {
      "pct": -0.38,
+     "win": true
+    },
+    "21d": {
+     "pct": -1.31,
      "win": true
     }
    }
@@ -37072,6 +37085,10 @@
     "14d": {
      "pct": -0.38,
      "win": false
+    },
+    "21d": {
+     "pct": -1.31,
+     "win": false
     }
    }
   },
@@ -37096,6 +37113,10 @@
     },
     "14d": {
      "pct": -0.38,
+     "win": false
+    },
+    "21d": {
+     "pct": -1.31,
      "win": false
     }
    }
@@ -37122,6 +37143,10 @@
     "14d": {
      "pct": -0.38,
      "win": true
+    },
+    "21d": {
+     "pct": -1.31,
+     "win": true
     }
    }
   },
@@ -37146,6 +37171,10 @@
     },
     "14d": {
      "pct": -4.77,
+     "win": null
+    },
+    "21d": {
+     "pct": -6.53,
      "win": null
     }
    }
@@ -37218,6 +37247,10 @@
     "7d": {
      "pct": -1.82,
      "win": false
+    },
+    "14d": {
+     "pct": -2.74,
+     "win": false
     }
    }
   },
@@ -37238,6 +37271,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.82,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.74,
      "win": false
     }
    }
@@ -38114,6 +38151,10 @@
     "14d": {
      "pct": -0.38,
      "win": false
+    },
+    "21d": {
+     "pct": -1.31,
+     "win": false
     }
    }
   },
@@ -38410,6 +38451,10 @@
     "7d": {
      "pct": -4.12,
      "win": false
+    },
+    "14d": {
+     "pct": -26.56,
+     "win": false
     }
    }
   },
@@ -38430,6 +38475,10 @@
    "outcomes": {
     "7d": {
      "pct": -4.12,
+     "win": false
+    },
+    "14d": {
+     "pct": -26.56,
      "win": false
     }
    }
@@ -39156,6 +39205,10 @@
     "14d": {
      "pct": -0.38,
      "win": false
+    },
+    "21d": {
+     "pct": -1.31,
+     "win": false
     }
    }
   },
@@ -39176,6 +39229,10 @@
    "outcomes": {
     "7d": {
      "pct": -18.07,
+     "win": false
+    },
+    "14d": {
+     "pct": -29.6,
      "win": false
     }
    }
@@ -39198,6 +39255,10 @@
     "7d": {
      "pct": -18.07,
      "win": false
+    },
+    "14d": {
+     "pct": -29.6,
+     "win": false
     }
    }
   },
@@ -39218,6 +39279,10 @@
    "outcomes": {
     "7d": {
      "pct": -18.07,
+     "win": true
+    },
+    "14d": {
+     "pct": -29.6,
      "win": true
     }
    }
@@ -39904,6 +39969,10 @@
     "7d": {
      "pct": -1.82,
      "win": false
+    },
+    "14d": {
+     "pct": -2.74,
+     "win": false
     }
    }
   },
@@ -39925,6 +39994,10 @@
     "7d": {
      "pct": -1.82,
      "win": true
+    },
+    "14d": {
+     "pct": -2.74,
+     "win": true
     }
    }
   },
@@ -39945,6 +40018,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.82,
+     "win": true
+    },
+    "14d": {
+     "pct": -2.74,
      "win": true
     }
    }
@@ -40492,6 +40569,10 @@
     "7d": {
      "pct": -1.82,
      "win": null
+    },
+    "14d": {
+     "pct": -2.74,
+     "win": null
     }
    }
   },
@@ -40555,6 +40636,10 @@
     "7d": {
      "pct": -1.82,
      "win": false
+    },
+    "14d": {
+     "pct": -2.74,
+     "win": false
     }
    }
   },
@@ -40575,6 +40660,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.82,
+     "win": true
+    },
+    "14d": {
+     "pct": -2.74,
      "win": true
     }
    }
@@ -40597,6 +40686,10 @@
     "7d": {
      "pct": -1.82,
      "win": true
+    },
+    "14d": {
+     "pct": -2.74,
+     "win": true
     }
    }
   },
@@ -40617,6 +40710,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.82,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.74,
      "win": false
     }
    }
@@ -40639,6 +40736,10 @@
     "7d": {
      "pct": -1.82,
      "win": true
+    },
+    "14d": {
+     "pct": -2.74,
+     "win": true
     }
    }
   },
@@ -40660,6 +40761,10 @@
     "7d": {
      "pct": -1.82,
      "win": false
+    },
+    "14d": {
+     "pct": -2.74,
+     "win": false
     }
    }
   },
@@ -40680,6 +40785,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.82,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.74,
      "win": false
     }
    }
@@ -40827,6 +40936,10 @@
    "outcomes": {
     "7d": {
      "pct": -1.82,
+     "win": false
+    },
+    "14d": {
+     "pct": -2.74,
      "win": false
     }
    }
@@ -41769,7 +41882,12 @@
    "video_title": "The Problem With IREN\u2019s Fundamentals (And Why I\u2019m Still Trading It)",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -15.68,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "IREN",
@@ -41785,7 +41903,12 @@
    "video_title": "The Problem With IREN\u2019s Fundamentals (And Why I\u2019m Still Trading It)",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -15.68,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "IREN",
@@ -41801,7 +41924,12 @@
    "video_title": "The Problem With IREN\u2019s Fundamentals (And Why I\u2019m Still Trading It)",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -15.68,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41817,7 +41945,12 @@
    "video_title": "#TSLA BEWARE THE BOUNCE \u2014 MAJOR RESISTANCE STILL AHEAD #Tesla #daytrading",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41833,7 +41966,12 @@
    "video_title": "#TSLA BEWARE THE BOUNCE \u2014 MAJOR RESISTANCE STILL AHEAD #Tesla #daytrading",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41849,7 +41987,12 @@
    "video_title": "#TSLA BEWARE THE BOUNCE \u2014 MAJOR RESISTANCE STILL AHEAD #Tesla #daytrading",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41865,7 +42008,12 @@
    "video_title": "#TSLA BEWARE THE BOUNCE \u2014 MAJOR RESISTANCE STILL AHEAD #Tesla #daytrading",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41881,7 +42029,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41897,7 +42050,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41913,7 +42071,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41929,7 +42092,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41945,7 +42113,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41961,7 +42134,12 @@
    "video_title": "Tesla Stock Price Analysis | Top $TSLA Levels To Watch for November 19th, 2026",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": true
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41977,7 +42155,12 @@
    "video_title": "Elon Musk\u2019s Cybercab Just Got Massive News, Investors Celebrate",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -41993,7 +42176,12 @@
    "video_title": "Elon Musk\u2019s Cybercab Just Got Massive News, Investors Celebrate",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -42009,7 +42197,12 @@
    "video_title": "Tesla's Cybercab Is Suddenly Moving VERY Fast",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MRVL",
@@ -42025,7 +42218,12 @@
    "video_title": "MRVL: My Price Targets and Why I\u2019m So Bullish",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.04,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MRVL",
@@ -42041,7 +42239,12 @@
    "video_title": "MRVL: My Price Targets and Why I\u2019m So Bullish",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.04,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MRVL",
@@ -42057,7 +42260,12 @@
    "video_title": "MRVL: My Price Targets and Why I\u2019m So Bullish",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -10.04,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -42350,7 +42558,12 @@
    "video_title": "NBIS Bottom Is In? 3 Signs Say Yes",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -20.54,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -42690,7 +42903,12 @@
    "video_title": "Billionaires Are LOADING UP On Tesla And SpaceX Stocks",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -42706,7 +42924,12 @@
    "video_title": "Billionaires Are LOADING UP On Tesla And SpaceX Stocks",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "TSLA",
@@ -42722,7 +42945,12 @@
    "video_title": "Billionaires Are LOADING UP On Tesla And SpaceX Stocks",
    "date": "2026-11-18",
    "affiliated": false,
-   "outcomes": {}
+   "outcomes": {
+    "7d": {
+     "pct": -0.93,
+     "win": false
+    }
+   }
   },
   {
    "ticker": "MSFT",
@@ -44081,6 +44309,22 @@
    "channel": "Brighter with Herbert",
    "video_title": "Elon Fought For Jensen. Now We Know Why",
    "date": "2026-11-25",
+   "affiliated": false,
+   "outcomes": {}
+  },
+  {
+   "ticker": "TSLA",
+   "direction": "long",
+   "kind": "opinion",
+   "entry": null,
+   "stop": null,
+   "target": null,
+   "horizon_days": null,
+   "quote": "If you own Tesla stock, the mix of the robo taxi fleet is a thing to watch right now because it's changing fast.",
+   "video_id": "APlQ3-oT6cQ",
+   "channel": "Brighter with Herbert",
+   "video_title": "Tesla Keeps Dropping Robotaxi And FSD Bombshells",
+   "date": "2026-11-26",
    "affiliated": false,
    "outcomes": {}
   }
